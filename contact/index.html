@@ -8,8 +8,9 @@
     <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
-    <nav>
-		<ul>
+	<nav>
+		<div class="menu-icon" onclick="toggleMenu()">&#9776;</div> <!-- Hamburger Icon -->
+		<ul class="nav-links">
 			<li><a href="/">Home</a></li>
 			<li><a href="/about/">About Me</a></li>
 			<li><a href="/courses/">Courses</a></li>
@@ -46,5 +47,11 @@
     <footer>
         <p>&copy; 2024 LinguaTree. All rights reserved.</p>
     </footer>
+	<script>
+		function toggleMenu() {
+			const navLinks = document.querySelector('.nav-links');
+			navLinks.classList.toggle('show');
+		}
+	</script>
 </body>
 </html>
