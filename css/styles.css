@@ -71,3 +71,10 @@ nav .nav-links li a:hover {
         margin: 10px 0;
     }
 }
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Optional: to center the image */
+}
