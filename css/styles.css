@@ -79,17 +79,26 @@ nav .nav-links li a:hover {
 /* Responsive image */
 .responsive-image {
     max-width: 100%;
+    width: 100%;
     height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
     display: block;
-    margin: 0 auto; /* Center the image */
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+figcaption {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #666;
 }
 
 /* Mobile-specific styles (max-width 600px) */
 @media (max-width: 600px) {
     .responsive-image {
-        width: 100%; /* Ensure the image scales down to fit the mobile screen */
-        max-height: 300px; /* Limit the height for smaller screens */
-        object-fit: cover; /* Ensure the image fills the space without stretching */
+        max-height: 300px;
     }
 }
 /* Typography */
