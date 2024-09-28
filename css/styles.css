@@ -180,8 +180,4 @@ figcaption {
     .contact-image {
         margin-top: 2rem;
     }
-
-    .responsive-image {
-        max-height: 400px;
-    }
 }
