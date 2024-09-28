@@ -21,11 +21,10 @@
 
     <header>
         <h1 class="main-heading">Brazilian Portuguese with LinguaTree</h1>
-        <img class="responsive-image" src="images/homepage.jpg" alt="Rio de Janeiro - Brasil">
     </header>
 
-    <main>
-        <section>
+    <main class="two-column-layout">
+        <div class="content-column">
             <p>LinguaTree is a one-person business.</p>
             <p>Learn Brazilian Portuguese language and culture from a professional 
                 <a href="/about/">Brazilian tutor</a> in London or in Surrey.</p>
@@ -37,7 +36,18 @@
             <p>Then 
                 <a href="/contact/">contact LinguaTree</a> to book an assessment and get started as soon as possible.</p>
             <p><strong>I look forward to hearing from you!</strong></p>
-        </section>
+        </div>
+        <div class="image-column">
+            <figure class="image-container">
+                <img class="responsive-image" src="images/homepage.jpg" 
+                     srcset="images/homepage.jpg 600w,
+                             images/homepage.jpg 1200w,
+                             images/homepage.jpg 2000w"
+                     sizes="(max-width: 1200px) 100vw, 50vw"
+                     alt="Rio de Janeiro - Brasil">
+                <figcaption>Rio de Janeiro - Brasil</figcaption>
+            </figure>
+        </div>
     </main>
 
     <footer>

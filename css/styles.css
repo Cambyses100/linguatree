@@ -1,11 +1,74 @@
-/* General Navigation Styles */
+/* General styles */
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Typography */
+h1, .main-heading {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 30pt;
+    color: #2e8b57; /* Dark green */
+}
+
+/* Layout */
+.two-column-layout {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.content-column {
+    flex: 1;
+    min-width: 300px;
+    padding-right: 2rem;
+}
+
+.image-column {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Image styles */
+.image-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 1rem auto;
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain; /* Changed from 'cover' to 'contain' */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+figcaption {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #666;
+    text-align: center;
+}
+
+/* Navigation styles */
 nav {
     background-color: #4682b4; /* Steel blue */
     padding: 10px 0;
-    position: sticky; /* Make the nav bar sticky */
-    top: 0; /* Stick it to the top */
-    z-index: 1000; /* Ensure it stays above other content */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 nav .nav-links {
@@ -76,108 +139,23 @@ nav .nav-links li a:hover {
         margin: 10px 0;
     }
 }
-/* Responsive image */
-.image-container {
-    width: 100%;
-    max-width: 600px; /* Maximum width of the container */
-    margin: 0 auto;
-    text-align: center;
-}
-
-.responsive-image {
-    width: 100%;
-    height: auto;
-    max-height: 600px;
-    object-fit: cover;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-figcaption {
-    margin-top: 0.5rem;
-    font-style: italic;
-    color: #666;
-    text-align: center;
-}
-
-/* Mobile-specific styles (max-width 600px) */
-@media (max-width: 600px) {
-    .responsive-image {
-        max-height: 300px;
-    }
-}
-/* Typography */
-body {
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
-    line-height: 1.6;
-    color: #333;
-}
-
-h1, .main-heading {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 30pt;
-    color: #2e8b57; /* Dark green */
-}
-
-/* Contact page styles */
-.contact-section {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem;
-}
-
-.contact-info {
-    flex: 1;
-    min-width: 300px;
-    padding-right: 2rem;
-}
-
-.contact-image {
-    flex: 1;
-    min-width: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.image-container {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-.responsive-image {
-    width: 100%;
-    height: auto;
-    max-height: 600px;
-    object-fit: cover;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-figcaption {
-    margin-top: 0.5rem;
-    font-style: italic;
-    color: #666;
-    text-align: center;
-}
 
 /* Mobile-specific styles */
 @media (max-width: 768px) {
-    .contact-section {
+    .two-column-layout {
         flex-direction: column;
     }
 
-    .contact-info, .contact-image {
+    .content-column, .image-column {
         width: 100%;
         padding-right: 0;
     }
 
-    .contact-image {
+    .image-column {
         margin-top: 2rem;
+    }
+
+    .responsive-image {
+        max-height: 300px;
     }
 }
