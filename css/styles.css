@@ -37,10 +37,15 @@ nav .nav-links li a:hover {
     font-size: 30px;
     cursor: pointer;
     color: white;
+    background-color: #4682b4; /* Steel blue */
+    padding: 5px;
+    border-radius: 5px;
     position: absolute;
     top: 15px;
     right: 20px;
 }
+
+
 
 /* Mobile view (max-width 600px) */
 @media (max-width: 600px) {
