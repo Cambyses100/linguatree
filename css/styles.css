@@ -76,3 +76,19 @@ nav .nav-links li a:hover {
         margin: 10px 0;
     }
 }
+/* Responsive image */
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+}
+
+/* Mobile-specific styles (max-width 600px) */
+@media (max-width: 600px) {
+    .responsive-image {
+        width: 100%; /* Ensure the image scales down to fit the mobile screen */
+        max-height: 300px; /* Limit the height for smaller screens */
+        object-fit: cover; /* Ensure the image fills the space without stretching */
+    }
+}
