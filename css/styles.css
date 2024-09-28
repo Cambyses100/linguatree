@@ -77,10 +77,18 @@ nav .nav-links li a:hover {
     }
 }
 /* Responsive image */
+.image-container {
+    width: 100%;
+    max-width: 600px; /* Reduced from 800px */
+    margin: 2rem auto;
+    text-align: center;
+}
+
 .responsive-image {
     max-width: 100%;
     width: 100%;
     height: auto;
+    max-height: 400px; /* Added to limit height on larger screens */
     aspect-ratio: 16 / 9;
     object-fit: cover;
     display: block;
@@ -98,7 +106,7 @@ figcaption {
 /* Mobile-specific styles (max-width 600px) */
 @media (max-width: 600px) {
     .responsive-image {
-        max-height: 300px;
+        max-height: 300px; /* Reverted back to the original value */
     }
 }
 /* Typography */
