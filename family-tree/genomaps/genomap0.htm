@@ -20,9 +20,12 @@
 			$(window).resize(doResize);
 		});
         showPopUpFrame();
-		// the only postMessage we get is one to reload popup,htm. current dir is genomaps so need to look in parent dir.
+		// GenoPro sends a "page=popup.htm" message when this popup is closed.
+		// Ignore all other frame messages: on some mobile browsers the old
+		// catch-all handler treated them as paths and redirected to a 404 page.
 		$.receiveMessage(function(e){
-			window.location.assign('../'+e.data);
+			var page = String(e.data || '').replace(/^page=/, '');
+			if (page === 'popup.htm') window.location.assign('../popup.htm');
 		});
 //]]>      
 </script>
