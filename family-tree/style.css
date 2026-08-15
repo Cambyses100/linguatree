@@ -31,6 +31,20 @@ body.gno-detail {margin:0px; padding:8px;}
 
 svg {overflow: hidden;}
 
+/* GenoPro opens GenoMaps in a frame that is initially hidden. Mobile Safari
+   can resolve the SVG's generated percentage height to zero at that point.
+   A viewport-based height gives the pan/zoom code a real canvas immediately. */
+body.gno-popup #svgCanvas {
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	height: calc(100vh - 48px);
+	min-height: 240px;
+}
+@supports (height: 100dvh) {
+	body.gno-popup #svgCanvas { height: calc(100dvh - 48px); }
+}
+
 table.customtagtable
 {
 font-size: 0.830em; empty-cells:show; background-color:#F6F6F2;

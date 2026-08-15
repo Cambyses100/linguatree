@@ -107,6 +107,13 @@ function svgInit(info)
 		center: !map.Highlight,
 		customEventsHandler: eventsHandler
 	});
+	// A GenoMap popup frame starts at zero height. Chromium and Firefox resize
+	// it before SVG initialisation, but Mobile Safari may do so afterwards.
+	// Refit after layout settles so a zero-sized initial canvas cannot leave the
+	// viewport scaled to zero and therefore blank.
+	window.setTimeout(doResize, 0);
+	window.setTimeout(doResize, 250);
+	window.setTimeout(doResize, 1000);
 	toolTip = document.getElementById('ToolTip');
 	tipBox =  document.getElementById('tipbox');
 	tipText = document.getElementById('tipText');
