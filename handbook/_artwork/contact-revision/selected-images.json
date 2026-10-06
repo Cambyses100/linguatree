@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-03",
+  "images": [
+    {
+      "key": "day-22",
+      "page": "01_Survival/Day 22 - The Spring and the Snare.md",
+      "asset": "_Artwork/survival/day-22-v2.png",
+      "scene": "Removing the single small fish through the opened rear access of the willow cage at the safe river margin.",
+      "prompt": "Paint a NEW wide 16:9 watercolour and fine brown ink survival illustration on warm ivory paper. Reference 1 supplies ONLY the lean man's identity (about 30, ear-length dark wavy hair, short beard), autumn valley palette and hand-painted style. Reference 2 supplies ONLY fishing-cage geometry; do NOT copy its typography, cutaway, missing wall or blueprint style. Fresh composition, no writing. Broad clean ochre skin washes, ink on outer contours, no repetitive skin hatching. Northern Iberia about 40,000 calibrated BP, early autumn, small safe shallow river margin with grey stones and golden woodland. CLOSE THREE-QUARTER VIEW: the man crouches on dry stones, has lifted a small willow fish cage onto the bank, and gently draws ONE small silvery fish out THROUGH ITS OPEN REAR ACCESS END. Fish about finger-length, not a large trout. Cage is a forearm-length cylindrical woven willow basket, fully intact woven side walls. At LEFT/front end there is a wide circular mouth with an inward tapered woven entrance funnel narrowing INSIDE the body. At RIGHT/rear end near his hands the round removable woven access cap has been untied and placed beside the cylinder; his hand and the fish emerge from this full-width OPEN REAR access, NOT the narrow entrance funnel. Make the two ends and this retrieval operation unambiguous. Tether line remains loosely attached to a small anchor stone. Natural nettle lashings, no metal wire or plastic. Show enough foreground space around open end and detached cap for their shape to read. Bare feet, overlapping opaque bark waist panels and SMALL fitted rabbit-fur pelvic pad with bark ties. Upper body mostly bare; limited old bark shoulder screen may show, NO fox fur yet. No shelter, fire, Neanderthals, tools invented later or pot. Calm careful action with alert posture. Dissolved paper margins and luminous earthy transparent washes.",
+      "references": [
+        "_Artwork/survival/day-01.png",
+        "_Artwork/tools/woven-fishing-trap.png"
+      ],
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-e8e61bd8-9a8d-4d26-b7c4-0abbace85f2d.png",
+      "sha256": "044abdfa47d045b5d293ca12c393461b5f6277edbf9662125cd1fb1e49d3792c",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "mode": "built-in image generation",
+      "generation_strategy": "Independent fresh paintings, using the original Day 1 only for character and style. Day 22 additionally uses the equipment plate solely for trap geometry. No generated revision is used as another scene's reference.",
+      "edit_passes": 0,
+      "status": "selected",
+      "checked_on": "2026-10-03",
+      "revised_body_sha256": "fb27a1e5fc52c22c7a3f4b7ebc9a8a22a00a32d80c9ca721648317f83b2cca71",
+      "day": 22,
+      "reference": "_Artwork/survival/day-01.png",
+      "additional_reference": "_Artwork/tools/woven-fishing-trap.png",
+      "fresh_attempts": 1,
+      "previous_versions": [
+        {
+          "day": 22,
+          "scene": "Inspecting the single small fish retrieved from the cage at the safe river margin.",
+          "view": "Side view at the riverbank, with the catch kept at hand scale.",
+          "moment": "Day 22 morning after retrieving the single small cage catch, BEFORE cooking or the spring-snare trial. At a stable dry gravel margin beside shallow river water below camp, he kneels and looks at ONE SMALL freshwater fish lying on a clean palm-sized bark scrap supported between his hands. Fish about a hand-span long, dull silvery-grey/olive, ordinary modest stream fish, unidentifiable generic species; not a trout-sized feast or salmon. The later dressed portion is only eighty grams. Fish whole, no blood or open flesh, no distress. Keep the fish and hands readable, face in profile. Cage is anchored just outside this crop; do NOT show it, its closure or a loose trap mechanism. Shelter, camp hearth, tools, weapons and all future snare equipment outside frame. The same valley at the water margin, willow edges, grey gravel and soft ochre woodland. All camp furniture remains on higher terrace.",
+          "prompt": "Create a NEW wide 16:9 WATERCOLOUR AND INK story illustration, a loose hand-painted field sketch on warm ivory paper. Reference image 1 supplies ONLY the man's facial identity, hair and general autumn valley palette. Paint from a blank sheet with a different composition; do not reuse image pixels or the source's skin texture.\nRecognisable lean man about thirty with dark wavy ear-length hair and short beard, same profile and warm skin. Paint exposed skin as LARGE SIMPLE CLEAN OCHRE WASHES and pale highlights, with ink confined to outer contours. Soft broad colour shapes throughout the body, like a watercolour sketchbook figure, NOT detailed realistic skin. Fine brown ink may describe hair, plants and tools. Modest anatomical modelling, relaxed credible hands. Clear uncluttered action, dissolved paper margins, no writing.\nBare feet if in frame; opaque rough overlapping bark waist panels with a SMALL fitted rabbit-fur pelvic pad and bark ties; little bark screen over one shoulder, most upper body uncovered. Nonsexual everyday survival.\nNorthern Iberia fictional river valley about 40,000 BP, early autumn, scattered golden woodland, open grey rocky slopes. No snow, buildings, farming, modern kit, other people, metal or large hides. Natural material tools at modest hand scale.\n\nClothing continuity: rough opaque overlapping bark waist panels and SMALL fitted rabbit-fur pelvic pad with bark ties; a limited bark screen over ONE shoulder. Most torso and arms bare. NO fox shoulder panel yet.\nCamp if in frame: same LOW sleeping-height leaf-and-bark debris shelter beneath a THICK MOSSY FALLEN LIMB, opening to drained terrace above the river. The small ground-level craft spot is uphill of the ordinary outside hearth. Dirty-material working flank and separate firing clearing are elsewhere. Omit fixed features outside crop rather than relocate them. No giant stone table.\nSPECIFIC MOMENT:\nDay 22 morning after retrieving the single small cage catch, BEFORE cooking or the spring-snare trial. At a stable dry gravel margin beside shallow river water below camp, he kneels and looks at ONE SMALL freshwater fish lying on a clean palm-sized bark scrap supported between his hands. Fish about a hand-span long, dull silvery-grey/olive, ordinary modest stream fish, unidentifiable generic species; not a trout-sized feast or salmon. The later dressed portion is only eighty grams. Fish whole, no blood or open flesh, no distress. Keep the fish and hands readable, face in profile. Cage is anchored just outside this crop; do NOT show it, its closure or a loose trap mechanism. Shelter, camp hearth, tools, weapons and all future snare equipment outside frame. The same valley at the water margin, willow edges, grey gravel and soft ochre woodland. All camp furniture remains on higher terrace.",
+          "reference": "_Artwork/survival/day-01.png",
+          "generation_strategy": "fresh-scene-from-approved-day1-only",
+          "edit_passes": 0,
+          "fresh_attempts": 2,
+          "status": "shelved",
+          "service_interruptions": [
+            "Initial async batch interrupted before a saved output could be recovered; fresh request required."
+          ],
+          "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-dc5be67e-9a7e-4c72-a4a7-23239d15ced0.png",
+          "asset": "_Artwork/survival/day-22.png",
+          "sha256": "44455563d95d5d461989c0b7162f5e77fca407315908da8573062634d6870ed3",
+          "dimensions_px": [
+            1672,
+            941
+          ],
+          "checked_on": "2026-10-02",
+          "page": "01_Survival/Day 22 - The Spring and the Snare.md",
+          "original_body_sha256": "eda8c8a37adb3b965400ea7051433bbabd351c9bb2ddf629e49c53ea2eeb37f4",
+          "correction": null,
+          "additional_reference": null,
+          "shelved_on": "2026-10-03",
+          "shelved_asset": "_Artwork/shelved/2026-10-03/day-22.png"
+        }
+      ],
+      "narrative_rechecked_on": "2026-10-03",
+      "rechecked_body_sha256": "fb27a1e5fc52c22c7a3f4b7ebc9a8a22a00a32d80c9ca721648317f83b2cca71",
+      "review_scope": "Scene, allowed assets, clothing, location and narrative timing."
+    },
+    {
+      "key": "day-25",
+      "page": "01_Survival/Day 25 - The Artisan at the Edge.md",
+      "asset": "_Artwork/survival/day-25-v3-stone-point.png",
+      "scene": "Backing away from the local man’s hafted stone-pointed spear after the spindle demonstration fails to secure a welcome.",
+      "prompt": "Paint a NEW wide watercolour-and-fine-brown-ink story illustration on warm ivory paper, 16:9. Original reference fixes ONLY the traveller's face and style: lean man about 30, dark wavy ear-length hair, short beard. Broad clean skin washes and contour ink. Northern Iberia, 40,000 calibrated BP, early autumn, open rocky ground with scattered golden trees OUTSIDE the neighbours' camp. A frightened traveller at left steps urgently backwards with empty visible hands. Bark waist panels, small rabbit-fur pelvic pad, NARROW reddish-grey fox-fur strip over his anatomical LEFT shoulder, mostly bare chest. At right, several paces away, ONE upright NEANDERTHAL adult man warns him back with a plain wooden spear held diagonally across the space. Make this Neanderthal's PROFILE LARGE AND READABLE: low receding forehead, massive continuous brow ridge, strongly projecting midface and broad substantial nose, distinctly weak receding chin. Compact robust human body and relatively short forearms and shins, competent natural posture, simple practical hide wraps. A clear anatomical contrast with the lean modern traveller's pronounced chin. Not a sapiens in fur, not an ape or stooped caricature. Other locals outside crop. The first small wooden spindle lies abandoned beside a stone between them, modest loose yarn beside it. No wound, handshake, teaching or gift accepted. Traveller still withdrawing, not attacking. No atlatl, permanent building, metal, fantasy jewellery or writing. Human nuance: wary local warning, frightened outsider, distance and retreat visible. Luminous earth-colour washes, grey rocks, warm paper edges.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-a1c026be-3ec7-4fdc-9817-48e790604f7a.png",
+      "sha256": "7a14628b49a3bae3818aa856db0f8a4def92c1040270a374127219b0ae5135c5",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "mode": "built-in image generation",
+      "generation_strategy": "Independent fresh paintings, using the original Day 1 only for character and style. Day 22 additionally uses the equipment plate solely for trap geometry. No generated revision is used as another scene's reference.",
+      "edit_passes": 0,
+      "status": "selected",
+      "checked_on": "2026-10-03",
+      "revised_body_sha256": "c63960f13624cf2fab9b2b7273b6abf6a4919e5f3488451eb1cf3bfd8ffcdca3",
+      "day": 25,
+      "reference": "_Artwork/survival/day-01.png",
+      "additional_reference": null,
+      "fresh_attempts": 2,
+      "service_failures": [
+        {
+          "key": "day-25",
+          "attempt": 1,
+          "error": "network error: error sending request",
+          "rendered_output": false
+        },
+        {
+          "key": "day-25",
+          "attempt": 2,
+          "error": "network error: error sending request",
+          "rendered_output": false,
+          "action": "Retry with a simpler composition and one local adult in frame; scene remains the same narrative moment."
+        }
+      ],
+      "previous_prompts": [
+        "Paint a NEW wide watercolour-and-fine-brown-ink story illustration on warm ivory paper, 16:9. Original reference fixes ONLY the traveller's face and style: lean man about 30, dark wavy ear-length hair, short beard. Broad clean skin washes and contour ink. Northern Iberia, 40,000 calibrated BP, early autumn, open rocky ground with scattered golden trees OUTSIDE the neighbours' camp. A frightened traveller at left steps urgently backwards with empty visible hands. Bark waist panels, small rabbit-fur pelvic pad, NARROW reddish-grey fox-fur strip over his anatomical LEFT shoulder, mostly bare chest. At right, several paces away, ONE upright NEANDERTHAL adult man warns him back with a plain wooden spear held diagonally across the space. Make this Neanderthal's PROFILE LARGE AND READABLE: low receding forehead, massive continuous brow ridge, strongly projecting midface and broad substantial nose, distinctly weak receding chin. Compact robust human body and relatively short forearms and shins, competent natural posture, simple practical hide wraps. A clear anatomical contrast with the lean modern traveller's pronounced chin. Not a sapiens in fur, not an ape or stooped caricature. Other locals outside crop. The first small wooden spindle lies abandoned beside a stone between them, modest loose yarn beside it. No wound, handshake, teaching or gift accepted. Traveller still withdrawing, not attacking. No atlatl, permanent building, metal, fantasy jewellery or writing. Human nuance: wary local warning, frightened outsider, distance and retreat visible. Luminous earth-colour washes, grey rocks, warm paper edges.",
+        "Paint a NEW wide watercolour-and-fine-brown-ink story illustration on warm ivory paper, 16:9. Original reference fixes ONLY the traveller's face and style: lean man about 30, dark wavy ear-length hair, short beard. Broad clean skin washes and contour ink. Northern Iberia, 40,000 calibrated BP, early autumn, open rocky ground with scattered golden trees OUTSIDE the neighbours' camp. A frightened traveller at left steps urgently backwards with empty visible hands. Bark waist panels, small rabbit-fur pelvic pad, NARROW reddish-grey fox-fur strip over his anatomical LEFT shoulder, mostly bare chest. At right, several paces away, ONE upright NEANDERTHAL adult man warns him back with a plain wooden spear held diagonally across the space. Make this Neanderthal's PROFILE LARGE AND READABLE: low receding forehead, massive continuous brow ridge, strongly projecting midface and broad substantial nose, distinctly weak receding chin. Compact robust human body and relatively short forearms and shins, competent natural posture, simple practical hide wraps. A clear anatomical contrast with the lean modern traveller's pronounced chin. Not a sapiens in fur, not an ape or stooped caricature. Other locals outside crop. The first small wooden spindle lies abandoned beside a stone between them, modest loose yarn beside it. No wound, handshake, teaching or gift accepted. Traveller still withdrawing, not attacking. No atlatl, permanent building, metal, fantasy jewellery or writing. Human nuance: wary local warning, frightened outsider, distance and retreat visible. Luminous earth-colour washes, grey rocks, warm paper edges.\nCRITICAL SPEAR MATERIAL: the local man's weapon is a PLAIN ONE-PIECE WOODEN SPEAR. Its point is tapered sharpened WOOD continuous with the shaft, same brown wood grain, NO separate stone, flint or metal head, NO bindings, socket or lashing near the point. Make the continuous wooden taper visibly clear. A wood point matches this exact warning scene. Neanderthal profile: heavy brow and low receding forehead, projecting central midface, substantial nose, weak chin; upright human proportions and competent stance."
+      ],
+      "discarded_sources": [],
+      "rejection_reasons": [],
+      "previous_versions": [
+        {
+          "key": "day-25",
+          "page": "01_Survival/Day 25 - The Artisan at the Edge.md",
+          "asset": "_Artwork/survival/day-25-v2.png",
+          "scene": "Backing away from a warning spear after the spindle demonstration fails to secure a welcome.",
+          "prompt": "Paint a NEW wide watercolour-and-fine-brown-ink story illustration on warm ivory paper, 16:9. Original reference fixes ONLY the traveller's face and style: lean man about 30, dark wavy ear-length hair, short beard. Broad clean skin washes and contour ink. Northern Iberia, 40,000 calibrated BP, early autumn, open rocky ground with scattered golden trees OUTSIDE the neighbours' camp. A frightened traveller at left steps urgently backwards with empty visible hands. Bark waist panels, small rabbit-fur pelvic pad, NARROW reddish-grey fox-fur strip over his anatomical LEFT shoulder, mostly bare chest. At right, several paces away, ONE upright NEANDERTHAL adult man warns him back with a plain wooden spear held diagonally across the space. Make this Neanderthal's PROFILE LARGE AND READABLE: low receding forehead, massive continuous brow ridge, strongly projecting midface and broad substantial nose, distinctly weak receding chin. Compact robust human body and relatively short forearms and shins, competent natural posture, simple practical hide wraps. A clear anatomical contrast with the lean modern traveller's pronounced chin. Not a sapiens in fur, not an ape or stooped caricature. Other locals outside crop. The first small wooden spindle lies abandoned beside a stone between them, modest loose yarn beside it. No wound, handshake, teaching or gift accepted. Traveller still withdrawing, not attacking. No atlatl, permanent building, metal, fantasy jewellery or writing. Human nuance: wary local warning, frightened outsider, distance and retreat visible. Luminous earth-colour washes, grey rocks, warm paper edges.\nCRITICAL SPEAR MATERIAL: the local man's weapon is a PLAIN ONE-PIECE WOODEN SPEAR. Its point is tapered sharpened WOOD continuous with the shaft, same brown wood grain, NO separate stone, flint or metal head, NO bindings, socket or lashing near the point. Make the continuous wooden taper visibly clear. A wood point matches this exact warning scene. Neanderthal profile: heavy brow and low receding forehead, projecting central midface, substantial nose, weak chin; upright human proportions and competent stance.",
+          "references": [
+            "_Artwork/survival/day-01.png"
+          ],
+          "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-48b2cb40-5493-4b95-91d1-fbb666a2ce16.png",
+          "sha256": "854a08d73402793c903321b2d84d189b688031e2009f6acaf3615bbe702c941c",
+          "dimensions_px": [
+            1672,
+            941
+          ],
+          "mode": "built-in image generation",
+          "generation_strategy": "Independent fresh paintings, using the original Day 1 only for character and style. Day 22 additionally uses the equipment plate solely for trap geometry. No generated revision is used as another scene's reference.",
+          "edit_passes": 0,
+          "status": "shelved",
+          "checked_on": "2026-10-03",
+          "revised_body_sha256": "3c1559886f46ef6d533d467a3b71a776e8d0605a9c2364e9647f188266d98eb8",
+          "day": 25,
+          "reference": "_Artwork/survival/day-01.png",
+          "additional_reference": null,
+          "fresh_attempts": 2,
+          "service_failures": [
+            {
+              "key": "day-25",
+              "attempt": 1,
+              "error": "network error: error sending request",
+              "rendered_output": false
+            },
+            {
+              "key": "day-25",
+              "attempt": 2,
+              "error": "network error: error sending request",
+              "rendered_output": false,
+              "action": "Retry with a simpler composition and one local adult in frame; scene remains the same narrative moment."
+            }
+          ],
+          "previous_prompts": [
+            "Paint a NEW wide 16:9 watercolour and fine brown ink narrative illustration on warm ivory paper. Reference 1 supplies ONLY traveller identity (lean modern man about 30, dark wavy ear-length hair, short beard, narrower modern face with chin), autumn valley palette and style. Fresh painting, clean broad ochre skin washes, ink contours without repetitive body hatching. Northern Iberia fictional rocky river valley about 40,000 calibrated BP, early autumn. First failed contact on OPEN GROUND OUTSIDE the local camp, bright diffuse afternoon. Traveller at IMAGE LEFT, turned half away and taking an urgent backward step, empty hands visible, frightened but no comic expression. Opaque overlapping bark waist panels, SMALL rabbit-fur pelvic pad. A NARROW reddish-grey fox-fur strip hand-span wide and forearm long over his anatomical LEFT shoulder (not a cloak); most torso bare. Small wooden spindle dropped near a stone with modest yarn sample at the ground between people. Two local NEANDERTHAL adults at IMAGE RIGHT, several paces away, upright alert human postures, ordinary competent people, not ape caricatures. Draw their anatomical differences clearly in readable three-quarter/profile faces: low receding foreheads, large continuous brow ridges above the eyes, projecting midfaces and substantial broad noses, weak receding chins, broad compact robust bodies, relatively short forearms and lower legs. Do NOT draw two sapiens faces with fur clothing. One adult man brings a plain wooden spear across and slightly forward in a warning gesture, point toward open ground in front of traveller, no impact or wound. A second adult woman stands behind him in profile, watchful, with equally Neanderthal craniofacial anatomy. They wear practical fitted hide wraps and modest coverings, simple plant ties; no fantasy bone jewellery, modern buckles, shabby caveman costumes or universal stoop. Human emotional nuance: wariness and irritation, no theatrical rage. Traveller recognisably more slender and chin more pronounced than either local person. Keep distance visible, no handshake, teaching, gifts accepted or shared crafting. No completed atlatl. Local camp only a distant hint of smoke, no invented permanent houses. Subtle loose earth washes, grey rock, golden foliage, soft paper edges, no writing.",
+            "Paint a NEW wide watercolour-and-fine-brown-ink story illustration on warm ivory paper, 16:9. Original reference fixes ONLY the traveller's face and style: lean man about 30, dark wavy ear-length hair, short beard. Broad clean skin washes and contour ink. Northern Iberia, 40,000 calibrated BP, early autumn, open rocky ground with scattered golden trees OUTSIDE the neighbours' camp. A frightened traveller at left steps urgently backwards with empty visible hands. Bark waist panels, small rabbit-fur pelvic pad, NARROW reddish-grey fox-fur strip over his anatomical LEFT shoulder, mostly bare chest. At right, several paces away, ONE upright NEANDERTHAL adult man warns him back with a plain wooden spear held diagonally across the space. Make this Neanderthal's PROFILE LARGE AND READABLE: low receding forehead, massive continuous brow ridge, strongly projecting midface and broad substantial nose, distinctly weak receding chin. Compact robust human body and relatively short forearms and shins, competent natural posture, simple practical hide wraps. A clear anatomical contrast with the lean modern traveller's pronounced chin. Not a sapiens in fur, not an ape or stooped caricature. Other locals outside crop. The first small wooden spindle lies abandoned beside a stone between them, modest loose yarn beside it. No wound, handshake, teaching or gift accepted. Traveller still withdrawing, not attacking. No atlatl, permanent building, metal, fantasy jewellery or writing. Human nuance: wary local warning, frightened outsider, distance and retreat visible. Luminous earth-colour washes, grey rocks, warm paper edges."
+          ],
+          "discarded_sources": [
+            "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-a1c026be-3ec7-4fdc-9817-48e790604f7a.png"
+          ],
+          "rejection_reasons": [
+            "The warning spear has an attached flint head; the exact scene specifies a plain wooden spear."
+          ],
+          "previous_versions": [
+            {
+              "day": 25,
+              "scene": "Watching the local cord-maker roll fibre between palm and thigh while another participant examines his sample.",
+              "view": "Wide three-person view on open ground outside the neighbouring camp.",
+              "moment": "Day 25 at the FIRST open meeting place, during the local cordage demonstration BEFORE the traveller's spindle demonstration. THREE people only: protagonist sits at a respectful conversational distance to the right, hands visible and attentive, watching rather than teaching. Participant A at left confidently rolls a short fibrous cord end between her right palm and her own clothed thigh, separated fibre elements visible at the end, modest cord length. Participant B beside her examines the traveller's short sample on a low natural stone between them, indicating a weak join with one fingertip, no triumphant gesture. Mutual careful interest. Open golden grass and grey rocks within sight of local camp but all living shelters/hearths outside frame, free space to withdraw. This is NOT the protagonist's home camp and no camp furniture has been moved here. No spindle visible yet, no gifts of food, no weapons, no feast, kneeling worship, bows, deity or teaching crowd. Handwork simple, credible hands. A wide but readable social composition; smooth watercolour figures and restrained fine ink.",
+              "prompt": "Create a NEW wide 16:9 WATERCOLOUR AND INK story illustration, a loose hand-painted field sketch on warm ivory paper. Reference image 1 supplies ONLY the man's facial identity, hair and general autumn valley palette. Paint from a blank sheet with a different composition; do not reuse image pixels or the source's skin texture.\nRecognisable lean man about thirty with dark wavy ear-length hair and short beard, same profile and warm skin. Paint exposed skin as LARGE SIMPLE CLEAN OCHRE WASHES and pale highlights, with ink confined to outer contours. Soft broad colour shapes throughout the body, like a watercolour sketchbook figure, NOT detailed realistic skin. Fine brown ink may describe hair, plants and tools. Modest anatomical modelling, relaxed credible hands. Clear uncluttered action, dissolved paper margins, no writing.\nBare feet if in frame; opaque rough overlapping bark waist panels with a SMALL fitted rabbit-fur pelvic pad and bark ties; narrow fox-fur panel over one shoulder with the limited bark screen at its edge, most upper body uncovered. Nonsexual everyday survival.\nNorthern Iberia fictional river valley about 40,000 BP, early autumn, scattered golden woodland, open grey rocky slopes. No snow, buildings, farming, modern kit, metal or large hides. Natural material tools at modest hand scale.\n\nClothing continuity: same bark waist panels and SMALL fitted rabbit-fur pelvic pad. A NEW NARROW fox-fur shoulder panel hangs over ONE shoulder, reddish-grey fur, only about hand-span width and forearm length, with a couple of bark ties; a little original bark screen can show beneath its edge. Leaves most chest, opposite shoulder and arms bare. NOT a full hide, coat, fur poncho or cloak.\nCamp if in frame: same LOW sleeping-height leaf-and-bark debris shelter beneath a THICK MOSSY FALLEN LIMB, opening to drained terrace above the river. The small ground-level craft spot is uphill of the ordinary outside hearth. Dirty-material working flank and separate firing clearing are elsewhere. Omit fixed features outside crop rather than relocate them. No giant stone table.\nVisual casting for the local Neanderthal participants: ordinary dignified human people, compact sturdy builds, broad noses and midfaces, pronounced but natural brows, capable fine handwork; NOT ape faces, stooped caricatures, gigantic muscles or fantasy cavemen. Participant A: adult woman, dark wavy shoulder-length hair loosely tied back with plant cord, plain supple brown-grey skin shoulder wrap and opaque hip wrap tied with plant cord. Participant B: adult man, dark wavy hair, short beard, plain worked brown skin wraps. Simple well-worked clothing, no ornament or modern seams. Treat them as attentive skilled craftspeople, not pupils worshipping an inventor. Their gender, hair and clothing are illustration choices, not inferred biographies.\nSPECIFIC MOMENT:\nDay 25 at the FIRST open meeting place, during the local cordage demonstration BEFORE the traveller's spindle demonstration. THREE people only: protagonist sits at a respectful conversational distance to the right, hands visible and attentive, watching rather than teaching. Participant A at left confidently rolls a short fibrous cord end between her right palm and her own clothed thigh, separated fibre elements visible at the end, modest cord length. Participant B beside her examines the traveller's short sample on a low natural stone between them, indicating a weak join with one fingertip, no triumphant gesture. Mutual careful interest. Open golden grass and grey rocks within sight of local camp but all living shelters/hearths outside frame, free space to withdraw. This is NOT the protagonist's home camp and no camp furniture has been moved here. No spindle visible yet, no gifts of food, no weapons, no feast, kneeling worship, bows, deity or teaching crowd. Handwork simple, credible hands. A wide but readable social composition; smooth watercolour figures and restrained fine ink.\nClothing placement: narrow fox panel on the wearer's LEFT shoulder, matching the selected Day 24 scene, with most chest exposed. Keep it the same modest size.",
+              "reference": "_Artwork/survival/day-01.png",
+              "generation_strategy": "fresh-scene-from-approved-day1-only",
+              "edit_passes": 0,
+              "fresh_attempts": 1,
+              "status": "shelved",
+              "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-0406fa60-436d-4d30-b5d6-c919e210f850.png",
+              "asset": "_Artwork/survival/day-25.png",
+              "sha256": "1d16a7030249a81675c78f6f9a4486c49e971c2f9b22cb3e13d42f6cb7d796d9",
+              "dimensions_px": [
+                1672,
+                941
+              ],
+              "checked_on": "2026-10-02",
+              "page": "01_Survival/Day 25 - The Artisan at the Edge.md",
+              "original_body_sha256": "c58248e4405a5c695be539689951f2a2814a1589fd85e2980e78d2f4848dc8f9",
+              "correction": null,
+              "additional_reference": null,
+              "shelved_on": "2026-10-03",
+              "shelved_asset": "_Artwork/shelved/2026-10-03/day-25.png"
+            }
+          ],
+          "narrative_rechecked_on": "2026-10-03",
+          "rechecked_body_sha256": "3c1559886f46ef6d533d467a3b71a776e8d0605a9c2364e9647f188266d98eb8",
+          "review_scope": "Scene, allowed assets, clothing, location and narrative timing.",
+          "shelved_asset": "_Artwork/shelved/2026-10-03/day-25-wooden-point.png",
+          "shelved_on": "2026-10-03",
+          "reason": "User preferred the historically plausible stone-pointed version."
+        }
+      ],
+      "narrative_rechecked_on": "2026-10-03",
+      "rechecked_body_sha256": "c63960f13624cf2fab9b2b7273b6abf6a4919e5f3488451eb1cf3bfd8ffcdca3",
+      "review_scope": "Scene, allowed assets, clothing, location and narrative timing.",
+      "selection_method": "Restore an existing fresh rendering; no new generation or pixel edits.",
+      "approved_variation": "Prompt originally requested a plain wooden spear. User explicitly approved the rendered stone point after an archaeological evidence check; the narrative and setting now match."
+    },
+    {
+      "key": "day-26",
+      "page": "01_Survival/Day 26 - The Curriculum of the Weed.md",
+      "asset": "_Artwork/survival/day-26-v2.png",
+      "scene": "Rebinding the knife at his own camp after retreat, with the plain wooden spear within reach.",
+      "prompt": "Paint a NEW wide 16:9 watercolour and fine brown ink story illustration on warm ivory paper. Use reference 1 ONLY for the lean traveller's identity (about thirty, dark wavy ear-length hair and short beard), original autumn palette and style. New camera composition and clean broad ochre skin washes, ink mainly outer contours; no accumulated repetitive skin hatching. Northern Iberia fictional valley around 40,000 calibrated BP, early autumn. Day 26 AFTER a frightening rebuffed visit, traveller ALONE back at his OWN camp. Close three-quarter waist-up view from his anatomical LEFT: he sits low on the ground at the small uphill craft spot, carefully retightening a short natural cord binding around a small stone-flake knife in a plain wood handle. Knife palm-length, no metal blade. Expression thoughtful and wary, gaze briefly toward woodland beyond crop. A plain wooden spear with an integral sharpened wooden end lies within easy reach to the side, clearly visible but unobtrusive, NOT stone-tipped. He has opaque bark waist panels and a small rabbit-fur pelvic pad. A NARROW reddish-grey fox-fur panel, only hand-span wide and forearm long, remains on his LEFT shoulder (image-right in this camera), with two simple bark ties and limited old bark screen beneath edge; most chest and opposite shoulder exposed. Background left softly shows edge of SAME low bark-and-leaf debris shelter beneath thick mossy FALLEN LIMB, at drained terrace above river. No stone table, house or new raised rack; ordinary outside hearth is downhill and outside frame, no fire at shelter. No other people, spindle, whorl demonstration, atlatl, darts, feathers or gifts. This scene is retreat and equipment maintenance, no successful communal lesson. Earthy transparent washes, warm paper margins, precise small tools, readable natural hands, no text.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-a3165be7-5078-4a01-96de-fb035c798c2e.png",
+      "sha256": "b3361d63fec58e160fa322dfd9a0d5f82dcc2fa92b2aa17b1c69e288f00bed45",
+      "dimensions_px": [
+        1671,
+        941
+      ],
+      "mode": "built-in image generation",
+      "generation_strategy": "Independent fresh paintings, using the original Day 1 only for character and style. Day 22 additionally uses the equipment plate solely for trap geometry. No generated revision is used as another scene's reference.",
+      "edit_passes": 0,
+      "status": "selected",
+      "checked_on": "2026-10-03",
+      "revised_body_sha256": "e0fa3e39102e95325521264ceabc1ef67f31fbd59d1e185c5d3e41d74785bb00",
+      "day": 26,
+      "reference": "_Artwork/survival/day-01.png",
+      "additional_reference": null,
+      "fresh_attempts": 1,
+      "previous_versions": [
+        {
+          "day": 26,
+          "scene": "Watching a willing local participant handle the wooden spindle during their shared trial.",
+          "view": "Medium two-person view at the same open meeting place.",
+          "moment": "Day 26 at the SAME open meeting place, after Participant A has prepared a weak fibre join differently and during her next rotation trial. TWO principal people, A and the protagonist, seated beside the same low natural stone on open ground; participant B and other neighbours outside crop. Participant A handles the same small WOODEN spindle, forearm-length slender shaft with palm-width-or-smaller flat wooden disk fitted near lower quarter. She lightly steadies upper shaft upright with one hand and turns the wooden disk with fingertips of the other, testing rotation during a pause in yarn work. No spinning wheel or metal. Keep complicated thread routing out of focus: a small prepared fibre bundle and a short modest yarn sample lie separately on stone, no airborne string, looping tether or wound rope. Protagonist watches with attentive visible relaxed hands, learning her adjustments, not correcting or lecturing. The wooden spindle will be left with her, no second spindle for him visible. His narrow fox panel and bark/rabbit waist coverage remain. Soft same autumn grass and grey rocky backdrop as Day 25; no entry to the living area, feast, food gift, hierarchy or crowd.",
+          "prompt": "Create a NEW wide 16:9 WATERCOLOUR AND INK story illustration, a loose hand-painted field sketch on warm ivory paper. Reference image 1 supplies ONLY the man's facial identity, hair and general autumn valley palette. Paint from a blank sheet with a different composition; do not reuse image pixels or the source's skin texture.\nRecognisable lean man about thirty with dark wavy ear-length hair and short beard, same profile and warm skin. Paint exposed skin as LARGE SIMPLE CLEAN OCHRE WASHES and pale highlights, with ink confined to outer contours. Soft broad colour shapes throughout the body, like a watercolour sketchbook figure, NOT detailed realistic skin. Fine brown ink may describe hair, plants and tools. Modest anatomical modelling, relaxed credible hands. Clear uncluttered action, dissolved paper margins, no writing.\nBare feet if in frame; opaque rough overlapping bark waist panels with a SMALL fitted rabbit-fur pelvic pad and bark ties; narrow fox-fur panel over one shoulder with the limited bark screen at its edge, most upper body uncovered. Nonsexual everyday survival.\nNorthern Iberia fictional river valley about 40,000 BP, early autumn, scattered golden woodland, open grey rocky slopes. No snow, buildings, farming, modern kit, metal or large hides. Natural material tools at modest hand scale.\n\nClothing continuity: same bark waist panels and SMALL fitted rabbit-fur pelvic pad. A NEW NARROW fox-fur shoulder panel hangs over ONE shoulder, reddish-grey fur, only about hand-span width and forearm length, with a couple of bark ties; a little original bark screen can show beneath its edge. Leaves most chest, opposite shoulder and arms bare. NOT a full hide, coat, fur poncho or cloak.\nCamp if in frame: same LOW sleeping-height leaf-and-bark debris shelter beneath a THICK MOSSY FALLEN LIMB, opening to drained terrace above the river. The small ground-level craft spot is uphill of the ordinary outside hearth. Dirty-material working flank and separate firing clearing are elsewhere. Omit fixed features outside crop rather than relocate them. No giant stone table.\nVisual casting for the local Neanderthal participants: ordinary dignified human people, compact sturdy builds, broad noses and midfaces, pronounced but natural brows, capable fine handwork; NOT ape faces, stooped caricatures, gigantic muscles or fantasy cavemen. Participant A: adult woman, dark wavy shoulder-length hair loosely tied back with plant cord, plain supple brown-grey skin shoulder wrap and opaque hip wrap tied with plant cord. Participant B: adult man, dark wavy hair, short beard, plain worked brown skin wraps. Simple well-worked clothing, no ornament or modern seams. Treat them as attentive skilled craftspeople, not pupils worshipping an inventor. Their gender, hair and clothing are illustration choices, not inferred biographies.\nSPECIFIC MOMENT:\nDay 26 at the SAME open meeting place, after Participant A has prepared a weak fibre join differently and during her next rotation trial. TWO principal people, A and the protagonist, seated beside the same low natural stone on open ground; participant B and other neighbours outside crop. Participant A handles the same small WOODEN spindle, forearm-length slender shaft with palm-width-or-smaller flat wooden disk fitted near lower quarter. She lightly steadies upper shaft upright with one hand and turns the wooden disk with fingertips of the other, testing rotation during a pause in yarn work. No spinning wheel or metal. Keep complicated thread routing out of focus: a small prepared fibre bundle and a short modest yarn sample lie separately on stone, no airborne string, looping tether or wound rope. Protagonist watches with attentive visible relaxed hands, learning her adjustments, not correcting or lecturing. The wooden spindle will be left with her, no second spindle for him visible. His narrow fox panel and bark/rabbit waist coverage remain. Soft same autumn grass and grey rocky backdrop as Day 25; no entry to the living area, feast, food gift, hierarchy or crowd.\nClothing placement: narrow fox panel on the wearer's LEFT shoulder, matching the selected Day 24 scene, with most chest exposed. Keep it the same modest size.",
+          "reference": "_Artwork/survival/day-01.png",
+          "generation_strategy": "fresh-scene-from-approved-day1-only",
+          "edit_passes": 0,
+          "fresh_attempts": 1,
+          "status": "shelved",
+          "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-5586285c-d4df-4fd9-91e0-b3cbcce0ecc9.png",
+          "asset": "_Artwork/survival/day-26.png",
+          "sha256": "7e094ae391425b248018eeb4c91cb103b629d0d33933d28ac4a3ea75bb94478c",
+          "dimensions_px": [
+            1672,
+            941
+          ],
+          "checked_on": "2026-10-02",
+          "page": "01_Survival/Day 26 - The Curriculum of the Weed.md",
+          "original_body_sha256": "172c917bb9f101132de47366a82934a04aaa539222d24424cf9e26b3e9d24624",
+          "correction": null,
+          "additional_reference": null,
+          "shelved_on": "2026-10-03",
+          "shelved_asset": "_Artwork/shelved/2026-10-03/day-26.png"
+        }
+      ],
+      "narrative_rechecked_on": "2026-10-03",
+      "rechecked_body_sha256": "4b2ee041e06a4580547134c293c1e54bc46d61cb4a833eb7db2d999799a5870a",
+      "review_scope": "Scene, allowed assets, clothing, location and narrative timing."
+    },
+    {
+      "key": "snare-trap",
+      "page": "05_Tools and Equipment/Traps/Snare Trap.md",
+      "asset": "_Artwork/technologies/snare-trap-v2.png",
+      "scene": "A continuous cord fixed eye tied as an overhand loop on a bight, with the running line threaded through it to make the adjustable loop.",
+      "prompt": "Draw a NEW precise 1950s practical manual illustration in navy ink and pale honey/sage pastel on ivory paper. Wide landscape. Title SNARE LINE — FIXED EYE. Two large clean panels. LEFT: a genuine overhand loop knot tied ON A BIGHT of one continuous thin twisted natural cord, enlarged for visibility: small elongated terminal eye above a compact DOUBLED overhand knot; short tail and long standing part below. Clear over-under crossings. Labels FIXED EYE and OVERHAND LOOP KNOT. No detached ring, no metal, no toroidal rope doughnut. RIGHT: draw that same tied eye and knot at top centre. From the knot a long standing part descends, curves into ONE large loose adjustable loop below, rises on the right, passes THROUGH the small terminal eye ONCE, then CONTINUES VISIBLY FAR BEYOND THE EYE toward UPPER LEFT as a long line leaving the panel. The line MUST NOT stop at the eye or merge into the eye. Show at least 15 cm on paper of uninterrupted line AFTER it exits the eye, a separate clear outgoing line travelling left-up across empty background. Label that visible continuation LINE CONTINUES TO ANCHOR. Label the eye crossing SLIDING RETURN and the large lower loop ADJUSTABLE LOOP. Keep a short knot tail distinct below-left of the knot. All is the SAME cord: tied fixed eye -> knot -> long line around large loop -> through eye -> continuing freely towards anchor. Thin cord outlines with white gaps at undercrossings, flattened readable technical drawing rather than photorealistic fat rope. Small sage arrow beside sliding strand. No spring installation, hands, animal, metal, rope pile or extra knots. Correct topology and fully traceable line take precedence over decorative texture. Sparse clear uppercase lettering and generous margins.",
+      "references": [],
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-7ce057b8-b046-46e9-a87f-1938298eaa13.png",
+      "sha256": "414b45532b462b44f49bef806cf28b7cfad6cbfef432987d5929612d55a32d05",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "mode": "built-in image generation",
+      "generation_strategy": "Independent fresh paintings, using the original Day 1 only for character and style. Day 22 additionally uses the equipment plate solely for trap geometry. No generated revision is used as another scene's reference.",
+      "edit_passes": 0,
+      "status": "selected",
+      "checked_on": "2026-10-03",
+      "revised_body_sha256": "7be892622a35cd9fae3c89606732a7712db49230eb7e0fcca05ae590aed3e5e9",
+      "previous_prompts": [
+        "Create a NEW 1950s illustrated practical manual plate in precise navy ink with restrained pastel honey and sage washes on warm ivory paper, wide landscape. Title SNARE LINE — FIXED EYE. This is a knot-topology illustration, not an operating hunting protocol. Show two uncluttered large panels. LEFT: an enlarged actual OVERHAND LOOP KNOT TIED ON A BIGHT, in a continuous natural twisted cord: a narrow teardrop-shaped fixed terminal eye above a compact doubled-overhand knot, two parallel strands visibly enter the knot, the standing part and short free tail exit below; real over-under crossings and broken hidden-line conventions make the continuous cord traceable. The eye is NOT a detached toroidal rope ring, splice, metal ring or unattached circular object. Label with thin leaders FIXED TERMINAL EYE, DOUBLED OVERHAND KNOT, SHORT TAIL, STANDING PART. RIGHT: the same tied terminal eye with the long standing part returned THROUGH THE OPENING of that eye, forming a larger adjustable loop below. Show the running strand distinctly traversing the eye opening once, with a white separation at the crossing so its path is readable. This larger adjustable loop is a continuation of the SAME cord, not separate rings glued together. A leader RUNNING LINE THROUGH EYE points to that crossing; a leader ADJUSTABLE LOOP points to the large loop. Preserve visible knot and tail, eye elongated and small, large loop loose and irregular. One cord colour, use navy outline and pale ochre fill; a subtle sage arrow may mark the moving strand without disguising rope paths. Keep knot topology faithful to a genuine overhand loop on a bight; no invented interlocking links, no smooth doughnut called a fixed eye. No animal, hand, sapling, spring installation, rope ball or metal component. Crisp legible sparse lettering, ample breathing space, elegant mid-century technical plate."
+      ],
+      "discarded_sources": [
+        "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-15488c11-3426-4419-8287-2b2fd2349c28.png"
+      ],
+      "rejection_reasons": [
+        "The fixed eye is tied, but the returned line does not visibly continue beyond the eye; the routing diagram is incomplete."
+      ],
+      "fresh_attempts": 2,
+      "id": "snare-trap",
+      "title": "Snare Trap",
+      "reference": null,
+      "current_type": "tool",
+      "current_title": "Snare Trap",
+      "labels": [
+        "FIXED EYE",
+        "OVERHAND LOOP KNOT",
+        "SLIDING RETURN",
+        "ADJUSTABLE LOOP"
+      ],
+      "previous_versions": [
+        {
+          "id": "snare-trap",
+          "page": "05_Tools and Equipment/Traps/Snare Trap.md",
+          "title": "Snare Trap",
+          "scene": "The running-loop line component, with a detail of the return through a fixed eye; the complete spring installation remains a separate design task.",
+          "asset": "_Artwork/technologies/snare-trap.png",
+          "labels": [
+            "RUNNING LOOP",
+            "FIXED EYE"
+          ],
+          "reference": null,
+          "prompt": "An isolated educational cordage illustration for a historical practical manual, showing one loose running loop of natural plant-fibre line lying flat on ivory paper. The line returns through a small fixed eye so the broad loop is distinct from the small eye. One modest detail inset of that line connection. Fine navy pen outlines, restrained pale straw and sage watercolour, 1950s serif lettering, landscape 16:9. Exact text \"RUNNING LOOP\", \"FIXED EYE\". No people, animals, installed mechanism, dimensions or procedural steps.",
+          "edit_passes": 0,
+          "checked_on": "2026-10-02",
+          "previous_prompts": [
+            "Use case: scientific-educational.\nMake one opening plate for a Technology page in The Humanity Handbook. Style: a 1950s illustrated practical manual, fine navy-blue ink, restrained translucent pastel material washes, warm clean ivory paper. Pale ochre for wood/bark, cool grey-blue/lavender for stone, straw/sage for plant fibre, pale clay pink for ceramics. Clear contours, selective hatching, subtle paper grain. Landscape 16:9, generous margins, readable at page width.\nThe supplied digging-stick plate is ONLY the fixed reference for navy ink, pastel colour, ivory paper and typography. Create a fresh different subject, not that tool or its pose. No inherited pixel textures.\nUse one focal arrangement and at most the explicitly requested supporting views or short process sequence. Isolate the arrangement on ivory with only necessary ground/support. No people, hands, landscape, tools or ingredients beyond those requested. Plain natural materials and modest handmade objects. No modern fittings.\nUse ONLY exact specified text in clear uppercase serif drafting lettering: first phrase is the title, the rest are concise callouts or stage captions. Leaders must end on the named visible feature. Never point a label at a different part. Keep text clear of objects and other text. No dimensions, scale bars, fixed capacities, timing, temperatures, historical dates, efficacy claims, logos, watermark or border. This is an explanatory illustration, not a dimensioned or validated field blueprint.\n\nSUBJECT: An explanatory conceptual primitive snare plate showing a bowed anchored sapling and plant line ending in an EMPTY running loop near a simple test support, no animal or bait. Include a small clear loop-connection inset: free running part passes through one small fixed eye so the larger loop can change size, not merely a fixed bowline. No operating steps, trigger dimensions, claimed lifting load or caught creatures. Sparse ground outline and ivory background. Subtitle CONCEPT ONLY. Natural pastel wood and plant fibre, restrained navy ink.\nEXACT TEXT: \"SNARE TRAP\", \"CONCEPT ONLY\", \"SPRING SAPLING\", \"RUNNING LOOP\", \"FIXED EYE\". Do not add other text.",
+            "Use case: historical-scene. An archaeology museum catalogue plate showing the plant-cord component of a proposed primitive snare. One EMPTY adjustable running loop lies FLAT on clean ivory paper. The returning cord passes through a small fixed eye in the line; a small detail inset enlarges that connection. No people, animals, sapling, suspended loop, installed trap or operating sequence. Navy-blue fine pen linework, soft straw and pale sage watercolour, 1950s practical-manual typography, landscape 16:9. Exact text: \"SNARE TRAP\", \"LINE COMPONENT STUDY\", \"RUNNING LOOP\", \"FIXED EYE\". Labels must identify the large adjustable loop and the small fixed eye separately. No other text or dimensions."
+          ],
+          "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-1ff1478c-3b45-49f0-9d75-295b7998eed5.png",
+          "dimensions_px": [
+            1672,
+            941
+          ],
+          "sha256": "8216d01644ddfb3a66a432389732b4db141ba9ada45df9f001ff25996535445d",
+          "status": "shelved",
+          "fresh_attempts": 3,
+          "original_page": "05_Technologies/Traps/Snare Trap.md",
+          "current_type": "tool",
+          "current_title": "Snare Trap",
+          "shelved_on": "2026-10-03",
+          "shelved_asset": "_Artwork/shelved/2026-10-03/snare-trap.png"
+        }
+      ]
+    }
+  ]
+}

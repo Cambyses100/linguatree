@@ -1,0 +1,1016 @@
+{
+  "created_on": "2026-10-05",
+  "method": "built-in image_gen.imagegen",
+  "scope": "Five Survival scenes, Plant-Fibre Clothing plate and 29 previously unillustrated skills.",
+  "strategy": "Independent renders from original Day1 identity/daily style or original digging-stick manual style; geometry references explicitly restricted. Existing illustrated skills retained.",
+  "images": [
+    {
+      "key": "plant-fibre-clothing",
+      "type": "tool",
+      "title": "Plant-Fibre Clothing",
+      "scene": "A flexible grass back panel with paired retaining rows and a separate supported top edge.",
+      "detail": "One modest rectangular roughly0.5by0.6m backpanel in isolation, warm dry grass bundles hanging SOFTLY with uneven fringe. Exactly TWO spaced horizontal retaining rows of paired fine nettleyarn cross between bundles; top edge is supported by separate short naturalcord with two loose shoulderfastenings, no tightneckloop. NOT rigid willowgrid, wovenfabric, fullsuitorfurcoat. Tiny inset enlarges pairedyarn crossing around grassbundle. Label 'FLEXIBLE GRASS', 'PAIRED RETAINING ROWS', 'SUPPORTED TOP'. No arms/person, metalfasteners, extra pelts. Back-view garment family plate with openfront implied by flatpanel shape.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/tools/plant-fibre-clothing.png",
+      "selected": true,
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'PLANT-FIBRE CLOTHING'. One modest rectangular roughly0.5by0.6m backpanel in isolation, warm dry grass bundles hanging SOFTLY with uneven fringe. Exactly TWO spaced horizontal retaining rows of paired fine nettleyarn cross between bundles; top edge is supported by separate short naturalcord with two loose shoulderfastenings, no tightneckloop. NOT rigid willowgrid, wovenfabric, fullsuitorfurcoat. Tiny inset enlarges pairedyarn crossing around grassbundle. Label 'FLEXIBLE GRASS', 'PAIRED RETAINING ROWS', 'SUPPORTED TOP'. No arms/person, metalfasteners, extra pelts. Back-view garment family plate with openfront implied by flatpanel shape.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-02f0981b-8fe6-42c6-8d80-24d585064d6a.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: anatomy, labels, scene state and limited reference roles accepted.",
+      "page": "05_Tools and Equipment/Clothing/Plant-Fibre Clothing.md",
+      "source_sha256": "23ca336886e098a44bc5c4d66a65f1943caaeeb60891aba607cc157870c38dbc",
+      "asset_sha256": "23ca336886e098a44bc5c4d66a65f1943caaeeb60891aba607cc157870c38dbc",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "ade6d5f94fce3f46e8baf07a923064a614d97599a2248084629087b5212e0a97"
+    },
+    {
+      "key": "day-36",
+      "type": "survival",
+      "day": 36,
+      "scene": "Repairing the fish cage’s removable rear cap at the established river margin.",
+      "detail": "At westbank of southflowing MAINRIVER belowconfluence, no shelter orcampfurniture nearby. Low close bankview, water to right, dry stablebank left. Traveller SITS ON LOWROCK with exactly two knees/two lowerlegs/two barefeet on dryground, angled right facing cage. Rightnear shoulder BARE; leftfar shoulder narrowfoxstrip mostly behindneck. Horizontalsmall cylinderfishcage lies onbank with openREAR end closest to hands; he ties a fine nettleline around repairedrear collar. Detached removable ROUNDwovenCAP alongside, inwardfrontfunnel stays inside FARend. Image2 is equipmentGEOMETRYONLY, remove alltext/cutaway: real whole wovenbody not sawcut. Small flexible willowwithes lie nearby, onlyminimal. No fish/catch today, no weir orbridge, no hugecage. Focus repair and vulnerablebankwork.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. At westbank of southflowing MAINRIVER belowconfluence, no shelter orcampfurniture nearby. Low close bankview, water to right, dry stablebank left. Traveller SITS ON LOWROCK with exactly two knees/two lowerlegs/two barefeet on dryground, angled right facing cage. Rightnear shoulder BARE; leftfar shoulder narrowfoxstrip mostly behindneck. Horizontalsmall cylinderfishcage lies onbank with openREAR end closest to hands; he ties a fine nettleline around repairedrear collar. Detached removable ROUNDwovenCAP alongside, inwardfrontfunnel stays inside FARend. Image2 is equipmentGEOMETRYONLY, remove alltext/cutaway: real whole wovenbody not sawcut. Small flexible willowwithes lie nearby, onlyminimal. No fish/catch today, no weir orbridge, no hugecage. Focus repair and vulnerablebankwork.",
+      "references": [
+        "_Artwork/survival/day-01.png",
+        "_Artwork/tools/woven-fishing-trap.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style",
+        "object/anatomy geometry only"
+      ],
+      "asset": "_Artwork/survival/day-36.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-7befad90-433f-45d7-9735-2ed7c5d8fed8.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "rejection_reason": "Hands at entrance funnel; rear cap closure repair not shown accurately."
+    },
+    {
+      "key": "day-37",
+      "type": "survival",
+      "day": 37,
+      "scene": "The traveller stands back while the experienced local adult makes his hand-spear cast.",
+      "detail": "Separate PRACTICEGROUND west/southwest ofcamp. Camera southeast lookingnorthwest, broad earthBANK acrossleft background WEST, observers enter fromNORTH on right. DRYlandscape no river/shelter/hearth. Traveller foregroundleft on rightsideofcastingline steppingBACK, LEFTprofile? identity visible threequarter but narrowfoxstrip onlyanatomicalLEFT. His twohands lower slender green BLUNTUNFLETCHED dart and smallwooden atlatl, not loaded, no secondprojectile. Fartherupground a robustNeanderthaladult is in balanced handthrowsetup facingWESTtowardbank, STONEPOINTED longwoodenspear raisedbehindshoulder, own twoarms/twolegs clear; no releaseghostlimbs. Another adult observer stands severalpaces BEHIND him andnorthofline. Both give travellerDISTANCE andneverinflightpath. Image2 for NeanderthalANATOMYandstonepointbinding only, doNOTcopy confrontationpose orrangeplacement. Lowforehead heavybrowridge projectingmidface broadnose compactrobustbuild shortdistallimbs, dignifiedupright capablehuman, skinclothing. No aggression, pointing weaponatprotagonist, sharedfoodortooltransfer, smilesofalliance. Warywatching and humblingcompetence.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. Separate PRACTICEGROUND west/southwest ofcamp. Camera southeast lookingnorthwest, broad earthBANK acrossleft background WEST, observers enter fromNORTH on right. DRYlandscape no river/shelter/hearth. Traveller foregroundleft on rightsideofcastingline steppingBACK, LEFTprofile? identity visible threequarter but narrowfoxstrip onlyanatomicalLEFT. His twohands lower slender green BLUNTUNFLETCHED dart and smallwooden atlatl, not loaded, no secondprojectile. Fartherupground a robustNeanderthaladult is in balanced handthrowsetup facingWESTtowardbank, STONEPOINTED longwoodenspear raisedbehindshoulder, own twoarms/twolegs clear; no releaseghostlimbs. Another adult observer stands severalpaces BEHIND him andnorthofline. Both give travellerDISTANCE andneverinflightpath. Image2 for NeanderthalANATOMYandstonepointbinding only, doNOTcopy confrontationpose orrangeplacement. Lowforehead heavybrowridge projectingmidface broadnose compactrobustbuild shortdistallimbs, dignifiedupright capablehuman, skinclothing. No aggression, pointing weaponatprotagonist, sharedfoodortooltransfer, smilesofalliance. Warywatching and humblingcompetence.",
+      "references": [
+        "_Artwork/survival/day-01.png",
+        "_Artwork/survival/day-25-v3-stone-point.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style",
+        "object/anatomy geometry only"
+      ],
+      "asset": "_Artwork/survival/day-37.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-154c28a2-710b-4b5f-98e7-4dc5e5af25ef.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: anatomy, labels, scene state and limited reference roles accepted.",
+      "page": "01_Survival/Moon 2 Day 8 - A Lever and a Practised Arm.md",
+      "source_sha256": "f330c10bd01ae927ed6239fa069fe44481dd28acbdbd26fc536c7d68c061e375",
+      "asset_sha256": "f330c10bd01ae927ed6239fa069fe44481dd28acbdbd26fc536c7d68c061e375",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "85bfa766737d2ddf8ee242093384afb8ed2fab7ab6cdfb4ef9076374469b2312"
+    },
+    {
+      "key": "small-game-butchery",
+      "type": "skill",
+      "title": "Small Game Butchery",
+      "scene": "Separated work zones: at left a clean slate with small neutral-coloured meat portions and a stone flake, at right one small fur pelt laid flat and a separate dirty scrap bowl. Cropped hands carefully draw a blunt scraper across the pelt's cream underside, no exposed viscera, blood or carcass wound. Labels 'CLEAN FOOD', 'PELT WORK', 'CLEAN IMPLEMENTS'. Illustrate contamination control and limited yield, not a slaughter scene.",
+      "detail": "Separated work zones: at left a clean slate with small neutral-coloured meat portions and a stone flake, at right one small fur pelt laid flat and a separate dirty scrap bowl. Cropped hands carefully draw a blunt scraper across the pelt's cream underside, no exposed viscera, blood or carcass wound. Labels 'CLEAN FOOD', 'PELT WORK', 'CLEAN IMPLEMENTS'. Illustrate contamination control and limited yield, not a slaughter scene.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'SMALL GAME BUTCHERY'. Separated work zones: at left a clean slate with small neutral-coloured meat portions and a stone flake, at right one small fur pelt laid flat and a separate dirty scrap bowl. Cropped hands carefully draw a blunt scraper across the pelt's cream underside, no exposed viscera, blood or carcass wound. Labels 'CLEAN FOOD', 'PELT WORK', 'CLEAN IMPLEMENTS'. Illustrate contamination control and limited yield, not a slaughter scene.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/small-game-butchery.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-df0ae2e8-e012-40ad-a61c-774ac2819675.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: anatomy, labels, scene state and limited reference roles accepted.",
+      "page": "04_Skills/Animal Processing/Small Game Butchery.md",
+      "source_sha256": "1c4a2b6caa76735101c607b40ad1fffeda4773fc22cddbe3fa971cf0f475d2d9",
+      "asset_sha256": "1c4a2b6caa76735101c607b40ad1fffeda4773fc22cddbe3fa971cf0f475d2d9",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "33c97b26ae35861240c699d001b223c518800e4d2ab09f985d8dd7f083efc0f2"
+    },
+    {
+      "key": "communication-and-exchange",
+      "type": "skill",
+      "title": "Communication and Exchange",
+      "scene": "Two clothed schematic human adults several paces apart, one open palm held low and the other calm raised stop palm, both normal upright anatomy. A small neutral wooden sample lies beside first adult, NOT passed hand to hand. Broken arc on ground conveys distance; open retreat arrow away from encounter. Labels 'OBSERVE DISTANCE', 'RESPECT REFUSAL', 'SHARED MEANING'. No speech transcript, hand shaking, barter piles or celebration. Universal reference skill, not invented trading in current story.",
+      "detail": "Two clothed schematic human adults several paces apart, one open palm held low and the other calm raised stop palm, both normal upright anatomy. A small neutral wooden sample lies beside first adult, NOT passed hand to hand. Broken arc on ground conveys distance; open retreat arrow away from encounter. Labels 'OBSERVE DISTANCE', 'RESPECT REFUSAL', 'SHARED MEANING'. No speech transcript, hand shaking, barter piles or celebration. Universal reference skill, not invented trading in current story.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'COMMUNICATION AND EXCHANGE'. Two clothed schematic human adults several paces apart, one open palm held low and the other calm raised stop palm, both normal upright anatomy. A small neutral wooden sample lies beside first adult, NOT passed hand to hand. Broken arc on ground conveys distance; open retreat arrow away from encounter. Labels 'OBSERVE DISTANCE', 'RESPECT REFUSAL', 'SHARED MEANING'. No speech transcript, hand shaking, barter piles or celebration. Universal reference skill, not invented trading in current story.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/communication-and-exchange.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-f751d157-438e-4026-9c58-6a2c8a51af76.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: clear action, readable labels, no implied successful exchange or weather guarantee.",
+      "page": "04_Skills/Communication/Communication and Exchange.md",
+      "source_sha256": "4e41e1d4d6a214ddedf802694d00091f2d6ddea0b0fcb8cf0abed20491703eee",
+      "asset_sha256": "4e41e1d4d6a214ddedf802694d00091f2d6ddea0b0fcb8cf0abed20491703eee",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "481c2f0d036a6e505f7effac9186ccab9570d8192f7840cf35d3adffeb2d10c0"
+    },
+    {
+      "key": "basic-thatching",
+      "type": "skill",
+      "title": "Basic Thatching",
+      "scene": "Close side-section of sloped small timber shelter framework. Hands placing an upper grass bundle course over the top of lower course; clearly downhill direction with a few blue water arrows on TOP of outer thatch leading down off eave, never into roof. Two courses overlapping like shingles. Label 'WORK UPWARD', 'OVERLAPPING COURSES', 'KEEP OPENINGS CLEAR'. No indoor hearth or metal roof.",
+      "detail": "Close side-section of sloped small timber shelter framework. Hands placing an upper grass bundle course over the top of lower course; clearly downhill direction with a few blue water arrows on TOP of outer thatch leading down off eave, never into roof. Two courses overlapping like shingles. Label 'WORK UPWARD', 'OVERLAPPING COURSES', 'KEEP OPENINGS CLEAR'. No indoor hearth or metal roof.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'BASIC THATCHING'. Close side-section of sloped small timber shelter framework. Hands placing an upper grass bundle course over the top of lower course; clearly downhill direction with a few blue water arrows on TOP of outer thatch leading down off eave, never into roof. Two courses overlapping like shingles. Label 'WORK UPWARD', 'OVERLAPPING COURSES', 'KEEP OPENINGS CLEAR'. No indoor hearth or metal roof.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/basic-thatching.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-63861d85-f8dd-48e2-9be0-320e484515e2.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: clear action, readable labels, no implied successful exchange or weather guarantee.",
+      "page": "04_Skills/Construction/Basic Thatching.md",
+      "source_sha256": "c5213c251772581e3256ac8f1e5a6c4a8911be0c1ab957267120f1ddcb94132b",
+      "asset_sha256": "c5213c251772581e3256ac8f1e5a6c4a8911be0c1ab957267120f1ddcb94132b",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "35d96e91a971629ad132df7018931a497536843295a811aaa16cf3fadef281f2"
+    },
+    {
+      "key": "knots-primitive-set",
+      "type": "skill",
+      "title": "Knots - Primitive Set",
+      "scene": "An accurately traced natural two-strand cord with ONE simple overhand stopper knot enlarged as main study: rope doubles into loop, free end passes once through the loop and is drawn into a single overhand knot. Small inset shows generous free tail under low test tension and witness mark for slipping. NOT a bowline, snare, decorative tangle or detached rope ring. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. Only ONE knot illustrated; page lists other knots in prose.",
+      "detail": "An accurately traced natural two-strand cord with ONE simple overhand stopper knot enlarged as main study: rope doubles into loop, free end passes once through the loop and is drawn into a single overhand knot. Small inset shows generous free tail under low test tension and witness mark for slipping. NOT a bowline, snare, decorative tangle or detached rope ring. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. Only ONE knot illustrated; page lists other knots in prose.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'KNOTS - PRIMITIVE SET'. An accurately traced natural two-strand cord with ONE simple overhand stopper knot enlarged as main study: rope doubles into loop, free end passes once through the loop and is drawn into a single overhand knot. Small inset shows generous free tail under low test tension and witness mark for slipping. NOT a bowline, snare, decorative tangle or detached rope ring. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. Only ONE knot illustrated; page lists other knots in prose.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/knots-primitive-set.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-35214a24-4daf-4430-802c-00fc3bb669f6.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "rejection_reason": "Illustration shows a fixed eye rather than the requested single-strand overhand stopper."
+    },
+    {
+      "key": "tripod-lashing",
+      "type": "skill",
+      "title": "Tripod Lashing",
+      "scene": "Three parallel wooden poles bound by several wraps around all three near aligned tops; close enlarged inset shows TWO frapping paths running in spaces between poles tightening wraps, not random wound cord. A small lower-right secondary study of same three poles spread into three-legged tripod with load arrow falling INSIDE triangular footprint. Exactly THREE poles and feet, no fourth. Labels 'WRAPS', 'FRAPPING TURNS', 'LOAD INSIDE BASE'. Natural fibre cord no metal fasteners.",
+      "detail": "Three parallel wooden poles bound by several wraps around all three near aligned tops; close enlarged inset shows TWO frapping paths running in spaces between poles tightening wraps, not random wound cord. A small lower-right secondary study of same three poles spread into three-legged tripod with load arrow falling INSIDE triangular footprint. Exactly THREE poles and feet, no fourth. Labels 'WRAPS', 'FRAPPING TURNS', 'LOAD INSIDE BASE'. Natural fibre cord no metal fasteners.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'TRIPOD LASHING'. Three parallel wooden poles bound by several wraps around all three near aligned tops; close enlarged inset shows TWO frapping paths running in spaces between poles tightening wraps, not random wound cord. A small lower-right secondary study of same three poles spread into three-legged tripod with load arrow falling INSIDE triangular footprint. Exactly THREE poles and feet, no fourth. Labels 'WRAPS', 'FRAPPING TURNS', 'LOAD INSIDE BASE'. Natural fibre cord no metal fasteners.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/tripod-lashing.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-cdf7c8ae-e47f-4639-8346-7916d7f40b12.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Construction/Knots & Lashings/Tripod Lashing.md",
+      "source_sha256": "e2a6ec2d2959ef98eee91cd19c21556511b887196600ad6b5ad1034c7524f8f7",
+      "asset_sha256": "e2a6ec2d2959ef98eee91cd19c21556511b887196600ad6b5ad1034c7524f8f7",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "f3ab1c7f14cfa69d1c8705310f56a188759b4cd9b06792bfca4278e638b80aaa"
+    },
+    {
+      "key": "simple-coiling-and-weaving",
+      "type": "skill",
+      "title": "Simple Coiling and Weaving",
+      "scene": "Two separate side-by-side basketry construction studies, clearly distinguish mechanisms. LEFT small spiral soft grass foundation with individual stitches linking new outer coil to preceding one; bone awl in a gap not puncturing thick wood. RIGHT upright slender willow stakes with ONE flexible working strand passing alternately in front/behind, open unfinished wall. Labels 'COILED FOUNDATION', 'JOIN EACH COIL', 'STAKE AND STRAND'. No net or twining.",
+      "detail": "Two separate side-by-side basketry construction studies, clearly distinguish mechanisms. LEFT small spiral soft grass foundation with individual stitches linking new outer coil to preceding one; bone awl in a gap not puncturing thick wood. RIGHT upright slender willow stakes with ONE flexible working strand passing alternately in front/behind, open unfinished wall. Labels 'COILED FOUNDATION', 'JOIN EACH COIL', 'STAKE AND STRAND'. No net or twining.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'SIMPLE COILING AND WEAVING'. Two separate side-by-side basketry construction studies, clearly distinguish mechanisms. LEFT small spiral soft grass foundation with individual stitches linking new outer coil to preceding one; bone awl in a gap not puncturing thick wood. RIGHT upright slender willow stakes with ONE flexible working strand passing alternately in front/behind, open unfinished wall. Labels 'COILED FOUNDATION', 'JOIN EACH COIL', 'STAKE AND STRAND'. No net or twining.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/simple-coiling-and-weaving.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-482c370d-7db0-4142-9cef-946c169f3fbd.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Fibre Work/Simple Coiling and Weaving.md",
+      "source_sha256": "58c789a446d2bb8f627b0c60f475fafd379b0dbda5b32fde5b826a803da5398e",
+      "asset_sha256": "58c789a446d2bb8f627b0c60f475fafd379b0dbda5b32fde5b826a803da5398e",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "f12992bbdbdc2583832b549ec9d33863fa0cd7a1d4cc60489ac1030ae4750d16"
+    },
+    {
+      "key": "simple-cordage",
+      "type": "skill",
+      "title": "Simple Cordage",
+      "scene": "Macro close study of two fibre bundles in hands being reverse wrapped into two-ply line. Each bundle's own twist direction opposes the direction they wrap around each other. Use curved arrows one kind around bundle and opposite larger arrow around pair, physically traceable continuous fibres. Completed short line hangs below pinch point. Secondary inset shows staggered overlapping fibre joins at DIFFERENT positions in two strands. Labels 'TWIST EACH BUNDLE', 'WRAP OPPOSITE', 'STAGGER JOINS'. No spindle or loom.",
+      "detail": "Macro close study of two fibre bundles in hands being reverse wrapped into two-ply line. Each bundle's own twist direction opposes the direction they wrap around each other. Use curved arrows one kind around bundle and opposite larger arrow around pair, physically traceable continuous fibres. Completed short line hangs below pinch point. Secondary inset shows staggered overlapping fibre joins at DIFFERENT positions in two strands. Labels 'TWIST EACH BUNDLE', 'WRAP OPPOSITE', 'STAGGER JOINS'. No spindle or loom.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'SIMPLE CORDAGE'. Macro close study of two fibre bundles in hands being reverse wrapped into two-ply line. Each bundle's own twist direction opposes the direction they wrap around each other. Use curved arrows one kind around bundle and opposite larger arrow around pair, physically traceable continuous fibres. Completed short line hangs below pinch point. Secondary inset shows staggered overlapping fibre joins at DIFFERENT positions in two strands. Labels 'TWIST EACH BUNDLE', 'WRAP OPPOSITE', 'STAGGER JOINS'. No spindle or loom.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/simple-cordage.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-c74e6e7f-9a20-460f-830e-985dc36fdd9a.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Fibre Work/Simple Cordage.md",
+      "source_sha256": "0f633a21d74b882c49587f2aec016ea29a127728e174ad0fad1bdc911c6b5454",
+      "asset_sha256": "0f633a21d74b882c49587f2aec016ea29a127728e174ad0fad1bdc911c6b5454",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "6193e494f57bd03bfa27b7709211d40d5dab2d5e2d435ddb72b93367b19af7b3"
+    },
+    {
+      "key": "stitching",
+      "type": "skill",
+      "title": "Stitching",
+      "scene": "Close main study of two small overlapping pale rawhide scraps with widely spaced pre-pierced holes away from edges. A short bone eyed needle pulling one thin natural thread through both layers; a few completed even stitches beside it, needle fully separate from finger. Small detail shows hole too close to edge with tear compared to sound margin. Labels 'PRE-PIERCE', 'EVEN TENSION', 'SOUND MARGIN'. No industrial thread, steel needle or modern fabric.",
+      "detail": "Close main study of two small overlapping pale rawhide scraps with widely spaced pre-pierced holes away from edges. A short bone eyed needle pulling one thin natural thread through both layers; a few completed even stitches beside it, needle fully separate from finger. Small detail shows hole too close to edge with tear compared to sound margin. Labels 'PRE-PIERCE', 'EVEN TENSION', 'SOUND MARGIN'. No industrial thread, steel needle or modern fabric.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'STITCHING'. Close main study of two small overlapping pale rawhide scraps with widely spaced pre-pierced holes away from edges. A short bone eyed needle pulling one thin natural thread through both layers; a few completed even stitches beside it, needle fully separate from finger. Small detail shows hole too close to edge with tear compared to sound margin. Labels 'PRE-PIERCE', 'EVEN TENSION', 'SOUND MARGIN'. No industrial thread, steel needle or modern fabric.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/stitching.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-03d2492b-2e27-4b1c-9d5f-ae594e3197bf.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Fibre Work/Stitching.md",
+      "source_sha256": "b2fcddfd444888b760d82f50ddf735074ea36e93d16cabe7bfd9fd0fe623a19a",
+      "asset_sha256": "b2fcddfd444888b760d82f50ddf735074ea36e93d16cabe7bfd9fd0fe623a19a",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "2932d14738cd142192c57f2f46e2b071ade714f27f1802db95da49015f71604e"
+    },
+    {
+      "key": "bow-drill-fire",
+      "type": "skill",
+      "title": "Bow Drill Fire",
+      "scene": "Side three-quarter close technique study: dry flat hearth board socket near edge with V-notch joining socket to outside edge and small bark ember catcher UNDER notch. Vertical spindle held at top by bearing block in operator hand; other hand holds curved wooden bow, single cord wraps spindle once. Foot braces board away from notch; bearing wrist supported against shin, bow path unobstructed. No flame; tiny dark dust mound at notch. Inset sustained small ember separate from smoke icon. Labels 'STABLE BEARING', 'DUST NOTCH', 'EMBER CATCHER'. Show at most cropped lower body, two hands, one foot.",
+      "detail": "Side three-quarter close technique study: dry flat hearth board socket near edge with V-notch joining socket to outside edge and small bark ember catcher UNDER notch. Vertical spindle held at top by bearing block in operator hand; other hand holds curved wooden bow, single cord wraps spindle once. Foot braces board away from notch; bearing wrist supported against shin, bow path unobstructed. No flame; tiny dark dust mound at notch. Inset sustained small ember separate from smoke icon. Labels 'STABLE BEARING', 'DUST NOTCH', 'EMBER CATCHER'. Show at most cropped lower body, two hands, one foot.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'BOW DRILL FIRE'. Side three-quarter close technique study: dry flat hearth board socket near edge with V-notch joining socket to outside edge and small bark ember catcher UNDER notch. Vertical spindle held at top by bearing block in operator hand; other hand holds curved wooden bow, single cord wraps spindle once. Foot braces board away from notch; bearing wrist supported against shin, bow path unobstructed. No flame; tiny dark dust mound at notch. Inset sustained small ember separate from smoke icon. Labels 'STABLE BEARING', 'DUST NOTCH', 'EMBER CATCHER'. Show at most cropped lower body, two hands, one foot.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/bow-drill-fire.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-b4643b39-5384-412b-8028-7b4ae10d1a69.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Fire/Bow Drill Fire.md",
+      "source_sha256": "6893dbf5695073f53cb6cb34ca8258e7546b07a213717389a0744b41241f5a79",
+      "asset_sha256": "6893dbf5695073f53cb6cb34ca8258e7546b07a213717389a0744b41241f5a79",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "cde91e72ad3dd1893cb0b7bffee22ea4ed2063bab149469c300a01be0a342995"
+    },
+    {
+      "key": "twining",
+      "type": "skill",
+      "title": "Twining",
+      "scene": "Large macro technical study of FOUR upright pale willow strip foundations and EXACTLY TWO continuous working cords, one dusty blue and one muted coral for teaching distinction. The two cords CROSS in each space BETWEEN neighbouring foundations and change front/back position, enclosing each foundation, not an ordinary single-strand over/under weave. One completed row only, enlarged gap detail. Labels 'TWO WORKING ELEMENTS', 'CROSS BETWEEN', 'FOUNDATIONS'. No loom, knots at every crossing or finished blanket.",
+      "detail": "Large macro technical study of FOUR upright pale willow strip foundations and EXACTLY TWO continuous working cords, one dusty blue and one muted coral for teaching distinction. The two cords CROSS in each space BETWEEN neighbouring foundations and change front/back position, enclosing each foundation, not an ordinary single-strand over/under weave. One completed row only, enlarged gap detail. Labels 'TWO WORKING ELEMENTS', 'CROSS BETWEEN', 'FOUNDATIONS'. No loom, knots at every crossing or finished blanket.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'TWINING'. Large macro technical study of FOUR upright pale willow strip foundations and EXACTLY TWO continuous working cords, one dusty blue and one muted coral for teaching distinction. The two cords CROSS in each space BETWEEN neighbouring foundations and change front/back position, enclosing each foundation, not an ordinary single-strand over/under weave. One completed row only, enlarged gap detail. Labels 'TWO WORKING ELEMENTS', 'CROSS BETWEEN', 'FOUNDATIONS'. No loom, knots at every crossing or finished blanket.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/twining.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4889ee1b-9d68-4a08-a4c8-8ead43de98b6.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection accepted: legible technique, materials, labels and scene limits; artwork is explanatory rather than experimental validation.",
+      "page": "04_Skills/Fibre Work/Twining.md",
+      "source_sha256": "8bbb0d9191661753bd8cd35a47ee3451bd588a16ff1c3be7393f62e57dff24f5",
+      "asset_sha256": "8bbb0d9191661753bd8cd35a47ee3451bd588a16ff1c3be7393f62e57dff24f5",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "0695972e5588bdc24d6255d4622dea20276b2c275d0654d5301d34ce22af5075"
+    },
+    {
+      "key": "day-36",
+      "type": "survival",
+      "day": 36,
+      "scene": "Repairing the fish cage’s removable rear cap at the established river margin.",
+      "detail": "At westbank of southflowing MAINRIVER belowconfluence, no shelter orcampfurniture nearby. Low close bankview, water to right, dry stablebank left. Traveller SITS ON LOWROCK with exactly two knees/two lowerlegs/two barefeet on dryground, angled right facing cage. Rightnear shoulder BARE; leftfar shoulder narrowfoxstrip mostly behindneck. Horizontalsmall cylinderfishcage lies onbank with openREAR end closest to hands; he ties a fine nettleline around repairedrear collar. Detached removable ROUNDwovenCAP alongside, inwardfrontfunnel stays inside FARend. Image2 is equipmentGEOMETRYONLY, remove alltext/cutaway: real whole wovenbody not sawcut. Small flexible willowwithes lie nearby, onlyminimal. No fish/catch today, no weir orbridge, no hugecage. Focus repair and vulnerablebankwork.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. DAY36 REAR CAP REPAIR: tight close view focused on actual REAR CIRCULAR OPENING of small woven cage cylinder on stable DRY riverbank. Traveller sits lowrock in clear twoleg/twoarm pose, faceidentity visible. Hands work a new fine nettle tie around rear-collar circumference. Cage extends away from camera toRIGHT and its distant ENTRANCE END IS OUTSIDE FRAME. Rear opening is a simple unobstructed cylinder mouth with DARK OPEN SPACE inside; NO cone or funnel visible there. Round flat removable woven REARCAP lies detached onbank next to rearopening. NO other cap attached to rearopening. This is tying collar/binding with cap removed, nofish. Mainriver water softlypainted farupperright, drybank below. Narrowfoxpanel onleftshoulderonly. No reference geometryimage because its cutaway confuses oppositeends. No shelter, largefoodpile, extraobjects. Smoothskinwash notetched.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style"
+      ],
+      "asset": "_Artwork/survival/day-36.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-b98da9aa-923b-47f8-be03-de8706b79454.png",
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "01_Survival/Moon 2 Day 7 - A Better Closure.md",
+      "source_sha256": "b3d24abddfd7232baa27ccbd6e59cb394bbfc3fdb24a947726bef56a3c022ded",
+      "asset_sha256": "b3d24abddfd7232baa27ccbd6e59cb394bbfc3fdb24a947726bef56a3c022ded",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "b3e581508be0c13fcadf25a0dd8a5d01eda14d07943500110b9029505d23f6c5"
+    },
+    {
+      "key": "knots-primitive-set",
+      "type": "skill",
+      "title": "Knots - Primitive Set",
+      "scene": "An accurately traced natural two-strand cord with ONE simple overhand stopper knot enlarged as main study: rope doubles into loop, free end passes once through the loop and is drawn into a single overhand knot. Small inset shows generous free tail under low test tension and witness mark for slipping. NOT a bowline, snare, decorative tangle or detached rope ring. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. Only ONE knot illustrated; page lists other knots in prose.",
+      "detail": "An accurately traced natural two-strand cord with ONE simple overhand stopper knot enlarged as main study: rope doubles into loop, free end passes once through the loop and is drawn into a single overhand knot. Small inset shows generous free tail under low test tension and witness mark for slipping. NOT a bowline, snare, decorative tangle or detached rope ring. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. Only ONE knot illustrated; page lists other knots in prose.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title 'KNOTS - PRIMITIVE SET'. Focus ONLY on finished SINGLE-STRAND OVERHAND STOPPER KNOT, a compact thumb-knot in middle of ONE rope with two FREE ENDS extending in OPPOSITE directions. This is NOT tied on a doubled bight: absolutely NO closed eye or loop projecting above knot. Both sides of knot run offpage as single strands. Show its accurate under/over crossing with one tucked end through the original smallloop in the compact knot. Main study finished dressed knot, very simple. Tiny secondary detail one loose free end with generous tail margin, and tiny witnessmark on same single rope. Labels 'DRESS THE KNOT', 'LEAVE A TAIL', 'CHECK FOR CREEP'. No hands, no formation sequence, no bowline/fixedloop/noose or decorative ring. Only one final knot enlarged.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/knots-primitive-set.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-aebb8fff-bf3f-4732-9529-2a0c77367004.png",
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Construction/Knots & Lashings/Knots - Primitive Set.md",
+      "source_sha256": "12b16f78f062d4ed4fc21f02e6cca55390a3cf888610ff9359bb8568dc83a96a",
+      "asset_sha256": "12b16f78f062d4ed4fc21f02e6cca55390a3cf888610ff9359bb8568dc83a96a",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "eb3158e5dd3b59aafc59e33cdc8d1ece270a8d5ba17fd5eacf7df9b80ead978b"
+    },
+    {
+      "key": "day-38",
+      "type": "survival",
+      "day": 38,
+      "scene": "Supporting and carefully fleshing the newly acquired rabbit pelt on the dirty-material flank.",
+      "detail": "CAMP southern/southwestern DIRTYprocessingflank, closeview facingnorth/northeast: lowfallenlimbshelter maybefarleftupslope, hearthOUTOFCROP. Traveller seatedlowrock normal TWOlegsfeet separated, onlytwoarms, working ONEsmall RABBITpelt with fine bluntstonescraper supportedonlowframe. Creamskinunderside and brownfurmargin, NO blood, rawvisceraorinjury. Frame smallnaturalbranches, originalnotnewlargeframe. Woodenpointedspear nearbywithinreach outsidehands. The rabbitpelt is DAMPinprocess, no newgarment. OLDnarrowfoxstrip on anatomicalLEFT shoulder; keep right shoulderbare and barkwaistpelvicpad. No finishedgrasspanel, meat dryingstore, dressingfatbowlorfiredpot. Cooler afternoon, practical vulnerableconcentration.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. CAMP southern/southwestern DIRTYprocessingflank, closeview facingnorth/northeast: lowfallenlimbshelter maybefarleftupslope, hearthOUTOFCROP. Traveller seatedlowrock normal TWOlegsfeet separated, onlytwoarms, working ONEsmall RABBITpelt with fine bluntstonescraper supportedonlowframe. Creamskinunderside and brownfurmargin, NO blood, rawvisceraorinjury. Frame smallnaturalbranches, originalnotnewlargeframe. Woodenpointedspear nearbywithinreach outsidehands. The rabbitpelt is DAMPinprocess, no newgarment. OLDnarrowfoxstrip on anatomicalLEFT shoulder; keep right shoulderbare and barkwaistpelvicpad. No finishedgrasspanel, meat dryingstore, dressingfatbowlorfiredpot. Cooler afternoon, practical vulnerableconcentration.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style"
+      ],
+      "asset": "_Artwork/survival/day-38.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-05294328-13a9-4fc3-9cf8-4a4fd9dd073e.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "rejection_reason": "Wrong stone-tipped traveller spear; hide oversized."
+    },
+    {
+      "key": "day-39",
+      "type": "survival",
+      "day": 39,
+      "scene": "Twining the small flexible grass top-edge sample after withdrawing from the occupied patch.",
+      "detail": "CleanUPHILLcraftspot, closelowview lookingwest/northwest so NOwater. Traveller seatedlowstone, knees shins feet separate anatomy, orcropwaistup toavoidlegs; focus ordinary TWO hands crossing TWO fineyarnworkingelements around hanging SOFTgrassbundles in palmsizedsmall SAMPLE onstone. NOTfullmantle, notstiffwillowbeddingmat. Smallreservedgrasslot aside with fineyarn; no abundance. NearanatomicalRIGHTshoulder bare, tinyfoxstrip onfarLEFTbehindneck. Calmfocusedfacewithworry. Spear outsidecrop, no neighboursinthischosenmoment, nofireoncraftspot, nonewrabbitpeltclothing. One simple naturalcuttingflake maybe. No futurecloth, pointorfletching.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. CleanUPHILLcraftspot, closelowview lookingwest/northwest so NOwater. Traveller seatedlowstone, knees shins feet separate anatomy, orcropwaistup toavoidlegs; focus ordinary TWO hands crossing TWO fineyarnworkingelements around hanging SOFTgrassbundles in palmsizedsmall SAMPLE onstone. NOTfullmantle, notstiffwillowbeddingmat. Smallreservedgrasslot aside with fineyarn; no abundance. NearanatomicalRIGHTshoulder bare, tinyfoxstrip onfarLEFTbehindneck. Calmfocusedfacewithworry. Spear outsidecrop, no neighboursinthischosenmoment, nofireoncraftspot, nonewrabbitpeltclothing. One simple naturalcuttingflake maybe. No futurecloth, pointorfletching.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style"
+      ],
+      "asset": "_Artwork/survival/day-39.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-057ad827-8ba6-4106-ad30-5a2bc30dcc0a.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "01_Survival/Moon 2 Day 10 - The Price of a Clear Route.md",
+      "source_sha256": "ec1a2caf7879c6ea037fd7e611c61fe1a11ceade1873d5c70a83af400ffb650a",
+      "asset_sha256": "ec1a2caf7879c6ea037fd7e611c61fe1a11ceade1873d5c70a83af400ffb650a",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "be434ccbcb99d6c7f3cd9dd1638eac2fc0a73088da1c3aa5484c5198f21e3e1f"
+    },
+    {
+      "key": "day-40",
+      "type": "survival",
+      "day": 40,
+      "scene": "A brief dry fit check of the first hanging grass back panel near camp.",
+      "detail": "Traveller STANDINGfullyupright atcampnearclean craftspot, camera SOUTHWESTlookingNORTHEAST? view close threequarter REAR so panelonbackreadable and face leftprofile visible. A SOFTgrassBACKPANEL roughly0.5mwide0.6mlong hangsshoulderbladestowaist, irregularfringe, exactlytwo spaced pairedyarnretainingrows and separate short supportedtopcord/two loose shoulderfastenings NOTtightneckloop. Image2 suppliespanelGEOMETRYONLY nolettering and noextraobjects. Armsfree raisedslightlyaway checkingmotion, twoarms/twolegs barefeet clear. FRONTchestmostlyopen, norigidwoodgrid, nofullcoat, nohood. Existingtiny foxpanelstays on anatomicalLEFTshoulder separate notsewninto grasspanel. Samebarkwaistpanels smallpelvicpad. No newrabbitpeltgarment. Shelter farleftnorthwestupslope ifvisible, OUTSIDEhearthnotnexttohim andpreferoutofcrop; NOWATERneeded. Daytime drytrial notrain. No dart, fishholding, potterycookware, suppliedrefuge. Warmmutedlight,samewatercolourink.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. Traveller STANDINGfullyupright atcampnearclean craftspot, camera SOUTHWESTlookingNORTHEAST? view close threequarter REAR so panelonbackreadable and face leftprofile visible. A SOFTgrassBACKPANEL roughly0.5mwide0.6mlong hangsshoulderbladestowaist, irregularfringe, exactlytwo spaced pairedyarnretainingrows and separate short supportedtopcord/two loose shoulderfastenings NOTtightneckloop. Image2 suppliespanelGEOMETRYONLY nolettering and noextraobjects. Armsfree raisedslightlyaway checkingmotion, twoarms/twolegs barefeet clear. FRONTchestmostlyopen, norigidwoodgrid, nofullcoat, nohood. Existingtiny foxpanelstays on anatomicalLEFTshoulder separate notsewninto grasspanel. Samebarkwaistpanels smallpelvicpad. No newrabbitpeltgarment. Shelter farleftnorthwestupslope ifvisible, OUTSIDEhearthnotnexttohim andpreferoutofcrop; NOWATERneeded. Daytime drytrial notrain. No dart, fishholding, potterycookware, suppliedrefuge. Warmmutedlight,samewatercolourink.",
+      "references": [
+        "_Artwork/survival/day-01.png",
+        "_Artwork/tools/plant-fibre-clothing.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style",
+        "object/anatomy geometry only"
+      ],
+      "asset": "_Artwork/survival/day-40.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4e728e02-cf34-4709-a1dc-fb439eab1d8d.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "rejection_reason": "Fox panel on wrong anatomical shoulder."
+    },
+    {
+      "key": "hand-drill-fire",
+      "type": "skill",
+      "title": "Hand Drill Fire",
+      "scene": "Conceptual alternative: slender straight dry wooden spindle vertical in a notched hearth board on ground; two open palms facing each other on opposite sides of spindle, arrows showing rotation and downward pressure. Cropped knee helps brace board; small catcher beneath notch. No bow, cord or bearing block. No flame or guaranteed ember. Labels 'ROTATE', 'CONTROL PRESSURE', 'EMBER NOT SMOKE'. Generic prepared wood, no identifiable poisonous stems.",
+      "detail": "Conceptual alternative: slender straight dry wooden spindle vertical in a notched hearth board on ground; two open palms facing each other on opposite sides of spindle, arrows showing rotation and downward pressure. Cropped knee helps brace board; small catcher beneath notch. No bow, cord or bearing block. No flame or guaranteed ember. Labels 'ROTATE', 'CONTROL PRESSURE', 'EMBER NOT SMOKE'. Generic prepared wood, no identifiable poisonous stems.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'HAND DRILL FIRE'. Conceptual alternative: slender straight dry wooden spindle vertical in a notched hearth board on ground; two open palms facing each other on opposite sides of spindle, arrows showing rotation and downward pressure. Cropped knee helps brace board; small catcher beneath notch. No bow, cord or bearing block. No flame or guaranteed ember. Labels 'ROTATE', 'CONTROL PRESSURE', 'EMBER NOT SMOKE'. Generic prepared wood, no identifiable poisonous stems.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/hand-drill-fire.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-f537e97c-643e-492a-9249-0ad1dfc4b589.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Fire/Hand Drill Fire.md",
+      "source_sha256": "98ee4915937dfc80e94de1d9aa0d21c4f13aeab43bcf458b78be591cb78cb376",
+      "asset_sha256": "98ee4915937dfc80e94de1d9aa0d21c4f13aeab43bcf458b78be591cb78cb376",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "eeb23d9b6f23bf511841e7933f694f49489bbd526337f5e5bf4cf224be5e2761"
+    },
+    {
+      "key": "basic-spear-fishing",
+      "type": "skill",
+      "title": "Basic Spear Fishing",
+      "scene": "Single educational water-refraction cross-section, no catching scene. Person simplified only at bank with bare feet on STABLE DRY GROUND, wooden-pointed spear tip near surface, water shallow and slow. Real fish clearly drawn below surface; dotted pale duplicate ABOVE real fish labelled 'APPARENT POSITION'. Light ray bends at surface consistently; aim ray points below apparent image toward realfish. Labels 'STABLE FOOTING', 'REFRACTION', 'REAL POSITION'. No impaled fish, deep wading or boat.",
+      "detail": "Single educational water-refraction cross-section, no catching scene. Person simplified only at bank with bare feet on STABLE DRY GROUND, wooden-pointed spear tip near surface, water shallow and slow. Real fish clearly drawn below surface; dotted pale duplicate ABOVE real fish labelled 'APPARENT POSITION'. Light ray bends at surface consistently; aim ray points below apparent image toward realfish. Labels 'STABLE FOOTING', 'REFRACTION', 'REAL POSITION'. No impaled fish, deep wading or boat.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'BASIC SPEAR FISHING'. Single educational water-refraction cross-section, no catching scene. Person simplified only at bank with bare feet on STABLE DRY GROUND, wooden-pointed spear tip near surface, water shallow and slow. Real fish clearly drawn below surface; dotted pale duplicate ABOVE real fish labelled 'APPARENT POSITION'. Light ray bends at surface consistently; aim ray points below apparent image toward realfish. Labels 'STABLE FOOTING', 'REFRACTION', 'REAL POSITION'. No impaled fish, deep wading or boat.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/basic-spear-fishing.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-bf17485c-277c-4fd9-afb8-82fee3298a2f.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "rejection_reason": "Bent dotted path visually conflates spear path with refracted light; replace with separated optical ray and straight aiming line."
+    },
+    {
+      "key": "crayfish-gathering",
+      "type": "skill",
+      "title": "Crayfish Gathering",
+      "scene": "Conceptual assessment plate, NOT a local occurrence claim: isolated generic freshwater crayfish in natural ochre/blue labelled 'CONFIRM SPECIES'. Secondary shallow-water bank section, hand kept ABOVE rock rather than reaching blindly beneath it; footprint on dry stablebank. Small closed empty bark specimen tray. Labels 'CHECK LOCAL PRESENCE', 'STABLE FOOTING', 'DO NOT REACH BLINDLY'. No catch, meal, eating, red boiled shell or predicted yield.",
+      "detail": "Conceptual assessment plate, NOT a local occurrence claim: isolated generic freshwater crayfish in natural ochre/blue labelled 'CONFIRM SPECIES'. Secondary shallow-water bank section, hand kept ABOVE rock rather than reaching blindly beneath it; footprint on dry stablebank. Small closed empty bark specimen tray. Labels 'CHECK LOCAL PRESENCE', 'STABLE FOOTING', 'DO NOT REACH BLINDLY'. No catch, meal, eating, red boiled shell or predicted yield.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'CRAYFISH GATHERING'. Conceptual assessment plate, NOT a local occurrence claim: isolated generic freshwater crayfish in natural ochre/blue labelled 'CONFIRM SPECIES'. Secondary shallow-water bank section, hand kept ABOVE rock rather than reaching blindly beneath it; footprint on dry stablebank. Small closed empty bark specimen tray. Labels 'CHECK LOCAL PRESENCE', 'STABLE FOOTING', 'DO NOT REACH BLINDLY'. No catch, meal, eating, red boiled shell or predicted yield.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/crayfish-gathering.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-36ede7e8-74bc-4119-b2f0-b671828dded0.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Fishing/Crayfish Gathering.md",
+      "source_sha256": "143fb405a3d8f1ec966ddeb8eb93dbc3e623a5391d0bb469916a1561b95d6c05",
+      "asset_sha256": "143fb405a3d8f1ec966ddeb8eb93dbc3e623a5391d0bb469916a1561b95d6c05",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "d6849b188a1d91b8ad9befa1d0e2fcf479015ea042683d9769b5cc0fdc7731ec"
+    },
+    {
+      "key": "mussel-harvesting",
+      "type": "skill",
+      "title": "Mussel Harvesting",
+      "scene": "Two closed generic freshwater bivalve research specimens in isolation, with a partly exposed one on shallow sediment inset; observer's foot on stable dry bank, no barefoot sweeping. Short labels 'IDENTIFY SPECIES', 'ASSESS WATER SOURCE', 'KEEP SEPARATE'. Small clean empty bark research tray, not cooked mussels or meal. No universal edible checkmarks or assertion heating removes toxins.",
+      "detail": "Two closed generic freshwater bivalve research specimens in isolation, with a partly exposed one on shallow sediment inset; observer's foot on stable dry bank, no barefoot sweeping. Short labels 'IDENTIFY SPECIES', 'ASSESS WATER SOURCE', 'KEEP SEPARATE'. Small clean empty bark research tray, not cooked mussels or meal. No universal edible checkmarks or assertion heating removes toxins.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'MUSSEL HARVESTING'. Two closed generic freshwater bivalve research specimens in isolation, with a partly exposed one on shallow sediment inset; observer's foot on stable dry bank, no barefoot sweeping. Short labels 'IDENTIFY SPECIES', 'ASSESS WATER SOURCE', 'KEEP SEPARATE'. Small clean empty bark research tray, not cooked mussels or meal. No universal edible checkmarks or assertion heating removes toxins.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/mussel-harvesting.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-88661b26-7c80-4219-a27c-0b63d64eb401.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Fishing/Mussel Harvesting.md",
+      "source_sha256": "fa0ed3ae2df0151447ab78b6a7d8bb105588b65a020c6febf2d4e22f95797f3e",
+      "asset_sha256": "fa0ed3ae2df0151447ab78b6a7d8bb105588b65a020c6febf2d4e22f95797f3e",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "95d0d2ae39882a71cd4904609dbeef534c57dcad330993d1781c9fad4f1a3af1"
+    },
+    {
+      "key": "basic-foraging",
+      "type": "skill",
+      "title": "Basic Foraging",
+      "scene": "Close still-life technique study of a whole hazel twig with rounded toothed leaves, intact husked hazelnuts and opened nut showing cream kernel, plus hands sorting sound nuts from cracked dark moulding rejected one into separate bark scraps. Label 'IDENTIFY WHOLE PLANT', 'EDIBLE PORTION', 'COUNT PROCESSING'. Positive identified hazel teachingexample, not generic edible wild plant key. No tasting unknown leaves, mushrooms, rich harvest heap or modern measuring scale.",
+      "detail": "Close still-life technique study of a whole hazel twig with rounded toothed leaves, intact husked hazelnuts and opened nut showing cream kernel, plus hands sorting sound nuts from cracked dark moulding rejected one into separate bark scraps. Label 'IDENTIFY WHOLE PLANT', 'EDIBLE PORTION', 'COUNT PROCESSING'. Positive identified hazel teachingexample, not generic edible wild plant key. No tasting unknown leaves, mushrooms, rich harvest heap or modern measuring scale.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'BASIC FORAGING'. Close still-life technique study of a whole hazel twig with rounded toothed leaves, intact husked hazelnuts and opened nut showing cream kernel, plus hands sorting sound nuts from cracked dark moulding rejected one into separate bark scraps. Label 'IDENTIFY WHOLE PLANT', 'EDIBLE PORTION', 'COUNT PROCESSING'. Positive identified hazel teachingexample, not generic edible wild plant key. No tasting unknown leaves, mushrooms, rich harvest heap or modern measuring scale.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/basic-foraging.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-00d48584-b9ea-4a4a-8071-01bd833af9ba.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Foraging/Basic Foraging.md",
+      "source_sha256": "8105184070ead9fc5573e2a1202550115f7a33450fda37c1e7e7bb3e6c932f92",
+      "asset_sha256": "8105184070ead9fc5573e2a1202550115f7a33450fda37c1e7e7bb3e6c932f92",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "5dce254133a59c1207074e8fb0008a357c13cec7c03dd87ab147c502fa94136a"
+    },
+    {
+      "key": "berry-foraging",
+      "type": "skill",
+      "title": "Berry Foraging",
+      "scene": "One botanical bramble twig bearing recognisable clustered blackberries with toothed compound leaves and thorns. Hand selecting one sound ripe black berry, small clean bark tray below, separate squashed sample isolated. Labels 'CONFIRM THE PLANT', 'SOUND FRUIT', 'SMALL CLEAN LOT'. No generic redberry edibility code or invented exact specieskey, plentiful basket, cooking apparatus.",
+      "detail": "One botanical bramble twig bearing recognisable clustered blackberries with toothed compound leaves and thorns. Hand selecting one sound ripe black berry, small clean bark tray below, separate squashed sample isolated. Labels 'CONFIRM THE PLANT', 'SOUND FRUIT', 'SMALL CLEAN LOT'. No generic redberry edibility code or invented exact specieskey, plentiful basket, cooking apparatus.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'BERRY FORAGING'. One botanical bramble twig bearing recognisable clustered blackberries with toothed compound leaves and thorns. Hand selecting one sound ripe black berry, small clean bark tray below, separate squashed sample isolated. Labels 'CONFIRM THE PLANT', 'SOUND FRUIT', 'SMALL CLEAN LOT'. No generic redberry edibility code or invented exact specieskey, plentiful basket, cooking apparatus.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/berry-foraging.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-f643692f-fe3e-4092-b8f2-ceaf84f3e197.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Foraging/Berry Foraging.md",
+      "source_sha256": "91529687b69c149e0256d8f93acc65d6b86c2b67f9df170e444154946225dc51",
+      "asset_sha256": "91529687b69c149e0256d8f93acc65d6b86c2b67f9df170e444154946225dc51",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "eecbf68eeca5c615a4a0b4408a659602b3420590639bc6f41f5c628e3c4f40a5"
+    },
+    {
+      "key": "edible-plant-identification",
+      "type": "skill",
+      "title": "Edible Plant Identification",
+      "scene": "Assessment plate with one whole neutral botanical specimen drawn roots/stem/leaves/fruit together and three enlarged feature callouts: leaf attachment, flower structure, fruit. None labelled as edible species, no taste action. Add simple paired outlines of similar plants with one discriminating feature highlighted. Labels 'WHOLE ORGANISM', 'COMPARE FEATURES', 'CHECK LOOKALIKES'. No universal toxicity code, identified edible mushroom, taste test or one-feature safety rule.",
+      "detail": "Assessment plate with one whole neutral botanical specimen drawn roots/stem/leaves/fruit together and three enlarged feature callouts: leaf attachment, flower structure, fruit. None labelled as edible species, no taste action. Add simple paired outlines of similar plants with one discriminating feature highlighted. Labels 'WHOLE ORGANISM', 'COMPARE FEATURES', 'CHECK LOOKALIKES'. No universal toxicity code, identified edible mushroom, taste test or one-feature safety rule.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'EDIBLE PLANT IDENTIFICATION'. Assessment plate with one whole neutral botanical specimen drawn roots/stem/leaves/fruit together and three enlarged feature callouts: leaf attachment, flower structure, fruit. None labelled as edible species, no taste action. Add simple paired outlines of similar plants with one discriminating feature highlighted. Labels 'WHOLE ORGANISM', 'COMPARE FEATURES', 'CHECK LOOKALIKES'. No universal toxicity code, identified edible mushroom, taste test or one-feature safety rule.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/edible-plant-identification.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4da8ee4d-53c8-42d4-bad5-0b83aa815161.png",
+      "attempt": 1,
+      "edit_passes": 0,
+      "review": "Visual inspection: readable technique and state; conceptual organism drawings are not identification keys.",
+      "page": "04_Skills/Foraging/Edible Plant Identification.md",
+      "source_sha256": "1db4f6f9b3066ff2e659b216a3778e64154e5dd38ee0cd09ccdb55df6d672736",
+      "asset_sha256": "1db4f6f9b3066ff2e659b216a3778e64154e5dd38ee0cd09ccdb55df6d672736",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "cfe760569ce4f32a2af35aa055b8c031fc1de4d0a9a64f6c2a55e590762e3f70"
+    },
+    {
+      "key": "day-38",
+      "type": "survival",
+      "day": 38,
+      "scene": "Supporting and carefully fleshing the newly acquired rabbit pelt on the dirty-material flank.",
+      "detail": "CAMP southern/southwestern DIRTYprocessingflank, closeview facingnorth/northeast: lowfallenlimbshelter maybefarleftupslope, hearthOUTOFCROP. Traveller seatedlowrock normal TWOlegsfeet separated, onlytwoarms, working ONEsmall RABBITpelt with fine bluntstonescraper supportedonlowframe. Creamskinunderside and brownfurmargin, NO blood, rawvisceraorinjury. Frame smallnaturalbranches, originalnotnewlargeframe. Woodenpointedspear nearbywithinreach outsidehands. The rabbitpelt is DAMPinprocess, no newgarment. OLDnarrowfoxstrip on anatomicalLEFT shoulder; keep right shoulderbare and barkwaistpelvicpad. No finishedgrasspanel, meat dryingstore, dressingfatbowlorfiredpot. Cooler afternoon, practical vulnerableconcentration.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. DAY38: intimate waist-up portrait at DIRTYprocessingframe. Frame andworksurface LOW, shows SMALLrabbitpelt onlyaboutforearmlength, creamunderside with brownfurmargin, his twohands gentlysupported scrapingwithbluntstonescraper. Cropthecomposition so NOLEGSarevisible and NOSPEARorweapon ANYWHERE: spear is safelyreachable but entirelyoutsideframe. No meat, blood, entrails, hugehideorfoxmask. Clearfaceidentity leaningcarefully. AnatomicalLEFTshoulder onimageRIGHTinfrontthreequarter view has onlytinyfoxstrip, RIGHTshoulder imageleftbare. Existingbarkwaistcovervisible loweredge. Background softlyblurred dirtycampflank withbranches, nowater orhearthneeded. ONEsmallnewrabbitpelt stilldamp. Nogarmentfromit, nograssclothing, nofutureprops. Originalmediumfineinkwatercolour.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style"
+      ],
+      "asset": "_Artwork/survival/day-38.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4ad698a4-c9bd-453c-894d-356d8ee7e2e2.png",
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "01_Survival/Moon 2 Day 9 - A Rabbit and the Work It Brings.md",
+      "source_sha256": "9fa2a229794247c5dd40904a5d77ebd3fa3c803e952101e25ba7d6f915bbc0d5",
+      "asset_sha256": "9fa2a229794247c5dd40904a5d77ebd3fa3c803e952101e25ba7d6f915bbc0d5",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "d51066da17fba0cc1bf97f17a2cca067624a0c32248e7bf762586e6b4e8321aa"
+    },
+    {
+      "key": "day-40",
+      "type": "survival",
+      "day": 40,
+      "scene": "A brief dry fit check of the first hanging grass back panel near camp.",
+      "detail": "Traveller STANDINGfullyupright atcampnearclean craftspot, camera SOUTHWESTlookingNORTHEAST? view close threequarter REAR so panelonbackreadable and face leftprofile visible. A SOFTgrassBACKPANEL roughly0.5mwide0.6mlong hangsshoulderbladestowaist, irregularfringe, exactlytwo spaced pairedyarnretainingrows and separate short supportedtopcord/two loose shoulderfastenings NOTtightneckloop. Image2 suppliespanelGEOMETRYONLY nolettering and noextraobjects. Armsfree raisedslightlyaway checkingmotion, twoarms/twolegs barefeet clear. FRONTchestmostlyopen, norigidwoodgrid, nofullcoat, nohood. Existingtiny foxpanelstays on anatomicalLEFTshoulder separate notsewninto grasspanel. Samebarkwaistpanels smallpelvicpad. No newrabbitpeltgarment. Shelter farleftnorthwestupslope ifvisible, OUTSIDEhearthnotnexttohim andpreferoutofcrop; NOWATERneeded. Daytime drytrial notrain. No dart, fishholding, potterycookware, suppliedrefuge. Warmmutedlight,samewatercolourink.",
+      "prompt": "Use case: historical-scene. One wide 16:9 Survival opening illustration in fine brown ink and luminous transparent watercolour on warm ivory paper, restrained autumn earth tones and soft dissolved margins. Image1 is ONLY original Day1 traveller IDENTITY and STYLE; fresh render, never copy its layout or pass previous daily pictures forward. Same recognisable dark wavy ear-length hair, short beard, warm skin and lean sinewy adult about thirty. Smooth skin washes with sparse contour ink, no hatching, dots, scars or scored lines on skin. Exactly two arms and two legs, natural five-fingered hands, no overlapping confusing limbs. Current clothing through Day39: overlapping opaque bark waist panels fully cover intimate areas, small rabbit pelvic pad, VERY NARROW fox panel on anatomical LEFT shoulder; right shoulder bare, most torso exposed, bare feet. No full coat, boots, metal, modern cloth, necklace, weapon stone point for traveller, fletched dart, ceramic cookware or deer trophy. Nonsexual. Northern Iberian low valley about40000BP in cooling autumn, mosaic of open rocky slopes and patchy deciduous woods; no snow, farms, roads or medieval buildings. Camp north of tributary and west of south-flowing main river, southeast slope/entrance. Shelter northwest upslope, clean craft south of it and west/uphill of outside ordinary hearth; dirty flank south/southwest; firing patch northeast of hearth. Show ONE actual day action, no montage, text or labels. DAY40 DRYBACKPANEL FIT: fullstanding REARVIEW traveller, exactly2armsand2legs barefeet apart, headturnedleft forrecognisable profile. Small SOFTgrassbackpanel about0.5by0.6m hangsbetween shoulderbladestowaist withexactlytwo spaced pairedretainingrows andshortseparatetopcord. Image2 panelgeometryonly. Frontchestopen, armsfree slightlylifted, barkwaistbelowpanel. Camera straightbehind so anatomicalLEFT shoulder is IMAGELEFT, RIGHTshoulder is IMAGERIGHT. Verynarrowfoxstrip sits solelyonLEFT/imageleftshoulder andhangs DOWNTHEFRONT, mostlyhiddeninthisrearview: onlya tinyfurpeek on imageLEFTtopedge allowed. Absolutely NO fur on RIGHT/imageRIGHTshoulder or edge ofbackpanel. DoNOT move fox strip fordecoration. Noothernewfurcoat,pelts, hood orboots. Drycampdaylight lowfallenlimbshelter farleftupslope, nowsceneclutter nohearth/water, noartlabels. No imagepriorrendersasinput.",
+      "references": [
+        "_Artwork/survival/day-01.png",
+        "_Artwork/tools/plant-fibre-clothing.png"
+      ],
+      "reference_roles": [
+        "original protagonist identity and daily style",
+        "object/anatomy geometry only"
+      ],
+      "asset": "_Artwork/survival/day-40.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-2548b353-1e66-4f13-8506-88187a15f520.png",
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "01_Survival/Moon 2 Day 11 - A Covering That Can Be Worn.md",
+      "source_sha256": "daaf4e711a7af99da17599c8d311533656ceced68d10d27f9ab6e57bf472d5bb",
+      "asset_sha256": "daaf4e711a7af99da17599c8d311533656ceced68d10d27f9ab6e57bf472d5bb",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "2e0079e12fbfa11824b9723d49ca4cb713095fdfe8bf8d633a79f9dd34a439b8"
+    },
+    {
+      "key": "basic-spear-fishing",
+      "type": "skill",
+      "title": "Basic Spear Fishing",
+      "scene": "Single educational water-refraction cross-section, no catching scene. Person simplified only at bank with bare feet on STABLE DRY GROUND, wooden-pointed spear tip near surface, water shallow and slow. Real fish clearly drawn below surface; dotted pale duplicate ABOVE real fish labelled 'APPARENT POSITION'. Light ray bends at surface consistently; aim ray points below apparent image toward realfish. Labels 'STABLE FOOTING', 'REFRACTION', 'REAL POSITION'. No impaled fish, deep wading or boat.",
+      "detail": "Single educational water-refraction cross-section, no catching scene. Person simplified only at bank with bare feet on STABLE DRY GROUND, wooden-pointed spear tip near surface, water shallow and slow. Real fish clearly drawn below surface; dotted pale duplicate ABOVE real fish labelled 'APPARENT POSITION'. Light ray bends at surface consistently; aim ray points below apparent image toward realfish. Labels 'STABLE FOOTING', 'REFRACTION', 'REAL POSITION'. No impaled fish, deep wading or boat.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title 'BASIC SPEAR FISHING'. Main illustration a simple clear PHYSICS cross-section: flat horizontal water surface, small REALfish below, pale dotted APPARENTfish slightlyABOVE realfish. A single EYEicon in air farupperleft observes it. LIGHTRAY in blue travels fromreal fish up-left towaterinterface then continues more obliquelyleft-up toeye, bending AWAYfromnormal as it leaves water. BackwardSTRAIGHT dashed extension of AIRray into water meetsAPPARENT fish. This is ONLY lightrefraction, not a bent spear. Separate ochre wooden spear shaft in tinybank inset has perfectly STRAIGHT trajectory towardrealposition belowapparent, NEVERbends inwater. Do NOT connect spear to bentlightray. Labels 'REAL POSITION', 'APPARENT POSITION', 'LIGHT RAY'. Keep foot stable on drybankinset labelled 'STABLE FOOTING', no captureorimpalement. No arrowsimplyingspearbends. Clean uncluttered conceptual view.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/basic-spear-fishing.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-9267a493-b274-4717-a7c2-7220ef95afb2.png",
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "04_Skills/Fishing/Basic Spear Fishing.md",
+      "source_sha256": "980546a6dc3f02fb94f7ba0614b36e57eb839f3fd8dd30bd270b3ae8b2bae38d",
+      "asset_sha256": "980546a6dc3f02fb94f7ba0614b36e57eb839f3fd8dd30bd270b3ae8b2bae38d",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "a954e2b32c1b4f877c5f13b54756c7e18912eef83e22325abddc3e481c3ca38a"
+    },
+    {
+      "key": "mushroom-foraging",
+      "type": "skill",
+      "title": "Mushroom Foraging",
+      "scene": "Reference identification framework: two isolated non-labelled generic mushrooms, one shown complete with cap, stem, gills, intact base and substrate; small enlarged detail of underside and base. Emphasise observation and uncertainty with labels 'WHOLE SPECIMEN', 'CHECK THE BASE', 'LEAVE UNCERTAIN'. No green edible checkmark, safety diagnosis, tasting, harvested mushroom basket or safe-versus-poison speciespair. No meal.",
+      "detail": "Reference identification framework: two isolated non-labelled generic mushrooms, one shown complete with cap, stem, gills, intact base and substrate; small enlarged detail of underside and base. Emphasise observation and uncertainty with labels 'WHOLE SPECIMEN', 'CHECK THE BASE', 'LEAVE UNCERTAIN'. No green edible checkmark, safety diagnosis, tasting, harvested mushroom basket or safe-versus-poison speciespair. No meal.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'MUSHROOM FORAGING'. Reference identification framework: two isolated non-labelled generic mushrooms, one shown complete with cap, stem, gills, intact base and substrate; small enlarged detail of underside and base. Emphasise observation and uncertainty with labels 'WHOLE SPECIMEN', 'CHECK THE BASE', 'LEAVE UNCERTAIN'. No green edible checkmark, safety diagnosis, tasting, harvested mushroom basket or safe-versus-poison speciespair. No meal.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/mushroom-foraging.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-248dcf0e-ef68-416f-a03b-e2a298bfbe41.png",
+      "attempt": 1,
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "04_Skills/Foraging/Mushroom Foraging.md",
+      "source_sha256": "79e691a04efb80999a7518dc4790d822568366bd9f21d827f32fdbb05ff9bf8e",
+      "asset_sha256": "79e691a04efb80999a7518dc4790d822568366bd9f21d827f32fdbb05ff9bf8e",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "92575ca698dd9c5aeebfc4916db1aa6ee8e8d79353c8132604c863d38a7e02f9"
+    },
+    {
+      "key": "medicinal-plant-assessment",
+      "type": "skill",
+      "title": "Medicinal Plant Assessment",
+      "scene": "Quiet research-assessment plate: neutral botanical sprig, small unfilled bark tray and bark record slip with unnumbered simple marks. Three separated leader areas 'IDENTITY', 'PREPARATION', 'EVIDENCE'. Small hand holds sprig for inspection, no mortarful remedy, infusion dose, wound, treatment or sterile claim. Distinguish consideration from application; no medical symbols promising cure.",
+      "detail": "Quiet research-assessment plate: neutral botanical sprig, small unfilled bark tray and bark record slip with unnumbered simple marks. Three separated leader areas 'IDENTITY', 'PREPARATION', 'EVIDENCE'. Small hand holds sprig for inspection, no mortarful remedy, infusion dose, wound, treatment or sterile claim. Distinguish consideration from application; no medical symbols promising cure.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'MEDICINAL PLANT ASSESSMENT'. Quiet research-assessment plate: neutral botanical sprig, small unfilled bark tray and bark record slip with unnumbered simple marks. Three separated leader areas 'IDENTITY', 'PREPARATION', 'EVIDENCE'. Small hand holds sprig for inspection, no mortarful remedy, infusion dose, wound, treatment or sterile claim. Distinguish consideration from application; no medical symbols promising cure.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/medicinal-plant-assessment.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-c8e50213-22a4-4ece-bd90-5dc30a5b81bd.png",
+      "attempt": 1,
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "04_Skills/Health/Medicinal Plant Assessment.md",
+      "source_sha256": "be73a6dd223eb6fa41bd1793b84293357992d5d9c3bfa15480ad1e741ba6a086",
+      "asset_sha256": "be73a6dd223eb6fa41bd1793b84293357992d5d9c3bfa15480ad1e741ba6a086",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "7ded413299cbe469d9db0486653f4460a409f5c2e049c4556c5aac87d01695dc"
+    },
+    {
+      "key": "atlatl-throwing",
+      "type": "skill",
+      "title": "Atlatl Throwing",
+      "scene": "Three small separated outline side-profile figures show SAME ordinary human in three positions, with NO overlapping ghostlimbs: balanced setup, coordinated forward movement, follow-through. Each has exactly two arms/two legs; modest natural clothing. Slender wooden atlatl with small supported spur engaging rear seat of long BLUNT UNFLETCHED dart at setup; appropriate overarm throw with body turn, later lever rises, projectile clears hook. No giant crook, fletching, bow or spearhead. Labels 'BALANCE', 'COORDINATE', 'FOLLOW THROUGH'. Conceptual motion plate not mastered narrative action. Dashed path only beyond release.",
+      "detail": "Three small separated outline side-profile figures show SAME ordinary human in three positions, with NO overlapping ghostlimbs: balanced setup, coordinated forward movement, follow-through. Each has exactly two arms/two legs; modest natural clothing. Slender wooden atlatl with small supported spur engaging rear seat of long BLUNT UNFLETCHED dart at setup; appropriate overarm throw with body turn, later lever rises, projectile clears hook. No giant crook, fletching, bow or spearhead. Labels 'BALANCE', 'COORDINATE', 'FOLLOW THROUGH'. Conceptual motion plate not mastered narrative action. Dashed path only beyond release.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'ATLATL THROWING'. Three small separated outline side-profile figures show SAME ordinary human in three positions, with NO overlapping ghostlimbs: balanced setup, coordinated forward movement, follow-through. Each has exactly two arms/two legs; modest natural clothing. Slender wooden atlatl with small supported spur engaging rear seat of long BLUNT UNFLETCHED dart at setup; appropriate overarm throw with body turn, later lever rises, projectile clears hook. No giant crook, fletching, bow or spearhead. Labels 'BALANCE', 'COORDINATE', 'FOLLOW THROUGH'. Conceptual motion plate not mastered narrative action. Dashed path only beyond release.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/atlatl-throwing.png",
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-8d193d48-5aee-499b-9b59-605b4ea4fc10.png",
+      "attempt": 1,
+      "rejection_reason": "Thrower grip and engagement unclear; follow-through releases thrower from hand."
+    },
+    {
+      "key": "projectile-testing",
+      "type": "skill",
+      "title": "Projectile Testing",
+      "scene": "Top-down small generic experimental ground, NOT surveyed valleymap. Clear short start position faces broad EARTH BANK backstop, tiny dispersed dart landing marks with two separate trial groups in dusty blue/coral. A slim blunt unfletched dart and separate small thrower lie isolated at edge. One bark tally slip has simple strokes. Labels 'SAME START', 'RECORD MISSES', 'CHANGE ONE FACTOR'. No speed/energy/range numbers, bullseye victory, people in path or pointed huntingdart.",
+      "detail": "Top-down small generic experimental ground, NOT surveyed valleymap. Clear short start position faces broad EARTH BANK backstop, tiny dispersed dart landing marks with two separate trial groups in dusty blue/coral. A slim blunt unfletched dart and separate small thrower lie isolated at edge. One bark tally slip has simple strokes. Labels 'SAME START', 'RECORD MISSES', 'CHANGE ONE FACTOR'. No speed/energy/range numbers, bullseye victory, people in path or pointed huntingdart.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'PROJECTILE TESTING'. Top-down small generic experimental ground, NOT surveyed valleymap. Clear short start position faces broad EARTH BANK backstop, tiny dispersed dart landing marks with two separate trial groups in dusty blue/coral. A slim blunt unfletched dart and separate small thrower lie isolated at edge. One bark tally slip has simple strokes. Labels 'SAME START', 'RECORD MISSES', 'CHANGE ONE FACTOR'. No speed/energy/range numbers, bullseye victory, people in path or pointed huntingdart.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/projectile-testing.png",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-0bcb2b61-7852-4d24-a60f-0f13db1f3e7e.png",
+      "attempt": 1,
+      "review": "Visually checked against page; scene or technique readable.",
+      "page": "04_Skills/Hunting/Projectile Testing.md",
+      "source_sha256": "51060ec52c51c1f0b04766b1ed0ff72f84d86c4e95a6ba7d4839a15e6120ac34",
+      "asset_sha256": "51060ec52c51c1f0b04766b1ed0ff72f84d86c4e95a6ba7d4839a15e6120ac34",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "5fba5b1e53c7a1649a533f49a644b3a164be03005bd79a2bbef850ca157580ad"
+    },
+    {
+      "key": "atlatl-throwing",
+      "type": "skill",
+      "title": "Atlatl Throwing",
+      "scene": "Three small separated outline side-profile figures show SAME ordinary human in three positions, with NO overlapping ghostlimbs: balanced setup, coordinated forward movement, follow-through. Each has exactly two arms/two legs; modest natural clothing. Slender wooden atlatl with small supported spur engaging rear seat of long BLUNT UNFLETCHED dart at setup; appropriate overarm throw with body turn, later lever rises, projectile clears hook. No giant crook, fletching, bow or spearhead. Labels 'BALANCE', 'COORDINATE', 'FOLLOW THROUGH'. Conceptual motion plate not mastered narrative action. Dashed path only beyond release.",
+      "detail": "Three small separated outline side-profile figures show SAME ordinary human in three positions, with NO overlapping ghostlimbs: balanced setup, coordinated forward movement, follow-through. Each has exactly two arms/two legs; modest natural clothing. Slender wooden atlatl with small supported spur engaging rear seat of long BLUNT UNFLETCHED dart at setup; appropriate overarm throw with body turn, later lever rises, projectile clears hook. No giant crook, fletching, bow or spearhead. Labels 'BALANCE', 'COORDINATE', 'FOLLOW THROUGH'. Conceptual motion plate not mastered narrative action. Dashed path only beyond release.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety.  Title exactly 'ATLATL THROWING'. Simplify to ONE side-view loaded ready position, NOT a multi-frame throwing sequence. A generic adult in plain simple hide garment stands balanced facing imageRIGHT, holds wooden thrower behind and above right shoulder, looking at distant empty earthbank. The wooden thrower is SHORT with its FRONT HANDLE at imageRIGHT and its REAR integral spur at imageLEFT; person's right hand securely grasps FRONT HANDLE, index and thumb lightly supporting long dart above it. Dart rear socket at imageLEFT seats onto the integral rear spur; the long slender blunt unfletched dart extends far FORWARD to imageRIGHT. Thrower and dart are approximately horizontal and close together, correctly aligned. Thrower is ALWAYS firmly held in hand; no floating lever, release frame, modern fletching or invented projectile head. Other hand near torso, exactly2arms. Single enlarged inset, no hands: SIDE sectional study of tiny rear dart socket engaged on forward-facing integral wooden spur, show contact clearly. Labels 'REAR SEAT', 'CONTROLLED START', 'PRACTISE COORDINATION'. Refer to second reference ONLY for shape of wooden thrower and integral spur; first for manualartstyle. No performance guarantees or numericalrange.",
+      "references": [
+        "_Artwork/tools/digging-stick.png",
+        "_Artwork/tools/atlatl.png"
+      ],
+      "reference_roles": [
+        "manual style only",
+        "thrower geometry only"
+      ],
+      "asset": "_Artwork/skills/atlatl-throwing.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4eec25c8-09e6-4e61-a79d-ff344aa0a8fb.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Hunting/Atlatl Throwing.md",
+      "source_sha256": "f5b7f1dabc8859fcccbc42b5acacdf25b9c75d59b3166c69c91ba2c3bc40fb7d",
+      "asset_sha256": "f5b7f1dabc8859fcccbc42b5acacdf25b9c75d59b3166c69c91ba2c3bc40fb7d",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "1030a28575708068aa5513e23b328db05361ffa14898058016c8805643e38984"
+    },
+    {
+      "key": "scavenging",
+      "type": "skill",
+      "title": "Scavenging",
+      "scene": "Main isolated worn old RED-DEER SHED ANTLER fragment examined by one hand above dry grass, blunt cut base and branched tines recognisable, no skull attached. Secondary faint ground-sign inset has carnivoreprint and withdrawal arrow. Labels 'DETACHED MATERIAL', 'CHECK CONDITION', 'LEAVE FRESH PREDATOR SIGN'. No active kill, meat pile, predator confrontation or stolen hominid equipment.",
+      "detail": "Main isolated worn old RED-DEER SHED ANTLER fragment examined by one hand above dry grass, blunt cut base and branched tines recognisable, no skull attached. Secondary faint ground-sign inset has carnivoreprint and withdrawal arrow. Labels 'DETACHED MATERIAL', 'CHECK CONDITION', 'LEAVE FRESH PREDATOR SIGN'. No active kill, meat pile, predator confrontation or stolen hominid equipment.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'SCAVENGING'. Main isolated worn old RED-DEER SHED ANTLER fragment examined by one hand above dry grass, blunt cut base and branched tines recognisable, no skull attached. Secondary faint ground-sign inset has carnivoreprint and withdrawal arrow. Labels 'DETACHED MATERIAL', 'CHECK CONDITION', 'LEAVE FRESH PREDATOR SIGN'. No active kill, meat pile, predator confrontation or stolen hominid equipment.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/scavenging.png",
+      "selected": true,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-1e066744-ca4c-4dc8-aa0e-bcd954be1ea6.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Hunting/Scavenging.md",
+      "source_sha256": "165f1969ed766dc380ea110f6eaffbd08042108cdef7e2521677dfec33596628",
+      "asset_sha256": "165f1969ed766dc380ea110f6eaffbd08042108cdef7e2521677dfec33596628",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "1f2d3aabe756bd6a88d21b2d8e4e5cb5f6899716bdc39fb63f48b97cf131b969"
+    },
+    {
+      "key": "spear-throwing",
+      "type": "skill",
+      "title": "Spear Throwing",
+      "scene": "Two separate side-profile motion studies of the same robust upright human wearing modest simple skin clothing: balanced start and coordinated hand release. Correct human anatomy no overlapping ghost arms. LONG stone-pointed spear with knapped head bound into wooden shaft, cast BY HAND, no atlatl, bow or dart fletching. One tiny separate grouping diagram not numericalrange. Labels 'COORDINATE THE BODY', 'CONTROL RELEASE', 'RETRIEVE AND INSPECT'. Generic explanatory skill, not protagonist competence or species-strength scale.",
+      "detail": "Two separate side-profile motion studies of the same robust upright human wearing modest simple skin clothing: balanced start and coordinated hand release. Correct human anatomy no overlapping ghost arms. LONG stone-pointed spear with knapped head bound into wooden shaft, cast BY HAND, no atlatl, bow or dart fletching. One tiny separate grouping diagram not numericalrange. Labels 'COORDINATE THE BODY', 'CONTROL RELEASE', 'RETRIEVE AND INSPECT'. Generic explanatory skill, not protagonist competence or species-strength scale.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'SPEAR THROWING'. Two separate side-profile motion studies of the same robust upright human wearing modest simple skin clothing: balanced start and coordinated hand release. Correct human anatomy no overlapping ghost arms. LONG stone-pointed spear with knapped head bound into wooden shaft, cast BY HAND, no atlatl, bow or dart fletching. One tiny separate grouping diagram not numericalrange. Labels 'COORDINATE THE BODY', 'CONTROL RELEASE', 'RETRIEVE AND INSPECT'. Generic explanatory skill, not protagonist competence or species-strength scale.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/spear-throwing.png",
+      "selected": true,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-1fbc4495-6b84-4293-bfab-b498fcc3f4bf.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Hunting/Spear Throwing.md",
+      "source_sha256": "0c7f85a458bfdcfd20a4b3d5ea62f1a15f1b5617e65481d2bd75bab299d13a13",
+      "asset_sha256": "0c7f85a458bfdcfd20a4b3d5ea62f1a15f1b5617e65481d2bd75bab299d13a13",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "070e4ebb94c19e5fb936d025232cd61f6e1c3424ed5ae3e85061007ae378f64d"
+    },
+    {
+      "key": "tracking",
+      "type": "skill",
+      "title": "Tracking",
+      "scene": "Three successive hoof-print pairs in soft soil, direction arrows along trackway, one weather-softened edge shown enlarged beside fresh-looking edge without claiming exact age. Small hands use plain uncalibrated reference stick for comparison. Labels 'PATTERN', 'SUBSTRATE', 'CORROBORATE'. No certain species diagnosis from singleprint, timestamps, metricruler or guaranteedtrapcatch.",
+      "detail": "Three successive hoof-print pairs in soft soil, direction arrows along trackway, one weather-softened edge shown enlarged beside fresh-looking edge without claiming exact age. Small hands use plain uncalibrated reference stick for comparison. Labels 'PATTERN', 'SUBSTRATE', 'CORROBORATE'. No certain species diagnosis from singleprint, timestamps, metricruler or guaranteedtrapcatch.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'TRACKING'. Three successive hoof-print pairs in soft soil, direction arrows along trackway, one weather-softened edge shown enlarged beside fresh-looking edge without claiming exact age. Small hands use plain uncalibrated reference stick for comparison. Labels 'PATTERN', 'SUBSTRATE', 'CORROBORATE'. No certain species diagnosis from singleprint, timestamps, metricruler or guaranteedtrapcatch.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/tracking.png",
+      "selected": true,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-eff5e4c5-71da-4d0a-ba08-5015f4452173.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Hunting/Tracking.md",
+      "source_sha256": "7dd1edc36f73f93513420a5104b88bffc9634cf9f6af5dae06626a2870c6061f",
+      "asset_sha256": "7dd1edc36f73f93513420a5104b88bffc9634cf9f6af5dae06626a2870c6061f",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "bd83f09fbbb708e7c271bb94d380083185e06afee81c4047778c6c96d8e0ed3b"
+    },
+    {
+      "key": "measurement-and-records",
+      "type": "skill",
+      "title": "Measurement and Records",
+      "scene": "Hands compare one plain notched wooden reference rod to a second short workpiece, starting ends aligned on bark mat. Separate small bark slip shows two groups of simple unconnected tally strokes. Spare small similar kernellots not largefoodheap. Labels 'SAME REFERENCE', 'ALIGN THE ENDS', 'RECORD FAILURES'. No Arabic numerals, SIcalibration, metal ruler, modernnotebook, balanceorcommunalstandards.",
+      "detail": "Hands compare one plain notched wooden reference rod to a second short workpiece, starting ends aligned on bark mat. Separate small bark slip shows two groups of simple unconnected tally strokes. Spare small similar kernellots not largefoodheap. Labels 'SAME REFERENCE', 'ALIGN THE ENDS', 'RECORD FAILURES'. No Arabic numerals, SIcalibration, metal ruler, modernnotebook, balanceorcommunalstandards.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'MEASUREMENT AND RECORDS'. Hands compare one plain notched wooden reference rod to a second short workpiece, starting ends aligned on bark mat. Separate small bark slip shows two groups of simple unconnected tally strokes. Spare small similar kernellots not largefoodheap. Labels 'SAME REFERENCE', 'ALIGN THE ENDS', 'RECORD FAILURES'. No Arabic numerals, SIcalibration, metal ruler, modernnotebook, balanceorcommunalstandards.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/measurement-and-records.png",
+      "selected": true,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-987b7728-2962-49e4-b4db-6acfbf95d6de.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Measurement/Measurement and Records.md",
+      "source_sha256": "d4bfa7519b47c2cfa1f424ab1117929787f2ca82d0710901bfce0ea7318e40a6",
+      "asset_sha256": "d4bfa7519b47c2cfa1f424ab1117929787f2ca82d0710901bfce0ea7318e40a6",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "bd92370b9ef002c106e912879ed49e83196dbd779b876abde7f66d50225181b2"
+    },
+    {
+      "key": "environmental-observation",
+      "type": "skill",
+      "title": "Environmental Observation",
+      "scene": "Hand-drawn conceptual terrain study with small shelter icon on drained highground, stream line downhill, open escape arrow and tiny footprint/smoke sign marked question near ridge. NOT literal surveyed valley map: use no compass scale or numbered travel distances. Insets a hand checking soil dampness and three simple repeated observations. Labels 'OBSERVE', 'COMPARE', 'REVISIT'. No certainty about owners or motives, second suppliedcamp.",
+      "detail": "Hand-drawn conceptual terrain study with small shelter icon on drained highground, stream line downhill, open escape arrow and tiny footprint/smoke sign marked question near ridge. NOT literal surveyed valley map: use no compass scale or numbered travel distances. Insets a hand checking soil dampness and three simple repeated observations. Labels 'OBSERVE', 'COMPARE', 'REVISIT'. No certainty about owners or motives, second suppliedcamp.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'ENVIRONMENTAL OBSERVATION'. Hand-drawn conceptual terrain study with small shelter icon on drained highground, stream line downhill, open escape arrow and tiny footprint/smoke sign marked question near ridge. NOT literal surveyed valley map: use no compass scale or numbered travel distances. Insets a hand checking soil dampness and three simple repeated observations. Labels 'OBSERVE', 'COMPARE', 'REVISIT'. No certainty about owners or motives, second suppliedcamp.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/environmental-observation.png",
+      "selected": true,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-644a3d49-a8b7-4c02-a1be-4a2b17d95ffe.png",
+      "review": "Visually reviewed: clear relevant skill study; general figures are illustrative rather than dated inventory.",
+      "page": "04_Skills/Observation/Environmental Observation.md",
+      "source_sha256": "1afd6fe32dc0d76d60a922beaf6e53bc0852d1faad1fa6b4c4ec08f44c23fca5",
+      "asset_sha256": "1afd6fe32dc0d76d60a922beaf6e53bc0852d1faad1fa6b4c4ec08f44c23fca5",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "4f588bb0ba80ec2751511b101dc39a05abf82c076cb75b5838b2b470f9a0a3af"
+    },
+    {
+      "key": "retreat-planning",
+      "type": "skill",
+      "title": "Retreat Planning",
+      "scene": "Conceptual route-and-load plate: small primary shelter icon and an EMPTY natural rock-screened bench, dotted alternative walking route stays on SAME SIDE of stream without crossing deep water. Modest essentials isolated: wooden-pointed spear, stoneflake, bow-drillkit, smallbarkvessel and tiny nutportion with existing pouch, no backpack or extra duplicatekit. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. No fortifiedrefuge, cache, defensive trap, guaranteeorattack.",
+      "detail": "Conceptual route-and-load plate: small primary shelter icon and an EMPTY natural rock-screened bench, dotted alternative walking route stays on SAME SIDE of stream without crossing deep water. Modest essentials isolated: wooden-pointed spear, stoneflake, bow-drillkit, smallbarkvessel and tiny nutportion with existing pouch, no backpack or extra duplicatekit. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. No fortifiedrefuge, cache, defensive trap, guaranteeorattack.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'RETREAT PLANNING'. Conceptual route-and-load plate: small primary shelter icon and an EMPTY natural rock-screened bench, dotted alternative walking route stays on SAME SIDE of stream without crossing deep water. Modest essentials isolated: wooden-pointed spear, stoneflake, bow-drillkit, smallbarkvessel and tiny nutportion with existing pouch, no backpack or extra duplicatekit. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. No fortifiedrefuge, cache, defensive trap, guaranteeorattack.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/retreat-planning.png",
+      "selected": false,
+      "attempt": 1,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-265a611c-dec6-43fc-a59a-0e859bdccaa0.png",
+      "rejection_reason": "Route crosses the stream despite specified same-bank retreat, and burdens are shown tied to weapon instead of the page's carry routine."
+    },
+    {
+      "key": "retreat-planning",
+      "type": "skill",
+      "title": "Retreat Planning",
+      "scene": "Conceptual route-and-load plate: small primary shelter icon and an EMPTY natural rock-screened bench, dotted alternative walking route stays on SAME SIDE of stream without crossing deep water. Modest essentials isolated: wooden-pointed spear, stoneflake, bow-drillkit, smallbarkvessel and tiny nutportion with existing pouch, no backpack or extra duplicatekit. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. No fortifiedrefuge, cache, defensive trap, guaranteeorattack.",
+      "detail": "Conceptual route-and-load plate: small primary shelter icon and an EMPTY natural rock-screened bench, dotted alternative walking route stays on SAME SIDE of stream without crossing deep water. Modest essentials isolated: wooden-pointed spear, stoneflake, bow-drillkit, smallbarkvessel and tiny nutportion with existing pouch, no backpack or extra duplicatekit. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. No fortifiedrefuge, cache, defensive trap, guaranteeorattack.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety.  Title 'RETREAT PLANNING'. SIMPLE conceptual plan diagram, bird's-eye view, no realistic valley panorama. PaleBLUE stream is a continuous VERTICAL line at extreme imageRIGHT only; every site, icon and route stays LEFT of stream. Small primary lean-to icon at lowerLEFT, empty rock-screened natural bench at upperLEFT, plain orange dotted walkingpath between them entirely onland and wellLEFTofstream. No suppliedrefuge or cache. Beneath plan show THREE small separated existing essentials: a stoneflake, small barkwatercontainer, modest drawstringpouch with a few kernels. Do NOT suspend supplies from a spear, show a weapon, backpack or invented sparekit. No people. Labels 'KEEP AN EXIT', 'TEST THE CARRY', 'UNSUPPLIED SITE'. Diagram is schematic principle only, no actualvalleyrevision, scale or distances.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/retreat-planning.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-65d68856-91ee-48b1-a840-f633687ff178.png",
+      "review": "Schematic route stays on one bank; equipment icons are general examples rather than exact dated inventory.",
+      "page": "04_Skills/Observation/Retreat Planning.md",
+      "source_sha256": "1b9c34b711a5f23d38faf99d1fd035b5206709cb6e04f2bd3974ac0310ac5748",
+      "asset_sha256": "1b9c34b711a5f23d38faf99d1fd035b5206709cb6e04f2bd3974ac0310ac5748",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "898e4e9be2433d5d72be223b5df9d9c4e5050edf2de23eea85ad4281a45f5d0a"
+    },
+    {
+      "key": "flint-knapping-basics",
+      "type": "skill",
+      "title": "Flint Knapping Basics",
+      "scene": "Close hands on well-supported knappablecore with a small roundedhammerstone poised above exposed edge; intended removal path away from handandleg. Two isolated flakes and a small hinged removal comparison. Navy leaderlines labels 'SOUND PLATFORM', 'CONTROLLED STRIKE', 'INSPECT REMOVAL'. No metalchisels, huge perfect handaxe, pressureflakingantler, exactuniversalangle or cutskin. Fingers kept behind workingedge.",
+      "detail": "Close hands on well-supported knappablecore with a small roundedhammerstone poised above exposed edge; intended removal path away from handandleg. Two isolated flakes and a small hinged removal comparison. Navy leaderlines labels 'SOUND PLATFORM', 'CONTROLLED STRIKE', 'INSPECT REMOVAL'. No metalchisels, huge perfect handaxe, pressureflakingantler, exactuniversalangle or cutskin. Fingers kept behind workingedge.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety.  Title 'FLINT KNAPPING BASICS'. Archaeological museum illustration of prehistoric stone working. Main study is a rounded hammerstone above the prepared edge of a supported small flint core, both shown in isolation; a short arrow indicates controlled contact at the platform. Two separated small stone flakes show a conchoidal surface and a hinged termination for comparison. One inset shows the core's flat striking platform and intended flake-removal direction. Labels 'SOUND PLATFORM', 'CONTROLLED STRIKE', 'INSPECT REMOVAL'. Natural stones only; no people, weapons, metal tools, cuts or blood. This is a benign educational reconstruction of prehistoric craftsmanship, not combat or weapon construction.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/flint-knapping-basics.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-fcd6b510-533b-45db-82c4-f9e1eb75c3bf.png",
+      "review": "Visually checked: clear stoneworking or material-selection study.",
+      "page": "04_Skills/Stoneworking/Flint Knapping Basics.md",
+      "source_sha256": "4b69ecbb26a52055912c89951468e9720472e196b2703eb4b34cc22f9ce7e4e3",
+      "asset_sha256": "4b69ecbb26a52055912c89951468e9720472e196b2703eb4b34cc22f9ce7e4e3",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "bc8f7812e7450736e0e15a9df73629cea5b6883a31d1454f6ce8a717a58ec896"
+    },
+    {
+      "key": "stone-selection",
+      "type": "skill",
+      "title": "Stone Selection",
+      "scene": "Two contrasted isolated stone samples: rounded tough percussor cobble and fine-grained core with one small clean conchoidal flake scar and separate sharpflake. Third small visibly crackedweathered rejectedcobble. A hand turns sound sample, not striking. Labels 'PERCUSSOR', 'TEST FRACTURE', 'REJECT CRACKS'. No claimedhighgradeflint fromcolouralone, polishedgem, metaltool or hugecollection.",
+      "detail": "Two contrasted isolated stone samples: rounded tough percussor cobble and fine-grained core with one small clean conchoidal flake scar and separate sharpflake. Third small visibly crackedweathered rejectedcobble. A hand turns sound sample, not striking. Labels 'PERCUSSOR', 'TEST FRACTURE', 'REJECT CRACKS'. No claimedhighgradeflint fromcolouralone, polishedgem, metaltool or hugecollection.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 illustrated 1950s field-manual plate on warm ivory paper. Reference image is STYLE ONLY: crisp dark navy fine ink, sparse leader lines, generous empty space, restrained pastel sage, ochre, dusty blue and coral washes, subtle paper grain. New composition for the subject; do not copy digging stick or its labels. Show the physical technique or judgement described, with a clear main study and at most two supporting details. Modest natural-material implements, no modern equipment or unsupported performance statistics. Accurate clean anatomy, five fingers per visible hand, no extra limbs; hands or simple outline figures only where they explain the action. Short correctly spelled uppercase labels only, no paragraphs. This is an explanatory reference plate, not a scene documenting new narrative acquisitions. Do not imply mastery, successful food harvest, medical treatment or certified safety. Title exactly 'STONE SELECTION'. Two contrasted isolated stone samples: rounded tough percussor cobble and fine-grained core with one small clean conchoidal flake scar and separate sharpflake. Third small visibly crackedweathered rejectedcobble. A hand turns sound sample, not striking. Labels 'PERCUSSOR', 'TEST FRACTURE', 'REJECT CRACKS'. No claimedhighgradeflint fromcolouralone, polishedgem, metaltool or hugecollection.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "reference_roles": [
+        "manual style only"
+      ],
+      "asset": "_Artwork/skills/stone-selection.png",
+      "selected": true,
+      "attempt": 2,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-65072ca3-dfcf-4c44-9ccd-d7a3742f8428.png",
+      "review": "Visually checked: clear stoneworking or material-selection study.",
+      "page": "04_Skills/Stoneworking/Stone Selection.md",
+      "source_sha256": "85021b2c607b29a1413f57936093e2f73334dd84ad32818d7d63b17252f0b20f",
+      "asset_sha256": "85021b2c607b29a1413f57936093e2f73334dd84ad32818d7d63b17252f0b20f",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "ac12dacc3887237ff1e5a32d8c03868adeac1f64003cdb0c9ba0974b1baaa5cd"
+    }
+  ]
+}

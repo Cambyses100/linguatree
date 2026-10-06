@@ -1,0 +1,206 @@
+{
+  "created_on": "2026-10-05",
+  "method": "built-in image_gen",
+  "scope": "Days 41–45, three reference pages and Day 44 reflection",
+  "strategy": "Independent renders from original Day 1 identity or original digging-stick style reference; no cumulative edited references.",
+  "images": [
+    {
+      "key": "day-41",
+      "type": "survival",
+      "day": 41,
+      "attempt": 1,
+      "asset": "_Artwork/survival/day-41.png",
+      "scene": "Inspecting the retained fallen-limb shelter before any new frame is built.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: illustration-story. Wide16:9 page-opening watercolour painting with fine brown contour ink on textured paper, same protagonist identity and restrained golden autumn palette as reference1 (original Day1). Northern Iberian rocky valley around40000BP: scattered oak/hazel woodland, open patches, no lush tropical forest or permanent snow. Short tousled dark brown hair, short beard, lean ordinary adult male, smooth natural skin without accumulated scratches/hatching. Exactly two arms, two legs, five fingers per hand. Current clothing: rough bark waist panels and small pelvic pad, BARE FEET; narrow fox-skin strip only on anatomical LEFT shoulder, hanging mainly DOWN FRONT, nofurcoat or broad animalhide, no rabbit garment. In frontal views anatomical LEFT is imageRIGHT. Grass back panel has been REMOVED for this working moment. No headgear, boots, trousers, modern objects, metal, pottery inuse, stone-pointed protagonist spear or fletched darts. Main text action only, no montage, labels, captions or numericalannotations. Camp if visible: original low leaf/bark/branch roof beneath heavy fallen mossy limb on northwest/uphill terrace; southeast entrance and open exit; craft spot south and upslope/west of outdoorhearth, processingfarther southwest. Mainriver east and below, tributary belowcampwesttoeast. Leave the hearth OUTSIDE and separate; no newbuilding beyond specifieddaystate. Preserve unbuilt/incomplete details rather than showing completedhouse. Day41: three-quarter frontal waist-up composition. The protagonist stands or kneels OUTSIDE the existing shelter at its southeast open edge and examines the thick fallen mossy limb's sound natural bearing with one hand, looking intently at the contact. Other hand rests low on existing ordinary wooden-pointed spear, or outsidecrop if needed. Original existing flimsy lean-to roof visible behind him to imageLEFT, unchanged Day1state with modest patchedbark/leafcover, no new ribs/braces/rails, door or wall. Cool morning light. The limb stays supported on the original naturalground/tree root contact, no worker under a heavy unsupported beam. Show assessment and apprehension, not construction. Frontalview foxstrip onimageRIGHTonly.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-dbfd2fca-11e0-4866-949e-7c30f3eb492d.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "01_Survival/Moon 2 Day 12 - A Roof Is Not Yet a Winter Home.md",
+      "source_sha256": "d42bd70800bddd8546122e71a669c403510607b0cab5f7c1c5ab3fc3134cb355",
+      "asset_sha256": "d42bd70800bddd8546122e71a669c403510607b0cab5f7c1c5ab3fc3134cb355",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "47d23f9b7a35825282268423df18ff3a08b6e5a9b26ac8bf81444214361b6112"
+    },
+    {
+      "key": "day-42",
+      "type": "survival",
+      "day": 42,
+      "attempt": 1,
+      "asset": "_Artwork/survival/day-42.png",
+      "scene": "Lifting the condition-checked nettle bundle from the downstream retting pool.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: illustration-story. Wide16:9 page-opening watercolour painting with fine brown contour ink on textured paper, same protagonist identity and restrained golden autumn palette as reference1 (original Day1). Northern Iberian rocky valley around40000BP: scattered oak/hazel woodland, open patches, no lush tropical forest or permanent snow. Short tousled dark brown hair, short beard, lean ordinary adult male, smooth natural skin without accumulated scratches/hatching. Exactly two arms, two legs, five fingers per hand. Current clothing: rough bark waist panels and small pelvic pad, BARE FEET; narrow fox-skin strip only on anatomical LEFT shoulder, hanging mainly DOWN FRONT, nofurcoat or broad animalhide, no rabbit garment. In frontal views anatomical LEFT is imageRIGHT. Grass back panel has been REMOVED for this working moment. No headgear, boots, trousers, modern objects, metal, pottery inuse, stone-pointed protagonist spear or fletched darts. Main text action only, no montage, labels, captions or numericalannotations. Camp if visible: original low leaf/bark/branch roof beneath heavy fallen mossy limb on northwest/uphill terrace; southeast entrance and open exit; craft spot south and upslope/west of outdoorhearth, processingfarther southwest. Mainriver east and below, tributary belowcampwesttoeast. Leave the hearth OUTSIDE and separate; no newbuilding beyond specifieddaystate. Preserve unbuilt/incomplete details rather than showing completedhouse. Day42: closer low water-bank scene away fromcamp. Protagonist kneels on stable dry ground at a small downstream tributary pool, lifts a MODEST BUNDLE of long retted nettle stems with both hands, rinsing/draining before selected strips are dried. Stems muted brown-green, largely leafless, a few pale baststrips releasing; not cottoncloth, giantwhitefibreheap or finishedrope. Some loose tie remains aroundbundle butnotfreshline. Drywaterside grass, autumn leaves and rocky woodland slopes; bank has no bridge, weir, fishcage or polluted upstream drinkingpoint. Hands hold actualstems above water, feet stayonbank. Front/threequarterview with narrow foxstrip onhisleftshoulder(imageRIGHT). No grassgarmentduringwetwork.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-a6c7b85b-e42f-4753-80cc-d7d2015ce624.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "01_Survival/Moon 2 Day 13 - The Cost of Another Meal.md",
+      "source_sha256": "74a847c87a7382ef0c6b09af52ede9573ab6ad85025659dd6c73783a70799fee",
+      "asset_sha256": "74a847c87a7382ef0c6b09af52ede9573ab6ad85025659dd6c73783a70799fee",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "582d261d7a34f0e6078188eaf3920e6458a3dedaca586e3ede426141ce60616b"
+    },
+    {
+      "key": "day-43",
+      "type": "survival",
+      "day": 43,
+      "attempt": 1,
+      "asset": "_Artwork/survival/day-43.png",
+      "scene": "Comparing independently selected forked braces and light shelter members at the craft spot.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: illustration-story. Wide16:9 page-opening watercolour painting with fine brown contour ink on textured paper, same protagonist identity and restrained golden autumn palette as reference1 (original Day1). Northern Iberian rocky valley around40000BP: scattered oak/hazel woodland, open patches, no lush tropical forest or permanent snow. Short tousled dark brown hair, short beard, lean ordinary adult male, smooth natural skin without accumulated scratches/hatching. Exactly two arms, two legs, five fingers per hand. Current clothing: rough bark waist panels and small pelvic pad, BARE FEET; narrow fox-skin strip only on anatomical LEFT shoulder, hanging mainly DOWN FRONT, nofurcoat or broad animalhide, no rabbit garment. In frontal views anatomical LEFT is imageRIGHT. Grass back panel has been REMOVED for this working moment. No headgear, boots, trousers, modern objects, metal, pottery inuse, stone-pointed protagonist spear or fletched darts. Main text action only, no montage, labels, captions or numericalannotations. Camp if visible: original low leaf/bark/branch roof beneath heavy fallen mossy limb on northwest/uphill terrace; southeast entrance and open exit; craft spot south and upslope/west of outdoorhearth, processingfarther southwest. Mainriver east and below, tributary belowcampwesttoeast. Leave the hearth OUTSIDE and separate; no newbuilding beyond specifieddaystate. Preserve unbuilt/incomplete details rather than showing completedhouse. Day43: close craft-spot scene on ground SOUTH ofthe unchanged lean-to, oldroof visible faintly in upperLEFT, no newframeyet. Protagonist kneels upright and rotates one light naturally Y-forked branch to inspect its crotch for defects. A second forkedpiece and a modest stack of slender returnribs/one slenderrail lie onground nearhim; these are manageable smallfallenmembers, NOT logs, dressedlumber or a heavyroofbeam. The forkispaleweatheredbarknatural, no machinedjoin. Existing robust chopperstone beside work, not metalaxe; offhand supports away fromanyedge andno cuttingstroke needed. His look comparesfit andsoundness. Foregroundwoodtexture, autumn ground, no metre ruler. Foxstrip onleftshoulder,imageRIGHT infrontalview.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-e69d36da-5652-4a49-8804-b6e1b5c5e16d.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "01_Survival/Moon 2 Day 14 - Wood That Can Bear a Roof.md",
+      "source_sha256": "59979bfff330d955a0ff0ab360c38fceffed7eadab621f19e79f85f2b3db40d4",
+      "asset_sha256": "59979bfff330d955a0ff0ab360c38fceffed7eadab621f19e79f85f2b3db40d4",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "8ad2061f18f7eaf2e8114b48377fe62d264609343d1d26c60514634a280e84bd"
+    },
+    {
+      "key": "day-44",
+      "type": "survival",
+      "day": 44,
+      "attempt": 1,
+      "asset": "_Artwork/survival/day-44.png",
+      "scene": "Seating a light rail in a fork brace during the first incomplete return-frame stage.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: illustration-story. Wide16:9 page-opening watercolour painting with fine brown contour ink on textured paper, same protagonist identity and restrained golden autumn palette as reference1 (original Day1). Northern Iberian rocky valley around40000BP: scattered oak/hazel woodland, open patches, no lush tropical forest or permanent snow. Short tousled dark brown hair, short beard, lean ordinary adult male, smooth natural skin without accumulated scratches/hatching. Exactly two arms, two legs, five fingers per hand. Current clothing: rough bark waist panels and small pelvic pad, BARE FEET; narrow fox-skin strip only on anatomical LEFT shoulder, hanging mainly DOWN FRONT, nofurcoat or broad animalhide, no rabbit garment. In frontal views anatomical LEFT is imageRIGHT. Grass back panel has been REMOVED for this working moment. No headgear, boots, trousers, modern objects, metal, pottery inuse, stone-pointed protagonist spear or fletched darts. Main text action only, no montage, labels, captions or numericalannotations. Camp if visible: original low leaf/bark/branch roof beneath heavy fallen mossy limb on northwest/uphill terrace; southeast entrance and open exit; craft spot south and upslope/west of outdoorhearth, processingfarther southwest. Mainriver east and below, tributary belowcampwesttoeast. Leave the hearth OUTSIDE and separate; no newbuilding beyond specifieddaystate. Preserve unbuilt/incomplete details rather than showing completedhouse. Day44: medium view from southeast outsidecamp. Old covered leaf/bark/branch side under heavyfallenlimb remains to imageLEFT. At its north/east return side (imageRIGHT), TWO SMALL light naturalfork braces support ONE slenderrail beside/parallel to retainedheavyfallenlimb; this rail never liftsheavywood. Exactly THREE thin leaning returnribs are installed onnewside, and that newside is BARE, WITHOUTcovering. Four unusedribs can be stacked lowawayfromexit. Protagonist crouches OUTSIDE newside and seats/checks one fork/railcontact with bothhands, notstandingunderload. Smallreturnframe only, no loghut, giantuprightposts, tent, completedroof or newfloor. Show oldroof and new lightframework distinctionclearly. Clear entrance towardviewer/southeast. Outsidehearth omitted bycrop. Frontalfoxstrip onleftshoulder(imageRIGHT). Afternoonsoftlight.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-347c7041-9f59-4943-94a6-5c48248bbaab.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "01_Survival/Moon 2 Day 15 - A Frame Before a Promise.md",
+      "source_sha256": "610a43d345df87342a8894cb0e634071a99e083567dd232ac8f2692697e4eda0",
+      "asset_sha256": "610a43d345df87342a8894cb0e634071a99e083567dd232ac8f2692697e4eda0",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "d2b1e2a1b212d93e14119e6514e125b8943d374d0afb6c46325be9dda18de8b9"
+    },
+    {
+      "key": "day-45",
+      "type": "survival",
+      "day": 45,
+      "attempt": 1,
+      "asset": "_Artwork/survival/day-45.png",
+      "scene": "Applying the first partial cover to the new return slope while leaving the upper junction unfinished.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: illustration-story. Wide16:9 page-opening watercolour painting with fine brown contour ink on textured paper, same protagonist identity and restrained golden autumn palette as reference1 (original Day1). Northern Iberian rocky valley around40000BP: scattered oak/hazel woodland, open patches, no lush tropical forest or permanent snow. Short tousled dark brown hair, short beard, lean ordinary adult male, smooth natural skin without accumulated scratches/hatching. Exactly two arms, two legs, five fingers per hand. Current clothing: rough bark waist panels and small pelvic pad, BARE FEET; narrow fox-skin strip only on anatomical LEFT shoulder, hanging mainly DOWN FRONT, nofurcoat or broad animalhide, no rabbit garment. In frontal views anatomical LEFT is imageRIGHT. Grass back panel has been REMOVED for this working moment. No headgear, boots, trousers, modern objects, metal, pottery inuse, stone-pointed protagonist spear or fletched darts. Main text action only, no montage, labels, captions or numericalannotations. Camp if visible: original low leaf/bark/branch roof beneath heavy fallen mossy limb on northwest/uphill terrace; southeast entrance and open exit; craft spot south and upslope/west of outdoorhearth, processingfarther southwest. Mainriver east and below, tributary belowcampwesttoeast. Leave the hearth OUTSIDE and separate; no newbuilding beyond specifieddaystate. Preserve unbuilt/incomplete details rather than showing completedhouse. Day45: mediumsideviewfromsoutheast. Same original lowcoveredside toimageLEFT beneathheavyfallenmossylimb. New north/east return slope atimageRIGHT now has thinribs carried by a slenderrail ontwo modestforkbraces. Protagonistworks OUTSIDE and BELOW the slope with bothhands, placing an overlapping soundbarkpiece on lower/ middle drybrush/leafcover. New slope is ONLY PARTLY COVERED: leave a visible BARE upperjunction near therail and clearly UNFINISHED southeastfront/exit, not sealedhouse. Coarsecoverloose bundle nearby, no animalhide roof or cloth. Originalroofstillpresent, no secondbuilding. Nofire incrop, noindoorcombustion. Barefeet, barkwaist, narrowfoxleftstrip, NOgrassbackpanelduringbuilding. Slight breeze andgoldenautumnlight; picture shouldshow workstillowed, not finishedwinterhouse.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-d56aaa7a-b75b-4ad6-a838-4dbbf2d19f01.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "01_Survival/Moon 2 Day 16 - The Roof Still Owes You a Test.md",
+      "source_sha256": "94986893b305f2b89fe88497493e326ac1ab7e7831b8fe0ad66de84da4b62ca0",
+      "asset_sha256": "94986893b305f2b89fe88497493e326ac1ab7e7831b8fe0ad66de84da4b62ca0",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "ec8ff38e5a55254ae9dc516ee18da2a28ea010481cc61cf8858f160406a39024"
+    },
+    {
+      "key": "plant-covering-stock",
+      "type": "material",
+      "title": "Plant Covering Stock",
+      "attempt": 1,
+      "asset": "_Artwork/materials/plant-covering-stock.png",
+      "scene": "Separate screened brush, bark pieces and coarse plant cover for roof work.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "prompt": "Use case: scientific-educational. Wide16:9 1950s field-manual plate, original digging-stick reference for STYLE ONLY. Fine navy ink with restrained sage, dusty blue, ochre and coral pastel washes on warm ivory paper, generous white space and sparse clear leaderlines. One main study plus at most two insetdetails. This is a general illustrative reference, not a literal dated inventory or certified performance diagram. Natural materials only, short correctly spelled uppercase labels, no metal hardware or modern measuredstatistics. Title 'PLANT COVERING STOCK'. Main three loosely separated modest naturalmaterial lots: flexible small brushbranches, a few irregular sound barkpieces, coarse dryleafandgrass bundles. Distinguish them visuallywithoutwovencloth, processedmats, mould orthatchedfinishedroof. One smallinset showing bottom-to-top overlap of twobarkpieces onslopingbrushsupport, runoffarrowoutward/down, nothorizontalroof. Labels 'SORT BY ROLE', 'KEEP DRY', 'ALLOCATE ONCE'. No thermometer, massnumbers, rainproofclaimor person.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-4646cb46-3449-4e38-92ee-ce40c84c14f2.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "03_Materials/Plant/Plant Covering Stock.md",
+      "source_sha256": "03bde1e8b6371b73a617b2817ae6cbd9a9a6e37707a636f870b520e13b7478ec",
+      "asset_sha256": "03bde1e8b6371b73a617b2817ae6cbd9a9a6e37707a636f870b520e13b7478ec",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "a94008a5ada02aba7df073ac20109b3dcee137b6ba8f676474cb2716ed4260da"
+    },
+    {
+      "key": "shelter-construction",
+      "type": "skill",
+      "title": "Shelter Construction",
+      "attempt": 1,
+      "asset": "_Artwork/skills/shelter-construction.png",
+      "scene": "Checking a light fork-and-rail bearing from outside before adding cover.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "prompt": "Use case: scientific-educational. Wide16:9 1950s field-manual plate, original digging-stick reference for STYLE ONLY. Fine navy ink with restrained sage, dusty blue, ochre and coral pastel washes on warm ivory paper, generous white space and sparse clear leaderlines. One main study plus at most two insetdetails. This is a general illustrative reference, not a literal dated inventory or certified performance diagram. Natural materials only, short correctly spelled uppercase labels, no metal hardware or modern measuredstatistics. Title 'SHELTER CONSTRUCTION'. Main study generic adult in plainshortsleevedfieldshirt crouches OUTSIDE the falling space, hands check a slender woodrail resting INSIDE a natural Y-forkbrace whose foot sits stableonfirmground. Light simple ribframebehind, not heavylogbuilding. Railforkcontact clearbothbrancharmsofYsurroundrail, nofloatingwoodor hinges. Groundleaffree seat simple. One inset compare stablefoot vs displacedfoot, arrows indicate movement asfault. Otherinset shows preservingoldcoveredside whileanewsideisbare, exitclear. Labels 'CHECK THE SEAT', 'UNLOAD TO ADJUST', 'KEEP AN EXIT'. No numericalengineeringrating, guaranteedload or indoorrunningfire.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-970d820c-32f4-4950-9c31-51b36e208807.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "04_Skills/Craft/Shelter Construction.md",
+      "source_sha256": "a779dfdb20e84942cfaeba44c58ed521d45d276d399a2ad605e072a6bc382076",
+      "asset_sha256": "a779dfdb20e84942cfaeba44c58ed521d45d276d399a2ad605e072a6bc382076",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "969cde3a7b74a02933957f449fe4fb595792dc047ca7253c91664b16b23a672d"
+    },
+    {
+      "key": "framed-debris-shelter",
+      "type": "structure",
+      "title": "Framed Debris Shelter",
+      "attempt": 1,
+      "asset": "_Artwork/structures/framed-debris-shelter.png",
+      "scene": "Cutaway design study of a compact framed shelter, separate dry bed and clear entrance.",
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "prompt": "Use case: scientific-educational. Wide16:9 1950s field-manual plate, original digging-stick reference for STYLE ONLY. Fine navy ink with restrained sage, dusty blue, ochre and coral pastel washes on warm ivory paper, generous white space and sparse clear leaderlines. One main study plus at most two insetdetails. This is a general illustrative reference, not a literal dated inventory or certified performance diagram. Natural materials only, short correctly spelled uppercase labels, no metal hardware or modern measuredstatistics. Title 'FRAMED DEBRIS SHELTER'. Isolated general designstudy of a SMALL LOW person-sized naturalwood sleepingchamber on dryground, two modestforksupports carryONEthinridge rail, slenderinclinedribs formtwo low slopes. Irregular overlappingbarkandbrush/leafroofsection partlycutaway to showcontinuousloadpaths and distinctlofteddryplantbed under it, clearfrontopening. Finisheddesignconceptforfamily, notliteralDay45state. Two smallinsets: actualrailseatedinYfork; overlapping weatherfacingcoverdirectingrunoffoutward. Labels 'LIGHT FRAME', 'OVERLAPPING COVER', 'SEPARATE DRY BED', 'CLEAR ENTRANCE'. No heavylog cabin, tree-trunkprops, animalhide, indoorfire, metal, waterproof certification, metre dimensions, combustionchimney.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-88472ba1-cac3-4eed-8791-9fe02513ba60.png",
+      "selected": true,
+      "review": "Accepted after visual check: anatomy, clothing, location and stage fit the page.",
+      "page": "06_Structures and Places/Structures/Shelters/Framed Debris Shelter.md",
+      "source_sha256": "5d3c180fac125c1b318ccbe947c3de093509c9a34925e1083d5b591d0084b559",
+      "asset_sha256": "5d3c180fac125c1b318ccbe947c3de093509c9a34925e1083d5b591d0084b559",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "49adccbfac34186b8ced7dd76f5b3554381694fb721a9bba993fdffd3439d13a"
+    },
+    {
+      "key": "reflection-04",
+      "type": "reflection",
+      "day": 44,
+      "title": "Reflection 04 - Full Moon - Moon 2 Day 15",
+      "attempt": 1,
+      "asset": "_Artwork/reflections/reflection-04-full-moon.png",
+      "scene": "A full-moon appraisal of the bare shelter frame, modest provisions and the postponed promise of the lever.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Use case: stylized-concept. Wide16:9 distinguished literary chapter frontispiece, expressive TRANSLUCENT WATERCOLOUR with matte GOUACHE shapes and spare graphite/finebrown contours on tonedpaper, deeperquiettonalmasses and generous negative space. Painterly, not photorealistic render; a cut above daily actionpictures, thoughtful intimate singlecomposition. ReferenceoriginalDay1forprotagonistidentityONLY. NightatendDay44 with fullmoon glimpsedthroughbreaks inthincloud above rocky northernIberianvalley, subduedbluegreyandsilvermoonlight, mutedochreearth, no brightcampfirelighting. Protagonist STANDS IN PROFILE outside oldcamp shelter, head bowedslightly studying the unfinishedlightreturnframe and a modest smallbasketofkernels. Exactly2arms2legs2feet, simple standingpose,no duplicatebody/shadowlimbs. Short tousleddarkhair shortbeard leanbody; barkwaist/pelvicpad, barefoot, smallfoxpanel anatomicalLEFT shoulder only. Grassbackpanel REMOVED and hangingflatunderoldroof outofmainview, do notinventcoat. His frontheadfeetstillbare. Oldcoveredside underheavyfallenlimb isdimlyvisible; the newside has TWOlightforkbraces+thinrail+THREEthinribs, entirelyBARE withoutDay45returncover. Old roof retained, new frame not finishedhouse. Smallbasketkernelsfewvisibleatcleancraftground and plainbarktallyslip modest; originalwoodatlatlandONEbluntunfletcheddart setasidesmallinforeground, no feathersattached, no huntingstonepoint or functioningpot. These visualweightsencapsulate: leverambition humbled bylocalexpertise, uncertainfoodmargin, an unfinishedframechosenforcold, quieturgency. No localsincampor imaginedvisitors, no second shelter, indoorfireorfutureacquisitions. No captions/labels. Use visualreflectionratherthanmultiscenecomic ordecorativecollage.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-cf3f3ea4-d611-4ff9-b6f9-d5e116a0c11e.png",
+      "selected": false,
+      "review": "Rejected: invented animal tattoo on shoulder; fox panel absent; reflection too close to daily illustration."
+    },
+    {
+      "key": "reflection-04",
+      "type": "reflection",
+      "day": 44,
+      "title": "Reflection 04 - Full Moon - Moon 2 Day 15",
+      "attempt": 2,
+      "asset": "_Artwork/reflections/reflection-04-full-moon.png",
+      "scene": "A full-moon appraisal of the bare shelter frame, modest provisions and the postponed promise of the lever.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "prompt": "Create a distinguished literary watercolor and matte gouache frontispiece, wide landscape composition on textured paper. Use reference only for the identity of the short-haired, short-bearded protagonist. Northern Iberia rocky open oak woodland, autumn 40,000 BP. Night in muted silver, slate blue, ochre, large quiet areas of painterly color, graphite detail selective. The mood is weary appraisal and uncertainty. A SINGLE barefoot lean ordinary man stands in clear three-quarter PROFILE, two legs and two arms. CLEAN NATURAL SKIN: NO tattoos, no drawings, symbols, scars or ornamental skin marks. Rough bark waist panels, bare head and front torso. A small narrow fox skin strip lies over his anatomical LEFT shoulder and hangs down the front; not a fur coat. His grass back panel is removed and out of view. He looks toward the new bare light framework beside his old leaf and bark lean-to beneath a fallen mossy limb. The old roof is retained on the left; two small fork braces hold a thin rail with only THREE sloping ribs on the new right side. That new side is entirely bare and unfinished, no new covering. A SMALL shallow basket of shelled hazelnut kernels on the ground near his feet, not in his hands. Original plain wooden atlatl and ONE blunt unfletched wooden dart resting on ground, subtle foreground reminders of deferred ambitions. No stone points or attached feathers. Both hands relaxed and visible, pose calm and anatomically simple. A full moon breaks thin cloud in the distance; no indoor fire, no locals, no extra figure, no future equipment. Favor translucent expressive washes and matte blue-gray gouache over photographic detail. No lettering or captions.",
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-982d4d63-7672-4a84-8467-e67615ea937a.png",
+      "review": "Accepted: simple two-leg standing pose, clean skin, left fox panel, retained old roof, bare first-stage return frame, full-moon sky and modest food; no Day 45 covering or new acquisitions.",
+      "page": "02_Reflections/Reflection 04 - Full Moon - Moon 2 Day 15.md",
+      "source_sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e",
+      "asset_sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "d777ee1f7f2ef651e8469de6e9116d2c492c27c0e1f0f9195720a749eccda4f9"
+    }
+  ],
+  "errors": []
+}

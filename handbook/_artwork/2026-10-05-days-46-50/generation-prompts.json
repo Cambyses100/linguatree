@@ -1,0 +1,181 @@
+{
+  "created_on": "2026-10-05",
+  "method": "built-in image_gen",
+  "scope": "Days 46–50 and Hunting Approach skill",
+  "strategy": "Independent original Day 1 identity/style and digging-stick manual style references; no cumulative edits.",
+  "images": [
+    {
+      "key": "day-49",
+      "type": "survival",
+      "day": 49,
+      "asset": "_Artwork/survival/day-49.png",
+      "scene": "Lifting and checking the separate newly twined grass front panel before its first dry fitting.",
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 49: medium three-quarter FRONT composition at clean ground-level craft spot south of existing shelter. Man kneels upright and holds up a new modest flexible hanging-grass FRONT PANEL, roughly chest-to-waist sized, with both hands at the HEADER below his face. It is GOLDEN SOFT GRASS BUNDLES hanging downward, about 0.45 m wide by 0.6 m tall, TWO paired-yarn light horizontal retaining rows near upper part, separate supported top edge with small loose cord attachments. Ends flexible and uneven, not hard woven willow wicker, cloth, a basket, stiff door or full coat. He inspects one migrating row. His OLD back panel is REMOVED during construction and lies aside under cover out of main crop; do NOT put a grass shirt on him yet. Front torso bare except LEFT fox strip and bark waist/pelvic pad. Head is BARE, no rabbit crown piece until Day 50. Original low roof behind on image LEFT plus new return slope at image RIGHT NOW covered in bark/brush up to repaired upper lap; southeast mouth remains OPEN. Two modest forks/thin rail beside retained limb, no loghut or extra building. The entrance baffle is not yet placed at this selected moment. Ordinary hearth omitted. Main river faintly east/below in distance if useful. Focus on flexible workpiece and hands.",
+      "attempt": 1,
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-ee4896ab-b754-46c1-b771-8eb3020561a3.png",
+      "review": "Accepted: checked anatomy, modest clothing, object construction and dated scene state.",
+      "page": "01_Survival/Moon 2 Day 20 - Cover the Front Without Losing Your Hands.md",
+      "source_sha256": "0ab161e47a86e15754b2ce8dc5911d797cf2b47574e5823f7f875a9de2fc826a",
+      "asset_sha256": "0ab161e47a86e15754b2ce8dc5911d797cf2b47574e5823f7f875a9de2fc826a",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "a7baefb242120a8c302d7707b0181cd9c67dd50da2c70f8bd100de7cac49552e"
+    },
+    {
+      "key": "day-50",
+      "type": "survival",
+      "day": 50,
+      "asset": "_Artwork/survival/day-50.png",
+      "scene": "A dry walking check of paired grass core panels and the newly allocated limited rabbit crown pad.",
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 50: medium FRONT three-quarter view of man standing/walking slowly on dry ground just south of shelter. NEW separate grass FRONT PANEL hangs from a supported header BELOW COLLARBONES to waist, flexible golden grass bundles with TWO paired-yarn horizontal retaining rows and loose accessible shoulder/side attachments. OLD separate grass BACK PANEL partly visible at side: same soft hanging grass family, no solid shirt, side gaps and arms free. Narrow fox strip stays over anatomical LEFT shoulder (image RIGHT) and lies down beside front panel, NOT a fur collar or cloak. NEW SMALL rabbit-fur CROWN PAD, light grey-brown natural fur outward, shallow curved pad ONLY on top of head with small folded margins and ONE narrow loose cord band around forehead/back of head, no tie under chin. Hair remains visible at forehead and sides; EARS, FACE AND MUCH OF NAPE EXPOSED. No large fox hood, animal-face hat, knitted cap or fur coat. Bark waist/pelvic pad and bare feet/legs remain. He touches one accessible front shoulder fastening to re-seat it after a dry walk, other hand low relaxed, no spear needed. Original shelter in background LEFT same low covered slopes/retained mossy limb and thin return frame, repaired lap, a SMALL offset loose brush wind baffle at one edge of southeast mouth; keep clear open passage. No hinged door, indoor fire, fresh deer hide or second shelter. Airy rocky valley background, autumn dry daylight. Two distinct legs and natural hands; show modest coverage and remaining gaps.",
+      "attempt": 1,
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": false,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-f55c990c-c90b-4e81-9995-69e0e1009e18.png",
+      "review": "Rejected: front panel shows only one distinct retaining row, inconsistent with Day 49 construction."
+    },
+    {
+      "key": "hunting-approach",
+      "type": "skill",
+      "title": "Hunting Approach",
+      "asset": "_Artwork/skills/hunting-approach.png",
+      "scene": "A field-manual study of observation, screened approach and a clear return route.",
+      "prompt": "Use case: scientific-educational. Wide 16:9 mid-century field manual plate in fine NAVY ink and muted sage, dusty blue, ochre and coral pastel watercolor washes on ivory paper. Reference original digging-stick plate for STYLE ONLY. Title 'HUNTING APPROACH'. One small generic clothed field observer kneels at the sheltered near side of a rocky shoulder in image LEFT, watching TWO small red-deer hinds across an open patch to image RIGHT. He is an educational figure, not the traveller; plain shirt and trousers allowed. No modern weapon, rifle, bow, scope or binoculars. Main diagram shows cover, a shallow stony dip obstructing a direct closer route, and a clearly marked short RETURN route behind observer away from animals. Sparse arrows, no numeric distance or guaranteed cast. THREE short labels only: 'OBSERVE', 'REASSESS', 'KEEP A RETURN ROUTE'. One small inset of grass leaning with local breeze arrow, no compass or exact scent plume. Animals have ordinary anatomy, no antlers on females, no impact or injury. Plenty of space and legible simplified terrain. This is a judgement principle diagram, NOT a surveyed valley map, killing recipe or guarantee of approach range.",
+      "attempt": 1,
+      "references": [
+        "_Artwork/tools/digging-stick.png"
+      ],
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-70f51795-087f-4ffa-9cf5-b6eaa65bb9e4.png",
+      "review": "Accepted: checked anatomy, modest clothing, object construction and dated scene state.",
+      "page": "04_Skills/Hunting/Hunting Approach.md",
+      "source_sha256": "840169f720dd6a2d715bdfbbe69551ed877dfde4a8cf268101b980dda1579bc4",
+      "asset_sha256": "840169f720dd6a2d715bdfbbe69551ed877dfde4a8cf268101b980dda1579bc4",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "072ba1aa668f4033c7cb6ee8bb073947d4df28225d58872b5c61431a42c78de0"
+    },
+    {
+      "key": "day-46",
+      "type": "survival",
+      "day": 46,
+      "asset": "_Artwork/survival/day-46.png",
+      "scene": "Longer own-work nut gathering in the accessible oak/hazel circuit before roof and yarn work.",
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 46: close three-quarter FRONT view, on the ground at an oak patch west of camp, no buildings or river visible. Man kneels on one knee among fallen leaves and picks a sound acorn with one hand, comparing damaged nuts on ground. Modest woven basket on ground beside him contains a small nut lot, not a giant harvest. Back panel is worn for this dry gathering portion: a narrow flexible golden grass screen with two paired retaining rows visible only at the shoulder edge/back, not a shirt. Front torso is still open and bare apart from narrow fox LEFT strip. NO front grass panel and NO head covering yet. Both feet remain bare. Intimate low composition with acorns and crisp oak leaves in foreground, rocky open woodland in soft distance. Show search and selection, not instant food abundance.",
+      "attempt": 2,
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-25b92e7e-f240-4964-82c2-83a14d1bf122.png",
+      "review": "Accepted: own nut selection, modest basket, original back panel and fox strip, no future front panel/head covering; plausible kneeling anatomy.",
+      "page": "01_Survival/Moon 2 Day 17 - Food Before the Last Roof Layer.md",
+      "source_sha256": "0d5ed119a2b42e96e9d84b036bbedf28fee6b4e76b7156398d04db514c2067ae",
+      "asset_sha256": "0d5ed119a2b42e96e9d84b036bbedf28fee6b4e76b7156398d04db514c2067ae",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "b49a02e6f935c12c336a1e975ac3260d479d60b52876642cf28ecd42ac6e7d5b"
+    },
+    {
+      "key": "day-48",
+      "type": "survival",
+      "day": 48,
+      "asset": "_Artwork/survival/day-48.png",
+      "scene": "Pausing with his ordinary wooden-pointed spear as two red-deer hinds become alert beyond a stony dip.",
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 48: landscape scene AWAY FROM CAMP on western wooded gathering terrain. View over a rocky shoulder toward an open grassy strip beyond a shallow stony dip. Protagonist in image LEFT foreground in three-quarter side view, torso plain except LEFT fox strip, NO grass panels (put aside at camp), no head covering and bare feet. He pauses with his ordinary wooden-pointed spear held LOW beside him, one hand higher one lower on same shaft; no throwing motion. Exactly TWO RED-DEER HINDS, adult European red deer females WITHOUT ANTLERS, are across the dip in middle distance. One raises its head and ears toward him; the other begins to turn toward a separate break in oak brush. They are not within spear reach or crowding him, no wounded animal. A few shifted gravel stones beneath his foot and bent grass suggest imperfect footing and breeze. No atlatl, dart, camp, carcass, bow, headwear, stone point or large hide. Emphasize the blocked approach and multiple exits, not a heroic hunt.",
+      "attempt": 2,
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": true,
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-293db904-24c4-4d44-98fe-bd1d1bc86259.png",
+      "review": "Accepted: two antlerless red-deer hinds beyond stony ground, ordinary integral wooden point held low, no cast or catch, grass garment removed.",
+      "page": "01_Survival/Moon 2 Day 19 - The Deer Have More Than One Way Out.md",
+      "source_sha256": "c69373104e2d01a110b8a69059f60e2c1513f5cf2af0f7d5327223166bce2ca3",
+      "asset_sha256": "c69373104e2d01a110b8a69059f60e2c1513f5cf2af0f7d5327223166bce2ca3",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "b9634952e15404629a9c8b0a25c5b86cfa4cdc9ec0ade603062e74b4b5e489b8"
+    },
+    {
+      "key": "day-50",
+      "type": "survival",
+      "day": 50,
+      "attempt": 2,
+      "asset": "_Artwork/survival/day-50.png",
+      "scene": "Re-seating a front-panel fastening during the first longer dry gathering walk, wearing both core panels and the small crown pad.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": true,
+      "prompt": "Use case: illustration-story. Wide 16:9 watercolor and fine brown ink on textured paper, original reference ONLY for protagonist identity and art style. New independent scene: medium close THREE-QUARTER FRONT view during a dry gathering walk AWAY from camp in open rocky northern Iberian oak/hazel woodland, autumn around 40,000 BP. NO SHELTER, HEARTH, RIVER OR BUILDINGS visible; crop from above head to below knees so garment details have clear space. Lean ordinary adult male with short tousled dark brown hair, short beard, natural skin without tattoos or body marks. Bark waist panels and small pelvic pad. No boots or trousers. He wears a NEW FLEXIBLE GOLDEN GRASS FRONT PANEL from below collarbones to waist, roughly 0.45 m across by 0.6 m long. It consists of many soft hanging grass bundles retained by exactly TWO distinct horizontal paired-yarn twining ROWS: ONE row at upper quarter, ANOTHER separate row near middle. These TWO rows are well separated and BOTH clearly visible across the full front panel, in addition to a separate thick flexible cord HEADER at the top. The top is a wrapped cord/grass bundle, NOT a wooden rod. Lower grass fringe hangs freely, no rigid willow basket weave or woven cloth. Original separate back panel of same flexible grass family is partly visible beyond side gap, not a full shirt; arms and sides free. Narrow fox-skin strip lies on anatomical LEFT shoulder (image RIGHT), hanging down BESIDE front grass panel, not a large fur cloak or collar. A NEW SMALL light gray-brown rabbit-fur CROWN PAD on TOP of head only, shallow folded shape with one narrow loose band around forehead/back of head, no chin tie. Ears, face, much nape exposed, short hair visible at forehead/sides, no giant hood or animal-face headdress. He stops and re-seats ONE accessible shoulder fastening with his right hand at image LEFT. Other hand relaxed low. Natural hands, exactly two arms and two legs. No spear needed. Quiet concentration, morning dry light, sparse autumn woodland rocks, no carcass, labels, fletched darts, modern kit or future clothes. Make BOTH separate front retaining rows unmistakable; preserve a modest primitive garment with remaining coverage gaps.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-2791123b-7d18-4a31-884a-243c090952f4.png",
+      "review": "Accepted: both retaining rows and separate flexible header visible; crown pad has exposed ears/face, separate left fox strip, paired core panels with side gaps; no future objects or changed camp geometry in crop.",
+      "page": "01_Survival/Moon 2 Day 21 - A Smaller Gap Between Work and Warmth.md",
+      "source_sha256": "3c6b77f55144351bf8ccdd8ad03ad21310de94706cf34b4b504427996ad908b5",
+      "asset_sha256": "3c6b77f55144351bf8ccdd8ad03ad21310de94706cf34b4b504427996ad908b5",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "9168ac61a56dd5810240071e401efab7ffdea662d9ac90bfd88818512f87c5de"
+    },
+    {
+      "key": "day-47",
+      "type": "survival",
+      "day": 47,
+      "attempt": 3,
+      "asset": "_Artwork/survival/day-47.png",
+      "scene": "Watching a distant wolf-like canid at the southwest dirty flank, with his spear ready and open ground between them.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ],
+      "selected": true,
+      "prompt": "Use case: illustration-story. Wide watercolor and brown ink illustration for an early-prehistory handbook. Reference gives ONLY the man's identity and painting style. Autumn northern Iberia 40,000 BP, rocky open oak woodland, wet leaves after showers. The familiar lean short-dark-haired, short-bearded man stands upright in RIGHT foreground, barefoot, bark waist panels and small pelvic pad. Narrow fox-fur strip on his anatomical LEFT shoulder hanging down front. No grass garment worn, no hat, no new front covering. Exactly two arms, two legs. He holds a plain WOODEN-POINTED spear LOW with both hands, watching rather than fighting. A SINGLE normal adult grey-brown wolf-like canid is in LEFT middle distance, at the far edge of the southwest dirty-work area, quietly sniffing ground. Broad EMPTY ground clearly separates them. No snarling, leap, attack, injury or carcass. A small rough drying frame is visible near the distant brush, holding one small protected rabbit pelt; no huge hide. View southwest from the clean side. Shelter, hearth, river and other fixed features entirely OUT OF FRAME. Overcast daylight, tension through distance and watchfulness, no weapons upgrade, metal, modern objects, tattoos, duplicated body parts or labels.",
+      "source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a0f49a-58eb-7182-a0db-bbe4fa84668a\\exec-1b4fd36a-ce09-411d-962d-e88ce9461a47.png",
+      "review": "Accepted: upright traveller and normal canid separated by open ground; spear held low with a tapered wooden point, no cast/strike/injury; grass garment removed, fox strip retained, small dirty frame and pelt, no changed hearth/shelter geography.",
+      "page": "01_Survival/Moon 2 Day 18 - What the Rain and the Visitor Find.md",
+      "source_sha256": "52542053a272768bd48d5592db63d0f7de45c9ddf721a6641fcf110f9d683d81",
+      "asset_sha256": "52542053a272768bd48d5592db63d0f7de45c9ddf721a6641fcf110f9d683d81",
+      "checked_on": "2026-10-05",
+      "body_sha256_before_embed": "877fb3db4d9aa159ab20a62cdce4a6ffbf5c4ac9eb355c9a45e82d363b3e56ab"
+    }
+  ],
+  "errors": [
+    {
+      "key": "day-46",
+      "error": "image generation failed: network error: error sending request",
+      "attempt": 1,
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 46: close three-quarter FRONT view, on the ground at an oak patch west of camp, no buildings or river visible. Man kneels on one knee among fallen leaves and picks a sound acorn with one hand, comparing damaged nuts on ground. Modest woven basket on ground beside him contains a small nut lot, not a giant harvest. Back panel is worn for this dry gathering portion: a narrow flexible golden grass screen with two paired retaining rows visible only at the shoulder edge/back, not a shirt. Front torso is still open and bare apart from narrow fox LEFT strip. NO front grass panel and NO head covering yet. Both feet remain bare. Intimate low composition with acorns and crisp oak leaves in foreground, rocky open woodland in soft distance. Show search and selection, not instant food abundance.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ]
+    },
+    {
+      "key": "day-47",
+      "error": "image generation failed: network error: error sending request",
+      "attempt": 1,
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 47: wide tense composition viewed southwest from the clean side toward the dirty flank; wet leaves, quiet grey sky after showers, no visible moon. Man stands UPRIGHT in near image RIGHT on clear ground, keeps a plain integral WOODEN-pointed spear low and ready with both hands. No lunging, running or spear strike. The grass back panel is REMOVED, torso front and back uncovered except narrow fox LEFT strip; no new front panel or head covering. A SINGLE natural grey-brown WOLF-like canid, ordinary adult wolf size, is farther away in image LEFT middle distance at brush edge, sniffing ground near the small separated drying-frame area, NOT beside his feet. Plenty of clearly open ground separates animal and traveller. It has four legs and ordinary alert posture, no snarl or attacking monster. The small dirty frame lies BETWEEN distant approach and clean foreground with a small protected rabbit pelt, no full carcass, open meat store or giant fur. Keep shelter, hearth and water entirely OUTSIDE CROP to avoid moving camp geometry. No barricade or completed fence. Anxiety, observation and distance rather than combat.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ]
+    },
+    {
+      "key": "day-48",
+      "error": "image generation failed: network error: error sending request",
+      "attempt": 1,
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 48: landscape scene AWAY FROM CAMP on western wooded gathering terrain. View over a rocky shoulder toward an open grassy strip beyond a shallow stony dip. Protagonist in image LEFT foreground in three-quarter side view, torso plain except LEFT fox strip, NO grass panels (put aside at camp), no head covering and bare feet. He pauses with his ordinary wooden-pointed spear held LOW beside him, one hand higher one lower on same shaft; no throwing motion. Exactly TWO RED-DEER HINDS, adult European red deer females WITHOUT ANTLERS, are across the dip in middle distance. One raises its head and ears toward him; the other begins to turn toward a separate break in oak brush. They are not within spear reach or crowding him, no wounded animal. A few shifted gravel stones beneath his foot and bent grass suggest imperfect footing and breeze. No atlatl, dart, camp, carcass, bow, headwear, stone point or large hide. Emphasize the blocked approach and multiple exits, not a heroic hunt.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ]
+    },
+    {
+      "key": "day-47",
+      "attempt": 2,
+      "error": "image generation failed: network error: error sending request",
+      "prompt": "Use case: illustration-story. Wide landscape 16:9 watercolor and fine brown ink illustration on warm textured paper, matching the original Day 1 protagonist identity and autumn palette. Northern Iberia around 40,000 BP, open rocky valley with scattered oak and hazel woods, golden and brown autumn foliage, no tropical forest or snowfield. Lean ordinary adult man, short tousled dark brown hair and short beard, natural clean skin, no tattoos, marks, dense scratches, body ornament or modern equipment. Exactly two arms and two legs, plausible hands and feet. Bark waist panels with small pelvic pad, BARE FEET. Narrow fox-skin strip on anatomical LEFT shoulder only, hanging mostly down front; image RIGHT in frontal view. It is not a fur coat or large animal hide. No stone point on his spear, no fletched dart, functioning pottery or metal. No labels, montage or multiple copies of the man. Day 1 reference is identity/style ONLY: do not copy its earlier shelter state. Camp geometry if shown: northwest/uphill existing low shelter beneath heavy mossy fallen limb, southeast entrance; new north/east return side on two small fork braces and thin rail beside the heavy limb, never lifting it. Outside hearth southeast/downhill of clean craft spot; dirty frame southwest; main river east and below camp. Cropping may omit camp features but cannot move them. Day 47: wide tense composition viewed southwest from the clean side toward the dirty flank; wet leaves, quiet grey sky after showers, no visible moon. Man stands UPRIGHT in near image RIGHT on clear ground, keeps a plain integral WOODEN-pointed spear low and ready with both hands. No lunging, running or spear strike. The grass back panel is REMOVED, torso front and back uncovered except narrow fox LEFT strip; no new front panel or head covering. A SINGLE natural grey-brown WOLF-like canid, ordinary adult wolf size, is farther away in image LEFT middle distance at brush edge, sniffing ground near the small separated drying-frame area, NOT beside his feet. Plenty of clearly open ground separates animal and traveller. It has four legs and ordinary alert posture, no snarl or attacking monster. The small dirty frame lies BETWEEN distant approach and clean foreground with a small protected rabbit pelt, no full carcass, open meat store or giant fur. Keep shelter, hearth and water entirely OUTSIDE CROP to avoid moving camp geometry. No barricade or completed fence. Anxiety, observation and distance rather than combat.",
+      "references": [
+        "_Artwork/survival/day-01.png"
+      ]
+    }
+  ]
+}
