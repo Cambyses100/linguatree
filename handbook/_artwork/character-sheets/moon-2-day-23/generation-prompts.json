@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-09",
+  "method": "built-in image generation",
+  "intent": "generate character sheet using established identity and garment references",
+  "prompt": "Use case: illustration-story; character continuity reference sheet.\nCreate ONE polished landscape character sheet for the Humanity Handbook protagonist as at the END of Moon 2 Day 23 (continuous Day 52), on clean warm ivory paper. This is a wardrobe reference, not a survival scene. Title: \"HUMANITY HANDBOOK\". Subtitle: \"Character reference — Moon 2 Day 23\". Three large aligned full-body views, labelled \"FRONT\", \"LEFT SIDE\", \"BACK\", showing the SAME man at the same scale in a relaxed neutral standing pose, head and feet completely visible. Leave comfortable margins. Below or beside the views, add three smaller readable detail studies labelled \"CROWN PAD\", \"BAST SOLE\", \"WAIST LAYERS\". Only these short labels; no paragraphs or invented diagrams.\n\nREFERENCE ROLES:\nFirst attached reference (day-01.png) fixes the man's identity and the narrative watercolor/fine brown ink style only. Preserve his distinctive brow, nose/profile, dark wavy ear-length hair, short dark beard/stubble, naturally toned skin, lean sinewy ordinary proportions and apparent age around thirty. Replace the original clothing with the dated outfit below. Use smooth transparent watercolor skin and sparse selective contour ink; do not transfer the reference's etched skin texture. No scars, tattoos, patterned skin or bodybuilder anatomy.\nSecond attached reference (plant-fibre-clothing.png) supplies ONLY the flexible hanging grass panel's material and construction: vertical loose grass bundles, supported cord top edge, two light horizontal paired retaining rows. Do not copy its plate lettering, navy line style, layout or rigid rectangular pose.\n\nFULL OUTFIT, consistent across all three standing views:\n1. HEAD: a small shallow grey-brown fur-out crown pad, formed from one worked rabbit PELT with folded margins. Low soft cap over the crown and upper back of the head, secured by a loose thin nettle band across forehead and around back. Dark wavy hair emerges at the edges; face, human ears and much nape are exposed. This is shaped fur material ONLY: NO rabbit head, animal face, muzzle, eyes, nose, whiskers, upright animal ears, tail, paws, stuffed skull or dangling head. NO hood, chin strap or throat loop. Close-up must clearly show plain continuous fur surface and small folded edge.\n2. TORSO: TWO SEPARATE flexible coarse golden-brown grass screens, one FRONT and one BACK, not a one-piece tunic. Front panel roughly 45 cm wide and 60 cm long, back roughly 50 cm wide and 60 cm long. Front header below collarbones, panel extending to the hips; back panel begins across upper back. Loose simple thin plant-cord shoulder supports and accessible small side ties. Two light horizontal retaining rows on each, irregular softly hanging grass fringe. Exposed upper chest, arms, side gaps and legs. The side view MUST reveal distinct front and rear sheets with open flank between, not a grass dress wrapped around the body. Fine cloth, woven fabric, stiff willow lattice, thick boards, grass armour, floor mat, a sewn poncho and fur coat are forbidden.\n3. SHOULDER: separate NARROW rusty fox-fur strip draped over the man's anatomical LEFT shoulder only, visible above/alongside the grass header, hanging a short way front and back. In the FRONT view that shoulder is on the viewer's RIGHT; in BACK it is on viewer's LEFT. Left-side view shows the strip. Never enlarge it across both shoulders. Plain worked fur strip without animal head or paws.\n4. WAIST UNDERLAYERS: existing overlapping rough brown bark waist panels on a simple cord belt, plus a SMALL fitted rabbit-fur pelvic pad. These remain beneath the grass screens, modestly visible at side gap or lower edge. No leather trousers, full pelt skirt, long loincloth or additional animal skins. The small \"WAIST LAYERS\" study shows these two existing pieces as a modest garment assembly off the body, so no undressed fourth person is needed.\n5. BOTH FEET: matching experimental FLAT willow-bast footbeds. Broad interlaced pale tan plant strips, turned and cord-bound margins, thin dry grass lining, simple adjustable plant-cord retention over forefoot and behind heel. Open toes, exposed heels and ankles, low sandal form without tall upper. No boots, leather, dense thick socks, modern buckles, rubber soles or tightly wound shin bindings. Feet fit within soles; cord is structurally connected to edges, not random lacing. The \"BAST SOLE\" study shows one low sole in three-quarter view, a little liner lifted to distinguish thin grass from the interlaced sole.\n\nSTYLE / COMPOSITION: luminous earth-tone watercolor, selective fine brown ink, delicate warm paper grain and softly dissolved small grounding shadows. Facial likeness and outfit geometry are the priorities. Front and side faces must match. Back view has ordinary back of head, not a face. Anatomically normal hands with relaxed fingers. Three views show one person rotated, not different characters. Clean useful reference-book sheet, easily readable garments; no landscape, camp, tools, spear, ornaments or extra wardrobe. Full outfit is the default dry camp/walking state. The sheet does not claim that these experimental shoes work in wet ground, slopes or hunting.",
+  "references": [
+    {
+      "path": "_Artwork/survival/day-01.png",
+      "role": "primary identity and narrative style",
+      "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+    },
+    {
+      "path": "_Artwork/tools/plant-fibre-clothing.png",
+      "role": "grass panel construction geometry only",
+      "sha256": "23ca336886e098a44bc5c4d66a65f1943caaeeb60891aba607cc157870c38dbc"
+    }
+  ],
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": "selected",
+      "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6de327e0-3fce-446f-97ef-2e8d6224233f.png",
+      "output_path": "_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+      "edit_passes": 0,
+      "reviewed_on": "2026-10-09",
+      "review": [
+        "Three aligned full-body views of the same protagonist",
+        "Plain shallow fur crown pad, without animal head or ears",
+        "Fox strip on anatomical left in all views",
+        "Separate front and back grass screens with visible side gap",
+        "Bark waist coverage and small pelvic pad retained",
+        "Both low open-toed bast soles worn; construction detail distinguishes grass liner",
+        "No additional tools, clothing or capability claims"
+      ],
+      "source_sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78",
+      "output_sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78",
+      "dimensions_px": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}
