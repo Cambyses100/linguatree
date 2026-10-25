@@ -1,0 +1,588 @@
+{
+  "tool": "built-in image_gen",
+  "intent": "generate with references",
+  "date": "2026-10-23",
+  "jobs": [
+    {
+      "id": "character",
+      "target": "_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+      "pages": [
+        {
+          "path": "09_Reference/Character Sheet - Moon 4 Day 9.md"
+        }
+      ],
+      "scene": "Front, left-side and back views after the four limb coverings are fitted; the old cap, wrap and low foot layers persist.",
+      "prompt": "Use case: illustration-story. Generate a dated Humanity Handbook character continuity sheet on warm ivory paper, fine brown ink and luminous natural watercolour. Image 1 is original traveller IDENTITY and STYLE only; Image 2 is the complete PREVIOUS outfit and three-view clarity only. Preserve the lean man about thirty, ear-length dark wavy hair, short dark beard and recognisable face of image 1. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Show three full-body views at the same scale: FRONT, LEFT SIDE, BACK, neutral relaxed standing. Add one small inset of a removable sleeve attachment and one small inset of the leg panel ending over low footwear. Title exactly HUMANITY HANDBOOK, subtitle Character reference — Moon 4 Day 9. Technical clarity with restrained seams, functional simple cold-weather clothing, no fantasy warrior costume. These additions use one new deer skin for four panels; do not display an extra whole hide, equipment, weapon or invented cloak. Clothing must match among all views. No outdoor background.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity and fine-ink/watercolour style",
+        "previous full wardrobe; preserve all retained pieces and add only the four new limb panels"
+      ],
+      "attempts": [
+        {
+          "id": "character",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-1f86130b-82f7-4635-9126-4be995304ac1.png",
+          "status": "selected",
+          "review": "Accepted: all three views preserve the original identity, complete fur crown/ear-nape sides, old pale wrap and both low foot covers with outside bast soles. Only darker wrist-length sleeves and overlapping full lower-leg panels are added. Hands remain bare, no new boots/hood/cloak; separate tabs and overlaps are readable.",
+          "full_prompt": "Use case: illustration-story. Generate a dated Humanity Handbook character continuity sheet on warm ivory paper, fine brown ink and luminous natural watercolour. Image 1 is original traveller IDENTITY and STYLE only; Image 2 is the complete PREVIOUS outfit and three-view clarity only. Preserve the lean man about thirty, ear-length dark wavy hair, short dark beard and recognisable face of image 1. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Show three full-body views at the same scale: FRONT, LEFT SIDE, BACK, neutral relaxed standing. Add one small inset of a removable sleeve attachment and one small inset of the leg panel ending over low footwear. Title exactly HUMANITY HANDBOOK, subtitle Character reference — Moon 4 Day 9. Technical clarity with restrained seams, functional simple cold-weather clothing, no fantasy warrior costume. These additions use one new deer skin for four panels; do not display an extra whole hide, equipment, weapon or invented cloak. Clothing must match among all views. No outdoor background.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity and fine-ink/watercolour style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "previous full wardrobe; preserve all retained pieces and add only the four new limb panels",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-1f86130b-82f7-4635-9126-4be995304ac1.png",
+      "canonical_sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: all three views preserve the original identity, complete fur crown/ear-nape sides, old pale wrap and both low foot covers with outside bast soles. Only darker wrist-length sleeves and overlapping full lower-leg panels are added. Hands remain bare, no new boots/hood/cloak; separate tabs and overlaps are readable."
+    },
+    {
+      "id": "day-95",
+      "target": "_Artwork/survival/day-95.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 7 - Work the Skin Until It Bends.md"
+        }
+      ],
+      "scene": "Flexing a dry worked edge of the sole whole skin over smooth rounded wood at the established dirty-work side.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the dated clothing. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Day 95, cold dry December daylight in northern Iberian limestone valley, sparse brown leaves and bare branches, no snowfield. Arms and lower legs are still BARE; no new sleeves or leggings yet. He sits on a low natural stone at the southwest/downhill work side just outside a natural rocky overhang, flexing the dry clean pale inner margin of ONE broad whole fur-bearing deer skin over a smooth rounded wooden support. The rest of that same continuous skin hangs clear above the ground; brown hair shows along a turned edge. Two natural bare hands hold and flex a fold; no cutting, bloody flesh, animal body, skinning action, chemical bowls or smoke. Cap complete, feet both enclosed. One readable craft action, background valley softly shown. No second person, indoor hearth, lean-to hut, skin garment panels or extra skins.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete unchanged wardrobe through Day 96"
+      ],
+      "attempts": [
+        {
+          "id": "day-95",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-36b57b80-d152-40ad-b1f9-8e1e0bc05f21.png",
+          "status": "selected",
+          "review": "Accepted: recognisable original traveller, full fur cap, sleeveless old tan wrap and both closed pale low foot layers; arms and lower legs correctly bare. One continuous clean dry skin is flexed over rounded wood. Rock overhang and valley retained, no garment additions or other people.",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the dated clothing. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Day 95, cold dry December daylight in northern Iberian limestone valley, sparse brown leaves and bare branches, no snowfield. Arms and lower legs are still BARE; no new sleeves or leggings yet. He sits on a low natural stone at the southwest/downhill work side just outside a natural rocky overhang, flexing the dry clean pale inner margin of ONE broad whole fur-bearing deer skin over a smooth rounded wooden support. The rest of that same continuous skin hangs clear above the ground; brown hair shows along a turned edge. Two natural bare hands hold and flex a fold; no cutting, bloody flesh, animal body, skinning action, chemical bowls or smoke. Cap complete, feet both enclosed. One readable craft action, background valley softly shown. No second person, indoor hearth, lean-to hut, skin garment panels or extra skins.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "complete unchanged wardrobe through Day 96",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "9109350fb712e44b79c2287b7ec8133444cde8ae38b5fab75d3d7b23c888b55e",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-36b57b80-d152-40ad-b1f9-8e1e0bc05f21.png",
+      "canonical_sha256": "9109350fb712e44b79c2287b7ec8133444cde8ae38b5fab75d3d7b23c888b55e",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: recognisable original traveller, full fur cap, sleeveless old tan wrap and both closed pale low foot layers; arms and lower legs correctly bare. One continuous clean dry skin is flexed over rounded wood. Rock overhang and valley retained, no garment additions or other people."
+    },
+    {
+      "id": "day-96",
+      "target": "_Artwork/survival/day-96.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 8 - Find Four Coverings in One Skin.md"
+        }
+      ],
+      "scene": "Comparing four body-length cord guides on the single worked skin before its irreversible cuts.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the dated clothing. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Day 96 at the clean dry craft side beneath the same limestone overhang mouth, natural rock overhead, pale winter daylight. Arms and lower legs still BARE, unchanged earlier outfit. He kneels with both enclosed low foot layers readable, looking down while adjusting a simple plant-cord length guide on ONE clean dry pale-inner-side-up deer skin spread on a flat clean bark mat. Four cord guides suggest two arm and two lower-leg panel allocations; they are only loose cords, not drawn scientific cutting patterns. Skin has irregular edges and one small old opening, light brown hair at edge. No completed sleeves or leggings worn or on ground, no full coat, spare skins, blueprint markings or modern measure. A small stone flake rests safely to one side, no knife in motion. Single clear thoughtful layout moment. No animal remains, blood, other people, indoor fire, chairs or table.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete unchanged wardrobe before new garment fit"
+      ],
+      "attempts": [
+        {
+          "id": "day-96",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d7305937-c830-442b-b3b5-109c58cf6d65.png",
+          "status": "selected",
+          "review": "Accepted: single worked skin on clean bark work surface, loose body-length cord guides and resting stone flake; no completed new clothes. Both bare limbs remain at this pre-fit moment; cap, tan wrap and low closed foot layers persist. Layout is conceptual, not a cutting template.",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the dated clothing. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Day 96 at the clean dry craft side beneath the same limestone overhang mouth, natural rock overhead, pale winter daylight. Arms and lower legs still BARE, unchanged earlier outfit. He kneels with both enclosed low foot layers readable, looking down while adjusting a simple plant-cord length guide on ONE clean dry pale-inner-side-up deer skin spread on a flat clean bark mat. Four cord guides suggest two arm and two lower-leg panel allocations; they are only loose cords, not drawn scientific cutting patterns. Skin has irregular edges and one small old opening, light brown hair at edge. No completed sleeves or leggings worn or on ground, no full coat, spare skins, blueprint markings or modern measure. A small stone flake rests safely to one side, no knife in motion. Single clear thoughtful layout moment. No animal remains, blood, other people, indoor fire, chairs or table.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "complete unchanged wardrobe before new garment fit",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "f7b2ec176216fbe20ef1bd3a37a25462cfdffa329e838d92d8f9deb0f7271585",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d7305937-c830-442b-b3b5-109c58cf6d65.png",
+      "canonical_sha256": "f7b2ec176216fbe20ef1bd3a37a25462cfdffa329e838d92d8f9deb0f7271585",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: single worked skin on clean bark work surface, loose body-length cord guides and resting stone flake; no completed new clothes. Both bare limbs remain at this pre-fit moment; cap, tan wrap and low closed foot layers persist. Layout is conceptual, not a cutting template."
+    },
+    {
+      "id": "working",
+      "target": "_Artwork/technologies/dry-pelt-working.png",
+      "pages": [
+        {
+          "path": "07_Technologies/Animal Processing/Dry Pelt Working.md"
+        }
+      ],
+      "scene": "Concept study of a worked flexible skin edge beside a stiffer unworked area, with a smooth support and blunt scraper.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title DRY PELT WORKING. Main close study of ONE clean dry pale-brown fur-bearing skin fold draped over a smooth rounded wooden support; a supple edge folds gently while an adjacent stiff edge stands away. Brown fur visible only along turned edge. A small blunt rounded stone scraper lies separately beside the support. A pair of anonymous bare hands gently flexes one margin, anatomically natural, no cutting or tissue removal. Two modest labels WORKED EDGE and SMOOTH SUPPORT. No blood, carcass, visible flesh, chemical bowl, smoke, metal, oil bottle, garment, extra whole skins or demonstration of wet preservation. The figure explains bend and support, not a complete recipe.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual visual language only"
+      ],
+      "attempts": [
+        {
+          "id": "working",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-ae5a136c-2299-4f36-938c-ab202c903432.png",
+          "status": "selected",
+          "review": "Accepted: supported clean hair-on skin, flexible worked edge versus raised stiff area, smooth rounded wood and separate blunt stone. Labels readable; no chemical dressing, added skin stock or procedural preservation guarantee.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title DRY PELT WORKING. Main close study of ONE clean dry pale-brown fur-bearing skin fold draped over a smooth rounded wooden support; a supple edge folds gently while an adjacent stiff edge stands away. Brown fur visible only along turned edge. A small blunt rounded stone scraper lies separately beside the support. A pair of anonymous bare hands gently flexes one margin, anatomically natural, no cutting or tissue removal. Two modest labels WORKED EDGE and SMOOTH SUPPORT. No blood, carcass, visible flesh, chemical bowl, smoke, metal, oil bottle, garment, extra whole skins or demonstration of wet preservation. The figure explains bend and support, not a complete recipe.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual visual language only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "6275663c9fe88a19bf630d907d9e0a79d26972cedf2963856683dc15d0eaf9de",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-ae5a136c-2299-4f36-938c-ab202c903432.png",
+      "canonical_sha256": "6275663c9fe88a19bf630d907d9e0a79d26972cedf2963856683dc15d0eaf9de",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: supported clean hair-on skin, flexible worked edge versus raised stiff area, smooth rounded wood and separate blunt stone. Labels readable; no chemical dressing, added skin stock or procedural preservation guarantee."
+    },
+    {
+      "id": "coverings",
+      "target": "_Artwork/tools/skin-limb-coverings.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Clothing/Skin Limb Coverings.md"
+        }
+      ],
+      "scene": "Four modular clothing pieces: two loose sleeves and two overlapping leg panels, with folded attachment details.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title SKIN LIMB COVERINGS. Isolated equipment family study, no person. Exactly TWO loose tapered soft muted grey-brown skin sleeve tubes with restrained longitudinal seams, each with one small folded attachment tab at its wide shoulder end; and exactly TWO longer gently tapered leg wrap panels, each shown curved open with broad side overlap and a few simple plant-cord retainers plus one slender support keeper at upper edge. Hair lining visible only where a margin turns inward. Distinguish sleeves at left and leg panels at right; labels SLEEVES, LEG PANELS. One small inset shows a simple folded sound skin tab with two pre-pierced stitching holes away from edge; no elaborate needle instructions. Plain functional handmade pieces with few seams, no decorative fringe, no cloak, coat, trousers, boots, gloves, weapons, whole unused hide or extra fabric. Four pieces only. Not a measured pattern or assembled full outfit.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual visual language only"
+      ],
+      "attempts": [
+        {
+          "id": "coverings",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cafbe860-41d3-4d93-8e2f-4d4ac8588ef0.png",
+          "status": "selected",
+          "review": "Accepted: exactly two modest sleeve tubes and two overlapping leg panels with upper attachment tabs/keepers; inward hair at edges, restrained seams and a folded-tab detail. No extra coat, footwear or spare whole skin. Equipment concept, not scaled pattern.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title SKIN LIMB COVERINGS. Isolated equipment family study, no person. Exactly TWO loose tapered soft muted grey-brown skin sleeve tubes with restrained longitudinal seams, each with one small folded attachment tab at its wide shoulder end; and exactly TWO longer gently tapered leg wrap panels, each shown curved open with broad side overlap and a few simple plant-cord retainers plus one slender support keeper at upper edge. Hair lining visible only where a margin turns inward. Distinguish sleeves at left and leg panels at right; labels SLEEVES, LEG PANELS. One small inset shows a simple folded sound skin tab with two pre-pierced stitching holes away from edge; no elaborate needle instructions. Plain functional handmade pieces with few seams, no decorative fringe, no cloak, coat, trousers, boots, gloves, weapons, whole unused hide or extra fabric. Four pieces only. Not a measured pattern or assembled full outfit.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual visual language only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "2b568c5b5048d31dc5fd2f575dbb42451445ecb8145d82bc89e29c3b793f2118",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cafbe860-41d3-4d93-8e2f-4d4ac8588ef0.png",
+      "canonical_sha256": "2b568c5b5048d31dc5fd2f575dbb42451445ecb8145d82bc89e29c3b793f2118",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: exactly two modest sleeve tubes and two overlapping leg panels with upper attachment tabs/keepers; inward hair at edges, restrained seams and a folded-tab detail. No extra coat, footwear or spare whole skin. Equipment concept, not scaled pattern."
+    },
+    {
+      "id": "netting",
+      "target": "_Artwork/skills/knotted-netting.png",
+      "pages": [
+        {
+          "path": "04_Skills/Fibre Work/Knotted Netting.md"
+        }
+      ],
+      "scene": "Small regular knotted mesh hung from a starting cord, with a smooth wooden gauge at the unfinished row.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title KNOTTED NETTING. Clear close study of a SMALL rectangular panel of tan natural plant-cord mesh hanging from one horizontal starting cord tied between two low wooden supports. Regular diamond openings with discrete small knots at joins, four or five readable finished rows and an unfinished lower row. One smooth short flat rounded wooden mesh gauge lies horizontally at lower row with one loose cord loop around it, the working cord separate and easy to see. Two simple labels MESH GAUGE and LINKED ROWS. No knot-path inset, numbers, load rating, fish, fishing float, metal shuttle, basket weave, fabric weave, huge net, modern wire or netting machine. This is a conceptual mesh/gauge study and should not pretend to be a precise knot tying diagram.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual visual language only"
+      ],
+      "attempts": [
+        {
+          "id": "netting",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0fd99eb9-a57e-4b1b-b762-042ce32cc268.png",
+          "status": "selected",
+          "review": "Accepted as a conceptual mesh/gauge study: regular linked diamond rows, supporting cord, smooth gauge and unfinished lower loops. Knot crossings and loose ends are schematic, explicitly captioned; it is not accepted as a knot-path instruction or material-strength test.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title KNOTTED NETTING. Clear close study of a SMALL rectangular panel of tan natural plant-cord mesh hanging from one horizontal starting cord tied between two low wooden supports. Regular diamond openings with discrete small knots at joins, four or five readable finished rows and an unfinished lower row. One smooth short flat rounded wooden mesh gauge lies horizontally at lower row with one loose cord loop around it, the working cord separate and easy to see. Two simple labels MESH GAUGE and LINKED ROWS. No knot-path inset, numbers, load rating, fish, fishing float, metal shuttle, basket weave, fabric weave, huge net, modern wire or netting machine. This is a conceptual mesh/gauge study and should not pretend to be a precise knot tying diagram.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual visual language only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "440cd9c7a86bd00bfe451b724ac532edaab302f2e7b4480afb4e6b8f6fe9916e",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0fd99eb9-a57e-4b1b-b762-042ce32cc268.png",
+      "canonical_sha256": "440cd9c7a86bd00bfe451b724ac532edaab302f2e7b4480afb4e6b8f6fe9916e",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted as a conceptual mesh/gauge study: regular linked diamond rows, supporting cord, smooth gauge and unfinished lower loops. Knot crossings and loose ends are schematic, explicitly captioned; it is not accepted as a knot-path instruction or material-strength test."
+    },
+    {
+      "id": "net",
+      "target": "_Artwork/tools/hand-net.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Fishing/Hand Net.md"
+        }
+      ],
+      "scene": "Small wooden hand net with an oval willow rim, overlapped ends bound along a short handle and a shallow knotted bag.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title HAND NET. One complete small handmade short-handled dip net isolated in a clear three-quarter side view. Single slender flexible willow rod bent into an oval rim; its TWO ends overlap beside the short wooden handle and are secured by one modest natural-cord binding. Tan natural knotted plant-cord shallow bag hangs BELOW the oval, closed bottom and closed side seams, openly laced around entire rim, mesh openings clearly visible. Three fine leaders labelled WILLOW RIM, SHALLOW MESH BAG, BOUND JOINT. Make it a modest hand tool, not a long pole or a huge deep landing net. No metal, industrial synthetic mesh, fish, trap, river, spare net, second oval, dimensions or strength rating. Joint physically connects oval to wooden handle; net never floats unattached.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual visual language only"
+      ],
+      "attempts": [
+        {
+          "id": "net",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dc5857bf-a5d6-4079-83d5-ec5de5242314.png",
+          "status": "selected",
+          "review": "Accepted: single small oval wood rim, shallow closed mesh bag below, visible lacing and bound connection to short wooden handle. All three labels readable. No metal, fish, spare net, fixed dimensions or extra trap.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual plate on warm ivory paper, fine navy ink and restrained natural watercolour, matching reference STYLE ONLY. No modern material, arbitrary measurements or strength guarantees. Title HAND NET. One complete small handmade short-handled dip net isolated in a clear three-quarter side view. Single slender flexible willow rod bent into an oval rim; its TWO ends overlap beside the short wooden handle and are secured by one modest natural-cord binding. Tan natural knotted plant-cord shallow bag hangs BELOW the oval, closed bottom and closed side seams, openly laced around entire rim, mesh openings clearly visible. Three fine leaders labelled WILLOW RIM, SHALLOW MESH BAG, BOUND JOINT. Make it a modest hand tool, not a long pole or a huge deep landing net. No metal, industrial synthetic mesh, fish, trap, river, spare net, second oval, dimensions or strength rating. Joint physically connects oval to wooden handle; net never floats unattached.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual visual language only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "602b50cc02be53c65e3c7f250d148900d7fa24d707a2e0bc0e108e44db0572d9",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dc5857bf-a5d6-4079-83d5-ec5de5242314.png",
+      "canonical_sha256": "602b50cc02be53c65e3c7f250d148900d7fa24d707a2e0bc0e108e44db0572d9",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: single small oval wood rim, shallow closed mesh bag below, visible lacing and bound connection to short wooden handle. All three labels readable. No metal, fish, spare net, fixed dimensions or extra trap."
+    },
+    {
+      "id": "day-97",
+      "target": "_Artwork/survival/day-97.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 9 - Warmth That Moves With You.md"
+        }
+      ],
+      "scene": "First working walk in the completed sleeves and leg coverings, with all retained head, body and foot layers.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Day 97 after completed garment fit, on dry firm uneven ground near the limestone overhang. He takes one ordinary step up onto a low natural ledge, glancing down to see that his leg covering stays in place. Both arms visibly covered shoulder-to-wrist, both legs covered from beneath wrap hem to ankle; both hands bare, low pale closed foot covers and bast soles fully retained, no exposed shin or bare knee. Natural cold grey-blue winter valley and brown leafless brush, calm daylight, no snowstorm. One full-body three-quarter view showing clothing with natural ease of movement. No net (not made yet), weapon, carried skin, spare garment, other person, modern object or fantasy pose.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete post-fit Moon 4 Day 9 wardrobe"
+      ],
+      "attempts": [
+        {
+          "id": "day-97",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-56fb8bb6-784c-47fd-bd5f-9aec427fc37c.png",
+          "review": "Accepted: first post-fit step in full new sleeves and leg panels; original cap, pale tan wrap, both low closed foot covers and bast soles remain. Knees, shins and arms covered, hands bare, no later net or other new equipment. Original identity/style and natural rock overhang retained.",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Day 97 after completed garment fit, on dry firm uneven ground near the limestone overhang. He takes one ordinary step up onto a low natural ledge, glancing down to see that his leg covering stays in place. Both arms visibly covered shoulder-to-wrist, both legs covered from beneath wrap hem to ankle; both hands bare, low pale closed foot covers and bast soles fully retained, no exposed shin or bare knee. Natural cold grey-blue winter valley and brown leafless brush, calm daylight, no snowstorm. One full-body three-quarter view showing clothing with natural ease of movement. No net (not made yet), weapon, carried skin, spare garment, other person, modern object or fantasy pose.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete post-fit Moon 4 Day 9 wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "9c9db5a3a68cc4b635428082e6c89b0f78dc458a0436ca1b7df8d80589f28807",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-56fb8bb6-784c-47fd-bd5f-9aec427fc37c.png",
+      "canonical_sha256": "9c9db5a3a68cc4b635428082e6c89b0f78dc458a0436ca1b7df8d80589f28807",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: first post-fit step in full new sleeves and leg panels; original cap, pale tan wrap, both low closed foot covers and bast soles remain. Knees, shins and arms covered, hands bare, no later net or other new equipment. Original identity/style and natural rock overhang retained."
+    },
+    {
+      "id": "day-98",
+      "target": "_Artwork/survival/day-98.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 10 - Make the Holes Do the Work.md"
+        }
+      ],
+      "scene": "Inspecting the small unframed mesh bag after its wet comparison, with the completed arm and leg coverings retained.",
+      "prompt": "Use case: illustration-story. Generate one wide 16:9 Humanity Handbook narrative illustration, fine brown ink and luminous natural watercolour on warm paper. Image 1: original approved traveller IDENTITY and STYLE only. Image 2: complete dated Moon 4 Day 9 CLOTHING reference. Same lean man about thirty, dark ear-length wavy hair and short beard. Preserve his full grey-brown fur crown with tan ear/nape sides, old pale tan overlapping body wrap over both shoulders, darker separate sleeves down to both wrists and darker leg coverings over knees/calves to ankles. Both bare hands; BOTH low pale closed foot covers over visible woven bast soles. Day 98 cold daylight at the clean craft side of the natural limestone overhang. He sits on a low stone, full body visible, gently holds up ONE small tan knotted plant-cord mesh bag between both hands to inspect its joined side. Bag is shallow, empty, hand-sized, with an open mouth and no wooden rim or handle yet. A little smooth wooden mesh gauge and small fibre bundle rest on the clean craft stone. Quiet northern Iberian valley, bare winter branches and sparse brown leaves beyond. Original delicate watercolour style and natural skin, no etched scars. No other person, finished framed net, weapon, modern objects, tall boots, bare shin, bare toes, extra garments or indoor fire. One simple readable inspection moment.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete post-fit Moon 4 Day 9 wardrobe"
+      ],
+      "attempts": [
+        {
+          "id": "day-98",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "review": "No image returned; transient request/network failure. Retry uses the same original identity and approved dated clothing references with the same prompt.",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Day 98 cold dry craft daylight at the limestone overhang mouth. He sits on a low natural stone, full body readable including both low footwear layers. Small new tan knotted-cord mesh panel hangs from one low horizontal cord immediately before his hands; he draws a working strand beside a small smooth wooden gauge at the unfinished row. Only a small panel, not a huge net. New sleeves stay down to wrists, leg panels to ankles; bare hands do the delicate work. No finished framed net yet, no modern shuttle, sewing machine, table, huge textile, second person or indoor fire. A small tidy prepared-fibre bundle lies at the clean side. Focus on fingers and regular open loops, original warm fine-ink/watercolour style.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete post-fit Moon 4 Day 9 wardrobe"
+          ],
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete post-fit Moon 4 Day 9 wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ]
+        },
+        {
+          "id": "day-98",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Day 98 cold dry craft daylight at the limestone overhang mouth. He sits on a low natural stone, full body readable including both low footwear layers. Small new tan knotted-cord mesh panel hangs from one low horizontal cord immediately before his hands; he draws a working strand beside a small smooth wooden gauge at the unfinished row. Only a small panel, not a huge net. New sleeves stay down to wrists, leg panels to ankles; bare hands do the delicate work. No finished framed net yet, no modern shuttle, sewing machine, table, huge textile, second person or indoor fire. A small tidy prepared-fibre bundle lies at the clean side. Focus on fingers and regular open loops, original warm fine-ink/watercolour style.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete post-fit Moon 4 Day 9 wardrobe"
+          ],
+          "review": "Second request returned no image because of a network error. No rejected image exists or is reused.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete post-fit Moon 4 Day 9 wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ]
+        },
+        {
+          "id": "day-98",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-356fe7db-b851-4302-a012-98fc551d71e3.png",
+          "review": "Accepted for the actual unframed-bag inspection and complete dated wardrobe: original identity, both grey-brown sleeves and leg panels, old cap/wrap and both low enclosed foot layers retained. Small empty joined mesh bag, no completed frame/handle, one person at rock overhang. The small wooden gauge is drawn with incidental perforations; these are not in the made tool or method. A page caption explicitly excludes that schematic detail from construction guidance.",
+          "full_prompt": "Use case: illustration-story. Generate one wide 16:9 Humanity Handbook narrative illustration, fine brown ink and luminous natural watercolour on warm paper. Image 1: original approved traveller IDENTITY and STYLE only. Image 2: complete dated Moon 4 Day 9 CLOTHING reference. Same lean man about thirty, dark ear-length wavy hair and short beard. Preserve his full grey-brown fur crown with tan ear/nape sides, old pale tan overlapping body wrap over both shoulders, darker separate sleeves down to both wrists and darker leg coverings over knees/calves to ankles. Both bare hands; BOTH low pale closed foot covers over visible woven bast soles. Day 98 cold daylight at the clean craft side of the natural limestone overhang. He sits on a low stone, full body visible, gently holds up ONE small tan knotted plant-cord mesh bag between both hands to inspect its joined side. Bag is shallow, empty, hand-sized, with an open mouth and no wooden rim or handle yet. A little smooth wooden mesh gauge and small fibre bundle rest on the clean craft stone. Quiet northern Iberian valley, bare winter branches and sparse brown leaves beyond. Original delicate watercolour style and natural skin, no etched scars. No other person, finished framed net, weapon, modern objects, tall boots, bare shin, bare toes, extra garments or indoor fire. One simple readable inspection moment.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete post-fit Moon 4 Day 9 wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "f35a01db61ff687ef2c0ab80151314a04e40eeae1f6f7a676092ae1a0fec86f0",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-356fe7db-b851-4302-a012-98fc551d71e3.png",
+      "canonical_sha256": "f35a01db61ff687ef2c0ab80151314a04e40eeae1f6f7a676092ae1a0fec86f0",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted for the actual unframed-bag inspection and complete dated wardrobe: original identity, both grey-brown sleeves and leg panels, old cap/wrap and both low enclosed foot layers retained. Small empty joined mesh bag, no completed frame/handle, one person at rock overhang. The small wooden gauge is drawn with incidental perforations; these are not in the made tool or method. A page caption explicitly excludes that schematic detail from construction guidance."
+    },
+    {
+      "id": "day-99",
+      "target": "_Artwork/survival/day-99.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 11 - Keep the Catch Inside.md"
+        }
+      ],
+      "scene": "Inspecting the wet hand net after its modest inert trial at the familiar quiet river margin, before the fish transfer.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Image 3 supplies hand-net OBJECT GEOMETRY ONLY, not its title, diagram layout or rendering. Day 99 on a firm dry low bank beside a quiet shallow river margin, clear pale winter daylight, brown sparse shrubs and limestone distance. He stands on the bank, both feet OUT of water, both pale low foot covers and bast soles visible. He holds a modest short wooden handle and inspects one small empty oval willow-rim hand net lifted over the quiet margin; shallow tan knotted bag hangs clearly BELOW rim with droplets falling, physically connected through the binding to his hand. Frame one hand-tool sized oval only, not a giant fishing net. No fish or pebble in net at this selected moment, no animal injury, big catch, spear, bow, other person, new boots, modern mesh or metal. New grey-brown sleeves and leg panels fully worn, old cap/wrap/foot layers persist. One readable tool-inspection action.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/hand-net.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete post-fit Moon 4 Day 9 wardrobe",
+        "hand-net object geometry only; no page layout or text"
+      ],
+      "attempts": [
+        {
+          "id": "day-99",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-92537d4c-bd75-453c-9ec9-19ee86950b65.png",
+          "review": "Accepted: original identity, complete new sleeve/leg outfit plus retained cap/tan wrap/both low pale foot layers. Firm dry bank footing, small empty wooden oval hand net with shallow mesh bag hanging below and a physically connected bound short handle; droplets mark the selected post-inert-test moment before the fish transfer. No future equipment, modern mesh or implied extra catch.",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 natural scene, luminous watercolour and fine brown ink on warm textured paper, softly dissolved margins. Image 1 supplies the original approved traveller identity and rendering style only; Image 2 supplies the NEW complete Day 97 clothing, including sleeves and leg panels. Same lean dark-wavy-haired short-bearded adult about thirty, recognisable profile, no tattoos or scar-like hatching. The established full grey-brown rabbit-fur cap covers the TOP of his head, with tan fox-skin sides covering ears and nape, face open. It is a plain material cap, no animal face or ears, never a headband. Original pale-tan hair-in body wrap crosses BOTH shoulders, overlaps in front and ends just above knees, repaired anatomical-left shoulder, short chest tie, narrow waist cord. BOTH feet are enclosed in low pale-tan rabbit-skin covers, closed toes/heels, original flat woven bast soles visibly outside beneath and retained low ties. Smooth ordinary skin, no tattoos or etched scars. No grass clothing, bare feet, throat ties, hood, mittens or tall boots. Add ONLY two separate loose muted grey-brown skin sleeves extending from beneath the old wrap shoulders to both wrists, and TWO matching side-overlapped leg panels covering knees and calves from beneath the old wrap hem down to the original low foot-cover tops. Hair faces inward, grey-brown skin outward. Sleeves have modest longitudinal seams and small upper tabs tied beneath sound shoulder edges. The old body wrap is still pale tan and visibly a separate layer. Leg panels have a few loose side retainers and slender support keepers rising beneath wrap to existing waist cord, no tight spiral bandaging or dozens of knots. Both hands stay bare. Original low pale footwear and outside bast soles stay visible, never turn leg panels into boots. Image 3 supplies hand-net OBJECT GEOMETRY ONLY, not its title, diagram layout or rendering. Day 99 on a firm dry low bank beside a quiet shallow river margin, clear pale winter daylight, brown sparse shrubs and limestone distance. He stands on the bank, both feet OUT of water, both pale low foot covers and bast soles visible. He holds a modest short wooden handle and inspects one small empty oval willow-rim hand net lifted over the quiet margin; shallow tan knotted bag hangs clearly BELOW rim with droplets falling, physically connected through the binding to his hand. Frame one hand-tool sized oval only, not a giant fishing net. No fish or pebble in net at this selected moment, no animal injury, big catch, spear, bow, other person, new boots, modern mesh or metal. New grey-brown sleeves and leg panels fully worn, old cap/wrap/foot layers persist. One readable tool-inspection action.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete post-fit Moon 4 Day 9 wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/hand-net.png",
+              "role": "hand-net object geometry only; no page layout or text",
+              "sha256": "602b50cc02be53c65e3c7f250d148900d7fa24d707a2e0bc0e108e44db0572d9"
+            }
+          ],
+          "source_sha256": "a5325d49d1c9f049d926e3c53f313adda9eaa6efe22c25769bc160158cf1d885",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-92537d4c-bd75-453c-9ec9-19ee86950b65.png",
+      "canonical_sha256": "a5325d49d1c9f049d926e3c53f313adda9eaa6efe22c25769bc160158cf1d885",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-23",
+      "review": "Accepted: original identity, complete new sleeve/leg outfit plus retained cap/tan wrap/both low pale foot layers. Firm dry bank footing, small empty wooden oval hand net with shallow mesh bag hanging below and a physically connected bound short handle; droplets mark the selected post-inert-test moment before the fish transfer. No future equipment, modern mesh or implied extra catch."
+    }
+  ],
+  "selected_count": 10,
+  "rejected_image_count": 0,
+  "tool_error_count": 2,
+  "tool_rejection_count": 0,
+  "completed_on": "2026-10-23",
+  "page_image_links": 10,
+  "png_postprocessing": "none; selected generated PNGs copied unchanged and originals retained",
+  "website_updated": false
+}

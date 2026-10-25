@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-10",
+  "method": "built-in image_gen",
+  "intent": "generate independent new scenes from explicitly limited reference images",
+  "jobs": [
+    {
+      "id": "day-56",
+      "target": "_Artwork/survival/day-56.png",
+      "page": "01_Survival/Moon 2 Day 27 - A Fastening That Holds the Heel.md",
+      "scene": "Short dry repeat fit trial on the small rise, with low diagonal heel retention on the existing bast soles.",
+      "prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 2 Day 27, cool dry daylight on the small dry rise directly beside the woodland terrace camp in the familiar limestone autumn valley. A quiet moment in a footwear fit trial. He stands in a natural modest stepping stance, near-frontal torso turned slightly toward viewer left, glancing down at his feet. Full body and both footbeds clearly visible, one foot on the very small gentle rise and the other lower, without an acrobatic pose. Arms rest naturally. His anatomical LEFT fox strip is on viewer RIGHT.\nTechnology focus: same flexible shallow bast footbeds, not thicker shoes. Each heel is retained by a LOW sling behind the heel, whose two ends run DIAGONALLY down and forward to separate rear-quarter points at the sole margin. No tight circumferential ankle ring, no high cuff; the changed route is simple, not a dense harness. Show a small amount of slack rather than constriction.\nComposition: traveller slightly right of centre, readable footwear in foreground; subdued low debris shelter with its covered return extension far left and soft valley distance. Minimal props, no food inventory. Nothing is being hunted or fired. No dramatic mountain climb or suggestion of improved tread.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "attempts": [
+        {
+          "id": "day-56",
+          "key": "finish-day-56",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-24531c02-c5b3-4780-a1bd-593e4475ee34.png",
+          "prompt_record": "generation-prompts.json",
+          "source_sha256": "2888b0735f2fc84bd5931a6e5058ad3c431404d4c548b8c905a5914f639bd998",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 2 Day 27, cool dry daylight on the small dry rise directly beside the woodland terrace camp in the familiar limestone autumn valley. A quiet moment in a footwear fit trial. He stands in a natural modest stepping stance, near-frontal torso turned slightly toward viewer left, glancing down at his feet. Full body and both footbeds clearly visible, one foot on the very small gentle rise and the other lower, without an acrobatic pose. Arms rest naturally. His anatomical LEFT fox strip is on viewer RIGHT.\nTechnology focus: same flexible shallow bast footbeds, not thicker shoes. Each heel is retained by a LOW sling behind the heel, whose two ends run DIAGONALLY down and forward to separate rear-quarter points at the sole margin. No tight circumferential ankle ring, no high cuff; the changed route is simple, not a dense harness. Show a small amount of slack rather than constriction.\nComposition: traveller slightly right of centre, readable footwear in foreground; subdued low debris shelter with its covered return extension far left and soft valley distance. Minimal props, no food inventory. Nothing is being hunted or fired. No dramatic mountain climb or suggestion of improved tread.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-24531c02-c5b3-4780-a1bd-593e4475ee34.png",
+      "canonical_sha256": "2888b0735f2fc84bd5931a6e5058ad3c431404d4c548b8c905a5914f639bd998",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-10",
+      "review": "Plain crown, left fox strip, separate front/back grass coverage and both low bast soles present. Ordinary two-leg dry-rise fit trial; no new upper, hunting or wet performance."
+    },
+    {
+      "id": "day-57",
+      "target": "_Artwork/survival/day-57.png",
+      "page": "01_Survival/Moon 2 Day 28 - Read the Clay Before the Fire.md",
+      "scene": "Inspecting freshly chipped corners of the old thin and thick dry clay comparison pieces; tiny fracture chips are kept as unfired controls.",
+      "prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 2 Day 28 at the dry uphill craft spot in the familiar autumn limestone valley. He sits normally on a low flat rock, torso almost frontal with a slight turn to viewer left, BOTH knees and low bast footbeds visible, face looking down in concentration. Fox strip is viewer RIGHT.\nMain action: he holds ONE small, flat irregular grey-brown dried clay test coupon in his two natural hands, looking at its freshly broken corner. A second small flat coupon of visibly thicker section rests on the working stone. Each coupon is roughly palm width, similar shape, plain unglazed GREENWARE, not a pottery sherd from a vessel. Two tiny chips on a dry separate patch of stone are the raw comparison controls. Broken corners are already missing deliberately, not a pot exploding.\nComposition: intimate but wide, traveller at centre-left, unobstructed hands and four small clay remnants central; fore-edge grass screen falls naturally clear of the hands, back screen edge visible behind flank. Background has ventilated shelter cover and restrained distant valley. No fire, water test, finished cup, firing outcome, kiln, new clay heap or extra tools. It is inspection of dryness and thickness, not successful pottery.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "attempts": [
+        {
+          "id": "day-57",
+          "key": "finish-day-57",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-b00d7097-0e94-45ea-b2ac-991810af2895.png",
+          "prompt_record": "generation-prompts.json",
+          "source_sha256": "8a80a76e20092928cca9ee45733c5716604efa07d624d03784dfea6ba182acba",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 2 Day 28 at the dry uphill craft spot in the familiar autumn limestone valley. He sits normally on a low flat rock, torso almost frontal with a slight turn to viewer left, BOTH knees and low bast footbeds visible, face looking down in concentration. Fox strip is viewer RIGHT.\nMain action: he holds ONE small, flat irregular grey-brown dried clay test coupon in his two natural hands, looking at its freshly broken corner. A second small flat coupon of visibly thicker section rests on the working stone. Each coupon is roughly palm width, similar shape, plain unglazed GREENWARE, not a pottery sherd from a vessel. Two tiny chips on a dry separate patch of stone are the raw comparison controls. Broken corners are already missing deliberately, not a pot exploding.\nComposition: intimate but wide, traveller at centre-left, unobstructed hands and four small clay remnants central; fore-edge grass screen falls naturally clear of the hands, back screen edge visible behind flank. Background has ventilated shelter cover and restrained distant valley. No fire, water test, finished cup, firing outcome, kiln, new clay heap or extra tools. It is inspection of dryness and thickness, not successful pottery.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-b00d7097-0e94-45ea-b2ac-991810af2895.png",
+      "canonical_sha256": "8a80a76e20092928cca9ee45733c5716604efa07d624d03784dfea6ba182acba",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-10",
+      "review": "Correct crown/outfit/left fox strip; both feet wear bast soles, one partly behind the working stone. Two greenware main remnants and two small raw chips; no fire or pot. Natural hands and seated anatomy."
+    },
+    {
+      "id": "day-58",
+      "target": "_Artwork/survival/day-58.png",
+      "page": "01_Survival/Moon 2 Day 29 - Give the Heat a Fair Trial.md",
+      "scene": "Watching the modest outside trial firing burn down from a clear distance; the two tiny main specimens remain untouched on their support.",
+      "prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: end of Moon 2 Day 29, last dusk light, new-moon period with NO bright moon disk. Show the separate small OUTSIDE experimental firing place in an open patch of mineral earth. Two palm-width FLAT chipped clay coupons remain on a low non-combustible support amid a modest charge of glowing coals and a little low flame. Not a large bonfire, no cup or kiln. They are undergoing the firing trial, no known success or crack asserted.\nThe fully clothed traveller is now WATCHING after close fuel handling has ended. He stands naturally, near-frontal torso, entirely in a clear area several metres away from the low firing patch, full body and both bast soles readable. Arms relaxed, head turned slightly toward the fire, grass fringes far from heat and sparks. He is NOT reaching into, tending, feeding or inspecting the hot load. His LEFT fox strip stays viewer RIGHT.\nComposition: firing patch small foreground-left, broad clear bare ground separates it from the traveller midground-right; low shelter beyond and well away from the fire, subdued limestone valley behind. Restrained warm glow against cool slate dusk. Minimal props, no pile of pots or additional grass panels laid out. No quenching, water basin, thermometer, bellows, large furnace, bright moon, medieval costume or spectacle.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "attempts": [
+        {
+          "id": "day-58",
+          "key": "finish-day-58",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e260b442-2b26-4966-894d-bc5a474e7e45.png",
+          "prompt_record": "generation-prompts.json",
+          "source_sha256": "b6680cecf97a2b226d1cc5b642889f0574e36758fd7f2d33f2ac31af3aef157f",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: end of Moon 2 Day 29, last dusk light, new-moon period with NO bright moon disk. Show the separate small OUTSIDE experimental firing place in an open patch of mineral earth. Two palm-width FLAT chipped clay coupons remain on a low non-combustible support amid a modest charge of glowing coals and a little low flame. Not a large bonfire, no cup or kiln. They are undergoing the firing trial, no known success or crack asserted.\nThe fully clothed traveller is now WATCHING after close fuel handling has ended. He stands naturally, near-frontal torso, entirely in a clear area several metres away from the low firing patch, full body and both bast soles readable. Arms relaxed, head turned slightly toward the fire, grass fringes far from heat and sparks. He is NOT reaching into, tending, feeding or inspecting the hot load. His LEFT fox strip stays viewer RIGHT.\nComposition: firing patch small foreground-left, broad clear bare ground separates it from the traveller midground-right; low shelter beyond and well away from the fire, subdued limestone valley behind. Restrained warm glow against cool slate dusk. Minimal props, no pile of pots or additional grass panels laid out. No quenching, water basin, thermometer, bellows, large furnace, bright moon, medieval costume or spectacle.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e260b442-2b26-4966-894d-bc5a474e7e45.png",
+      "canonical_sha256": "b6680cecf97a2b226d1cc5b642889f0574e36758fd7f2d33f2ac31af3aef157f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-10",
+      "review": "Full outfit and two bast soles; plain crown and left fox strip. Clear ground separates watcher from modest outside fire and two small flat comparison pieces. No bright moon, hot retrieval, cup, kiln or indoor flame."
+    },
+    {
+      "id": "day-59",
+      "target": "_Artwork/survival/day-59.png",
+      "page": "01_Survival/Moon 3 Day 1 - A Material Before a Vessel.md",
+      "scene": "Cold comparison after short wetting: two retained fired coupons, the thin one coherent and the thick one with a hairline; softened raw chips are about to be discarded.",
+      "prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 3 Day 1, daylight at the dry craft spot, AFTER the overnight firing has cooled and AFTER the brief comparative wetting. He sits in an ordinary pose on a low rock, near-frontal torso, full legs and both bast soles visible. His LEFT fox strip remains viewer RIGHT.\nTechnology action: his two natural hands gently hold and examine ONE cool palm-width FLAT thin irregular orange-grey fired clay coupon with a pre-existing chipped corner. The other palm-width coupon, thicker and with a subtle new hairline beside its old chipped corner, rests on a separate non-food test stone. A slight dark wet patch and two tiny softened raw clay chips are visible on that stone before cleanup. These are two small solid test plaques, not pieces of an invented new cooking pot. No dramatic break, glaze, metal tools or engraved symbols.\nOne existing small bark water vessel rests separately beside the test stone; no specimens inside it and no food. Keep the rest of the equipment outside frame. There is no heat source here, and the short wetting result does not imply a waterproof vessel.\nComposition: subject centre-right and unobstructed hands and stone to his left, sparse golden autumn vegetation and cool valley distance. Full grass front screen and a naturally visible edge of the separate back screen, plain fur cap, exposed ankles and toes in bast soles. No inventory spread, new vessel construction or hunting.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "attempts": [
+        {
+          "id": "day-59",
+          "key": "finish-day-59",
+          "status": "rejected",
+          "reason": "Invented cylindrical bucket instead of existing folded bark tray.",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-b05c40b1-0266-4b1e-a5f2-0f399dbaebb3.png",
+          "prompt_record": "generation-prompts.json",
+          "source_sha256": "9e96a09bd8d6aee125be77dfe9fb78026edffb3a6349f1cf80dcf880967a88cf",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 3 Day 1, daylight at the dry craft spot, AFTER the overnight firing has cooled and AFTER the brief comparative wetting. He sits in an ordinary pose on a low rock, near-frontal torso, full legs and both bast soles visible. His LEFT fox strip remains viewer RIGHT.\nTechnology action: his two natural hands gently hold and examine ONE cool palm-width FLAT thin irregular orange-grey fired clay coupon with a pre-existing chipped corner. The other palm-width coupon, thicker and with a subtle new hairline beside its old chipped corner, rests on a separate non-food test stone. A slight dark wet patch and two tiny softened raw clay chips are visible on that stone before cleanup. These are two small solid test plaques, not pieces of an invented new cooking pot. No dramatic break, glaze, metal tools or engraved symbols.\nOne existing small bark water vessel rests separately beside the test stone; no specimens inside it and no food. Keep the rest of the equipment outside frame. There is no heat source here, and the short wetting result does not imply a waterproof vessel.\nComposition: subject centre-right and unobstructed hands and stone to his left, sparse golden autumn vegetation and cool valley distance. Full grass front screen and a naturally visible edge of the separate back screen, plain fur cap, exposed ankles and toes in bast soles. No inventory spread, new vessel construction or hunting.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "edit_passes": 0
+        },
+        {
+          "id": "day-59",
+          "key": "finish-day-59-retry",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-34da2d10-c201-4f9a-830e-d069a89380e4.png",
+          "prompt_record": "retry-prompts.json",
+          "source_sha256": "5749dd46f1fbdb50a76f3b1c728ee4de4d2a1261499894a76ddd7511dd54f8fc",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nScene: Moon 3 Day 1, daylight at the dry craft spot, AFTER the overnight firing has cooled and AFTER the brief comparative wetting. He sits in an ordinary pose on a low rock, near-frontal torso, full legs and both bast soles visible. His LEFT fox strip remains viewer RIGHT.\nTechnology action: his two natural hands gently hold and examine ONE cool palm-width FLAT thin irregular orange-grey fired clay coupon with a pre-existing chipped corner. The other palm-width coupon, thicker and with a subtle new hairline beside its old chipped corner, rests on a separate non-food test stone. A slight dark wet patch and two tiny softened raw clay chips are visible on that stone before cleanup. These are two small solid test plaques, not pieces of an invented new cooking pot. No dramatic break, glaze, metal tools or engraved symbols.\nImage 3 is an EQUIPMENT GEOMETRY reference only for the existing bark vessel; omit all labels, plate layout and close-up insets. Show ONE SMALL shallow RECTANGULAR bark tray formed from ONE pale birch-bark sheet with folded corners tied by cords. It rests separately beside the test stone; no specimens inside it and no food. NO cylindrical bucket, separate staves, raised handle or unfamiliar vessel construction. Keep the rest of the equipment outside frame. There is no heat source here, and the short wetting result does not imply a waterproof vessel.\nComposition: subject centre-right and unobstructed hands and stone to his left, sparse golden autumn vegetation and cool valley distance. Full grass front screen and a naturally visible edge of the separate back screen, plain fur cap, exposed ankles and toes in bast soles. No inventory spread, new vessel construction or hunting.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/technologies/bark-container.png",
+              "role": "existing bark tray geometry only",
+              "sha256": "ed982894c6f6b1ee8da44850b1f72d1db3be9a61b8d3902c54a50795aa3e689f"
+            }
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-34da2d10-c201-4f9a-830e-d069a89380e4.png",
+      "canonical_sha256": "5749dd46f1fbdb50a76f3b1c728ee4de4d2a1261499894a76ddd7511dd54f8fc",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-10",
+      "review": "Correct full outfit, anatomical left fox, plain crown, both bast soles and natural hands. Two small cold fired plaques on a separate non-food test surface, wet traces and raw chip crumbs; shallow folded bark tray matches the established design. Fracture details are illustrative, not a measured technical plate."
+    },
+    {
+      "id": "reflection-05",
+      "target": "_Artwork/reflections/reflection-05-new-moon.png",
+      "page": "02_Reflections/Reflection 05 - New Moon - Moon 3 Day 1.md",
+      "scene": "End-of-Day-59 moonless appraisal: fully clothed traveller seated at the protected camp edge, two small cold fired comparison remnants on a test stone, a broad darkening valley.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nOverride medium for this Reflection frontispiece: translucent watercolour and MATTE GOUACHE with sparse graphite/brown ink on toned paper, deeper tonal range and more deliberate negative space than daily action art. Image 3 supplies ONLY the established painted Reflection palette and landscape treatment; do not copy its full moon, bare frame, earlier clothing, weapons, food or exact composition.\nScene: end of continuous Day 59, Moon 3 Day 1, NEW MOON. Moonless twilight, no luminous disk. The same traveller sits quietly at the protected edge of his camp on a low rock, upright ordinary seated pose with exactly two legs and both bast soles visible. His torso is almost frontal, fox strip viewer RIGHT, face turned slightly toward the broad darkening valley. His natural hands rest; no action demonstration.\nNear him, on a separate stone, TWO SMALL cold palm-width flat fired clay comparison remnants form a sparse still life: one thinner, the other thicker with a fine hairline, both with a deliberately chipped corner. They have only earned a short wetting result, not a pot. NO raw controls remain in this end-of-day scene. No bowls, new vessel, weapons or stock display.\nThe small low shelter's existing covered return extension is suggested subtly behind him, never a new hut. Warm light from the existing OUTSIDE hearth beyond the frame grazes the figure and stones; no flame inside the shelter or near grass clothing. The valley remains much larger than the small workshop gains, with slate-indigo air, muted ochre leaves and broad breathing space. Quiet resolve and reflection on repeatable useful technology. No heroic sunrise, imaginary city, spacecraft vision, visitors, full moon, magical beam or labels.",
+      "attempts": [
+        {
+          "id": "reflection-05",
+          "key": "finish-reflection-05",
+          "status": "rejected",
+          "reason": "Changed roughly rectangular comparison pieces to round discs.",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-86cfa6e3-5f39-43bd-b010-0f2ffd5c2e83.png",
+          "prompt_record": "generation-prompts.json",
+          "source_sha256": "2d95ec665c2fe57da384845459a5ebba5fabc1a017f83cb70352b04467fcc4db",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nOverride medium for this Reflection frontispiece: translucent watercolour and MATTE GOUACHE with sparse graphite/brown ink on toned paper, deeper tonal range and more deliberate negative space than daily action art. Image 3 supplies ONLY the established painted Reflection palette and landscape treatment; do not copy its full moon, bare frame, earlier clothing, weapons, food or exact composition.\nScene: end of continuous Day 59, Moon 3 Day 1, NEW MOON. Moonless twilight, no luminous disk. The same traveller sits quietly at the protected edge of his camp on a low rock, upright ordinary seated pose with exactly two legs and both bast soles visible. His torso is almost frontal, fox strip viewer RIGHT, face turned slightly toward the broad darkening valley. His natural hands rest; no action demonstration.\nNear him, on a separate stone, TWO SMALL cold palm-width flat fired clay comparison remnants form a sparse still life: one thinner, the other thicker with a fine hairline, both with a deliberately chipped corner. They have only earned a short wetting result, not a pot. NO raw controls remain in this end-of-day scene. No bowls, new vessel, weapons or stock display.\nThe small low shelter's existing covered return extension is suggested subtly behind him, never a new hut. Warm light from the existing OUTSIDE hearth beyond the frame grazes the figure and stones; no flame inside the shelter or near grass clothing. The valley remains much larger than the small workshop gains, with slate-indigo air, muted ochre leaves and broad breathing space. Quiet resolve and reflection on repeatable useful technology. No heroic sunrise, imaginary city, spacecraft vision, visitors, full moon, magical beam or labels.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png",
+              "role": "painted Reflection palette and landscape style only",
+              "sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e"
+            }
+          ],
+          "edit_passes": 0
+        },
+        {
+          "id": "reflection-05",
+          "key": "finish-reflection-05-retry",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c0ad55f4-08f2-4f2c-9df1-8cfd0f1ff3f7.png",
+          "prompt_record": "retry-prompts.json",
+          "source_sha256": "fc6dbb50e304ca4f7170bf746a4b9b6d92bfe8563b2a4620680af0e7e828e64c",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "full_prompt": "Use case: illustration-story. Asset type: opening illustration for the Humanity Handbook Obsidian narrative. Create ONE new wide landscape 16:9 illustration, no text or panels.\nInput images: Image 1 is the original protagonist IDENTITY and daily illustration STYLE reference only; do not copy its clothing state or exact pose. Image 2 is the dated CLOTHING reference only; do not copy its character-sheet layout, labels or multiple figures.\nIdentity and medium: the SAME lean adult man, about thirty, dark wavy ear-length hair, short dark beard, natural smooth skin; fine brown ink and watercolour, warm earth palette and pale paper edges, realistic modest material scale, restrained detail like Image 1.\nMandatory current clothing: plain LOW grey-brown rabbit-fur crown pad with folded margin and loose forehead/back retention, face and ears exposed, NO rabbit head, face, long ears, tail or chin strap. ONE narrow rust fox strip on his anatomical LEFT shoulder (viewer RIGHT in a frontal view). TWO separate golden-grass hanging screens, one front and one back, with upper headers and two light retaining rows, hip-length, loose open sides, bare arms. Where visible show the rear screen's edge behind the flank, not a third screen. Under these, existing brown bark waist panels and small pale rabbit pelvic pad. BOTH feet wear thin flat interlaced willow-bast soles with corded margins, sparse dry-grass lining, low forefoot ties and low heel retention, open toes and exposed ankles; no boots, moccasins or modern sandals.\nAnatomy: one figure, exactly two legs and two natural hands, no doubled limbs, skin not crosshatched as wounds. The cap and garments are handmade and coarse, not an animal mask or armour. No invented equipment, labelled diagrams, writing, watermark, modern objects or new people.\nOverride medium for this Reflection frontispiece: translucent watercolour and MATTE GOUACHE with sparse graphite/brown ink on toned paper, deeper tonal range and more deliberate negative space than daily action art. Image 3 supplies ONLY the established painted Reflection palette and landscape treatment; do not copy its full moon, bare frame, earlier clothing, weapons, food or exact composition.\nScene: end of continuous Day 59, Moon 3 Day 1, NEW MOON. Moonless twilight, no luminous disk. The same traveller sits quietly at the protected edge of his camp on a low rock, upright ordinary seated pose with exactly two legs and both bast soles visible. His torso is almost frontal, fox strip viewer RIGHT, face turned slightly toward the broad darkening valley. His natural hands rest; no action demonstration.\nNear him, on a separate stone, TWO SMALL cold palm-width roughly RECTANGULAR flat fired clay comparison remnants with uneven handmade edges form a sparse still life: one about a centimetre thick, the other about two centimetres thick with a fine hairline, both with a deliberately chipped corner, both sharing the same modest roughly rectangular form, NOT discs, thick cylinders, bowl bases or plates. They have only earned a short wetting result, not a pot. NO raw controls remain in this end-of-day scene. No bowls, new vessel, weapons or stock display.\nThe small low shelter's existing covered return extension is suggested subtly behind him, never a new hut. Warm light from the existing OUTSIDE hearth beyond the frame grazes the figure and stones; no flame inside the shelter or near grass clothing. The valley remains much larger than the small workshop gains, with slate-indigo air, muted ochre leaves and broad breathing space. Quiet resolve and reflection on repeatable useful technology. No heroic sunrise, imaginary city, spacecraft vision, visitors, full moon, magical beam or labels.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity and daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated clothing design only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png",
+              "role": "painted Reflection palette and landscape style only",
+              "sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e"
+            }
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c0ad55f4-08f2-4f2c-9df1-8cfd0f1ff3f7.png",
+      "canonical_sha256": "fc6dbb50e304ca4f7170bf746a4b9b6d92bfe8563b2a4620680af0e7e828e64c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-10",
+      "review": "Moonless end-Day-59 appraisal with complete clothing, left fox strip, two bast soles and ordinary seated anatomy. Two modest roughly rectangular fired remnants, no raw controls, new pot, weapon, inventory display or future machinery. Warm off-frame outside-hearth light, larger dark valley and painted treatment."
+    }
+  ],
+  "selected_count": 5,
+  "rejected_count": 2,
+  "png_postprocessing": "none; selected bytes copied unchanged, original generated files retained",
+  "website_publish": false,
+  "visual_review": "Five selected images checked against written event cutoff, original identity, dated clothing sheet, equipment geometry and lunar phase."
+}

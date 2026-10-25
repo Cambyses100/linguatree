@@ -1,0 +1,607 @@
+{
+  "batch": "Moon 3 Days 12–16 and Reflection 06",
+  "created_on": "2026-10-18",
+  "method": "built-in image_gen, independent calls per asset",
+  "website_publish": false,
+  "png_postprocessing": "none; selected source PNG bytes copied unchanged and originals retained",
+  "revised_previous_reflection": "Reflection 05 text revised within Day 59 cutoff; existing compatible frontispiece retained",
+  "jobs": [
+    {
+      "id": "character-sheet",
+      "page": "09_Reference/Character Sheet - Moon 3 Day 15.md",
+      "target": "_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+      "scene": "Front, left-side and back views with low enclosing pelt foot layers over the retained bast soles.",
+      "prompt": "Use case: illustration-story. Asset type: dated character reference, Humanity Handbook, completed Moon 3 Day 15 / Day 73. One landscape sheet in fine brown ink and nuanced natural watercolour on warm ivory paper. Image 1 ORIGINAL man identity/style only; Image 2 existing cap/wrap/soles only. Three full-length views FRONT, LEFT SIDE, BACK, plus a small FOOT LAYERS detail. Title exactly \"HUMANITY HANDBOOK\", subtitle \"Character reference — Moon 3 Day 15\"; labels \"FRONT\", \"LEFT SIDE\", \"BACK\", \"FOOT LAYERS\".\nKeep same lean thirty-year-old dark wavy-haired short-bearded man, natural smooth skin, realistic proportions. Body/cap UNCHANGED from Image 2: worn tan hair-INWARD overlapping sleeveless wrap across both shoulders with irregular hem above knees, old repaired fold at anatomical left shoulder, upper chest tie BELOW throat, light waist fastening and small hip keeper. Plain grey-brown rabbit crown with tan-out hair-in side/ear/nape extension. Fox skin is entirely in cap, NOT another shoulder panel; no grass torso screens worn. Waist layers concealed, lower legs and much arms bare. No hood, trousers, leggings, sleeves, extra cloak or weapons.\nONLY new visible wardrobe: low soft RABBIT-SKIN FOOT COVERINGS fully enclosing toes and heels, each made from ONE modest pelt, hair inward against modest dry grass liner, PALE TAN SKIN OUTSIDE. Tops end just ABOVE ankles, not high boots. Simple irregular folded/stitch-retained toe and heel margins, no modern machine-sewn shoe pattern, no sole of thick leather, NO exposed toes. BOTH original flat woven BAST SOLES from Image 2 remain beneath/outside as the wearing layer; their woven edges and low retention ties with short extensions are clearly visible round the soft skin covers. Keep knots out from under feet and no tight ankle rings. Foot detail shows soft upper above original woven footbed with slight separated layer indication, no spare footwear pair. Exactly two arms and two legs in each full view, natural hands. Appearance continuity, not a validated cutting pattern.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated Day 67 clothing; retain cap/wrap and add specified foot layers"
+      ],
+      "attempts": [
+        {
+          "id": "character-sheet",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-97f1d334-00c8-4d57-af38-c32f02bf0853.png",
+          "status": "selected",
+          "review": "Same man, cap and tan wrap across three views. Low enclosed pale skin foot layers with original bast footbeds/ties visibly retained, bare lower legs, no fox shoulder layer or spare garments. Detail is appearance/functions, not literal stitching pattern or spare stock.",
+          "full_prompt": "Use case: illustration-story. Asset type: dated character reference, Humanity Handbook, completed Moon 3 Day 15 / Day 73. One landscape sheet in fine brown ink and nuanced natural watercolour on warm ivory paper. Image 1 ORIGINAL man identity/style only; Image 2 existing cap/wrap/soles only. Three full-length views FRONT, LEFT SIDE, BACK, plus a small FOOT LAYERS detail. Title exactly \"HUMANITY HANDBOOK\", subtitle \"Character reference — Moon 3 Day 15\"; labels \"FRONT\", \"LEFT SIDE\", \"BACK\", \"FOOT LAYERS\".\nKeep same lean thirty-year-old dark wavy-haired short-bearded man, natural smooth skin, realistic proportions. Body/cap UNCHANGED from Image 2: worn tan hair-INWARD overlapping sleeveless wrap across both shoulders with irregular hem above knees, old repaired fold at anatomical left shoulder, upper chest tie BELOW throat, light waist fastening and small hip keeper. Plain grey-brown rabbit crown with tan-out hair-in side/ear/nape extension. Fox skin is entirely in cap, NOT another shoulder panel; no grass torso screens worn. Waist layers concealed, lower legs and much arms bare. No hood, trousers, leggings, sleeves, extra cloak or weapons.\nONLY new visible wardrobe: low soft RABBIT-SKIN FOOT COVERINGS fully enclosing toes and heels, each made from ONE modest pelt, hair inward against modest dry grass liner, PALE TAN SKIN OUTSIDE. Tops end just ABOVE ankles, not high boots. Simple irregular folded/stitch-retained toe and heel margins, no modern machine-sewn shoe pattern, no sole of thick leather, NO exposed toes. BOTH original flat woven BAST SOLES from Image 2 remain beneath/outside as the wearing layer; their woven edges and low retention ties with short extensions are clearly visible round the soft skin covers. Keep knots out from under feet and no tight ankle rings. Foot detail shows soft upper above original woven footbed with slight separated layer indication, no spare footwear pair. Exactly two arms and two legs in each full view, natural hands. Appearance continuity, not a validated cutting pattern.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png",
+              "role": "dated Day 67 clothing; retain cap/wrap and add specified foot layers",
+              "sha256": "755789d08dddc5d35e677a464b4cf7ce1442a3a71f33ebca7fad6bb4facae499"
+            }
+          ],
+          "source_sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-97f1d334-00c8-4d57-af38-c32f02bf0853.png",
+      "canonical_sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Same man, cap and tan wrap across three views. Low enclosed pale skin foot layers with original bast footbeds/ties visibly retained, bare lower legs, no fox shoulder layer or spare garments. Detail is appearance/functions, not literal stitching pattern or spare stock."
+    },
+    {
+      "id": "spear-plate",
+      "page": "05_Tools and Equipment/Weapons/Stone-Pointed Spear.md",
+      "target": "_Artwork/tools/stone-pointed-spear.png",
+      "scene": "An archaeological object study of the completed composite hand spear, without a construction cutaway or measured proportions.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nImage 2 supplies ONLY the small stout leaf-shaped stone insert geometry, not an unmounted status. Title exactly \"STONE-POINTED SPEAR\". One ordinary straight OAK HAND SPEAR, long shaft, modest grey stone tip finger-length in real use, shown across landscape page. Point is short stout leaf-shaped with broad plain base, no barbs or tang, no metal. Base sits in shallow controlled terminal cleft with a SUPPORTED STOP, shaft wood on BOTH sides, axis aligned. Dense simple plant-cord turns retain the mounting zone BEHIND sharp forward edges, with a separate retaining band just below the terminal cleft limiting split propagation. Do not wrap cord over the pointed cutting tip. No glue, broad decorative ribbons or spearhead the size of a shield.\nEnlarged simple CUTAWAY inset clearly shows broad base seated against sound wood rather than floating loose in a hollow; a partial near-side wood section can be omitted in the inset to expose base contact. Main assembled joint remains complete, no exploded unbound spear mistaken as functional. Minimal labels exactly \"SUPPORTED BASE\", \"RESTRAINED SPLIT\", \"BINDING CLEAR OF EDGE\", \"ALIGNED AXIS\". One small loose plant-target icon optional but no person, animal penetration, ballistic trajectory, atlatl, bow or arrow. Retain realistic thick wooden shaft, not polished factory pole.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-spear-point.png"
+      ],
+      "input_roles": [
+        "fixed handbook plate graphic style only",
+        "stone insert geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "spear-plate",
+          "status": "tool-rejected",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nImage 2 supplies ONLY the small stout leaf-shaped stone insert geometry, not an unmounted status. Title exactly \"STONE-POINTED SPEAR\". One ordinary straight OAK HAND SPEAR, long shaft, modest grey stone tip finger-length in real use, shown across landscape page. Point is short stout leaf-shaped with broad plain base, no barbs or tang, no metal. Base sits in shallow controlled terminal cleft with a SUPPORTED STOP, shaft wood on BOTH sides, axis aligned. Dense simple plant-cord turns retain the mounting zone BEHIND sharp forward edges, with a separate retaining band just below the terminal cleft limiting split propagation. Do not wrap cord over the pointed cutting tip. No glue, broad decorative ribbons or spearhead the size of a shield.\nEnlarged simple CUTAWAY inset clearly shows broad base seated against sound wood rather than floating loose in a hollow; a partial near-side wood section can be omitted in the inset to expose base contact. Main assembled joint remains complete, no exploded unbound spear mistaken as functional. Minimal labels exactly \"SUPPORTED BASE\", \"RESTRAINED SPLIT\", \"BINDING CLEAR OF EDGE\", \"ALIGNED AXIS\". One small loose plant-target icon optional but no person, animal penetration, ballistic trajectory, atlatl, bow or arrow. Retain realistic thick wooden shaft, not polished factory pole.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-spear-point.png"
+          ],
+          "reason": "Image tool output moderation rejected detailed construction diagram: category illicit; request af4ee67f-7321-481f-8774-4b1dc6bdd187. No image file returned. Safer non-instructional archaeological object study selected for replacement.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-spear-point.png",
+              "role": "stone insert geometry only",
+              "sha256": "0359dd748d5873f824843b14a629935fd59385fd11345dbb20df33175beb382e"
+            }
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "spear-plate",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 0,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-36d66ed3-8e90-40f9-b7b9-38eadca9b5f9.png",
+          "review": "Simple archaeological object study, coherent grey stone and wooden shaft with visible junction band. Title readable, no instructional cutaway. Tip visually enlarged for legibility; no dimensions or measured ratio claimed.",
+          "full_prompt": "Use case: scientific-educational. A non-instructional archaeological museum illustration of a completed prehistoric wooden hand spear with a modest leaf-shaped stone tip, resting as a quiet object on warm ivory paper. Image 1 gives only the established navy ink/pastel watercolour handbook graphic style; Image 2 gives only the rough grey stone's general appearance. Large restrained title exactly \"STONE-POINTED SPEAR\". Show the complete single object diagonally with much blank space, natural wood texture and stone at realistic modest scale. A plain simple dark band may indicate the visible junction as it appears on the assembled artifact. No cutaway, assembly sequence, close-up construction details, technical labels, dimensions, instructions, arrows, person, use demonstration, animal, target or violent scene. This is an archaeological object identification plate, not a manufacturing guide.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-spear-point.png",
+              "role": "stone insert geometry only",
+              "sha256": "0359dd748d5873f824843b14a629935fd59385fd11345dbb20df33175beb382e"
+            }
+          ],
+          "source_sha256": "c7182d7805ac26ad9666d7c318aa692dd609d86eef2566b9a8d048d2bc59e578",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-36d66ed3-8e90-40f9-b7b9-38eadca9b5f9.png",
+      "canonical_sha256": "c7182d7805ac26ad9666d7c318aa692dd609d86eef2566b9a8d048d2bc59e578",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Simple archaeological object study, coherent grey stone and wooden shaft with visible junction band. Title readable, no instructional cutaway. Tip visually enlarged for legibility; no dimensions or measured ratio claimed."
+    },
+    {
+      "id": "day-70",
+      "page": "01_Survival/Moon 3 Day 12 - A Seat Before a Binding.md",
+      "target": "_Artwork/survival/day-70.png",
+      "scene": "Inspecting the newly seated and bound stone tip under light hand loading at the outside craft spot.",
+      "prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nImage 3 supplies ONLY assembled spear joint geometry. Scene AFTER seating/binding, BEFORE any impact: man seated naturally on low rock beside clean craft stone OUTSIDE shallow overhang. Holds new ordinary-length oak spear diagonally AWAY from body with both hands, looking closely at SMALL grey stone point in shallow supported socket. Fresh plant cord bound behind working edge, separate band below cleft, axis aligned. Hand near mounting zone, no finger/palm on edge. Stone tip small around finger length, not enormous fantasy head. No penetration target, animal, new pelt, pot or extra spear in scene. Original wooden spear remains offscreen, not duplicated. Partial bark/brush screen can be background, one small low earth bay only; no hearth indoors. Natural hands and two legs, both original bast soles in view where pose allows. Main focus inspectable joint rather than weapon brandishing.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-pointed-spear.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated pre-footwrap wardrobe only",
+        "assembled mechanical joint geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "day-70",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-29799724-1458-4fb0-b86b-872bdc9376cb.png",
+          "review": "Natural seated anatomy, pre-footwrap open bast soles, same cap and tan wrap. Small mounted grey point inspected without edge contact, no impact/animal or premature pot. Cropped shaft is illustrative, not measured length.",
+          "full_prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nImage 3 supplies ONLY assembled spear joint geometry. Scene AFTER seating/binding, BEFORE any impact: man seated naturally on low rock beside clean craft stone OUTSIDE shallow overhang. Holds new ordinary-length oak spear diagonally AWAY from body with both hands, looking closely at SMALL grey stone point in shallow supported socket. Fresh plant cord bound behind working edge, separate band below cleft, axis aligned. Hand near mounting zone, no finger/palm on edge. Stone tip small around finger length, not enormous fantasy head. No penetration target, animal, new pelt, pot or extra spear in scene. Original wooden spear remains offscreen, not duplicated. Partial bark/brush screen can be background, one small low earth bay only; no hearth indoors. Natural hands and two legs, both original bast soles in view where pose allows. Main focus inspectable joint rather than weapon brandishing.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png",
+              "role": "dated pre-footwrap wardrobe only",
+              "sha256": "755789d08dddc5d35e677a464b4cf7ce1442a3a71f33ebca7fad6bb4facae499"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-pointed-spear.png",
+              "role": "assembled mechanical joint geometry only",
+              "sha256": "c7182d7805ac26ad9666d7c318aa692dd609d86eef2566b9a8d048d2bc59e578"
+            }
+          ],
+          "source_sha256": "c100e7efff1ffbaaa2a96c3d2aad56f30be8be18609669c62ad383ea8d43a0b9",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-29799724-1458-4fb0-b86b-872bdc9376cb.png",
+      "canonical_sha256": "c100e7efff1ffbaaa2a96c3d2aad56f30be8be18609669c62ad383ea8d43a0b9",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Natural seated anatomy, pre-footwrap open bast soles, same cap and tan wrap. Small mounted grey point inspected without edge contact, no impact/animal or premature pot. Cropped shaft is illustrative, not measured length."
+    },
+    {
+      "id": "day-71",
+      "page": "01_Survival/Moon 3 Day 13 - Keep the Coarse Meal in the Work.md",
+      "target": "_Artwork/survival/day-71.png",
+      "scene": "Crushing a modest acorn charge on a clean naturally hollow slab, separating coarse pieces on bark.",
+      "prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nScene in dry clean food-work area under natural rock cover. Man seated/kneeling naturally at low BROAD NATURAL STONE with a shallow irregular hollow, not a carved deep mortar. Holds one rounded handstone just above modest pale shelled acorn pieces. Other hand OUTSIDE pounding contact, beside clean bark catch/sorting surface with a small coarser group and finer group. A few intact identified acorn shells only, no vast harvest, huge flour heap or instant bread. No sieve, fine textile, rotary quern, finished pot, metal or new kitchen furniture. Food pair separate from dirty knapping stones/pelts. Figure retains old OPEN bast soles and dated cap/wrap. Background crop only shallow natural overhang and light bark screen; food and people anatomy clear. This is preparation BEFORE leaching/cooking, no tasting, no steaming raw meal, no water-filled bark or unidentified bowl needed.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated pre-footwrap clothing appearance only"
+      ],
+      "attempts": [
+        {
+          "id": "day-71",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-28d89f52-5afc-41e4-99ac-d1d6d7d86c16.png",
+          "review": "Natural food slab/hollow, modest fragments and coarse/finer bark groups, hand clear of contact. Pre-footwrap clothing and open bast soles retained; no carved mortar, flour store, finished pot or dirty pelt at food work. Shells are illustrative, not species-identification evidence.",
+          "full_prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nScene in dry clean food-work area under natural rock cover. Man seated/kneeling naturally at low BROAD NATURAL STONE with a shallow irregular hollow, not a carved deep mortar. Holds one rounded handstone just above modest pale shelled acorn pieces. Other hand OUTSIDE pounding contact, beside clean bark catch/sorting surface with a small coarser group and finer group. A few intact identified acorn shells only, no vast harvest, huge flour heap or instant bread. No sieve, fine textile, rotary quern, finished pot, metal or new kitchen furniture. Food pair separate from dirty knapping stones/pelts. Figure retains old OPEN bast soles and dated cap/wrap. Background crop only shallow natural overhang and light bark screen; food and people anatomy clear. This is preparation BEFORE leaching/cooking, no tasting, no steaming raw meal, no water-filled bark or unidentified bowl needed.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png",
+              "role": "dated pre-footwrap clothing appearance only",
+              "sha256": "755789d08dddc5d35e677a464b4cf7ce1442a3a71f33ebca7fad6bb4facae499"
+            }
+          ],
+          "source_sha256": "159826b25fda36562f003630449e44cf362b77bb784cac66645b15348c005301",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-28d89f52-5afc-41e4-99ac-d1d6d7d86c16.png",
+      "canonical_sha256": "159826b25fda36562f003630449e44cf362b77bb784cac66645b15348c005301",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Natural food slab/hollow, modest fragments and coarse/finer bark groups, hand clear of contact. Pre-footwrap clothing and open bast soles retained; no carved mortar, flour store, finished pot or dirty pelt at food work. Shells are illustrative, not species-identification evidence."
+    },
+    {
+      "id": "day-72",
+      "page": "01_Survival/Moon 3 Day 14 - Form the Pot for the Meal.md",
+      "target": "_Artwork/survival/day-72.png",
+      "scene": "Finishing the small open greenware pot at the craft stone, with one witness piece before transfer to the protected drying board.",
+      "prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nScene Day 72 after shaping, still workable: same man seated naturally at a low non-food craft stone/board under protected shallow rock roof, gently feeling rim of ONE SMALL OPEN PINCH POT. Pot is UNFIRED soft grey-brown clay, open rounded bowl form, mouth wider than belly, plain rim, smooth curved wall-to-base transition, small stable resting patch. Roughly hand-sized useful vessel, not huge bucket. NO handle, neck, spout, foot ring, glaze, red firing glow, flame, water, steam or food inside. One small same-section witness scrap on bark beside it, not a second pot. Board is separate craft location off food shelf. Both old OPEN bast soles retained, cap ear/nape flaps down, tan skin wrap. No fresh pelt spread in clean area, no discarded ceramic fragments used as temper, no comparison discs. Close enough to understand form, with clear hands not fused into wet vessel.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated pre-footwrap clothing appearance only"
+      ],
+      "attempts": [
+        {
+          "id": "day-72",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9b02593c-4187-4296-a633-2bf4ef60d37a.png",
+          "review": "One modest plain open grey-brown unfired form and one small witness, no handles/foot ring/water/heat. Hands remain legible and two-leg seated pose partly occludes far foot. Pre-footwrap cap, wrap and open bast sole retained. Chosen forming moment is on the craft stone, before transfer to drying board.",
+          "full_prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBOTH original low flat woven bast soles with grass liners and low ties are worn; TOES and ANKLES still OPEN. No pelt shoes before completed Day 73.\n\nScene Day 72 after shaping, still workable: same man seated naturally at a low non-food craft stone/board under protected shallow rock roof, gently feeling rim of ONE SMALL OPEN PINCH POT. Pot is UNFIRED soft grey-brown clay, open rounded bowl form, mouth wider than belly, plain rim, smooth curved wall-to-base transition, small stable resting patch. Roughly hand-sized useful vessel, not huge bucket. NO handle, neck, spout, foot ring, glaze, red firing glow, flame, water, steam or food inside. One small same-section witness scrap on bark beside it, not a second pot. Board is separate craft location off food shelf. Both old OPEN bast soles retained, cap ear/nape flaps down, tan skin wrap. No fresh pelt spread in clean area, no discarded ceramic fragments used as temper, no comparison discs. Close enough to understand form, with clear hands not fused into wet vessel.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-9/character-sheet.png",
+              "role": "dated pre-footwrap clothing appearance only",
+              "sha256": "755789d08dddc5d35e677a464b4cf7ce1442a3a71f33ebca7fad6bb4facae499"
+            }
+          ],
+          "source_sha256": "c213e46fcc03c38813dbe3d05f11f4039b1e3681fe9116aad3b6ab7658fc6d8b",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9b02593c-4187-4296-a633-2bf4ef60d37a.png",
+      "canonical_sha256": "c213e46fcc03c38813dbe3d05f11f4039b1e3681fe9116aad3b6ab7658fc6d8b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "One modest plain open grey-brown unfired form and one small witness, no handles/foot ring/water/heat. Hands remain legible and two-leg seated pose partly occludes far foot. Pre-footwrap cap, wrap and open bast sole retained. Chosen forming moment is on the craft stone, before transfer to drying board."
+    },
+    {
+      "id": "day-73",
+      "page": "01_Survival/Moon 3 Day 15 - Close the Gap Above the Soles.md",
+      "target": "_Artwork/survival/day-73.png",
+      "scene": "Taking slow level steps after fitting both low pelt covers within the existing bast soles.",
+      "prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBoth feet are NOW ENCLOSED in low soft pale-tan rabbit-skin coverings, HAIR INWARD, folded sound seams, toes and heels FULLY CLOSED. Tops just above ankles, lower legs above bare. Both ORIGINAL flat woven bast soles remain beneath/outside and visible at edges, with old retention line plus short extensions round the layers. Modest grass lining INSIDE, no grass fringe hanging from clothes. No bare toes projecting through skin, tall boots, thick leather sole or new hide leggings. Match Image 2 precisely.\n\nScene AFTER completed fitting and toe-lining adjustment: man making a slow ordinary step/weight shift on dry level ground beside overhang entrance, looking down to check the TWO completed low enclosed foot layers. FULL BODY including BOTH feet and original woven sole margins visible, no foot hidden behind foreground rock. Simple natural two-legged pose, no crouching or extra anatomy. Warm tan body wrap/cap from reference; low pale-tan enclosed toes/heels and ankle tops precisely as Image 2. No exposed toes, new boots up calves, leggings, extra pelt in hands or animal-head hat. Partial bark/brush screen and single small low earth patch in background, clear dry approach, no mud whole-wall or indoor hearth. No weapon, catch or pottery needed; image focuses functional clothing coverage and ordinary dry-camp fit, not a fashion pose or distant winter hike.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated completed Day 73 cap/wrap/enclosed-foot appearance only"
+      ],
+      "attempts": [
+        {
+          "id": "day-73",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-37e1f7a1-b9ff-4b50-8b18-48ebbb1783ec.png",
+          "reason": "Reintroduced original Day 1 lean-to instead of current overhang setting; footwear itself correct. Fresh neutral fitting scene needed from original inputs, never this rejected image.",
+          "full_prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBoth feet are NOW ENCLOSED in low soft pale-tan rabbit-skin coverings, HAIR INWARD, folded sound seams, toes and heels FULLY CLOSED. Tops just above ankles, lower legs above bare. Both ORIGINAL flat woven bast soles remain beneath/outside and visible at edges, with old retention line plus short extensions round the layers. Modest grass lining INSIDE, no grass fringe hanging from clothes. No bare toes projecting through skin, tall boots, thick leather sole or new hide leggings. Match Image 2 precisely.\n\nScene AFTER completed fitting and toe-lining adjustment: man making a slow ordinary step/weight shift on dry level ground beside overhang entrance, looking down to check the TWO completed low enclosed foot layers. FULL BODY including BOTH feet and original woven sole margins visible, no foot hidden behind foreground rock. Simple natural two-legged pose, no crouching or extra anatomy. Warm tan body wrap/cap from reference; low pale-tan enclosed toes/heels and ankle tops precisely as Image 2. No exposed toes, new boots up calves, leggings, extra pelt in hands or animal-head hat. Partial bark/brush screen and single small low earth patch in background, clear dry approach, no mud whole-wall or indoor hearth. No weapon, catch or pottery needed; image focuses functional clothing coverage and ordinary dry-camp fit, not a fashion pose or distant winter hike.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated completed Day 73 cap/wrap/enclosed-foot appearance only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "cdbebd2ad879521b7cd2cc6f5b05203776cc8f95e6bc1f6ef82fde6baf906e2f",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "day-73",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 1,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c0672db2-1bf8-423b-a60d-62d27a004fdf.png",
+          "review": "Fresh close full-body fit scene on dry ground, neutral woodland with no old shelter. Correct cap/wrap and two low enclosed foot covers over visible bast soles. Natural step/two legs and relaxed hands; portrait framing retained for readable feet, not a new mapped route.",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook daily scene, completed Day 73. A simple full-body painting of the same man making a cautious slow step on LEVEL DRY EARTH in an OPEN SMALL WOODLAND CLEARING. Tight full-body composition including both feet, background only softly washed late-autumn tree trunks and a quiet neutral limestone face. NO SHELTER OR BUILDING is visible anywhere: no lean-to, piled poles, debris hut, fallen roof limb, hut opening, door, frame, hearth, stone roof, old camp layout or panoramic river. This is a deliberately cropped ordinary movement/fit scene, not a view of a home.\nImage 1 gives ONLY man identity and fine brown ink/natural watercolour style. DO NOT copy any background from Image 1. Image 2 gives complete DATED WARDROBE.\nSame lean adult dark wavy hair and short beard. One worn dull tan sleeveless skin wrap, hair inward, both shoulders, irregular hem above knees, chest tie below throat, narrow waist line/hip keeper. Same plain grey-brown crown with tan-out hair-in ear/nape side panel. Fox panel entirely in cap, never at shoulder. Both old grass torso screens stored absent, waist layers concealed, lower legs bare.\nBOTH FEET completely ENCLOSED in the new LOW SOFT PALE TAN SKIN COVERS from Image 2, toes/heels closed, top only just above ankle, hair and modest grass lining inside. Both original flat woven BAST SOLES remain visibly BELOW/OUTSIDE the soft covers, with low retained ties. No bare toes, tall boots, leggings or thick leather outsoles. Man looks down at his foot placement, natural balanced ordinary step/weight shift, arms relaxed, exactly two arms/two legs, both feet in clear view. Smooth natural skin no tattoos/scars. No weapon, animal, pottery, text or labels.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated completed Day 73 cap/wrap/enclosed-foot appearance only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "5c4569e3fe7bfa124fa3f93dec957442f2a6c5d08d69da101b6e1605dfaa3434",
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c0672db2-1bf8-423b-a60d-62d27a004fdf.png",
+      "canonical_sha256": "5c4569e3fe7bfa124fa3f93dec957442f2a6c5d08d69da101b6e1605dfaa3434",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Fresh close full-body fit scene on dry ground, neutral woodland with no old shelter. Correct cap/wrap and two low enclosed foot covers over visible bast soles. Natural step/two legs and relaxed hands; portrait framing retained for readable feet, not a new mapped route."
+    },
+    {
+      "id": "day-74",
+      "page": "01_Survival/Moon 3 Day 16 - Let the Joint Carry the Thrust.md",
+      "target": "_Artwork/survival/day-74.png",
+      "scene": "A restrained close two-handed thrust into a loose plant bundle on clear dry ground outside camp.",
+      "prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBoth feet are NOW ENCLOSED in low soft pale-tan rabbit-skin coverings, HAIR INWARD, folded sound seams, toes and heels FULLY CLOSED. Tops just above ankles, lower legs above bare. Both ORIGINAL flat woven bast soles remain beneath/outside and visible at edges, with old retention line plus short extensions round the layers. Modest grass lining INSIDE, no grass fringe hanging from clothes. No bare toes projecting through skin, tall boots, thick leather sole or new hide leggings. Match Image 2 precisely.\n\nImage 3 joint geometry ONLY. Daytime full-body scene on clear level dry mineral ground OUTSIDE ordinary camp work/traffic, not a new mapped range. Same man with BOTH low pelt-covered feet on their original bast soles visible, holds ONE oak hand spear in two hands. Makes a SHORT RESTRAINED AXIAL THRUST close to loose coarse dry plant bundle tied in front of low wooden stump. Small stone tip just entering the PLANT bundle, not stump/rock, cord remains behind edge. Show modest sound aligned stone-wood joint, spear about human height; no huge fantasy point. Clear space to sides, no other person, animal, blood, air flight or projectile trajectory. Comfortable balanced human stance and wrap loose shoulders, exactly two arms/legs. No atlatl, arrows, fishing fork, battle pose or bare toes. Background limited woodland/rock hint, no indoor fire or unearned big building. The target is replaceable loose plant stock, not a human silhouette.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-pointed-spear.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated completed Day 73 clothing only",
+        "small seated/bound stone-wood joint geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "day-74",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-159a0725-c4ea-4f14-9cf3-4dd5bd6bdc8b.png",
+          "review": "Two-handed close plant-bundle contact, clear non-stone target line and no animal/person target. Correct closed low pelt layers/bast soles, two natural legs/arms and dated cap/wrap. Joint depicted modestly; pose illustrates one contact without measurement or hunting claim.",
+          "full_prompt": "Use case: illustration-story. Asset type: landscape daily scene for Humanity Handbook. Match original Day 1 fine brown ink and richly natural watercolour, warm ivory paper. Late autumn, fictional low-elevation northern Iberian limestone valley with woodland and open slopes. Image 1 is ORIGINAL MAN IDENTITY AND DAILY STYLE ONLY; not his old nakedness, first shelter or possessions. Image 2 supplies DATED CLOTHING APPEARANCE ONLY. Same lean adult about thirty, dark wavy ear-length hair, short beard, smooth ordinary skin. One worn TAN body wrap with brown hair INWARD, overlapping front, both shoulders, sleeveless, hem above knees. Small repaired fold at anatomical LEFT shoulder, chest tie below throat, light waist line and small overlap keeper at one hip. Cap is plain grey-brown rabbit crown, with tan-brown hair-in side/ear/upper-nape extension made from reallocated fox panel; human face open, no animal ears, muzzle or face. NO fox panel at shoulder any more. Waist layers/pelvic pad concealed; both old grass torso screens stored and not worn. Lower legs and arms still exposed. Natural hands, exactly two arms/two legs, no scars/tattoos or fantasy hero. No new hood, leggings, sleeves, spare cloak, second skin trade, metal, bow, fletched dart or multi-pronged fishing tool. No indoor fire/smoke, no huge whole-front mud wall. Select one moment, not montage. No text, labels, watermark or logo.\nBoth feet are NOW ENCLOSED in low soft pale-tan rabbit-skin coverings, HAIR INWARD, folded sound seams, toes and heels FULLY CLOSED. Tops just above ankles, lower legs above bare. Both ORIGINAL flat woven bast soles remain beneath/outside and visible at edges, with old retention line plus short extensions round the layers. Modest grass lining INSIDE, no grass fringe hanging from clothes. No bare toes projecting through skin, tall boots, thick leather sole or new hide leggings. Match Image 2 precisely.\n\nImage 3 joint geometry ONLY. Daytime full-body scene on clear level dry mineral ground OUTSIDE ordinary camp work/traffic, not a new mapped range. Same man with BOTH low pelt-covered feet on their original bast soles visible, holds ONE oak hand spear in two hands. Makes a SHORT RESTRAINED AXIAL THRUST close to loose coarse dry plant bundle tied in front of low wooden stump. Small stone tip just entering the PLANT bundle, not stump/rock, cord remains behind edge. Show modest sound aligned stone-wood joint, spear about human height; no huge fantasy point. Clear space to sides, no other person, animal, blood, air flight or projectile trajectory. Comfortable balanced human stance and wrap loose shoulders, exactly two arms/legs. No atlatl, arrows, fishing fork, battle pose or bare toes. Background limited woodland/rock hint, no indoor fire or unearned big building. The target is replaceable loose plant stock, not a human silhouette.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated completed Day 73 clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/stone-pointed-spear.png",
+              "role": "small seated/bound stone-wood joint geometry only",
+              "sha256": "c7182d7805ac26ad9666d7c318aa692dd609d86eef2566b9a8d048d2bc59e578"
+            }
+          ],
+          "source_sha256": "86ee0dc66312c772e099b52f81bfc5a483730b9daca3e6b22b51e20db819f0fd",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-159a0725-c4ea-4f14-9cf3-4dd5bd6bdc8b.png",
+      "canonical_sha256": "86ee0dc66312c772e099b52f81bfc5a483730b9daca3e6b22b51e20db819f0fd",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Two-handed close plant-bundle contact, clear non-stone target line and no animal/person target. Correct closed low pelt layers/bast soles, two natural legs/arms and dated cap/wrap. Joint depicted modestly; pose illustrates one contact without measurement or hunting claim."
+    },
+    {
+      "id": "reflection-06",
+      "page": "02_Reflections/Reflection 06 - Full Moon - Moon 3 Day 16.md",
+      "target": "_Artwork/reflections/reflection-06-full-moon.png",
+      "scene": "Completed-Day-74 full-moon appraisal inside the dry overhang, with the new pot still unfired at the separate craft side.",
+      "prompt": "Use case: illustration-story. Asset type: wide painted Reflection frontispiece for Humanity Handbook, completed Day 74 / Moon 3 Day 16, FULL MOON. Image 1 original protagonist IDENTITY only. Image 2 completed Day 73 CLOTHING only. Image 3 REFLECTION PALETTE/PAINT HANDLING ONLY, not its old camp, bare figure or props. Translucent watercolour and matte gouache on lightly toned ivory paper, sparse graphite/fine brown contour, deeper tonal masses, quiet broad negative space and introspective composition. More painted/luminous than daily action scenes, not photoreal portrait, collage or labelled inventory.\nThe same lean dark wavy-haired short-bearded man sits with ordinary TWO-LEG anatomy on a low natural stone at the dry sleeping strip under SHALLOW NATURAL LIMESTONE OVERHANG, looking towards wide darkening valley. Resting hands, no work action. Single worn tan hair-in body wrap above knees, sleeveless, chest tie below throat, light waist line; plain rabbit crown with tan-out hair-in fox side/ear/nape extension. NO fox at shoulder. BOTH FEET enclosed in LOW PALE-TAN skin covers with original woven bast sole margins and ties, lower legs bare. Match Image 2, no bare toes, high boots, leggings, extra cloak, hood or animal-head cap.\nNatural rock carries itself. At mouth only low independent brush/bark weather screen, clear offset entrance/high air gap, ONE SMALL darker earth-filled lower bay, no full daub house. Dry bedding rear-left loosely suggested. A SMALL OPEN UNFIRED GREY-BROWN PINCH POT rests on separate bark-lined low board at craft side, with small witness; NOT filled, glazed, fired, steaming, red glowing or on hearth. Keep pot modest and away from feet/food, no second pot. Food storage can be mostly offscreen: no meat reserve or enormous nuts heap. No animal carcass, spare skin stock, bow, hunting dart or futuristic machine. Spear not necessary in crop.\nCool silver-blue FULL MOON visible through broken cloud in broad valley beyond opening; low warm spill may come from ordinary hearth OUTSIDE frame BEYOND drip edge. No combustion/fire/smoke under roof or sleeping screen, no torches. Mood is a useful home with unfinished work and continuing uncertainty, not triumph or despair. No text or watermark.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png"
+      ],
+      "input_roles": [
+        "original protagonist identity only",
+        "dated completed Day 73 cap/wrap/foot layers only",
+        "Reflection 04 painted palette/composition mood only"
+      ],
+      "attempts": [
+        {
+          "id": "reflection-06",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e88311f9-a77a-4b8c-8a01-71c796e884e0.png",
+          "review": "Full-moon night appraisal under clearly natural rock cover, man with two natural legs and correct enclosed foot layers/cap/wrap. Small grey unfired pot on separate board; small pale specimen marks are illustrative existing/witness material, not new vessels or a firing result. Leafy poles signify screen/bed, not roof support. No indoor combustion, hunting result or future equipment; oblique valley is atmospheric, not survey.",
+          "full_prompt": "Use case: illustration-story. Asset type: wide painted Reflection frontispiece for Humanity Handbook, completed Day 74 / Moon 3 Day 16, FULL MOON. Image 1 original protagonist IDENTITY only. Image 2 completed Day 73 CLOTHING only. Image 3 REFLECTION PALETTE/PAINT HANDLING ONLY, not its old camp, bare figure or props. Translucent watercolour and matte gouache on lightly toned ivory paper, sparse graphite/fine brown contour, deeper tonal masses, quiet broad negative space and introspective composition. More painted/luminous than daily action scenes, not photoreal portrait, collage or labelled inventory.\nThe same lean dark wavy-haired short-bearded man sits with ordinary TWO-LEG anatomy on a low natural stone at the dry sleeping strip under SHALLOW NATURAL LIMESTONE OVERHANG, looking towards wide darkening valley. Resting hands, no work action. Single worn tan hair-in body wrap above knees, sleeveless, chest tie below throat, light waist line; plain rabbit crown with tan-out hair-in fox side/ear/nape extension. NO fox at shoulder. BOTH FEET enclosed in LOW PALE-TAN skin covers with original woven bast sole margins and ties, lower legs bare. Match Image 2, no bare toes, high boots, leggings, extra cloak, hood or animal-head cap.\nNatural rock carries itself. At mouth only low independent brush/bark weather screen, clear offset entrance/high air gap, ONE SMALL darker earth-filled lower bay, no full daub house. Dry bedding rear-left loosely suggested. A SMALL OPEN UNFIRED GREY-BROWN PINCH POT rests on separate bark-lined low board at craft side, with small witness; NOT filled, glazed, fired, steaming, red glowing or on hearth. Keep pot modest and away from feet/food, no second pot. Food storage can be mostly offscreen: no meat reserve or enormous nuts heap. No animal carcass, spare skin stock, bow, hunting dart or futuristic machine. Spear not necessary in crop.\nCool silver-blue FULL MOON visible through broken cloud in broad valley beyond opening; low warm spill may come from ordinary hearth OUTSIDE frame BEYOND drip edge. No combustion/fire/smoke under roof or sleeping screen, no torches. Mood is a useful home with unfinished work and continuing uncertainty, not triumph or despair. No text or watermark.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated completed Day 73 cap/wrap/foot layers only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png",
+              "role": "Reflection 04 painted palette/composition mood only",
+              "sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e"
+            }
+          ],
+          "source_sha256": "dbeea7f2d221fb0629a07c6d573489a77ac385b14e77231bbf4949fc8e4d3402",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e88311f9-a77a-4b8c-8a01-71c796e884e0.png",
+      "canonical_sha256": "dbeea7f2d221fb0629a07c6d573489a77ac385b14e77231bbf4949fc8e4d3402",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Full-moon night appraisal under clearly natural rock cover, man with two natural legs and correct enclosed foot layers/cap/wrap. Small grey unfired pot on separate board; small pale specimen marks are illustrative existing/witness material, not new vessels or a firing result. Leafy poles signify screen/bed, not roof support. No indoor combustion, hunting result or future equipment; oblique valley is atmospheric, not survey."
+    },
+    {
+      "id": "grinding-plate",
+      "page": "05_Tools and Equipment/Food Preparation/Pounding and Grinding Stones.md",
+      "target": "_Artwork/tools/pounding-and-grinding-stones.png",
+      "scene": "A natural shallow food slab, rounded handstone and a modest coarse/finished particle comparison.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nTitle exactly \"POUNDING AND GRINDING STONES\". Draw one broad sound NATURAL STONE SLAB with shallow irregular depression, a separate rounded palm-sized HANDSTONE with comfortable grip. A modest number of shelled acorn fragments in hollow, clean bark sheet alongside with distinct small coarser and finer groups; show one curved rubbing arrow and short vertical pounding arrow without human hand in contact. Minimal labels \"SHALLOW HOLLOW\", \"SOUND HANDSTONE\", \"REWORK COARSE PIECES\", \"FOOD USE ONLY\". No deep carved mortar, rotary quern, stone mill wheel, heap of flour, bread, fine sieve, metal, fire, animal skin or knapping debris. Nature-selected pair, no claim of tannin removal or universal particle size. Graphic educational view with clear surfaces and modest material scale.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "fixed handbook plate graphic style only"
+      ],
+      "attempts": [
+        {
+          "id": "grinding-plate",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-eec1a833-61e0-4348-ad20-75bbe2993626.png",
+          "review": "Readable labels, selected natural hollow slab and handstone, modest coarse/finer groups with rubbing/pounding arrows. General food-tool study with no carved mill, sieve or tannin-removal claim. Brown particle skins are illustrative, not an identification or whole-shell grinding instruction.",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nTitle exactly \"POUNDING AND GRINDING STONES\". Draw one broad sound NATURAL STONE SLAB with shallow irregular depression, a separate rounded palm-sized HANDSTONE with comfortable grip. A modest number of shelled acorn fragments in hollow, clean bark sheet alongside with distinct small coarser and finer groups; show one curved rubbing arrow and short vertical pounding arrow without human hand in contact. Minimal labels \"SHALLOW HOLLOW\", \"SOUND HANDSTONE\", \"REWORK COARSE PIECES\", \"FOOD USE ONLY\". No deep carved mortar, rotary quern, stone mill wheel, heap of flour, bread, fine sieve, metal, fire, animal skin or knapping debris. Nature-selected pair, no claim of tannin removal or universal particle size. Graphic educational view with clear surfaces and modest material scale.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "7ecb635f76da8cb835b4c86a5cf7d0ae315d149a6af9ff72088d4e0d900ef166",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-eec1a833-61e0-4348-ad20-75bbe2993626.png",
+      "canonical_sha256": "7ecb635f76da8cb835b4c86a5cf7d0ae315d149a6af9ff72088d4e0d900ef166",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Readable labels, selected natural hollow slab and handstone, modest coarse/finer groups with rubbing/pounding arrows. General food-tool study with no carved mill, sieve or tannin-removal claim. Brown particle skins are illustrative, not an identification or whole-shell grinding instruction."
+    },
+    {
+      "id": "footwear-plate",
+      "page": "05_Tools and Equipment/Clothing/Plant-Fibre Footwear.md",
+      "target": "_Artwork/tools/layered-footwear.png",
+      "scene": "One low enclosed foot covering with separate liner, thin skin cover and retained outer bast sole functions.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nTitle exactly \"LAYERED FOOTWEAR\". Image 2 specifies shape/materials of the selected new footwear ONLY, not face/character. Main view ONE completed LOW soft pale-tan skin foot covering with toes/heel FULLY CLOSED, top just above ankle, simple folded/stitch-retained margins. Original FLAT WOVEN BAST SOLE is visibly underneath/outside as wearing layer; low retention ties pass around combined layers with knots not underfoot, no tight ankle ring. No tall boot, leather outsole, metal or modern shaped moccasin sole.\nOne separate clear exploded SMALL diagram of functions: thin skin cover HAIR INWARD encloses renewable clean dry GRASS LINING above/around simplified foot outline; flat woven BAST SOLE below/outside; separate simple retention line. Labels exactly \"THIN SKIN COVER\", \"RENEWABLE DRY LINING\", \"OUTER BAST SOLE\", \"ADJUSTABLE RETENTION\". Hair is within skin, not a furry sole outside. Show this as functional layers, not four additional possessed shoes, no spare pelt or leggings. No waterproof symbol, claimed warmth rating, exact cutting pattern or field guarantee.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "fixed handbook plate graphic style only",
+        "dated low-foot-cover and bast sole appearance only"
+      ],
+      "attempts": [
+        {
+          "id": "footwear-plate",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-5226e136-5c05-481f-9e04-306826021f40.png",
+          "reason": "Main shoe correct, but exploded human foot below grass makes functional lining order ambiguous. Replace with labelled function samples and a simple cover opening, no detached human foot.",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook manual plate. Image 1 supplies graphic style ONLY: navy ink, restrained pastel watercolour, warm ivory paper, sparse large serif uppercase title, thin leader lines. Do not copy its digging stick. General design study, no exact measurements, load rating, universal recipe or performance claim.\n\nTitle exactly \"LAYERED FOOTWEAR\". Image 2 specifies shape/materials of the selected new footwear ONLY, not face/character. Main view ONE completed LOW soft pale-tan skin foot covering with toes/heel FULLY CLOSED, top just above ankle, simple folded/stitch-retained margins. Original FLAT WOVEN BAST SOLE is visibly underneath/outside as wearing layer; low retention ties pass around combined layers with knots not underfoot, no tight ankle ring. No tall boot, leather outsole, metal or modern shaped moccasin sole.\nOne separate clear exploded SMALL diagram of functions: thin skin cover HAIR INWARD encloses renewable clean dry GRASS LINING above/around simplified foot outline; flat woven BAST SOLE below/outside; separate simple retention line. Labels exactly \"THIN SKIN COVER\", \"RENEWABLE DRY LINING\", \"OUTER BAST SOLE\", \"ADJUSTABLE RETENTION\". Hair is within skin, not a furry sole outside. Show this as functional layers, not four additional possessed shoes, no spare pelt or leggings. No waterproof symbol, claimed warmth rating, exact cutting pattern or field guarantee.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated low-foot-cover and bast sole appearance only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "347b00eab1bab0dd2b9cce455d7011ab500e84486b87b3a5f74801a80343d706",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "footwear-plate",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 2,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-52ea6f49-6c5e-466c-a143-6987c41d2a4f.png",
+          "review": "Correct low soft cover, inward hair and dry lining visible inside, retained outer woven sole and side adjustment. Readable function labels; separate texture samples avoid erroneous anatomical stack and do not create spare material stock. Illustrative stitch details are not a cutting pattern.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook manual plate titled exactly \"LAYERED FOOTWEAR\". Image 1 supplies navy ink, restrained pastel wash, warm ivory paper, sparse serif labels ONLY; Image 2 supplies selected LOW foot-cover/bast-sole appearance ONLY.\nLEFT two thirds: ONE large completed low pale-tan soft skin foot covering, toes/heel closed, simple folded stitched margins, top just above ankle. No body or leg is required. Brown hair faces INWARD. A modest amount of clean DRY GRASS is visible INSIDE the open ankle opening, around where a foot would sit, not outside as decorative fringe. Original flat woven BAST FOOTBED is visibly beneath/outside as wearing layer, low adjustable retaining lines round combined cover and footbed, knots above/at side not under sole. No tall boot, thick leather outsole, metal, waterproof symbol or modern factory pattern.\nRIGHT third: THREE SMALL SEPARATED FUNCTION SAMPLES, arranged SIDE BY SIDE or vertically with WHITE SPACE, NOT an exploded shoe and NOT stacked as anatomical layers: a small pale skin fold with brown inward hair, a small loose clean dry grass bundle, a simple woven bast texture/edge sample. NO detached human foot, human toes or disembodied leg anywhere. Samples are explanatory swatches, not extra possessed shoes or new pelt stocks. One little line end may indicate fastening.\nLeader labels exactly \"THIN SKIN COVER\" pointing to actual shoe upper or fold; \"RENEWABLE DRY LINING\" pointing INSIDE opening or separate grass sample; \"OUTER BAST SOLE\" pointing to woven wearing layer; \"ADJUSTABLE RETENTION\" pointing to SIDE tie. Show functions clearly without a cutting pattern, universal recipe or additional anatomy.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated low-foot-cover and bast sole appearance only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "5b255d4f34bf03afef066b5d18d436eaff86b9f7f6822e8a51c924ab141831d5",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-52ea6f49-6c5e-466c-a143-6987c41d2a4f.png",
+      "canonical_sha256": "5b255d4f34bf03afef066b5d18d436eaff86b9f7f6822e8a51c924ab141831d5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-18",
+      "review": "Correct low soft cover, inward hair and dry lining visible inside, retained outer woven sole and side adjustment. Readable function labels; separate texture samples avoid erroneous anatomical stack and do not create spare material stock. Illustrative stitch details are not a cutting pattern."
+    }
+  ],
+  "selected_count": 10,
+  "rejected_image_count": 2,
+  "tool_rejection_count": 1,
+  "completed_on": "2026-10-18"
+}

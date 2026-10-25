@@ -1,0 +1,675 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-21",
+  "jobs": [
+    {
+      "id": "stave",
+      "target": "_Artwork/materials/bow-stave-day-85.png",
+      "pages": [
+        {
+          "path": "03_Materials/Plant/Bow Staves.md"
+        },
+        {
+          "path": "06_Structures and Places/Structures/Working Frameworks/Drying Rack.md",
+          "secondary": true,
+          "preserved_primary_illustration": "_Artwork/technologies/smoking-rack.png",
+          "preserved_primary_sha256": "1ac06b3a875d3c4cb924389720178030304537fa189e5b5f4f2a49f34fc8bee8"
+        },
+        {
+          "path": "05_Tools and Equipment/Weapons/Self Bow.md"
+        },
+        {
+          "path": "07_Technologies/Equipment Making/Bow Making.md"
+        }
+      ],
+      "scene": "General green-wood seasoning study supporting the unfinished stock and prospective design pages; not a completed bow.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual plate style only"
+      ],
+      "prompt": "Use case: scientific-educational. A non-instructional natural MATERIAL study on ivory paper in the fine navy ink and muted watercolour style of the reference. Title WOOD FOR SEASONING. One rough straight pale split piece of green hazel timber, rounded natural outer face with a small bark edge and coarse split inner face. The wood lies horizontally in airy shade on two modest low forked branch rests. Nothing has been made from it yet. Simple labels UNSEASONED WOOD, NATURAL OUTER FACE, AIR AROUND THE STOCK. Main interest is the wood's texture and unobstructed air around it. Small informal supports of branches and light ties, no elaborate joinery, wall, kiln, fire, workshop machinery, clamps or people. Empty ivory ground with plenty of margin. No implement, weapon, string, projectile, construction dimensions or assembly stages. A general stored-wood material portrait, not a functional design or manufacturing diagram.",
+      "attempts": [
+        {
+          "id": "stave",
+          "status": "tool-rejected",
+          "full_prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook material and support study, fine navy ink and restrained natural watercolour like the reference STYLE ONLY. Title BOW STAVE. Show ONE long mostly STRAIGHT UNBENT freshly split pale hazel half-stem resting horizontally on TWO low simple forked wooden rests with light plant ties to stabilise the supports. Forked rests are separate clean dry-working supports, not a roof, food rack or hide frame. The stock remains a rough substantial half-round stave, a rounded outer wood face and rough flatter split inner face, extra wood left throughout and square unnotched ends. NO finished bow outline, string, notches, holes, arrow, point, recurve, performance measurements or cutting instructions. A little retained bark at one margin is acceptable, not wooden camouflage. Plain leader labels GREEN STAVE, CONTINUOUS OUTER FACE, SEPARATE CLEAN REST. Caption UNSEASONED STOCK — NOT A FINISHED BOW. Air around and beneath stock, no fire, sunlamp, forced curve, clamps crushing the stock, chemicals, people or mapped background. This is a material-stage object study, not a dimensioned weapon blueprint. Keep the simple supports readable and avoid elaborate carpentry or modern sawhorses.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual plate style only"
+          ],
+          "reason": "Image tool input safety system rejected the bow-stave diagram as violence; no image returned. Replaced with a general non-instructional wood-seasoning material study.",
+          "source_path": null,
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ]
+        },
+        {
+          "id": "stave",
+          "status": "selected",
+          "alternative": true,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-85e88803-58d1-4ea1-8c23-0c068b061cd9.png",
+          "full_prompt": "Use case: scientific-educational. A non-instructional natural MATERIAL study on ivory paper in the fine navy ink and muted watercolour style of the reference. Title WOOD FOR SEASONING. One rough straight pale split piece of green hazel timber, rounded natural outer face with a small bark edge and coarse split inner face. The wood lies horizontally in airy shade on two modest low forked branch rests. Nothing has been made from it yet. Simple labels UNSEASONED WOOD, NATURAL OUTER FACE, AIR AROUND THE STOCK. Main interest is the wood's texture and unobstructed air around it. Small informal supports of branches and light ties, no elaborate joinery, wall, kiln, fire, workshop machinery, clamps or people. Empty ivory ground with plenty of margin. No implement, weapon, string, projectile, construction dimensions or assembly stages. A general stored-wood material portrait, not a functional design or manufacturing diagram.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual plate style only"
+          ],
+          "review": "General split-green-wood material study on two separate light rests, with airflow and no string, functional bow, construction dimensions or heating. Visible knots belong to a generic seasoning illustration, not approval or a literal portrait of the selected bow blank.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "aca8ed711ab62445ae26f83cec00d7965ef2f1eb8459298d899df3e8c24413f8",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-85e88803-58d1-4ea1-8c23-0c068b061cd9.png",
+      "canonical_sha256": "aca8ed711ab62445ae26f83cec00d7965ef2f1eb8459298d899df3e8c24413f8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "General split-green-wood material study on two separate light rests, with airflow and no string, functional bow, construction dimensions or heating. Visible knots belong to a generic seasoning illustration, not approval or a literal portrait of the selected bow blank."
+    },
+    {
+      "id": "shafts",
+      "target": "_Artwork/materials/arrow-shaft-stock.png",
+      "pages": [
+        {
+          "path": "03_Materials/Plant/Arrow Shafts.md"
+        }
+      ],
+      "scene": "A botanical hazel-shoot material study showing a straight run before trimming; not a completed arrow or exact stock count.",
+      "prompt": "Use case: scientific-educational. A quiet BOTANICAL MATERIAL STUDY on ivory paper in navy fine ink and natural watercolour like the reference style only. Title HAZEL SHOOTS. Show one naturally slender straight green hazel shoot with a little bark, small buds and a few dry late-autumn leaves near its upper twig. Beside it, a small separate enlarged bark-and-bud detail identifies its natural plant texture. The central stem has a useful straight run; draw it as a living-plant material specimen, not a manufactured object. Labels STRAIGHT RUN and BARK AND BUDS. No people, tools, construction steps, measurements, loads, craft mechanism or completed implement. Ample clean ivory margin, a simple natural-history material portrait. The point is selecting plant stock from recognizable natural growth.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "manual plate style only"
+      ],
+      "attempts": [
+        {
+          "id": "shafts",
+          "status": "tool-error",
+          "full_prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook material portrait in navy fine ink and natural muted watercolour matching reference style ONLY. Title SHAFT STOCK. Three separate slim mostly straight freshly selected hazel shoots lying parallel with a little space, slight natural differences visible. Pale wood and a little bark remain; ends are plain square-ish cuts, NO sharp points, nocks, holes, feather vanes, metal, assembled arrows or bow. These are GREEN UNFINISHED WOODEN BLANKS, not ammunition. Small leader labels GREEN WOOD and INSPECT EACH PIECE. Caption SELECTED STOCK — STILL DRYING. Clean unmeasured material study, no hands, workshop machines, target or background. Preserve natural woody texture rather than perfect machined dowels.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "manual plate style only"
+          ],
+          "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 99886181-83b2-43bc-9bc4-777ec738d6b3. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
+          "source_path": null,
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ]
+        },
+        {
+          "id": "shafts",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2584878a-dd4c-4a1a-b93d-14bec1a2f23e.png",
+          "review": "Botanical input study of one hazel shoot with a straight run, buds and dry leaves. No completed projectile, nock or point. Conceptual input, not an exact stock count or identification key.",
+          "full_prompt": "Use case: scientific-educational. A quiet BOTANICAL MATERIAL STUDY on ivory paper in navy fine ink and natural watercolour like the reference style only. Title HAZEL SHOOTS. Show one naturally slender straight green hazel shoot with a little bark, small buds and a few dry late-autumn leaves near its upper twig. Beside it, a small separate enlarged bark-and-bud detail identifies its natural plant texture. The central stem has a useful straight run; draw it as a living-plant material specimen, not a manufactured object. Labels STRAIGHT RUN and BARK AND BUDS. No people, tools, construction steps, measurements, loads, craft mechanism or completed implement. Ample clean ivory margin, a simple natural-history material portrait. The point is selecting plant stock from recognizable natural growth.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "5576d0c90a54c7076a04eea12993a667c4263f65661937db48b7e89a7af97aa7",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2584878a-dd4c-4a1a-b93d-14bec1a2f23e.png",
+      "canonical_sha256": "5576d0c90a54c7076a04eea12993a667c4263f65661937db48b7e89a7af97aa7",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "Botanical input study of one hazel shoot with a straight run, buds and dry leaves. No completed projectile, nock or point. Conceptual input, not an exact stock count or identification key."
+    },
+    {
+      "id": "line",
+      "target": "_Artwork/tools/cordage-trial-line.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Components/Bowstring.md"
+        },
+        {
+          "path": "03_Materials/Plant/Nettle Cordage.md"
+        }
+      ],
+      "scene": "A short nettle trial line with one sample eye and an unfinished free end.",
+      "prompt": "Use case: scientific-educational. An ivory-paper Humanity Handbook material/component study in navy ink and muted tan watercolour, reference STYLE ONLY. Title FIBRE LINE TRIAL. One SHORT length of twisted and plied natural nettle fibre line, with ONE simple sample eye at one end and a loose free other end, on clean ivory ground. An enlarged small texture detail may show overlapping fibres, NOT a knot-tying sequence. The line is not full length or installed on anything. Labels SAMPLE EYE, FIBRE OVERLAP and FREE END, caption SHORT SAMPLE — NOT AN ACCEPTED COMPONENT. No numerical dimensions, breaking loads, guaranteed strength, made-up performance, bow, weapon, metal fixtures, hands, weights or modern rope. Plain fibre texture and clear simple form.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "manual plate style only"
+      ],
+      "attempts": [
+        {
+          "id": "line",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c1b54562-2420-42c8-8364-9446b07a0f87.png",
+          "review": "One short twisted/plied fibre sample, one sample eye and a free end, with non-sequential texture inset. No fitted component, strength claim or load rig.",
+          "full_prompt": "Use case: scientific-educational. An ivory-paper Humanity Handbook material/component study in navy ink and muted tan watercolour, reference STYLE ONLY. Title FIBRE LINE TRIAL. One SHORT length of twisted and plied natural nettle fibre line, with ONE simple sample eye at one end and a loose free other end, on clean ivory ground. An enlarged small texture detail may show overlapping fibres, NOT a knot-tying sequence. The line is not full length or installed on anything. Labels SAMPLE EYE, FIBRE OVERLAP and FREE END, caption SHORT SAMPLE — NOT AN ACCEPTED COMPONENT. No numerical dimensions, breaking loads, guaranteed strength, made-up performance, bow, weapon, metal fixtures, hands, weights or modern rope. Plain fibre texture and clear simple form.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "190a09a2019452c20b2d554fbeec196a47a4d4924094d2d1b96170abd949d6f0",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c1b54562-2420-42c8-8364-9446b07a0f87.png",
+      "canonical_sha256": "190a09a2019452c20b2d554fbeec196a47a4d4924094d2d1b96170abd949d6f0",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "One short twisted/plied fibre sample, one sample eye and a free end, with non-sequential texture inset. No fitted component, strength claim or load rig."
+    },
+    {
+      "id": "flexure",
+      "target": "_Artwork/skills/wood-flexure-principle.png",
+      "pages": [
+        {
+          "path": "04_Skills/Woodworking/Tillering.md"
+        }
+      ],
+      "scene": "A conceptual comparison of distributed and localized bending in generic wooden strips, not a loaded bow.",
+      "prompt": "Use case: scientific-educational. Ivory-paper educational MATERIAL PHYSICS plate in navy fine ink and natural pastel wood colours, reference style only. Title WOOD FLEXURE. Two separated generic thin wooden strip studies. Top shows a broad gentle smooth distributed arc, labelled DISTRIBUTED BEND. Bottom shows uneven curvature concentrated around one short area, labelled LOCALIZED BEND. These are abstract comparative WOOD STRIPS, not bows, tools, frames or objects from the story. No strings, handles, arrow, weapon, people, loading rig, construction instructions, dimensioned target curves, force values or bend-angle measurements. Small caption PRINCIPLE ONLY — NO MATERIAL ACCEPTANCE TEST. Keep the comparison visually clear and restrained, no crack explosions or dramatic snapped weapon.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "manual plate style only"
+      ],
+      "attempts": [
+        {
+          "id": "flexure",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-eb3fc470-a514-4c94-a81c-0de4808cce8c.png",
+          "review": "Two generic wooden strips contrast broadly distributed with concentrated curvature. Conceptual material-flexure comparison, not actual green-stave loading or a measured tiller target.",
+          "full_prompt": "Use case: scientific-educational. Ivory-paper educational MATERIAL PHYSICS plate in navy fine ink and natural pastel wood colours, reference style only. Title WOOD FLEXURE. Two separated generic thin wooden strip studies. Top shows a broad gentle smooth distributed arc, labelled DISTRIBUTED BEND. Bottom shows uneven curvature concentrated around one short area, labelled LOCALIZED BEND. These are abstract comparative WOOD STRIPS, not bows, tools, frames or objects from the story. No strings, handles, arrow, weapon, people, loading rig, construction instructions, dimensioned target curves, force values or bend-angle measurements. Small caption PRINCIPLE ONLY — NO MATERIAL ACCEPTANCE TEST. Keep the comparison visually clear and restrained, no crack explosions or dramatic snapped weapon.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "23fe39146568e7316a1ea5b12561e107c6cf3b5258001f651adaae32c19f33a1",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-eb3fc470-a514-4c94-a81c-0de4808cce8c.png",
+      "canonical_sha256": "23fe39146568e7316a1ea5b12561e107c6cf3b5258001f651adaae32c19f33a1",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "Two generic wooden strips contrast broadly distributed with concentrated curvature. Conceptual material-flexure comparison, not actual green-stave loading or a measured tiller target."
+    },
+    {
+      "id": "day-85",
+      "target": "_Artwork/survival/day-85.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 27 - Choose the Wood Before the Bow.md"
+        }
+      ],
+      "scene": "Carrying the one newly cut hazel stem back from the familiar gathering circuit.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual moment during the return from gathering: traveller walking on a familiar dry autumn woodland path carrying ONE newly cut plain straight hazel stem in both hands, relaxed and unbent. It is still a natural green wooden pole with bark and ordinary cut ends. Show an upright natural walking pose, his same cap/body wrap and both closed low skin foot coverings over bast soles. No cutting tools, operating apparatus, strings, firing, performance tests, labels or other people. Broad clear natural backdrop; no camp map or old hut. A calm moment bringing a piece of gathered wood home.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original traveller identity/style only",
+        "current unchanged full wardrobe only"
+      ],
+      "attempts": [
+        {
+          "id": "day-85",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6d4970b5-10f3-4bce-9594-8e6a6fe34643.png",
+          "review": "Traveller carries one natural freshly cut hazel stem with plain ends on a dry path. No functional weapon or assembly. Natural walking anatomy, full cap/wrap and both closed low covers over bast soles.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual moment during the return from gathering: traveller walking on a familiar dry autumn woodland path carrying ONE newly cut plain straight hazel stem in both hands, relaxed and unbent. It is still a natural green wooden pole with bark and ordinary cut ends. Show an upright natural walking pose, his same cap/body wrap and both closed low skin foot coverings over bast soles. No cutting tools, operating apparatus, strings, firing, performance tests, labels or other people. Broad clear natural backdrop; no camp map or old hut. A calm moment bringing a piece of gathered wood home.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "203eb02b9f887aa80c57e0b1c41b0685ccbedfad3e494798c3a9d9261f0be637",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6d4970b5-10f3-4bce-9594-8e6a6fe34643.png",
+      "canonical_sha256": "203eb02b9f887aa80c57e0b1c41b0685ccbedfad3e494798c3a9d9261f0be637",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "Traveller carries one natural freshly cut hazel stem with plain ends on a dry path. No functional weapon or assembly. Natural walking anatomy, full cap/wrap and both closed low covers over bast soles."
+    },
+    {
+      "id": "day-86",
+      "target": "_Artwork/survival/day-86.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 28 - The Line and the Shafts.md"
+        }
+      ],
+      "scene": "Inspecting the short fibre-line sample after its overlap is remade.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual moment of fibre work: seated on low natural rock, man examines ONE SHORT pale nettle fibre-line sample with a small eye at one end between two relaxed natural hands, well below his face. No stretched full-length cord, bow, limb bending, weapons, pulled weight, metal fixture or dramatic tension. A little clean fibre and one separate short bark sample may rest on a separate small bark work pad. No coils suggesting unlimited line. This is simple cord inspection after remaking an overlap, not shooting or proof of an accepted dynamic component. Both low covered feet and full cap/wrap visible. Neutral cropped dry woodland/rock setting, no hut or food work.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original traveller identity/style only",
+        "current unchanged full wardrobe only"
+      ],
+      "attempts": [
+        {
+          "id": "day-86",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-33efc3a9-4935-427f-a3c8-53168b40e78d.png",
+          "review": "Seated inspection of one short fibre sample held below face, small fibre work on separate bark. No whole fitted string or loaded wood. Correct cap/wrap, two natural arms/legs and both enclosed footwear layers.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual moment of fibre work: seated on low natural rock, man examines ONE SHORT pale nettle fibre-line sample with a small eye at one end between two relaxed natural hands, well below his face. No stretched full-length cord, bow, limb bending, weapons, pulled weight, metal fixture or dramatic tension. A little clean fibre and one separate short bark sample may rest on a separate small bark work pad. No coils suggesting unlimited line. This is simple cord inspection after remaking an overlap, not shooting or proof of an accepted dynamic component. Both low covered feet and full cap/wrap visible. Neutral cropped dry woodland/rock setting, no hut or food work.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "c37dab5dbae65e617a755baa30803526f13fc59f948e16cb6f3d959bd58e73c6",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-33efc3a9-4935-427f-a3c8-53168b40e78d.png",
+      "canonical_sha256": "c37dab5dbae65e617a755baa30803526f13fc59f948e16cb6f3d959bd58e73c6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "Seated inspection of one short fibre sample held below face, small fibre work on separate bark. No whole fitted string or loaded wood. Correct cap/wrap, two natural arms/legs and both enclosed footwear layers."
+    },
+    {
+      "id": "day-87",
+      "target": "_Artwork/survival/day-87.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 29 - Rough Out the Stave.md"
+        }
+      ],
+      "scene": "Returning the roughly shaped green wooden body to its clean rests, without loading or bending it.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual end-of-work moment: traveller sets ONE long mostly straight rough pale split wooden blank back across two simple low forked branch rests at the clean craft side. The raw blank still has substantial spare wood and plain ends; a few light fresh shavings lie below it. His two hands are relaxed as he lowers the piece; ordinary two legs and both complete low foot covers visible. No fitted line, mechanism, cutting sequence, blade in hand, load, bend test, workbench machinery or other people. Natural dry cropped rock/woodland setting under protection; no hearth, food rack or old lean-to. Calm craft storage and patient drying, a material-stage scene.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original traveller identity/style only",
+        "current unchanged full wardrobe only"
+      ],
+      "attempts": [
+        {
+          "id": "day-87",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2c25bb8d-ae6c-48a9-80b5-09c2d3dfb9eb.png",
+          "review": "One straight rough substantial wooden body returns to two low forked supports, unstrung and unbent. No blade, load or accepted finished form. Traveller's complete cap/wrap and low enclosed foot covers remain; cropped natural rock overhead is cover only.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual end-of-work moment: traveller sets ONE long mostly straight rough pale split wooden blank back across two simple low forked branch rests at the clean craft side. The raw blank still has substantial spare wood and plain ends; a few light fresh shavings lie below it. His two hands are relaxed as he lowers the piece; ordinary two legs and both complete low foot covers visible. No fitted line, mechanism, cutting sequence, blade in hand, load, bend test, workbench machinery or other people. Natural dry cropped rock/woodland setting under protection; no hearth, food rack or old lean-to. Calm craft storage and patient drying, a material-stage scene.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "04a6e3fecf6bb18287e6dfd9c37b58513bb05abe42f41d0fdc90fdf2b6356774",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2c25bb8d-ae6c-48a9-80b5-09c2d3dfb9eb.png",
+      "canonical_sha256": "04a6e3fecf6bb18287e6dfd9c37b58513bb05abe42f41d0fdc90fdf2b6356774",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "One straight rough substantial wooden body returns to two low forked supports, unstrung and unbent. No blade, load or accepted finished form. Traveller's complete cap/wrap and low enclosed foot covers remain; cropped natural rock overhead is cover only."
+    },
+    {
+      "id": "day-88",
+      "target": "_Artwork/survival/day-88.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 30 - Close the Draught at Its Source.md"
+        }
+      ],
+      "scene": "Repairing only a local shrinkage edge in the existing low earth-filled screen bay.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Image 3 supplies ONLY general WATTLE BACKING and earth/fibre INFILL structure, not its diagram scale, sawn timber, full panel coverage or map. Actual man crouches or sits low at ONE SMALL LOW supported earth-filled bay at the weather-screen edge, pressing a small fresh mud/short-grass repair into a narrow edge gap with one natural hand. Other hand rests simply on knee or the light rough branch support. Most existing bay is dry grey-brown, repair slightly darker/moister along ONE edge only. Backing made from thin woven rough rods/twigs in modest natural-branch supports; NO squared sawn planks or full mud house. Existing overlapping bark keeps rain off this little bay, remaining screen brush/bark and a clear open passage/high vent hinted; avoid a total camp reconstruction. Natural rock roof can be cropped overhead, no fire anywhere in image, no supporting branch holding the rock. Both feet in correct closed low covers, no added leggings, boots or hood. No unearned winter blanket, second skin or roof plaster. Simple readable local maintenance, not building a new wall.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/technologies/earth-and-fibre-infill.png"
+      ],
+      "input_roles": [
+        "original traveller identity/style only",
+        "current unchanged full wardrobe only",
+        "backing/infill relationship only, not literal geometry or current camp"
+      ],
+      "attempts": [
+        {
+          "id": "day-88",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-1d703ba5-e242-4483-b2c0-d42ccc49bdee.png",
+          "reason": "Shows several separate mud patches and an overlarge uniform woven screen with sloping bark cover, risking a new hut/full front wall rather than the one small existing low bay's edge repair.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Image 3 supplies ONLY general WATTLE BACKING and earth/fibre INFILL structure, not its diagram scale, sawn timber, full panel coverage or map. Actual man crouches or sits low at ONE SMALL LOW supported earth-filled bay at the weather-screen edge, pressing a small fresh mud/short-grass repair into a narrow edge gap with one natural hand. Other hand rests simply on knee or the light rough branch support. Most existing bay is dry grey-brown, repair slightly darker/moister along ONE edge only. Backing made from thin woven rough rods/twigs in modest natural-branch supports; NO squared sawn planks or full mud house. Existing overlapping bark keeps rain off this little bay, remaining screen brush/bark and a clear open passage/high vent hinted; avoid a total camp reconstruction. Natural rock roof can be cropped overhead, no fire anywhere in image, no supporting branch holding the rock. Both feet in correct closed low covers, no added leggings, boots or hood. No unearned winter blanket, second skin or roof plaster. Simple readable local maintenance, not building a new wall.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/technologies/earth-and-fibre-infill.png",
+              "role": "backing/infill relationship only, not literal geometry or current camp",
+              "sha256": "0a2ffd863c37794e0f0f05b1d00f831f4b71972bf470841dce6219639625fbe1"
+            }
+          ],
+          "source_sha256": "32587d84a596b55a208137798343680e3beed16285ad5600f3452838c02537da",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "day-88",
+          "status": "selected",
+          "retry": true,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dbdf7aa4-401a-4caa-919f-b7acd9e196b2.png",
+          "review": "One small low existing daub bay with a single narrow darker edge repair, cropped vertical bark screen, no full mud wall or hut. Complete cap, wrap and enclosed low footwear retained.",
+          "retry_index": 0,
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Actual close scene: man crouched beside the edge of the existing weather screen, repairing ONLY ONE SMALL LOW RECTANGULAR DAUB BAY, about a forearm across and below knee height. The bay is already filled with dry grey-brown earth, and his one hand presses only a NARROW darker fresh repair along ONE side edge. Exactly ONE mud-filled patch total. No other patches or large mud panels. Thin rough woven twig backing is glimpsed only immediately at that little bay; the surrounding screen is chiefly VERTICAL overlapping bark and brush bundles, NOT a huge uniform wattle wall. No sloping bark roof, framed hut, lean-to or carpentered posts. Crop the rest of the enclosure completely: natural neutral rock/woods behind him, no mapped room or full roofline. No timber propping rock. Other hand relaxed on knee, natural hands and two legs. Current tan wrap, cap and both closed low skin foot covers with bast soles all remain. No hearth, pot, new wood stock, extra skins or added building. One simple maintenance touch at a small protected bay, not construction of a wall.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "c42831f58cf25a8c8bb57b1097429b98ee308a44c81c94baea4fde7e37288486",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dbdf7aa4-401a-4caa-919f-b7acd9e196b2.png",
+      "canonical_sha256": "c42831f58cf25a8c8bb57b1097429b98ee308a44c81c94baea4fde7e37288486",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "One small low existing daub bay with a single narrow darker edge repair, cropped vertical bark screen, no full mud wall or hut. Complete cap, wrap and enclosed low footwear retained."
+    },
+    {
+      "id": "day-89",
+      "target": "_Artwork/survival/day-89.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 1 - A Warm Meal After the Rain.md"
+        }
+      ],
+      "scene": "Putting the one cool washed pot back on its board after the boundary day's meal.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Image 3 gives ONLY the same small OPEN ROUND unglazed grey-tan bowl shape, modest irregular rim, rounded base, no handles, lid or foot ring. Chosen moment after cooking, complete cooling and washing: man sits simply at craft-side rock, setting ONE EMPTY COOL WASHED pot onto its short simple drying board with both natural hands. No steam, active fire, hot handling, water pouring, food, new vessel or greenware. Current both closed skin foot covers over bast soles and cap/body wrap all present. Some wet ground or dripping stone beyond protected area suggests overnight rain, while craft board remains dry under natural rock edge. No full moon, bright night sky, old lean-to, fire under cover or new furniture. Daylight quiet after ordinary useful work, not a separate reflection frontispiece.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original traveller identity/style only",
+        "current unchanged full wardrobe only",
+        "current one pot form only"
+      ],
+      "attempts": [
+        {
+          "id": "day-89",
+          "status": "selected",
+          "retry": false,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2e8694e1-6413-400f-a7bc-4df9bd276f6b.png",
+          "review": "One cooled washed earthenware pot on a board, wet exterior and dry natural rock shelter. Complete cap/wrap and low closed footwear retained; no extra pottery or indoor fire.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily scene in fine brown ink and luminous natural watercolour on warm ivory paper. Late-autumn low-elevation wooded limestone valley of northern Iberia. Image 1 supplies ONLY original modern traveller identity and style: lean ordinary adult around thirty, ear-length dark wavy hair, short beard, natural two arms/two legs and capable hands. Never copy its old lean-to, near-naked clothes or older equipment. Image 2 supplies ONLY current full dated WARDROBE.\nKeep ONE dull TAN hair-in sleeveless wrap over BOTH shoulders, overlapping front, irregular hem above knees, old anatomical-LEFT shoulder repair, chest tie below throat, narrow waist/hip keeper. Plain grey-brown rabbit crown with tan fox side/ear/nape extension, face open, no animal ears or muzzle, hood or fox shoulder strip. Fox material is entirely in cap; old grass torso screens stored. BOTH feet ENCLOSED in LOW PALE-TAN skin covers, inward grass/hair, original woven BAST SOLES beneath/outside and low ties. Toes and heels CLOSED, low ankle tops, bare lower legs. No new leggings, cloak, sleeves or extra skin. No invented scars/tattoos. Keep full readable natural anatomy.\nOne actual chosen moment, no montage, text, labels, watermark or numbered construction plan. Neutral cropped natural setting, no new map layout, no abandoned lean-to, sawn modern workshop or indoor fire. Image 3 gives ONLY the same small OPEN ROUND unglazed grey-tan bowl shape, modest irregular rim, rounded base, no handles, lid or foot ring. Chosen moment after cooking, complete cooling and washing: man sits simply at craft-side rock, setting ONE EMPTY COOL WASHED pot onto its short simple drying board with both natural hands. No steam, active fire, hot handling, water pouring, food, new vessel or greenware. Current both closed skin foot covers over bast soles and cap/body wrap all present. Some wet ground or dripping stone beyond protected area suggests overnight rain, while craft board remains dry under natural rock edge. No full moon, bright night sky, old lean-to, fire under cover or new furniture. Daylight quiet after ordinary useful work, not a separate reflection frontispiece.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "current one pot form only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "9d67c223556c17416cda94d450beeae158bfa89e793232dc406ff6eff3e21830",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2e8694e1-6413-400f-a7bc-4df9bd276f6b.png",
+      "canonical_sha256": "9d67c223556c17416cda94d450beeae158bfa89e793232dc406ff6eff3e21830",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "One cooled washed earthenware pot on a board, wet exterior and dry natural rock shelter. Complete cap/wrap and low closed footwear retained; no extra pottery or indoor fire."
+    },
+    {
+      "id": "reflection",
+      "target": "_Artwork/reflections/reflection-07-new-moon.png",
+      "pages": [
+        {
+          "path": "02_Reflections/Reflection 07 - New Moon - Moon 4 Day 1.md"
+        }
+      ],
+      "scene": "A moonless closing appraisal beneath natural rock, with the useful cooled pot and unchanged full clothing.",
+      "prompt": "Use case: illustration-story. Wide painted frontispiece for Humanity Handbook Reflection 07, completed Day 89 NEW MOON. Express the feeling of an improved working home and patient unfinished work. Watercolour with matte gouache and sparse graphite on ivory, richer quiet dark-blue/grey valley and restrained warm light. Image 1 ONLY original traveller identity, Image 2 ONLY current full clothing, Image 3 ONLY painted reflection PALETTE/MOOD, Image 4 ONLY the current small pot form. NEVER copy Image 3's full-moon disk, old lean-to, bare torso, fox shoulder strip or old equipment.\nSame lean human man around thirty, dark wavy ear-length hair, short beard. Plain rabbit crown with tan fox ear/nape extension, worn TAN sleeveless hair-in wrap over BOTH shoulders, chest tie, above-knee hem and waist keeper. Both feet fully CLOSED in low pale-tan pelt covers over woven bast soles, lower legs bare. No new cloak, hood, leggings or animal-head cap, no fox strip on shoulder.\nHe sits quietly at the DRY MOUTH of a shallow natural ROCK OVERHANG, ordinary simple seated anatomy, exactly two arms/two legs, hands resting naturally, feet readable. Looking outward over a broad darkening late-autumn limestone valley after rain. A modest overlapping bark/brush screen edge and SMALL existing lower mud bay may be cropped at one side; the natural rock carries the roof, NO light frame holding rock and NO old lean-to. ONE small empty washed fired pot rests on a separate simple board in the dry craft strip. ONE substantial pale STRAIGHT UNFINISHED WOODEN STAVE lies relaxed on low separate clean rests, no fitted string, curve, nocks, arrows, finished bow or extra hides. It represents waiting work, not a hunting trophy. Omit all other stock rather than invent quantities.\nNew-moon twilight: NO visible lunar disk, full moon, moonbeam or silver spotlight; faint dusk/first stars and clouds are enough. Subtle warmth can spill from the ordinary outdoor hearth OUTSIDE the frame and beyond the drip line; absolutely NO flames, embers or indoor fire under rock. Outside wet ground, inside dry resting/craft strip. No fantasy industry, spacecraft, drawings of asteroid, teaching crowd, triumphant conquest or maps. Contemplative, grounded, competent but aware of unfinished winter needs. No text or labels.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original traveller identity only",
+        "dated unchanged clothing only",
+        "painted palette/mood only, never moon/shelter/clothes",
+        "current useful pot form only"
+      ],
+      "attempts": [
+        {
+          "id": "reflection",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-08e70c9c-235c-4c2f-bb0d-2b53c2a1af38.png",
+          "reason": "Cap crown disappeared into a thin headband with exposed hair; violates the established full rabbit crown and fox ear/nape extensions.",
+          "full_prompt": "Use case: illustration-story. Wide painted frontispiece for Humanity Handbook Reflection 07, completed Day 89 NEW MOON. Express the feeling of an improved working home and patient unfinished work. Watercolour with matte gouache and sparse graphite on ivory, richer quiet dark-blue/grey valley and restrained warm light. Image 1 ONLY original traveller identity, Image 2 ONLY current full clothing, Image 3 ONLY painted reflection PALETTE/MOOD, Image 4 ONLY the current small pot form. NEVER copy Image 3's full-moon disk, old lean-to, bare torso, fox shoulder strip or old equipment.\nSame lean human man around thirty, dark wavy ear-length hair, short beard. Plain rabbit crown with tan fox ear/nape extension, worn TAN sleeveless hair-in wrap over BOTH shoulders, chest tie, above-knee hem and waist keeper. Both feet fully CLOSED in low pale-tan pelt covers over woven bast soles, lower legs bare. No new cloak, hood, leggings or animal-head cap, no fox strip on shoulder.\nHe sits quietly at the DRY MOUTH of a shallow natural ROCK OVERHANG, ordinary simple seated anatomy, exactly two arms/two legs, hands resting naturally, feet readable. Looking outward over a broad darkening late-autumn limestone valley after rain. A modest overlapping bark/brush screen edge and SMALL existing lower mud bay may be cropped at one side; the natural rock carries the roof, NO light frame holding rock and NO old lean-to. ONE small empty washed fired pot rests on a separate simple board in the dry craft strip. ONE substantial pale STRAIGHT UNFINISHED WOODEN STAVE lies relaxed on low separate clean rests, no fitted string, curve, nocks, arrows, finished bow or extra hides. It represents waiting work, not a hunting trophy. Omit all other stock rather than invent quantities.\nNew-moon twilight: NO visible lunar disk, full moon, moonbeam or silver spotlight; faint dusk/first stars and clouds are enough. Subtle warmth can spill from the ordinary outdoor hearth OUTSIDE the frame and beyond the drip line; absolutely NO flames, embers or indoor fire under rock. Outside wet ground, inside dry resting/craft strip. No fantasy industry, spacecraft, drawings of asteroid, teaching crowd, triumphant conquest or maps. Contemplative, grounded, competent but aware of unfinished winter needs. No text or labels.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original traveller identity only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/reflections/reflection-04-full-moon.png",
+              "role": "painted palette/mood only, never moon/shelter/clothes",
+              "sha256": "b9e86deafcf1838b73af0e51b90e5eb29d3bd4d6a7d865d16541fbf3974cb09e"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "current useful pot form only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "14db63ae28ffe4b8685595d556ab2bf8d5b384a7b3b3dcdc721df6893ebffe80",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "reflection",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 1,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7bc26707-dee2-4478-9c3c-2e279ae45aa7.png",
+          "review": "Full rounded fur cap covers crown and has tan ear/nape extensions, tan sleeveless wrap over both shoulders and both low closed pale skin covers over bast soles. Natural seated anatomy, one empty cool pot on board, natural rock cover and a moonless twilight valley. No new equipment, garment or skin stock.",
+          "full_prompt": "Use case: illustration-story. A contemplative landscape frontispiece for Humanity Handbook Reflection 07, new moon at the start of Moon 4. Fine ink and luminous watercolour/gouache on warm ivory paper, muted blue twilight and warm tan skin clothing, natural northern Iberian wooded limestone valley in late autumn. Image 1 gives ONLY original modern traveller identity and ink/watercolour style: lean ordinary adult about thirty, dark ear-length wavy hair and short beard; do not copy old near-naked clothing or lean-to. Image 2 gives the COMPLETE CURRENT CLOTHING: MOST IMPORTANT, a FULL PLAIN FUR CAP covers his WHOLE CROWN and TOP of head, a grey-brown rabbit-fur crown with tan fox-fur side, ear and nape extensions. The cap is a complete substantial rounded hat, never a headband, no bare crown or exposed top-of-head hair, no animal face, muzzle or upright ears. Face open. Tan hair-in sleeveless wrap covers BOTH shoulders and torso, left shoulder repair, chest tie, narrow waist keeper, hem above knees. Bare lower legs. BOTH FEET enclosed in low pale tan skin foot covers with closed toes and heels, low ankle tops, original woven bast soles beneath/outside, low ties. No leggings, sleeves, hood, extra cloak or fur shoulder strip. The hat and both feet must remain readable. Image 3 gives ONLY the single rough fired earthenware pot form. Scene: he sits quietly on a low rock under a natural rock overhang, hands resting naturally on knees, looking across the darkening valley. One empty cooled plain fired pot stands on a small flat board to his side. No other equipment or projects need appear. Two arms, two legs, relaxed believable anatomy, full seated figure. No indoor fire, no modern furniture, no built roof or mud house. Rock supplies all overhead cover. A few faint stars in a dusky sky but NO VISIBLE MOON, crescent or moon disc: it is new moon. Spacious thoughtful atmosphere, no text, labels or montage. Retain his full cap and all dated clothing exactly; this is reflection after practical winter work, no new equipment or wardrobe.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original Day 1 traveller identity and ink/watercolour style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current full wardrobe, especially complete cap covering crown",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "single fired pot material and shape only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "74edbc4fe97c56d299d658baa4b7510361b33eb22f49acd0245451d7ff639c05",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7bc26707-dee2-4478-9c3c-2e279ae45aa7.png",
+      "canonical_sha256": "74edbc4fe97c56d299d658baa4b7510361b33eb22f49acd0245451d7ff639c05",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-21",
+      "review": "Full rounded fur cap covers crown and has tan ear/nape extensions, tan sleeveless wrap over both shoulders and both low closed pale skin covers over bast soles. Natural seated anatomy, one empty cool pot on board, natural rock cover and a moonless twilight valley. No new equipment, garment or skin stock."
+    }
+  ],
+  "selected_count": 10,
+  "rejected_image_count": 2,
+  "tool_rejection_count": 3,
+  "completed_on": "2026-10-21",
+  "page_image_links": 14,
+  "png_postprocessing": "none; selected generated PNGs copied unchanged and originals retained",
+  "website_updated": false
+}

@@ -1,0 +1,756 @@
+{
+  "tool": "built-in image_gen",
+  "intent": "generate with references",
+  "date": "2026-10-24",
+  "jobs": [
+    {
+      "id": "day-100",
+      "target": "_Artwork/survival/day-100.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 12 - A Straight Piece for Fishing.md"
+        }
+      ],
+      "scene": "Winding the new modest fishing line onto a smooth short stick at the clean craft side; no catch or future bowstring.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Day 100, pale cold December daylight at the mouth of a natural limestone overhang. He sits on a low natural stone, both feet visible, calmly winding slender new tan plant-fibre fishing line around a plain smooth short stick held in his bare hands. A small folded bark packet covers the tiny fishing gorge beside him; do not expose a large hook. A modest selected fibre bundle sits on the clean stone. No wooden gauge, perforated board, netting shuttle, rod, modern reel, weapon, completed bowstring, fish or second person. Sparse brown leaves and bare winter brush in the valley background. One readable making action.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity and rendering style",
+        "complete current wardrobe, no new clothing change"
+      ],
+      "attempts": [
+        {
+          "id": "day-100",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dc4aeb58-0aa1-4b0d-bb25-62876eafd944.png",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Day 100, pale cold December daylight at the mouth of a natural limestone overhang. He sits on a low natural stone, both feet visible, calmly winding slender new tan plant-fibre fishing line around a plain smooth short stick held in his bare hands. A small folded bark packet covers the tiny fishing gorge beside him; do not expose a large hook. A modest selected fibre bundle sits on the clean stone. No wooden gauge, perforated board, netting shuttle, rod, modern reel, weapon, completed bowstring, fish or second person. Sparse brown leaves and bare winter brush in the valley background. One readable making action.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity and rendering style",
+            "complete current wardrobe, no new clothing change"
+          ],
+          "review": "Accepted: original identity and complete Day 97 outfit, including full cap, separate sleeves/leg panels, tan wrap and both closed pale low foot layers over bast soles. One modest line is wound onto a plain short stick, terminal component covered by bark; no future shuttle, bowstring, catch or loaded weapon.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity and rendering style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe, no new clothing change",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "31a5071092afd790cbad1d20c278a8e59fc3b765cba0fb869274c205d1a9e3ee",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dc4aeb58-0aa1-4b0d-bb25-62876eafd944.png",
+      "canonical_sha256": "31a5071092afd790cbad1d20c278a8e59fc3b765cba0fb869274c205d1a9e3ee",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: original identity and complete Day 97 outfit, including full cap, separate sleeves/leg panels, tan wrap and both closed pale low foot layers over bast soles. One modest line is wound onto a plain short stick, terminal component covered by bark; no future shuttle, bowstring, catch or loaded weapon."
+    },
+    {
+      "id": "day-101",
+      "target": "_Artwork/survival/day-101.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 13 - Feel the River Through the Line.md"
+        },
+        {
+          "path": "04_Skills/Fishing/Hand-Line Fishing.md"
+        }
+      ],
+      "scene": "Attending a hand-held fishing line from firm dry near-bank ground, with the existing small hand net within reach before a take.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Image 3 supplies the EXISTING small hand-net object geometry only, no lettering, diagram layout or scene style. Day 101 overcast damp December at a quiet familiar near-bank water pocket. He sits low on a firm DRY natural bank, BOTH feet on dry ground out of water, attending one fine hand-held plant-fibre line running from his bare fingers down into the water. Spare line is neatly wound on a smooth short stick resting beside him. No line around wrist, no modern fishing rod or reel. A small short-handled oval wooden hand net with shallow tan mesh bag lies within reach on the bank. One person, modest gear, no visible fish, gorge or injury at this selected pre-take moment. Natural limestone, sheltered brown leaf litter and quiet water, no ice sheet, huge river or steep cliff. No new boots, spare skins or bow equipment.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/hand-net.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete current wardrobe",
+        "existing hand-net geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "day-101",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7d24b754-8e5b-4266-8837-9880a22efaad.png",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Image 3 supplies the EXISTING small hand-net object geometry only, no lettering, diagram layout or scene style. Day 101 overcast damp December at a quiet familiar near-bank water pocket. He sits low on a firm DRY natural bank, BOTH feet on dry ground out of water, attending one fine hand-held plant-fibre line running from his bare fingers down into the water. Spare line is neatly wound on a smooth short stick resting beside him. No line around wrist, no modern fishing rod or reel. A small short-handled oval wooden hand net with shallow tan mesh bag lies within reach on the bank. One person, modest gear, no visible fish, gorge or injury at this selected pre-take moment. Natural limestone, sheltered brown leaf litter and quiet water, no ice sheet, huge river or steep cliff. No new boots, spare skins or bow equipment.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/hand-net.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe",
+            "existing hand-net geometry only"
+          ],
+          "review": "Accepted: recognisable traveller in all current clothes, seated on firm dry bank with both low foot covers outside water. One attended hand line, spare on plain stick, no wrist binding or rod. Existing small shallow hand net lies within reach; no visible fish or future equipment. Selected pre-take moment also illustrates the skill page.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/hand-net.png",
+              "role": "existing hand-net geometry only",
+              "sha256": "602b50cc02be53c65e3c7f250d148900d7fa24d707a2e0bc0e108e44db0572d9"
+            }
+          ],
+          "source_sha256": "d1e2110f2c37da56d133ff35bf7313296c22a4e3fd04d1315222e8334f6a33ce",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7d24b754-8e5b-4266-8837-9880a22efaad.png",
+      "canonical_sha256": "d1e2110f2c37da56d133ff35bf7313296c22a4e3fd04d1315222e8334f6a33ce",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: recognisable traveller in all current clothes, seated on firm dry bank with both low foot covers outside water. One attended hand line, spare on plain stick, no wrist binding or rod. Existing small shallow hand net lies within reach; no visible fish or future equipment. Selected pre-take moment also illustrates the skill page."
+    },
+    {
+      "id": "day-102",
+      "target": "_Artwork/survival/day-102.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 14 - Make Two Threads Work Together.md"
+        }
+      ],
+      "scene": "Plying two newly spun singles with the old wooden spindle, feeding from two simple holders at the clean craft side.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Image 3 supplies only the geometry of the EXISTING wooden spindle: one slim shaft with a small thick wooden disc whorl perpendicular around its lower part. Day 102 grey winter craft daylight beneath the natural rock lip. He sits on a low stone, full body and both low footwear layers visible, pinching TWO separate fine plant-fibre singles together above one hanging small wooden spindle. The two incoming threads feed visibly from TWO plain smooth stick holders resting separately on clean bark beside him; one short combined plied thread descends from the finger pinch to the spindle. No raw wool, fleece, spinning wheel, modern bobbins or huge rope. Simple believable hand posture, one spindle only; no enormous flat disc held like a steering wheel, no thread winding around his wrist. No completed bow/string or second person.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete current wardrobe",
+        "existing replacement spindle geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "day-102",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-818f8242-1e54-4b08-ae77-ff80b3b44740.png",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Image 3 supplies only the geometry of the EXISTING wooden spindle: one slim shaft with a small thick wooden disc whorl perpendicular around its lower part. Day 102 grey winter craft daylight beneath the natural rock lip. He sits on a low stone, full body and both low footwear layers visible, pinching TWO separate fine plant-fibre singles together above one hanging small wooden spindle. The two incoming threads feed visibly from TWO plain smooth stick holders resting separately on clean bark beside him; one short combined plied thread descends from the finger pinch to the spindle. No raw wool, fleece, spinning wheel, modern bobbins or huge rope. Simple believable hand posture, one spindle only; no enormous flat disc held like a steering wheel, no thread winding around his wrist. No completed bow/string or second person.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe",
+            "existing replacement spindle geometry only"
+          ],
+          "review": "Accepted: original identity and complete current clothes with both closed low foot layers; same small wooden-disc spindle hangs below controlled joined feed. Two smooth separate stick holders provide the singles, combined line descends to the spindle. No new spindle, wool, wheel, modern bobbins, future string or extra person.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png",
+              "role": "existing replacement spindle geometry only",
+              "sha256": "db3f557275c62d646896e9620866a33dafa2a5729f3a3f25afac08e504394004"
+            }
+          ],
+          "source_sha256": "4fc314fd29975444ac3e5f77f0a5aa5c15c66f702885c6aca10d321a9dddcb63",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-818f8242-1e54-4b08-ae77-ff80b3b44740.png",
+      "canonical_sha256": "4fc314fd29975444ac3e5f77f0a5aa5c15c66f702885c6aca10d321a9dddcb63",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: original identity and complete current clothes with both closed low foot layers; same small wooden-disc spindle hangs below controlled joined feed. Two smooth separate stick holders provide the singles, combined line descends to the spindle. No new spindle, wool, wheel, modern bobbins, future string or extra person."
+    },
+    {
+      "id": "day-103",
+      "target": "_Artwork/survival/day-103.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 15 - Carry the Cord Through the Mesh.md"
+        }
+      ],
+      "scene": "Inspecting the newly loaded slim double-notched wooden shuttle before using it on the small repair-sized mesh.",
+      "prompt": "Use case: illustration-story. One wide 16:9 Humanity Handbook scene in fine brown ink and luminous natural watercolour. Image 1 gives original traveller IDENTITY and STYLE. Image 2 gives complete Moon 4 Day 9 CLOTHING. Image 3 gives only the SIMPLE FLAT DOUBLE-NOTCHED SHUTTLE shape, never its labels or plate layout. Same lean man about thirty with dark wavy hair and short beard. Full grey-brown fur crown and tan ear/nape sides; old pale tan wrap over both shoulders; separate darker sleeves to wrists and leg panels covering knees/calves to ankles; bare hands; BOTH pale low closed foot covers over visible woven bast soles. Day 103 cold daylight beneath the natural limestone overhang, seated on a low stone with both feet visible. He examines ONE newly loaded small narrow flat wooden shuttle held between his hands. It is palm-length, with an open notch at EACH end, and only a modest layer of fine tan yarn wound lengthways across its faces. Keep clear, simple geometry of image 3. On clean stone beside him is one plain smooth UNPERFORATED rectangular wooden mesh gauge and a small fibre bundle. No active knot tying, hanging mesh, complex thread paths, giant rope, modern reel, central-tongue shuttle, drilled hole, second person, weapon, bowstring or new clothes. Quiet familiar valley beyond, bare branches and sparse brown leaves. Focus on this simple inspection before the netting use.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/netting-shuttle.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete current wardrobe",
+        "approved simple double-notched shuttle geometry only; no lettering or page layout"
+      ],
+      "attempts": [
+        {
+          "id": "day-103",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Day 103 cool late-afternoon craft light at the clean side of the natural limestone overhang. He sits on a low stone with complete outfit and both enclosed low feet visible, using one SMALL SLIM FLAT wooden netting shuttle with an OPEN U-NOTCH at EACH END, lightly wound lengthways with tan yarn, to pass through a loop in a modest mesh panel hung from a low starting cord. Simple flat double-notched strip, no central tongue, drilled hole, metal eye, bobbin, intricate carved needle or boat shuttle. In the other hand a separate plain smooth flat mesh gauge without any holes. The new mesh is only repair-sized, not a huge fishing net. No second person, framed new net, winter harvest, giant loom, bow, long bowstring or indoor hearth. One readable working action, original warm fine-ink/watercolour style.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe"
+          ],
+          "review": "No image returned because of a network request failure. Replacement simplifies the selected moment to inspecting the newly loaded shuttle, using approved original identity, current wardrobe and reviewed object geometry.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ]
+        },
+        {
+          "id": "day-103",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6ead6e7f-28af-4f68-9776-722cd66d5e4f.png",
+          "full_prompt": "Use case: illustration-story. One wide 16:9 Humanity Handbook scene in fine brown ink and luminous natural watercolour. Image 1 gives original traveller IDENTITY and STYLE. Image 2 gives complete Moon 4 Day 9 CLOTHING. Image 3 gives only the SIMPLE FLAT DOUBLE-NOTCHED SHUTTLE shape, never its labels or plate layout. Same lean man about thirty with dark wavy hair and short beard. Full grey-brown fur crown and tan ear/nape sides; old pale tan wrap over both shoulders; separate darker sleeves to wrists and leg panels covering knees/calves to ankles; bare hands; BOTH pale low closed foot covers over visible woven bast soles. Day 103 cold daylight beneath the natural limestone overhang, seated on a low stone with both feet visible. He examines ONE newly loaded small narrow flat wooden shuttle held between his hands. It is palm-length, with an open notch at EACH end, and only a modest layer of fine tan yarn wound lengthways across its faces. Keep clear, simple geometry of image 3. On clean stone beside him is one plain smooth UNPERFORATED rectangular wooden mesh gauge and a small fibre bundle. No active knot tying, hanging mesh, complex thread paths, giant rope, modern reel, central-tongue shuttle, drilled hole, second person, weapon, bowstring or new clothes. Quiet familiar valley beyond, bare branches and sparse brown leaves. Focus on this simple inspection before the netting use.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/netting-shuttle.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe",
+            "approved simple double-notched shuttle geometry only; no lettering or page layout"
+          ],
+          "review": "Accepted: the original traveller and complete current outfit, including both low closed foot covers and outside bast soles. He inspects one small loaded flat wooden shuttle; its ends are partly held in the hands, with the reviewed simple form retained. Separate gauge is plain and unperforated. No active knot diagram, complex modern shuttle, future bowstring, new clothing or extra person. This is the selected pre-use inspection moment.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/netting-shuttle.png",
+              "role": "approved simple double-notched shuttle geometry only; no lettering or page layout",
+              "sha256": "b16c9381c2aefebe998546014a503b312eaf37b335b35e7bf3768ac0c63b88d5"
+            }
+          ],
+          "source_sha256": "7f76104a6f1b623cb9369f31b3968f06f32a48f358e2a69e92d0b0973e4d9936",
+          "dimensions": [
+            1671,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6ead6e7f-28af-4f68-9776-722cd66d5e4f.png",
+      "canonical_sha256": "7f76104a6f1b623cb9369f31b3968f06f32a48f358e2a69e92d0b0973e4d9936",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: the original traveller and complete current outfit, including both low closed foot covers and outside bast soles. He inspects one small loaded flat wooden shuttle; its ends are partly held in the hands, with the reviewed simple form retained. Separate gauge is plain and unperforated. No active knot diagram, complex modern shuttle, future bowstring, new clothing or extra person. This is the selected pre-use inspection moment."
+    },
+    {
+      "id": "day-104",
+      "target": "_Artwork/survival/day-104.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 16 - A String the Length of a Bow.md"
+        }
+      ],
+      "scene": "Selecting sound dry nettle fibres at the start of the full-length string project, before twisting or fitting any component.",
+      "prompt": "Create one wide watercolour-and-fine-brown-ink Humanity Handbook illustration. Reference image 1 supplies original traveller identity and artistic style; reference image 2 supplies his full current clothing. Same lean dark-wavy-haired, short-bearded man, about thirty. Retain the complete fur cap covering the crown and ears, pale tan body wrap over both shoulders, darker separate sleeves down to wrists and leg coverings over knees/calves to ankles, and BOTH low closed pale foot covers over woven bast soles. Hands bare. He sits on a low natural stone beneath a limestone rock overhang in cold winter daylight, sorting a SMALL bundle of loose dry tan plant fibres with his fingertips on a clean flat stone. Full body with both feet visible. Focus on selecting the long sound fibres. No finished rope or string, no extra tools or people, no new clothing, no text. Familiar northern Iberian rocky valley beyond, sparse brown leaves and bare branches. Natural skin and simple clear anatomy.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style",
+        "complete current wardrobe"
+      ],
+      "attempts": [
+        {
+          "id": "day-104",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-36630175-6b23-4884-ab7d-9491afe706e5.png",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Day 104 winter daylight at the clean craft stone under natural rock. He sits in the complete dated outfit, both feet visible, loosely coiling ONE new heavier tan nettle-fibre line in his bare hands after inspection. A small worked-back eye is visible on one end and a long free tail on the other. On the stone lies ONE much shorter old sample length with its small eye, clearly separate; a little prepared dry fibre to the side. No fitted bow, arrow, weapon, shooting, drawn limb, string on a stave, load rig, extra net, modern reel or metal. The selected scene is making and examining natural cordage, not using a weapon. Natural valley background, bare branches, pale winter light. Keep scale modest and both lines physically continuous.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe"
+          ],
+          "review": "Rejected: the new candidate is depicted as a bulky long rope at person scale, with an ambiguous doubled-eye old sample. This overstates the modest line/material result. It is not reused as a reference; the replacement uses the original identity and dated clothing only.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "9db5b4f21e4dd94449548dbfbb60c76a5e57dfc2cda5ed084b025669d6e19bd5",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "day-104",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "full_prompt": "Use case: illustration-story. One wide 16:9 Humanity Handbook craft scene in fine brown ink and luminous natural watercolour. Image 1 gives original approved traveller IDENTITY and STYLE only. Image 2 gives complete current Moon 4 Day 9 CLOTHING only. Preserve lean man about thirty, ear-length dark wavy hair, short beard. Full grey-brown fur crown with tan ear/nape sides, pale tan wrap over both shoulders, separate darker sleeves to wrists and leg panels over knees to ankles, bare hands, BOTH pale low closed foot covers over outside woven bast soles. Day 104 winter daylight at the clean stone beside the natural limestone overhang. Seated full-body view with both feet visible. He closely examines a SMALL worked-back eye on a FINE tan plant-twine line held loosely between fingertips. This line is only about two millimetres thick: ordinary small twine, NEVER thick rope. Rest of SAME line lies on clean stone in a modest palm-width loose coil, several fine loops. Its free end is thin and unlooped. Only ONE line in picture; old short sample is safely stored out of frame. No giant coil, rope bundle, extra loop sample, weapon, bow, arrow, load rig, metal, gauge, net or other person. Natural skin, calm clear hand posture, bare winter branches and sparse brown leaves. Focus on delicate cordage inspection and correct retained clothing.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe"
+          ],
+          "review": "The first fine-twine replacement request returned no image because of a network error. Retry keeps this simpler prompt and original identity/current wardrobe references; the oversized rejected image is not used.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ]
+        },
+        {
+          "id": "day-104",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "full_prompt": "Use case: illustration-story. One wide 16:9 Humanity Handbook craft scene in fine brown ink and luminous natural watercolour. Image 1 gives original approved traveller IDENTITY and STYLE only. Image 2 gives complete current Moon 4 Day 9 CLOTHING only. Preserve lean man about thirty, ear-length dark wavy hair, short beard. Full grey-brown fur crown with tan ear/nape sides, pale tan wrap over both shoulders, separate darker sleeves to wrists and leg panels over knees to ankles, bare hands, BOTH pale low closed foot covers over outside woven bast soles. Day 104 winter daylight at the clean stone beside the natural limestone overhang. Seated full-body view with both feet visible. He closely examines a SMALL worked-back eye on a FINE tan plant-twine line held loosely between fingertips. This line is only about two millimetres thick: ordinary small twine, NEVER thick rope. Rest of SAME line lies on clean stone in a modest palm-width loose coil, several fine loops. Its free end is thin and unlooped. Only ONE line in picture; old short sample is safely stored out of frame. No giant coil, rope bundle, extra loop sample, weapon, bow, arrow, load rig, metal, gauge, net or other person. Natural skin, calm clear hand posture, bare winter branches and sparse brown leaves. Focus on delicate cordage inspection and correct retained clothing.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe"
+          ],
+          "review": "Second fine-string replacement returned no image because of a network error. Next request selects the day's earlier fibre-selection moment to simplify the scene; original identity/current clothes remain the only references.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ]
+        },
+        {
+          "id": "day-104",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-022f48f5-ff79-4932-bc4d-c119cc66210e.png",
+          "full_prompt": "Create one wide watercolour-and-fine-brown-ink Humanity Handbook illustration. Reference image 1 supplies original traveller identity and artistic style; reference image 2 supplies his full current clothing. Same lean dark-wavy-haired, short-bearded man, about thirty. Retain the complete fur cap covering the crown and ears, pale tan body wrap over both shoulders, darker separate sleeves down to wrists and leg coverings over knees/calves to ankles, and BOTH low closed pale foot covers over woven bast soles. Hands bare. He sits on a low natural stone beneath a limestone rock overhang in cold winter daylight, sorting a SMALL bundle of loose dry tan plant fibres with his fingertips on a clean flat stone. Full body with both feet visible. Focus on selecting the long sound fibres. No finished rope or string, no extra tools or people, no new clothing, no text. Familiar northern Iberian rocky valley beyond, sparse brown leaves and bare branches. Natural skin and simple clear anatomy.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style",
+            "complete current wardrobe"
+          ],
+          "review": "Accepted: original traveller and complete current wardrobe, selecting a modest loose dry bast-fibre portion before string construction. The near closed pale foot cover and bast sole are clear; the far lower foot is partly occluded by the work stone, with its leg panel retained. No giant rope, finished string, modern tool or other person. The image adds a light patchy snow dusting beyond the protected craft side; this authored weather is explicitly recorded in the new Day 104 opening and continuity note. It adds no equipment or future event.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "complete current wardrobe",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "f229805c4d25eaffc198549a4f805765697a228cd34032002a1630471bcede46",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-022f48f5-ff79-4932-bc4d-c119cc66210e.png",
+      "canonical_sha256": "f229805c4d25eaffc198549a4f805765697a228cd34032002a1630471bcede46",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: original traveller and complete current wardrobe, selecting a modest loose dry bast-fibre portion before string construction. The near closed pale foot cover and bast sole are clear; the far lower foot is partly occluded by the work stone, with its leg panel retained. No giant rope, finished string, modern tool or other person. The image adds a light patchy snow dusting beyond the protected craft side; this authored weather is explicitly recorded in the new Day 104 opening and continuity note. It adds no equipment or future event."
+    },
+    {
+      "id": "reflection",
+      "target": "_Artwork/reflections/reflection-08-full-moon.png",
+      "pages": [
+        {
+          "path": "02_Reflections/Reflection 08 - Full Moon - Moon 4 Day 15.md"
+        }
+      ],
+      "scene": "A full-moon appraisal under natural rock: the sleeves air nearby, while cap, wrap, leg coverings and both low foot layers remain.",
+      "prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Full-moon evening AFTER completed Day 103, before any Day 104 full-length string exists. Deliberate scene-specific removal: BOTH new sleeves are taken OFF for airing and hang as exactly TWO grey-brown empty soft sleeve tubes on a short clean line within reach; his arms are now BARE for that explicit reason. Retain full cap, original tan wrap over both shoulders, both grey-brown leg panels, both closed low pale foot covers and woven bast soles. He sits quietly beneath the natural limestone roof looking out across a dark blue valley, a round FULL MOON above open ground, silver light with restrained gouache accents and fine ink. No indoor flame. A small cooled single clay pot may sit on its plain board at clean side, no food stock display, extra pot, blanket skin, cloak or new string. No second person or silhouette. Warm protected human presence, not fantasy spectacle. One quiet coherent frontispiece; hanging sleeves must not become spare whole skins.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style, adapted to twilight watercolour",
+        "current wardrobe; two sleeves deliberately removed for airing in this exact moment"
+      ],
+      "attempts": [
+        {
+          "id": "reflection",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-bb3bb119-7654-4dc5-a0c2-35f1ab476829.png",
+          "full_prompt": "Use case: illustration-story. One wide approximately 16:9 Humanity Handbook scene, luminous natural watercolour and fine brown ink on warm paper with softly dissolved margins. Image 1 is original approved traveller IDENTITY and STYLE only. Image 2 is complete dated Moon 4 Day 9 WARDROBE only. Preserve same lean man about thirty, dark ear-length wavy hair, short beard and recognisable face; smooth natural skin, no scar-like etched hatching. Retain the complete dated outfit: full grey-brown rabbit-fur CROWN covering top of head with tan fox-skin ear/nape sides, no animal head or headband; old pale tan overlapping hair-in body wrap over BOTH shoulders, repaired anatomical-left shoulder, chest tie and narrow waist cord; separate darker muted grey-brown skin SLEEVES to both wrists and overlapping LEG PANELS covering knees/calves to ankles; both bare hands; BOTH original pale low closed rabbit-skin FOOT COVERS over visibly external woven bast SOLES, closed toes and heels, no tall boots. No cloak, hood, mittens, grass skirt, bare shins, bare feet or new garment. Full-moon evening AFTER completed Day 103, before any Day 104 full-length string exists. Deliberate scene-specific removal: BOTH new sleeves are taken OFF for airing and hang as exactly TWO grey-brown empty soft sleeve tubes on a short clean line within reach; his arms are now BARE for that explicit reason. Retain full cap, original tan wrap over both shoulders, both grey-brown leg panels, both closed low pale foot covers and woven bast soles. He sits quietly beneath the natural limestone roof looking out across a dark blue valley, a round FULL MOON above open ground, silver light with restrained gouache accents and fine ink. No indoor flame. A small cooled single clay pot may sit on its plain board at clean side, no food stock display, extra pot, blanket skin, cloak or new string. No second person or silhouette. Warm protected human presence, not fantasy spectacle. One quiet coherent frontispiece; hanging sleeves must not become spare whole skins.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style, adapted to twilight watercolour",
+            "current wardrobe; two sleeves deliberately removed for airing in this exact moment"
+          ],
+          "review": "Accepted: full moon and natural rock roof; exactly two sleeve tubes hung nearby for deliberate airing, both arms bare, retained cap/tan wrap/leg panels and both low foot layers. One cooled pot, no indoor fire, no person beside him or future full-length string. Appropriate completed Day 103 cutoff.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style, adapted to twilight watercolour",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-9/character-sheet.png",
+              "role": "current wardrobe; two sleeves deliberately removed for airing in this exact moment",
+              "sha256": "f6944ac38c9e81bdc623934cd970951e4f5c9236e91d3a37732b5ea22701fa0d"
+            }
+          ],
+          "source_sha256": "e94acf5fc5b7b8e2c66b27f2152a4b392bfbfda3c0ed639a6ca1124ebcd963f3",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-bb3bb119-7654-4dc5-a0c2-35f1ab476829.png",
+      "canonical_sha256": "e94acf5fc5b7b8e2c66b27f2152a4b392bfbfda3c0ed639a6ca1124ebcd963f3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: full moon and natural rock roof; exactly two sleeve tubes hung nearby for deliberate airing, both arms bare, retained cap/tan wrap/leg panels and both low foot layers. One cooled pot, no indoor fire, no person beside him or future full-length string. Appropriate completed Day 103 cutoff."
+    },
+    {
+      "id": "gorge",
+      "target": "_Artwork/tools/fishing-gorge.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Fishing/Fishing Gorge.md"
+        }
+      ],
+      "scene": "A small straight wooden fishing component with tapered ends and a single line tied at its substantial centre.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title FISHING GORGE. Large clear isolated study of ONE small straight slender wooden bar, tapered at both ends, centre left substantial. One continuous natural plant-fibre line tied around a very shallow seat at the exact centre and extending away. No deep cut or hole through bar. A smaller secondary SIDE VIEW of the same form may show centre thickness, labelled SAME FORM. Main labels WOODEN BAR, CENTRE ATTACHMENT. No animal, fish mouth, bait, violence, curved metal hook, arrowhead, huge spear, knot-path inset or detached line ring. This is terminal tackle, not a completed fishing system or archaeological replica.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual style only"
+      ],
+      "attempts": [
+        {
+          "id": "gorge",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0e979d3b-17a9-40e7-9f27-59199fe7f96a.png",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title FISHING GORGE. Large clear isolated study of ONE small straight slender wooden bar, tapered at both ends, centre left substantial. One continuous natural plant-fibre line tied around a very shallow seat at the exact centre and extending away. No deep cut or hole through bar. A smaller secondary SIDE VIEW of the same form may show centre thickness, labelled SAME FORM. Main labels WOODEN BAR, CENTRE ATTACHMENT. No animal, fish mouth, bait, violence, curved metal hook, arrowhead, huge spear, knot-path inset or detached line ring. This is terminal tackle, not a completed fishing system or archaeological replica.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual style only"
+          ],
+          "review": "Accepted: one substantial-centred wooden bar with tapered ends and continuous centre-tied natural line; secondary view explicitly labelled SAME FORM. No curved hook, metal, animal injury, dimension or extra owned component.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "60a78578474a1f4df5762aea717c788e44f79d1143f3185fdb71758f5e696c33",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0e979d3b-17a9-40e7-9f27-59199fe7f96a.png",
+      "canonical_sha256": "60a78578474a1f4df5762aea717c788e44f79d1143f3185fdb71758f5e696c33",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: one substantial-centred wooden bar with tapered ends and continuous centre-tied natural line; secondary view explicitly labelled SAME FORM. No curved hook, metal, animal injury, dimension or extra owned component."
+    },
+    {
+      "id": "plying",
+      "target": "_Artwork/skills/spindle-plying.png",
+      "pages": [
+        {
+          "path": "04_Skills/Fibre Work/Spindle Plying.md"
+        }
+      ],
+      "scene": "Two separate single threads meeting at a controlled junction and wrapping into one plied line above a wooden spindle.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title SPINDLE PLYING. Conceptual thread-control study with only TWO fine tan incoming twisted SINGLE THREADS from upper left and upper right, meeting at a small natural finger pinch, then ONE visibly two-ply line descending to a simple small wooden spindle shaft. One wooden disc whorl perpendicular near lower part, a little finished yarn wound on shaft above it. Labels TWO SINGLES and PLIED LINE. Thin traceable continuity, no arrows that pretend to specify ambiguous clockwise direction, no knot. A pair of anonymous hands controls separate feeds near junction without wrapping around a wrist. No wool fleece, spinning wheel, bobbins, extra spindle, giant rope or strength claims. It explains distinct incoming singles and combined output, not an exact load test.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png"
+      ],
+      "input_roles": [
+        "field-manual style only",
+        "existing spindle geometry only"
+      ],
+      "attempts": [
+        {
+          "id": "plying",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-72905a61-ea3b-4c6f-a863-544251fed31b.png",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title SPINDLE PLYING. Conceptual thread-control study with only TWO fine tan incoming twisted SINGLE THREADS from upper left and upper right, meeting at a small natural finger pinch, then ONE visibly two-ply line descending to a simple small wooden spindle shaft. One wooden disc whorl perpendicular near lower part, a little finished yarn wound on shaft above it. Labels TWO SINGLES and PLIED LINE. Thin traceable continuity, no arrows that pretend to specify ambiguous clockwise direction, no knot. A pair of anonymous hands controls separate feeds near junction without wrapping around a wrist. No wool fleece, spinning wheel, bobbins, extra spindle, giant rope or strength claims. It explains distinct incoming singles and combined output, not an exact load test.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png"
+          ],
+          "input_roles": [
+            "field-manual style only",
+            "existing spindle geometry only"
+          ],
+          "review": "Accepted as conceptual feed/output study: two incoming singles, one combined descending plied line, one wooden spindle with perpendicular disc and yarn on shaft. No raw wool, wheel, additional spindle, force rating or exact rotation arrow. Labels are conceptual; text supplies the opposing-direction handling.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/spindle-whorl.png",
+              "role": "existing spindle geometry only",
+              "sha256": "db3f557275c62d646896e9620866a33dafa2a5729f3a3f25afac08e504394004"
+            }
+          ],
+          "source_sha256": "fab581143f1ed0dde70d11746fe476d7dfbf012fffead6062369d989ea9af6be",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-72905a61-ea3b-4c6f-a863-544251fed31b.png",
+      "canonical_sha256": "fab581143f1ed0dde70d11746fe476d7dfbf012fffead6062369d989ea9af6be",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted as conceptual feed/output study: two incoming singles, one combined descending plied line, one wooden spindle with perpendicular disc and yarn on shaft. No raw wool, wheel, additional spindle, force rating or exact rotation arrow. Labels are conceptual; text supplies the opposing-direction handling."
+    },
+    {
+      "id": "shuttle",
+      "target": "_Artwork/tools/netting-shuttle.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Fibre Equipment/Netting Shuttle.md"
+        }
+      ],
+      "scene": "One slim flat wooden double-notched carrier shown empty and lightly wound as two views of the same design.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title NETTING SHUTTLE. Two views of ONE SAME simple flat wooden strip design, long and narrow with smooth parallel sides and a short rounded U-shaped OPEN NOTCH at EACH end. Thus exactly TWO notches on each view, stout short rounded end arms, no holes, no central tongue, no central cut-out, bobbin, metal or boat shape. Top view EMPTY; lower view SAME FORM WOUND, with a modest layer of tan plant yarn wound lengthways between the two forked ends and across broad faces, loose working end clear. Three labels OPEN END NOTCH, SMOOTH EDGE, WORKING YARN. Small plain separate rectangular gauge inset labelled GAUGE, smooth unperforated. No mesh pattern, human, fish or second stock allocation implied; two views of same conceptual tool.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual style only"
+      ],
+      "attempts": [
+        {
+          "id": "shuttle",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3391c243-5396-4c38-848a-dd82e848bf6d.png",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title NETTING SHUTTLE. Two views of ONE SAME simple flat wooden strip design, long and narrow with smooth parallel sides and a short rounded U-shaped OPEN NOTCH at EACH end. Thus exactly TWO notches on each view, stout short rounded end arms, no holes, no central tongue, no central cut-out, bobbin, metal or boat shape. Top view EMPTY; lower view SAME FORM WOUND, with a modest layer of tan plant yarn wound lengthways between the two forked ends and across broad faces, loose working end clear. Three labels OPEN END NOTCH, SMOOTH EDGE, WORKING YARN. Small plain separate rectangular gauge inset labelled GAUGE, smooth unperforated. No mesh pattern, human, fish or second stock allocation implied; two views of same conceptual tool.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual style only"
+          ],
+          "review": "Accepted as a two-view carrier study: same simple flat wood strip has open rounded notches at both ends, stout short arms, no central tongue/hole or modern bobbin. Loaded view carries yarn across broad faces; separate gauge is plain and unperforated. It illustrates form and roles, not a complete winding or knot-path instruction, and does not add a second owned shuttle.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "b16c9381c2aefebe998546014a503b312eaf37b335b35e7bf3768ac0c63b88d5",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3391c243-5396-4c38-848a-dd82e848bf6d.png",
+      "canonical_sha256": "b16c9381c2aefebe998546014a503b312eaf37b335b35e7bf3768ac0c63b88d5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted as a two-view carrier study: same simple flat wood strip has open rounded notches at both ends, stout short arms, no central tongue/hole or modern bobbin. Loaded view carries yarn across broad faces; separate gauge is plain and unperforated. It illustrates form and roles, not a complete winding or knot-path instruction, and does not add a second owned shuttle."
+    },
+    {
+      "id": "string",
+      "target": "_Artwork/tools/bowstring-candidate-day-104.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Components/Bowstring.md"
+        }
+      ],
+      "scene": "One complete loose full-length fibre-string candidate with a worked-back eye, tapered overlap and unfinished adjustment end; no bow attachment.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title LONG FIBRE STRING. One continuous moderately stout two-strand natural tan plant-fibre cord laid loosely in a broad open coil. At one end a small integrated worked-back eye with a visibly tapered returning overlap; the other end continues into a long free adjustment tail. One little enlarged inset of the same eye transition, not an extra string. Labels WORKED-BACK EYE, TAPERED OVERLAP, FREE END. No string attached to a bow, no weapon, arrow, draw, load rig, spring, performance measurement, excessive decorative knot or metal. Clear modest hand-made cordage study, not an accepted dynamic component or construction template. Background ivory, full line continuity legible.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual style only"
+      ],
+      "attempts": [
+        {
+          "id": "string",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-53e1f549-8d1e-49a9-913a-9870a4d21876.png",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual study on warm ivory paper, fine navy ink and restrained natural watercolour, using image 1 for STYLE only. Ample clear margins, modest labels, no modern materials, dimensions or strength rating. Title LONG FIBRE STRING. One continuous moderately stout two-strand natural tan plant-fibre cord laid loosely in a broad open coil. At one end a small integrated worked-back eye with a visibly tapered returning overlap; the other end continues into a long free adjustment tail. One little enlarged inset of the same eye transition, not an extra string. Labels WORKED-BACK EYE, TAPERED OVERLAP, FREE END. No string attached to a bow, no weapon, arrow, draw, load rig, spring, performance measurement, excessive decorative knot or metal. Clear modest hand-made cordage study, not an accepted dynamic component or construction template. Background ivory, full line continuity legible.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual style only"
+          ],
+          "review": "Accepted: one continuous loose full-length natural-fibre candidate with integrated eye, tapered returning overlap and free tail; inset is explicitly the same eye. No bow, arrow, fitted attachment, load rig, dimensions or strength claim. New primary will retain the old short-sample art as a historical comparison.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "1262aa8a272dd2bcdde69e3f9674c5ccbd1b66ee3656e6c7c47ef4e3ce8da6c6",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-53e1f549-8d1e-49a9-913a-9870a4d21876.png",
+      "canonical_sha256": "1262aa8a272dd2bcdde69e3f9674c5ccbd1b66ee3656e6c7c47ef4e3ce8da6c6",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-24",
+      "review": "Accepted: one continuous loose full-length natural-fibre candidate with integrated eye, tapered returning overlap and free tail; inset is explicitly the same eye. No bow, arrow, fitted attachment, load rig, dimensions or strength claim. New primary will retain the old short-sample art as a historical comparison.",
+      "previous_illustration": {
+        "path": "_Artwork/tools/cordage-trial-line.png",
+        "sha256": "190a09a2019452c20b2d554fbeec196a47a4d4924094d2d1b96170abd949d6f0"
+      }
+    }
+  ],
+  "selected_count": 10,
+  "page_image_links": 11,
+  "rejected_image_count": 1,
+  "tool_error_count": 3,
+  "tool_rejection_count": 0,
+  "completed_on": "2026-10-24",
+  "png_postprocessing": "none; selected PNGs copied unchanged and original outputs retained",
+  "website_updated": false
+}

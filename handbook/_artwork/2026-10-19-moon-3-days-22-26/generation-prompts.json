@@ -1,0 +1,667 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-19",
+  "jobs": [
+    {
+      "id": "earthenware",
+      "target": "_Artwork/materials/fired-earthenware-day-83.png",
+      "pages": [
+        {
+          "path": "03_Materials/Mineral/Fired Earthenware.md"
+        },
+        {
+          "path": "05_Tools and Equipment/Containers and Carriers/Clay Vessel.md",
+          "replace_primary": true,
+          "preserved_historical_illustration": {
+            "illustration": "_Artwork/tools/clay-vessel.png",
+            "illustration_scene": "The cracked fired clay test specimen, rejected for cooking and drinking-water storage.",
+            "illustration_checked_on": "2026-10-02",
+            "illustration_style": "mid-century manual plate"
+          },
+          "preserved_historical_sha256": "4ffc10733783ec06adbea180a2fd4edb1a03e52b2778c8b9cbe9aa9426220d38"
+        }
+      ],
+      "scene": "The small open Day 72 pot after firing and cold inspection, with a separate conceptual porous-body inset.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-72.png"
+      ],
+      "input_roles": [
+        "field-manual plate style only",
+        "ONLY the existing small pot shape; ignore person, shoes and camp"
+      ],
+      "prompt": "Use case: scientific-educational. An illustrated Humanity Handbook material/object study on warm ivory paper, navy ink labels and restrained natural pastel watercolour, matching Image 1 plate style only. Image 2 supplies ONLY the shape of the SMALL OPEN HANDMADE CLAY BOWL in the man's hands; do not include person, camp or any clothing.\nTitle exactly FIRED EARTHENWARE. Main subject one small low open pinch pot with rounded sides, broad open mouth, modest slightly uneven lip and gently rounded underside, the SAME bowl form as Image 2. Hand-smoothed uneven grey-brown and muted warm tan surface after an open firing, subtle darker smoke patches, MATTE UNGLAZED, no glassy shine, glaze, painted pattern, metal, handles, lid, tall neck or added foot ring. Whole sound bowl with NO crack, no broken-off section, no food or water necessary. This is the completed-Day-83 variant, not the old rejected cracked vessel.\nAt side, ONE separate enlarged illustrative section of fired clay texture with small random pores, plainly an explanatory material inset NOT a broken piece cut from this bowl. Simple lines from labels UNGLAZED SURFACE and POROUS BODY to appropriate features. Main pot no exaggerated thick rim or industrial exact symmetry. Caption small exactly DAY 83 — COLD INSPECTION. No claim of waterproofing, measured firing temperature, glazing, certification or universal fireproofness. Plenty of ivory space, no photographic background, no hands, hearth or extra vessels. A material study and whole vessel portrait, not a construction blueprint or laboratory micrograph.",
+      "attempts": [
+        {
+          "id": "earthenware",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cbdb7279-4198-4f1c-aced-ecdd8b55334f.png",
+          "review": "Small open rounded bowl, modest uneven rim, matte smoke-mottled surface, no crack, lid, handles or added foot ring. Separate porous-body inset is conceptual, not a removed piece. Labels readable. Form follows the Day 72 pot; no scale or waterproofness claim.",
+          "full_prompt": "Use case: scientific-educational. An illustrated Humanity Handbook material/object study on warm ivory paper, navy ink labels and restrained natural pastel watercolour, matching Image 1 plate style only. Image 2 supplies ONLY the shape of the SMALL OPEN HANDMADE CLAY BOWL in the man's hands; do not include person, camp or any clothing.\nTitle exactly FIRED EARTHENWARE. Main subject one small low open pinch pot with rounded sides, broad open mouth, modest slightly uneven lip and gently rounded underside, the SAME bowl form as Image 2. Hand-smoothed uneven grey-brown and muted warm tan surface after an open firing, subtle darker smoke patches, MATTE UNGLAZED, no glassy shine, glaze, painted pattern, metal, handles, lid, tall neck or added foot ring. Whole sound bowl with NO crack, no broken-off section, no food or water necessary. This is the completed-Day-83 variant, not the old rejected cracked vessel.\nAt side, ONE separate enlarged illustrative section of fired clay texture with small random pores, plainly an explanatory material inset NOT a broken piece cut from this bowl. Simple lines from labels UNGLAZED SURFACE and POROUS BODY to appropriate features. Main pot no exaggerated thick rim or industrial exact symmetry. Caption small exactly DAY 83 — COLD INSPECTION. No claim of waterproofing, measured firing temperature, glazing, certification or universal fireproofness. Plenty of ivory space, no photographic background, no hands, hearth or extra vessels. A material study and whole vessel portrait, not a construction blueprint or laboratory micrograph.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-72.png",
+              "role": "ONLY the existing small pot shape; ignore person, shoes and camp",
+              "sha256": "c213e46fcc03c38813dbe3d05f11f4039b1e3681fe9116aad3b6ab7658fc6d8b"
+            }
+          ],
+          "source_sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cbdb7279-4198-4f1c-aced-ecdd8b55334f.png",
+      "canonical_sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Small open rounded bowl, modest uneven rim, matte smoke-mottled surface, no crack, lid, handles or added foot ring. Separate porous-body inset is conceptual, not a removed piece. Labels readable. Form follows the Day 72 pot; no scale or waterproofness claim."
+    },
+    {
+      "id": "rawhide",
+      "target": "_Artwork/materials/rawhide-and-pelt.png",
+      "pages": [
+        {
+          "path": "03_Materials/Animal/Rawhide.md"
+        },
+        {
+          "path": "03_Materials/Animal/Animal Pelt.md"
+        }
+      ],
+      "scene": "Conceptual states of the same small cleaned hair-bearing skin margin before and after drying, not two retained stocks.",
+      "prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook material plate, navy ink and muted earth watercolour matching the reference STYLE ONLY. Title RAW SKIN AND RAWHIDE. Two separated small material studies connected by a subtle arrow marked DRYING, representing the SAME small irregular skin margin at different stages, not two actual stocks. Left a small clean fleshed patch, tan inner skin face with short brown-grey deer hair only along turned-over edge; no flesh, blood or whole animal. Label CLEANED SKIN WITH HAIR. Right the same patch stiffened into matte light-brown UNTANNED skin with an irregular margin and gentle natural curl, no tanned glossy leather, folded storage, holes or stitches. Label DRIED UNTANNED SKIN. A small material-edge detail can show retained hair, not a fabricated scientific micrograph. Leave ivory margins and clear shapes. No full hide silhouette, head, antlers, legs, cloak, shoes, hands, salt, chemicals, meat, drying over fire or guaranteed sterilisation. Caption exactly DRYING IS NOT TANNING. Conceptual material states, not a wardrobe pattern, literal dated inventory or validated drying timetable.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "manual plate visual style only"
+      ],
+      "attempts": [
+        {
+          "id": "rawhide",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-a1a045a6-1722-4f0e-bc80-93416d981e4e.png",
+          "review": "Two conceptual stages of the same small clean hair-bearing margin; matte stiffened untanned state, clear drying arrow and no whole hide, flesh or tanning claim. Not literal doubled stock.",
+          "full_prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook material plate, navy ink and muted earth watercolour matching the reference STYLE ONLY. Title RAW SKIN AND RAWHIDE. Two separated small material studies connected by a subtle arrow marked DRYING, representing the SAME small irregular skin margin at different stages, not two actual stocks. Left a small clean fleshed patch, tan inner skin face with short brown-grey deer hair only along turned-over edge; no flesh, blood or whole animal. Label CLEANED SKIN WITH HAIR. Right the same patch stiffened into matte light-brown UNTANNED skin with an irregular margin and gentle natural curl, no tanned glossy leather, folded storage, holes or stitches. Label DRIED UNTANNED SKIN. A small material-edge detail can show retained hair, not a fabricated scientific micrograph. Leave ivory margins and clear shapes. No full hide silhouette, head, antlers, legs, cloak, shoes, hands, salt, chemicals, meat, drying over fire or guaranteed sterilisation. Caption exactly DRYING IS NOT TANNING. Conceptual material states, not a wardrobe pattern, literal dated inventory or validated drying timetable.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate visual style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "8424ac4583d7eae8d1bb0887fbda2b51992cb019cea8871ccab4ddf59b4131ee",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-a1a045a6-1722-4f0e-bc80-93416d981e4e.png",
+      "canonical_sha256": "8424ac4583d7eae8d1bb0887fbda2b51992cb019cea8871ccab4ddf59b4131ee",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Two conceptual stages of the same small clean hair-bearing margin; matte stiffened untanned state, clear drying arrow and no whole hide, flesh or tanning claim. Not literal doubled stock."
+    },
+    {
+      "id": "guard",
+      "target": "_Artwork/tools/stone-edge-guard.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Cutting Tools/Stone-Edge Guard.md"
+        }
+      ],
+      "scene": "One small flaked-stone edge inside a folded untanned-skin guard with a releasable bark-cord tie.",
+      "prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook object plate, navy ink fine line and restrained earth watercolour, reference style only. Title STONE-EDGE GUARD. Show ONE very small irregular FLINT FLAKE, not a hafted knife or spear, with its sharp lower edge protected by a modest folded tan-brown UNTANNED SKIN STRIP held with two loose turns of natural bark cord and a simple releasable tie. The blunt back of the little flake protrudes just above the cover so it can be gently removed. Skin folds around the edge without a seam; no punched holes, stitching, metal buckle, modern fitted sheath, long knife handle or belt loop. Some short hair may remain at one small outside margin. One separate small smooth plain WOODEN FORMER lies beside it to explain the temporary forming support, not a second knife or another completed guard. Labels FOLDED UNTANNED SKIN, RELEASABLE TIE, BLUNT BACK EXPOSED, and WOODEN FORMER with simple accurate leader lines. Caption LIGHT COVER FOR CARRYING. No body wear, claim of puncture resistance, gore, carcass, recipe measurements or background. A general object study of the completed Day 81 light-tool guard.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "manual plate style only"
+      ],
+      "attempts": [
+        {
+          "id": "guard",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2d78e5ac-4a3b-4c12-b399-3af0ad5d8dfe.png",
+          "review": "One small flake with edge covered by folded untanned skin and releasable cord, blunt back exposed, separate wooden former. No stitching, belt wear, haft or second cover; an illustrative object study, not dimensioned.",
+          "full_prompt": "Use case: scientific-educational. Ivory-paper Humanity Handbook object plate, navy ink fine line and restrained earth watercolour, reference style only. Title STONE-EDGE GUARD. Show ONE very small irregular FLINT FLAKE, not a hafted knife or spear, with its sharp lower edge protected by a modest folded tan-brown UNTANNED SKIN STRIP held with two loose turns of natural bark cord and a simple releasable tie. The blunt back of the little flake protrudes just above the cover so it can be gently removed. Skin folds around the edge without a seam; no punched holes, stitching, metal buckle, modern fitted sheath, long knife handle or belt loop. Some short hair may remain at one small outside margin. One separate small smooth plain WOODEN FORMER lies beside it to explain the temporary forming support, not a second knife or another completed guard. Labels FOLDED UNTANNED SKIN, RELEASABLE TIE, BLUNT BACK EXPOSED, and WOODEN FORMER with simple accurate leader lines. Caption LIGHT COVER FOR CARRYING. No body wear, claim of puncture resistance, gore, carcass, recipe measurements or background. A general object study of the completed Day 81 light-tool guard.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "758ff50f48fa95b4e91b7c23971e791113f0db859d81a688b415641c8c037922",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-2d78e5ac-4a3b-4c12-b399-3af0ad5d8dfe.png",
+      "canonical_sha256": "758ff50f48fa95b4e91b7c23971e791113f0db859d81a688b415641c8c037922",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One small flake with edge covered by folded untanned skin and releasable cord, blunt back exposed, separate wooden former. No stitching, belt wear, haft or second cover; an illustrative object study, not dimensioned."
+    },
+    {
+      "id": "drying",
+      "target": "_Artwork/skills/clay-drying-and-inspection.png",
+      "pages": [
+        {
+          "path": "04_Skills/Ceramics/Clay Drying and Inspection.md"
+        }
+      ],
+      "scene": "An intact greenware pot and a separate witness-section comparison illustrating drying judgement.",
+      "prompt": "Use case: scientific-educational. Navy fine ink and muted pastel watercolour on ivory paper matching Image 1 STYLE ONLY. Image 2 is only small rounded open BOWL GEOMETRY. Title CLAY DRYING AND INSPECTION. Left one intact SMALL GREY-BROWN UNFIRED pot of the same open rounded form, no crack, handles, glaze, fire, water or missing wedge, resting on a simple short board with airy space around it. Label CHECK THE BASE AND JOINS. Right two simple enlarged independent little CLAY WITNESS CROSS-SECTION studies, not fragments cut from the pot: one has visibly darker yielding centre labelled DAMP CENTRE; another evenly light grey matte section labelled DRY-LOOKING SECTION. They are a generic comparison for judgement, not two new dated samples. Keep meaningful separations and clean leader lines. Caption OBSERVATION, NOT A MOISTURE MEASUREMENT. No stopwatch, thermometer, sharp knife applied to pot, touch-temperature acceptance test, pot cutaway, guarantee of readiness, kiln, clothing or people.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "manual plate style only",
+        "pot shape only, IGNORE fired colour and status"
+      ],
+      "attempts": [
+        {
+          "id": "drying",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-128751f2-0038-46e7-8091-b77fd5ea0083.png",
+          "review": "Whole intact pot on board and two separately enlarged witness sections, darker centre versus evenly dry-looking section. No pot cutaway, crack, water or fire. Plate is conceptual; caption clarifies the whole bowl is greenware and texture is not a microscopic or moisture measurement.",
+          "full_prompt": "Use case: scientific-educational. Navy fine ink and muted pastel watercolour on ivory paper matching Image 1 STYLE ONLY. Image 2 is only small rounded open BOWL GEOMETRY. Title CLAY DRYING AND INSPECTION. Left one intact SMALL GREY-BROWN UNFIRED pot of the same open rounded form, no crack, handles, glaze, fire, water or missing wedge, resting on a simple short board with airy space around it. Label CHECK THE BASE AND JOINS. Right two simple enlarged independent little CLAY WITNESS CROSS-SECTION studies, not fragments cut from the pot: one has visibly darker yielding centre labelled DAMP CENTRE; another evenly light grey matte section labelled DRY-LOOKING SECTION. They are a generic comparison for judgement, not two new dated samples. Keep meaningful separations and clean leader lines. Caption OBSERVATION, NOT A MOISTURE MEASUREMENT. No stopwatch, thermometer, sharp knife applied to pot, touch-temperature acceptance test, pot cutaway, guarantee of readiness, kiln, clothing or people.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "pot shape only, IGNORE fired colour and status",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "16ba598235eb8f35210c84e3ecc8dd162e88977aa56a0baec2f595a65dc3f278",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-128751f2-0038-46e7-8091-b77fd5ea0083.png",
+      "canonical_sha256": "16ba598235eb8f35210c84e3ecc8dd162e88977aa56a0baec2f595a65dc3f278",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Whole intact pot on board and two separately enlarged witness sections, darker centre versus evenly dry-looking section. No pot cutaway, crack, water or fire. Plate is conceptual; caption clarifies the whole bowl is greenware and texture is not a microscopic or moisture measurement."
+    },
+    {
+      "id": "hearth",
+      "target": "_Artwork/structures/open-cooking-hearth.png",
+      "pages": [
+        {
+          "path": "06_Structures and Places/Structures/Fire Sites/Open Cooking Hearth.md"
+        }
+      ],
+      "scene": "One small pot on three low stable supports over a modest outside fire, with air and fuel access.",
+      "prompt": "Use case: scientific-educational. Fine navy ink and pastel earth watercolour on ivory paper like Image 1. Image 2 supplies ONLY small rounded open pot form and matte grey-tan earthenware surface. Title OPEN COOKING HEARTH. One three-quarter view of ONE SMALL open pot on EXACTLY THREE low sound angular DRY STONE supports set into bare mineral ground. Supports contact broad stable parts of its rounded underside; they do not touch the rim or squeeze it. Low modest embers and short fuel underneath with open side gap for air and fuel; pot upright level with open visible mouth. No ring of stones, cliff cave, rock roof, chimney, metal, grate, kiln, wooden pot stand, raised brickwork or second actual pot. Labels STABLE CONTACTS, AIR AND FUEL GAP, BARE MINERAL GROUND. A tiny top-view conceptual diagram can be just one dashed circle and three simple support marks, not a second object portrait or counted stock. No water-source stones, layered slate, steam cloud, certification, load figures or exact dimensioned construction plan. Illustrate the support arrangement at the existing outdoor hearth, not the pottery firing bed.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "manual plate style only",
+        "actual small fired pot form only"
+      ],
+      "attempts": [
+        {
+          "id": "hearth",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d84bc03f-6046-4a82-bdce-134270d1af68.png",
+          "review": "One rounded pot on two visible front supports with rear support occluded; top-view inset confirms three-point arrangement. Low external fire, open feed/air gap and bare mineral ground. No ring, grate, kiln or indoor roof. Conceptual geometry, not rated or measured.",
+          "full_prompt": "Use case: scientific-educational. Fine navy ink and pastel earth watercolour on ivory paper like Image 1. Image 2 supplies ONLY small rounded open pot form and matte grey-tan earthenware surface. Title OPEN COOKING HEARTH. One three-quarter view of ONE SMALL open pot on EXACTLY THREE low sound angular DRY STONE supports set into bare mineral ground. Supports contact broad stable parts of its rounded underside; they do not touch the rim or squeeze it. Low modest embers and short fuel underneath with open side gap for air and fuel; pot upright level with open visible mouth. No ring of stones, cliff cave, rock roof, chimney, metal, grate, kiln, wooden pot stand, raised brickwork or second actual pot. Labels STABLE CONTACTS, AIR AND FUEL GAP, BARE MINERAL GROUND. A tiny top-view conceptual diagram can be just one dashed circle and three simple support marks, not a second object portrait or counted stock. No water-source stones, layered slate, steam cloud, certification, load figures or exact dimensioned construction plan. Illustrate the support arrangement at the existing outdoor hearth, not the pottery firing bed.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "actual small fired pot form only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "43baa91ec3e06962a052d66c62d4f4877f4c018edb369687363e282dc6a8f8ec",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d84bc03f-6046-4a82-bdce-134270d1af68.png",
+      "canonical_sha256": "43baa91ec3e06962a052d66c62d4f4877f4c018edb369687363e282dc6a8f8ec",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One rounded pot on two visible front supports with rear support occluded; top-view inset confirms three-point arrangement. Low external fire, open feed/air gap and bare mineral ground. No ring, grate, kiln or indoor roof. Conceptual geometry, not rated or measured."
+    },
+    {
+      "id": "cooking",
+      "target": "_Artwork/technologies/cooking-in-earthenware.png",
+      "pages": [
+        {
+          "path": "07_Technologies/Food Processing/Cooking in an Earthenware Pot.md"
+        }
+      ],
+      "scene": "Three conceptual stages of the same vessel: gradual wet warming, tending a wet meal, and cooling before handling.",
+      "prompt": "Use case: scientific-educational. A clear three-panel ivory-paper process plate, navy ink titles and restrained natural watercolour matching Image 1 style. Image 2 only fixes the same SMALL open rounded unglazed grey-tan bowl shape in every panel. Title COOKING IN EARTHENWARE. Three successive views of THE SAME VESSEL at different times, not three owned pots. Panel 1 WARM TOGETHER: room-temperature pot already containing water on three low supports over a very small new fire. Panel 2 STIR A WET MEAL: same pot over a modest low cooking fire, pale beige loose porridge and one plain clean wooden stirring stick angled into it, held by no drawn person; little rising heat, not boiling dry or splashing. Panel 3 COOL BEFORE HANDLING: same pot on the same supports with fire spent to dull grey ash, no bare hands, quench water or cold splash. Three panels have plenty of spacing. No raw acorns, meat, grains, milk, ceramic glaze, spoon made of metal, lid, handles, tall neck, hot stones inside pot, large flames or indoor setting. No numeric cooking schedule, validated safe-clay claim or recipe proportions. Labelled broad process concepts, not a measured experimental result.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "manual plate style only",
+        "pot form only"
+      ],
+      "attempts": [
+        {
+          "id": "cooking",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d2409829-6011-4181-ab05-23a4f6ce10ad.png",
+          "review": "Three clearly separated successive views of the same bowl: water warming, loose wet meal with wooden stirrer, and spent fire cooling without handling. Three-point support repeated; one rear stone can be occluded. No hot stones, glaze, lid, quench or modern cookware. Meal is schematic, not a grain/species or recipe claim.",
+          "full_prompt": "Use case: scientific-educational. A clear three-panel ivory-paper process plate, navy ink titles and restrained natural watercolour matching Image 1 style. Image 2 only fixes the same SMALL open rounded unglazed grey-tan bowl shape in every panel. Title COOKING IN EARTHENWARE. Three successive views of THE SAME VESSEL at different times, not three owned pots. Panel 1 WARM TOGETHER: room-temperature pot already containing water on three low supports over a very small new fire. Panel 2 STIR A WET MEAL: same pot over a modest low cooking fire, pale beige loose porridge and one plain clean wooden stirring stick angled into it, held by no drawn person; little rising heat, not boiling dry or splashing. Panel 3 COOL BEFORE HANDLING: same pot on the same supports with fire spent to dull grey ash, no bare hands, quench water or cold splash. Three panels have plenty of spacing. No raw acorns, meat, grains, milk, ceramic glaze, spoon made of metal, lid, handles, tall neck, hot stones inside pot, large flames or indoor setting. No numeric cooking schedule, validated safe-clay claim or recipe proportions. Labelled broad process concepts, not a measured experimental result.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "manual plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "pot form only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "fdd3e22572aa4284bcda32dc152726682aff544552151dc97ba358fd29033997",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d2409829-6011-4181-ab05-23a4f6ce10ad.png",
+      "canonical_sha256": "fdd3e22572aa4284bcda32dc152726682aff544552151dc97ba358fd29033997",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Three clearly separated successive views of the same bowl: water warming, loose wet meal with wooden stirrer, and spent fire cooling without handling. Three-point support repeated; one rear stone can be occluded. No hot stones, glaze, lid, quench or modern cookware. Meal is schematic, not a grain/species or recipe claim."
+    },
+    {
+      "id": "day-80",
+      "target": "_Artwork/survival/day-80.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 22 - A Cover for the Cutting Edge.md"
+        }
+      ],
+      "scene": "Shaping the single small deer margin around a wooden former at the separate dirty-work support.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nChosen moment: at the separate animal-material work spot, he gently shapes ONE small narrow tan-brown deer-skin margin around ONE smooth little wooden sliver, with a loose bark-cord tie nearby. The ENTIRE small piece is destined for a flint-edge cover; it is not a whole hide, leg wrap, cloak or new clothing. No blood or raw tissue. Show the little work held between two natural hands while seated on a low natural rock, complete body including both correctly enclosed feet. A small simple removable stick support can be at one side, with the item about to rest under protection to dry. Neutral dry woodland/rock backdrop, NO shelter, food rack, hearth, extra skin or blade inserted yet. No elaborate workbench, giant wood former or sewing machine-like action. The small unfinished guard is not yet used for carrying. Natural anatomy and uncluttered readable action.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated unchanged full wardrobe only"
+      ],
+      "attempts": [
+        {
+          "id": "day-80",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-b5e5a5bf-14c2-4431-9c73-f06bb6941122.png",
+          "review": "Traveller shapes a single small narrow skin cover at a low natural rock, no sharp blade inserted. Two natural arms and legs; cap, tan wrap and low pale enclosed covers over woven sole margins remain. No new cloak, old lean-to, hearth, full hide or food work.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nChosen moment: at the separate animal-material work spot, he gently shapes ONE small narrow tan-brown deer-skin margin around ONE smooth little wooden sliver, with a loose bark-cord tie nearby. The ENTIRE small piece is destined for a flint-edge cover; it is not a whole hide, leg wrap, cloak or new clothing. No blood or raw tissue. Show the little work held between two natural hands while seated on a low natural rock, complete body including both correctly enclosed feet. A small simple removable stick support can be at one side, with the item about to rest under protection to dry. Neutral dry woodland/rock backdrop, NO shelter, food rack, hearth, extra skin or blade inserted yet. No elaborate workbench, giant wood former or sewing machine-like action. The small unfinished guard is not yet used for carrying. Natural anatomy and uncluttered readable action.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "558fb3099ef092ffa6ca8541542c24fd76c790be7e130732513e50159a823bde",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-b5e5a5bf-14c2-4431-9c73-f06bb6941122.png",
+      "canonical_sha256": "558fb3099ef092ffa6ca8541542c24fd76c790be7e130732513e50159a823bde",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Traveller shapes a single small narrow skin cover at a low natural rock, no sharp blade inserted. Two natural arms and legs; cap, tan wrap and low pale enclosed covers over woven sole margins remain. No new cloak, old lean-to, hearth, full hide or food work."
+    },
+    {
+      "id": "day-81",
+      "target": "_Artwork/survival/day-81.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 23 - Getting the Pot Ready.md"
+        }
+      ],
+      "scene": "Inspecting the broken witness beside the whole still-unfired pot before the firing.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 is ONLY the pot SHAPE. Today it is still GREY-BROWN UNFIRED GREENWARE, never glossy, orange-glazed or cooking. At a protected simple short craft-side board on low natural stone, man seated inspecting ONE small raw witness HALF in his hand, the matching other half on the board beside ONE WHOLE INTACT small pot. The witness halves are clearly separate little test pieces, never a broken wall, missing wedge or crack in the actual pot. Two natural hands and two legs, both covered shoes visible. The pot stays empty and intact on its board, no water, fire, smoke, hot support stones or finished pottery result. Crop the natural rock backdrop without a constructed roof, lean-to, cave interior or new map arrangement. No extra vessel or new raw clay mound. Draw simple calm inspection, not a pottery-production collage.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated unchanged full wardrobe only",
+        "pot geometry only; ignore fired state"
+      ],
+      "attempts": [
+        {
+          "id": "day-81",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c79ff43e-dc42-4197-bd59-66915d10cd96.png",
+          "reason": "Witness halves look like curved vessel shards with a lip, conflicting with the separately made little clay witness and risking an impression of a chipped pot. Replace with an explicitly flat small witness tablet.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 is ONLY the pot SHAPE. Today it is still GREY-BROWN UNFIRED GREENWARE, never glossy, orange-glazed or cooking. At a protected simple short craft-side board on low natural stone, man seated inspecting ONE small raw witness HALF in his hand, the matching other half on the board beside ONE WHOLE INTACT small pot. The witness halves are clearly separate little test pieces, never a broken wall, missing wedge or crack in the actual pot. Two natural hands and two legs, both covered shoes visible. The pot stays empty and intact on its board, no water, fire, smoke, hot support stones or finished pottery result. Crop the natural rock backdrop without a constructed roof, lean-to, cave interior or new map arrangement. No extra vessel or new raw clay mound. Draw simple calm inspection, not a pottery-production collage.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "pot geometry only; ignore fired state",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "98dad9e8cf76c8cb7c57ef1047b2d3e0aa775b312aef74d473107566cd9be521",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "day-81",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 0,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3b0d5927-3865-4bc6-a3d3-921e9f138afb.png",
+          "review": "Whole intact grey-brown greenware pot and two small flat matte witness halves, one held and one on board. No curved rim shards, fire, water or missing pot section. Current cap/wrap and both low enclosed covers with bast soles; original Day 72 reference used only for raw pot/witness form.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 supplies ONLY the raw grey-brown POT shape and the little separate clay witness on the original craft stone; ignore that image's older clothing. Today nothing has been fired. A calm daylight scene: man seated on a low natural rock beside a short plank on another low stone. ONE WHOLE INTACT grey-brown UNFIRED bowl rests on the plank, no missing wall, crack, chips, glaze, handles or fired orange/smoke colouring. He holds ONE HALF of a SMALL FLAT THICK CLAY TEST TABLET between relaxed hands, looking at its fresh snapped edge. The OTHER HALF rests on the plank. Each half is palm-small or less, roughly flat with a straight-ish back and jagged snapped edge, matte pale grey throughout. They are NOT curved bowl shards, not semicircular cups, no lip, no raised rim, no concave vessel wall. Only TWO halves total, from one separately shaped witness tablet; do NOT add clay lumps or more shards. Main bowl entirely intact and separate. Both current low enclosed shoes visible where legs are not naturally occluded. No water, fire, hot stones, food, kiln or old lean-to. Natural neutral rock background under shelter is cropped, not a new map. Focus on the distinction between the WHOLE POT and the SMALL FLAT WITNESS.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "current dated wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-72.png",
+              "role": "only raw pot shape and separate witness, ignore earlier clothing",
+              "sha256": "c213e46fcc03c38813dbe3d05f11f4039b1e3681fe9116aad3b6ab7658fc6d8b"
+            }
+          ],
+          "source_sha256": "c0f1d0a3885a55840ddf810b6d8f7432812fdd6c86a7f2159cf6281b422ae196",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3b0d5927-3865-4bc6-a3d3-921e9f138afb.png",
+      "canonical_sha256": "c0f1d0a3885a55840ddf810b6d8f7432812fdd6c86a7f2159cf6281b422ae196",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Whole intact grey-brown greenware pot and two small flat matte witness halves, one held and one on board. No curved rim shards, fire, water or missing pot section. Current cap/wrap and both low enclosed covers with bast soles; original Day 72 reference used only for raw pot/witness form."
+    },
+    {
+      "id": "day-82",
+      "target": "_Artwork/survival/day-82.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 24 - The Pot Goes into the Fire.md"
+        }
+      ],
+      "scene": "Watching the one small pot and witness in a gradual open firing on cleared outside ground.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 fixes the small pot FORM only. Actual moment during an OPEN FIRING OUTSIDE on a dry cleared bare mineral patch: ONE small intact open pot sits upright among modest loosely arranged small dry fuel, with low natural flames and embers around it, one small witness piece partly visible beside it. Main form can be partly hidden by fuel, but no giant pot, handles or lid. NO three cooking-support stones yet; NO stone circle, kiln, cave roof or timber enclosure. Ground around fire is visibly cleared well beyond flames. Man stands safely BACK from the edge with both hands relaxed or at his sides, watching rather than reaching into fire; complete body and both properly covered feet on dry ground. Fire and bowl to one side, man separated by a clear broad strip of bare ground. No bare-handed hot-pot handling, quenching, pouring water, cooking food or raw green pot held in hands. No roof overhead; neutral open autumn woodland in distance, no lean-to. Clothing/cap remain unchanged at a sensible distance from sparks.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated unchanged full wardrobe only",
+        "pot shape only, state during open firing"
+      ],
+      "attempts": [
+        {
+          "id": "day-82",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-4dee1a04-5209-40f1-b80c-0de882837d9f.png",
+          "review": "One small open pot and separate witness in an open fuel firing on broadly cleared mineral ground. Traveller stands back without hot handling, both enclosed feet and current cap/wrap. No roof, kiln, water, meal or three-stone cooking support.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 fixes the small pot FORM only. Actual moment during an OPEN FIRING OUTSIDE on a dry cleared bare mineral patch: ONE small intact open pot sits upright among modest loosely arranged small dry fuel, with low natural flames and embers around it, one small witness piece partly visible beside it. Main form can be partly hidden by fuel, but no giant pot, handles or lid. NO three cooking-support stones yet; NO stone circle, kiln, cave roof or timber enclosure. Ground around fire is visibly cleared well beyond flames. Man stands safely BACK from the edge with both hands relaxed or at his sides, watching rather than reaching into fire; complete body and both properly covered feet on dry ground. Fire and bowl to one side, man separated by a clear broad strip of bare ground. No bare-handed hot-pot handling, quenching, pouring water, cooking food or raw green pot held in hands. No roof overhead; neutral open autumn woodland in distance, no lean-to. Clothing/cap remain unchanged at a sensible distance from sparks.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "pot shape only, state during open firing",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "978c481127d0cfd019fb9dd1ba7b6f6545df403c4bec48f6387ee8e06a639d1d",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-4dee1a04-5209-40f1-b80c-0de882837d9f.png",
+      "canonical_sha256": "978c481127d0cfd019fb9dd1ba7b6f6545df403c4bec48f6387ee8e06a639d1d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One small open pot and separate witness in an open fuel firing on broadly cleared mineral ground. Traveller stands back without hot handling, both enclosed feet and current cap/wrap. No roof, kiln, water, meal or three-stone cooking support."
+    },
+    {
+      "id": "day-83",
+      "target": "_Artwork/survival/day-83.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 25 - A Pot That Holds Water.md"
+        }
+      ],
+      "scene": "Watching the cold pot's water-containment trial on a clean bark support.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 supplies exact small sound rounded pot shape and matte unglazed mottled earthenware finish after firing. Chosen moment AFTER complete cooling: ONE intact bowl partly filled with clear WATER rests on a clean dry folded flat piece of bark on a level natural stone; no steady leak, dramatic puddle, missing wall, crack, lid, handles or foot ring. Traveller sits simply on a low rock nearby, hands resting naturally, looking down at the vessel's base. Both enclosed low foot covers over bast soles visible. No pouring vessel is necessary, no fire, smoke, steam or food. Only one actual pot. Calm daylight under a cropped natural protective rock edge may be suggested, no built roof or relocated camp. No raw clay in food equipment or renewed firing. Observe the cold test; do not depict cooking success before Day 84.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated unchanged full wardrobe only",
+        "actual small fired pot geometry and surface only"
+      ],
+      "attempts": [
+        {
+          "id": "day-83",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-de42c2bb-1211-43f8-b70b-4f1910c3b71e.png",
+          "review": "One cold intact fired bowl holds clear water on clean flat bark. No steam, fire, food, leak stream or extra container. Traveller watches with relaxed hands, correct cap/wrap and both covered feet; natural rock is protective setting, not combustion cover.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 supplies exact small sound rounded pot shape and matte unglazed mottled earthenware finish after firing. Chosen moment AFTER complete cooling: ONE intact bowl partly filled with clear WATER rests on a clean dry folded flat piece of bark on a level natural stone; no steady leak, dramatic puddle, missing wall, crack, lid, handles or foot ring. Traveller sits simply on a low rock nearby, hands resting naturally, looking down at the vessel's base. Both enclosed low foot covers over bast soles visible. No pouring vessel is necessary, no fire, smoke, steam or food. Only one actual pot. Calm daylight under a cropped natural protective rock edge may be suggested, no built roof or relocated camp. No raw clay in food equipment or renewed firing. Observe the cold test; do not depict cooking success before Day 84.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "actual small fired pot geometry and surface only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "5fa35c3ec1aef5f49b947746e614aa5fab835f4e8e7e43545865504e9e5716b8",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-de42c2bb-1211-43f8-b70b-4f1910c3b71e.png",
+      "canonical_sha256": "5fa35c3ec1aef5f49b947746e614aa5fab835f4e8e7e43545865504e9e5716b8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One cold intact fired bowl holds clear water on clean flat bark. No steam, fire, food, leak stream or extra container. Traveller watches with relaxed hands, correct cap/wrap and both covered feet; natural rock is protective setting, not combustion cover."
+    },
+    {
+      "id": "day-84",
+      "target": "_Artwork/survival/day-84.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 3 Day 26 - The First Meal in the Pot.md"
+        }
+      ],
+      "scene": "Stirring the first freshly leached acorn meal in the one pot on its low outdoor cooking support.",
+      "prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 supplies actual SMALL rounded open unglazed grey-tan pot. Actual moment of the SECOND use cycle today: pot contains modest loose beige ACORN PORRIDGE on EXACTLY THREE low stable dry stone supports above a SMALL LOW fire on cleared bare mineral ground OUTSIDE. Stable rounded base with broad contacts and open air/fuel gap; no grate, tripod, lid, handles, chimney or indoor fireplace. Traveller sits on a low natural rock at a comfortable arm's distance, tending the meal with ONE long plain clean wooden stirring stick; one natural hand on cool far end, other hand relaxed on knee. Do not reach his bare hand into flames or lift hot pot. Simple readable two arms and legs; both correctly enclosed low shoes clearly visible on dry ground outside fire. Cap and tan wrap persist, NO new skin clothing or fox shoulder patch. Pot not huge or full to rim, faint heat/steam only, no thick cloud, food splashes, meat, raw acorns, hot stones inside, grains or modern spoon. Whole scene in open air, background neutral autumn woods/rock, no old lean-to and no roof over combustion.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/style only",
+        "dated unchanged full wardrobe only",
+        "actual small fired pot form and matte finish only"
+      ],
+      "attempts": [
+        {
+          "id": "day-84",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-baa4fcf5-aafe-4db5-b03d-54706b8e2c1b.png",
+          "review": "One small open pot with a wet beige meal is stirred with a plain wooden stick over low outdoor fire. Two front support stones visible, rear contact occluded. Two natural arms and legs, both fully covered low feet over bast soles, unchanged cap/wrap; no indoor roof, metal, lid, handles, hot stones or new skin clothing.",
+          "full_prompt": "Use case: illustration-story. Landscape Humanity Handbook daily illustration in fine brown ink and luminous natural watercolour on ivory paper, consistent with Image 1. Late autumn, wooded limestone northern Iberian valley. Image 1 supplies ONLY original modern traveller IDENTITY AND STYLE; do NOT copy its old lean-to, near-naked outfit or tool stock. Image 2 supplies ONLY current DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, natural two arms and legs and capable hands, no invented scars or tattoos.\nCOMPLETE OUTFIT: plain grey-brown rabbit crown with tan hair-in fox side/ear/nape extension, no animal ears, face, muzzle or hood; one worn dull TAN hair-in body wrap over BOTH shoulders, sleeveless, overlapping front and irregular above-knee hem, small old LEFT shoulder repair, chest tie below throat and narrow waist/hip keeper. Fox panel is entirely in cap, NO fox shoulder strip. Old grass torso screens stored and absent; waist underlayers concealed. BOTH feet completely enclosed in LOW PALE-TAN rabbit-skin covers with grass/hair inward and original woven BAST SOLES below/outside, visible woven margins and low bindings. Toes and heels CLOSED, tops just above ankles; bare lower legs, no leggings, tall boots, new cloak or sleeves. This exact outfit persists in all five scenes.\nOne actual chosen moment, no collage or diagram. No text, labels, border or watermark. No new skin supply, metal, bow, modern furniture, chimney, kiln or extra pot. Use neutral cropped natural setting, not a new camp survey. Never restore the abandoned lean-to or depict combustion under an overhang. \nImage 3 supplies actual SMALL rounded open unglazed grey-tan pot. Actual moment of the SECOND use cycle today: pot contains modest loose beige ACORN PORRIDGE on EXACTLY THREE low stable dry stone supports above a SMALL LOW fire on cleared bare mineral ground OUTSIDE. Stable rounded base with broad contacts and open air/fuel gap; no grate, tripod, lid, handles, chimney or indoor fireplace. Traveller sits on a low natural rock at a comfortable arm's distance, tending the meal with ONE long plain clean wooden stirring stick; one natural hand on cool far end, other hand relaxed on knee. Do not reach his bare hand into flames or lift hot pot. Simple readable two arms and legs; both correctly enclosed low shoes clearly visible on dry ground outside fire. Cap and tan wrap persist, NO new skin clothing or fox shoulder patch. Pot not huge or full to rim, faint heat/steam only, no thick cloud, food splashes, meat, raw acorns, hot stones inside, grains or modern spoon. Whole scene in open air, background neutral autumn woods/rock, no old lean-to and no roof over combustion.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged full wardrobe only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/materials/fired-earthenware-day-83.png",
+              "role": "actual small fired pot form and matte finish only",
+              "sha256": "9c746775f750f4e27ba83617e2ce2dba0fccea693e34f69b851410175e1c17bf"
+            }
+          ],
+          "source_sha256": "a19aee7516a83f3c373633261168d52b216dc1fadccd44b7ded89174d4f656b5",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-baa4fcf5-aafe-4db5-b03d-54706b8e2c1b.png",
+      "canonical_sha256": "a19aee7516a83f3c373633261168d52b216dc1fadccd44b7ded89174d4f656b5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One small open pot with a wet beige meal is stirred with a plain wooden stick over low outdoor fire. Two front support stones visible, rear contact occluded. Two natural arms and legs, both fully covered low feet over bast soles, unchanged cap/wrap; no indoor roof, metal, lid, handles, hot stones or new skin clothing."
+    }
+  ],
+  "selected_count": 11,
+  "rejected_image_count": 1,
+  "tool_rejection_count": 0,
+  "completed_on": "2026-10-19",
+  "page_image_links": 13,
+  "png_postprocessing": "none; selected generated PNGs copied unchanged and originals retained",
+  "website_updated": false
+}

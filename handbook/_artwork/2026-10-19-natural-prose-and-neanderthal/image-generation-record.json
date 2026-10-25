@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "selected_target": "_Artwork/survival/day-78-v2.png",
+  "anatomy_reference": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
+  "reference_checked_on": "2026-10-19",
+  "footwear_evidence_note": "The local adult's dark gathered hide footwraps are a fictional costume choice; no surviving specific Neanderthal footwear pattern is claimed.",
+  "attempts": [
+    {
+      "id": "day-78-neanderthal-correction",
+      "status": "rejected",
+      "prompt": "Use case: identity-preserve. Edit the supplied landscape ink-and-watercolour handbook illustration (Image 1). Keep its two people carrying modest closed bark parcels along a dry autumn woodland path. Preserve the background, warm daylight, fine ink/watercolour style, viewpoint, left traveller's pose, face, tan wrap, plain fur cap and BOTH pale low rabbit-skin covers on woven bast soles. Image 2 is ONLY his original identity/style; Image 3 ONLY his dated wardrobe. Neither supplies clothes to the other man.\n\nCorrect ONLY the LOCAL ADULT ON THE RIGHT, who is a Neanderthal, not a modern sapiens man in fur. Render a convincing anatomically informed HUMAN Neanderthal: a long LOW cranial vault; visibly LOW RECEDING forehead; pronounced broad continuous supraorbital brow ridge, with eyes sheltered below it; broad projecting central midface and large wide substantial nose; face projects forward relative to cheeks; receding/weak chin WITHOUT modern square jutting chin. Make that three-quarter/profile cranial and facial silhouette clearly readable, with hair moved clear of the brow and upper forehead rather than disguising it. Dark tousled hair and short beard, ordinary alert composed expression. Compact broad deep torso, strong neck, robust limbs, relatively short forearms and lower legs. He walks fully upright in a natural human gait, steady and competent, NOT stooped, apelike, monstrous, aggressive or a caricature. His face must look recognisably different in cranial structure from the lean modern traveller at left, not just more hairy or muscular. No chimp muzzle, pointed ears, oversized teeth or exaggerated wrinkles.\n\nKeep his own dark brown coarse worked-skin wrap and carrying pose. Replace BOTH of his copied pale protagonist shoes: the RIGHT adult wears simple DARK BROWN hide footwraps, soft uneven folded hide gathered round feet and ankle, secured with broad plain hide strips. Minimal seams, no fancy tailoring. NO woven plant/bast soles, no pale stitched toe caps, no separate rope-rim outsole, no modern shoe/boot shape. This local hunter's foot covering should be visibly distinct from the protagonist's lighter constructed footwear. Keep left traveller's footwear EXACTLY as before. No transfer of his cap or tan wrap to the right adult. These hide footwraps are a plausible fictional costume choice, not a claim of a specific surviving prehistoric design.\n\nExactly two men, natural two arms and two legs each, anatomically sound hands supporting the same manageable bark parcels. Maintain closed wrapped loads; no meat, carcass, hunt, weapons, gore, new possessions, text, labels or diagram. Keep a wide landscape illustration of the same actual carrying moment. Focus the edit on the right man's skull/face, compact body proportions and clearly different footwraps; leave all other established details alone.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-78.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "existing illustration to edit; preserve composition and left traveller; correct right adult only",
+        "original traveller identity and watercolour/ink style only",
+        "traveller's clothing only, NEVER the local adult's clothing"
+      ],
+      "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-8b8f535d-7a10-48fc-a312-c084347a5e77.png",
+      "reason": "Local footwear changes, but cranial and facial structure remain too close to the original modern-human-looking face; reject as an inadequate anatomical correction.",
+      "inputs": [
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-78.png",
+          "role": "existing illustration to edit; preserve composition and left traveller; correct right adult only",
+          "sha256": "bae77cd038c26358a604e6926212cde037a9a1b0750cbca6500de42a8c4bdd1f"
+        },
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+          "role": "original traveller identity and watercolour/ink style only",
+          "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+        },
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+          "role": "traveller's clothing only, NEVER the local adult's clothing",
+          "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+        }
+      ],
+      "source_sha256": "224ce9234bc3d955dcdf25cfdbb92241ef2628cdd3778efe2fd4a8adc5d9819d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "postprocessing": "none"
+    },
+    {
+      "id": "day-78-neanderthal-correction",
+      "status": "tool-error",
+      "reason": "Fresh replacement request failed with network error; no image returned.",
+      "target": "_Artwork/survival/day-78-v2.png",
+      "page": "01_Survival/Moon 3 Day 20 - The Work After the Hunt.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original traveller identity and watercolour/ink style only",
+        "traveller's clothing only, NEVER the local adult's clothing"
+      ],
+      "prompt": "Use case: illustration-story. Create a fresh replacement landscape illustration for the Moon 3 Day 20 carrying scene. Fine brown ink and natural watercolour on ivory paper matching Image 1. Two adult men carrying modest CLOSED folded bark parcels in their arms as they walk on a dry autumn woodland path in a limestone northern Iberian valley. Full figures, heads and feet clear, medium distance so faces read. No kill, weapons, gore, visible meat, words or labels.\n\nImage 1 supplies ONLY the lean MODERN HUMAN TRAVELLER'S identity and art style. Image 2 supplies ONLY HIS CLOTHES. Traveller at LEFT: ear-length dark wavy hair, short beard, slim modern human proportions and ordinary modern human cranial profile. Plain rabbit crown with tan ear/nape extension; worn tan hair-in sleeveless wrap over both shoulders ending above knees, chest tie, waist keeper. BOTH feet in LOW PALE-TAN enclosed rabbit-skin covers over the old WOVEN BAST SOLES with rope-like woven edge. Bare lower legs. Do not copy his outfit to the other man.\n\nRIGHT figure is an anatomically convincing HOMO NEANDERTHALENSIS, an experienced human hunter, NOT a modern man with a beard. Show him nearly in PROFILE with hair swept away from forehead and only very short facial stubble so SKULL AND FACE STRUCTURE ARE UNOBSCURED. Distinct long LOW skull with back of head extending rearwards, sloping LOW RECEDING forehead above a very substantial broad brow ridge. Deep-set eyes, wide projecting midface, large broad projecting nose, jaw WITHOUT projecting modern chin. His silhouette should resemble a natural-history museum Neanderthal reconstruction. Compact SHORTER body with broad deep ribcage, strong thick neck, powerful hips and upper limbs, relatively SHORT shins and forearms, stocky rather than tall athletic. Maintain fully upright ordinary human posture and composed attentive expression, NOT a stooped ape, gorilla, monster or threatening caricature. Do not make him a modern square-chinned film actor in furs. Very important: this figure must have recognisably different cranial structure from the modern traveller.\n\nHis own clothing is a plain weathered DARK BROWN coarse worked-skin wrap. His footwear is dark unstitched FOLDED HIDE FOOTWRAPS gathered round each foot and ankle with broad hide bands. Smooth folded hide underneath, NO rope-rim, NO woven outsole, NO pale sewn toe cap, NO separate modern shoe sole or contemporary boots. His simple folded coverings should contrast clearly with the traveller's pale constructed skin-and-bast footwear.\n\nBoth men have exactly two arms and legs and normal capable human hands supporting manageable bark parcels. They share the return carrying work, no symbolism of alliance or gift. Warm restrained late-autumn light. Keep the traveller's established wardrobe complete, keep the Neanderthal's differing face, body and footwraps distinct. No shelter, large skin gift, supplies pile or map.",
+      "source_path": null,
+      "inputs": [
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+          "role": "original traveller identity and watercolour/ink style only",
+          "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+        },
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+          "role": "traveller's clothing only, NEVER the local adult's clothing",
+          "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+        }
+      ],
+      "postprocessing": "none"
+    },
+    {
+      "id": "day-78-neanderthal-correction",
+      "status": "selected",
+      "prompt": "Use case: illustration-story. Create a fresh replacement landscape illustration for the Moon 3 Day 20 carrying scene. Fine brown ink and natural watercolour on ivory paper matching Image 1. Two adult men carrying modest CLOSED folded bark parcels in their arms as they walk on a dry autumn woodland path in a limestone northern Iberian valley. Full figures, heads and feet clear, medium distance so faces read. No kill, weapons, gore, visible meat, words or labels.\n\nImage 1 supplies ONLY the lean MODERN HUMAN TRAVELLER'S identity and art style. Image 2 supplies ONLY HIS CLOTHES. Traveller at LEFT: ear-length dark wavy hair, short beard, slim modern human proportions and ordinary modern human cranial profile. Plain rabbit crown with tan ear/nape extension; worn tan hair-in sleeveless wrap over both shoulders ending above knees, chest tie, waist keeper. BOTH feet in LOW PALE-TAN enclosed rabbit-skin covers over the old WOVEN BAST SOLES with rope-like woven edge. Bare lower legs. Do not copy his outfit to the other man.\n\nRIGHT figure is an anatomically convincing HOMO NEANDERTHALENSIS, an experienced human hunter, NOT a modern man with a beard. Show him nearly in PROFILE with hair swept away from forehead and only very short facial stubble so SKULL AND FACE STRUCTURE ARE UNOBSCURED. Distinct long LOW skull with back of head extending rearwards, sloping LOW RECEDING forehead above a very substantial broad brow ridge. Deep-set eyes, wide projecting midface, large broad projecting nose, jaw WITHOUT projecting modern chin. His silhouette should resemble a natural-history museum Neanderthal reconstruction. Compact SHORTER body with broad deep ribcage, strong thick neck, powerful hips and upper limbs, relatively SHORT shins and forearms, stocky rather than tall athletic. Maintain fully upright ordinary human posture and composed attentive expression, NOT a stooped ape, gorilla, monster or threatening caricature. Do not make him a modern square-chinned film actor in furs. Very important: this figure must have recognisably different cranial structure from the modern traveller.\n\nHis own clothing is a plain weathered DARK BROWN coarse worked-skin wrap. His footwear is dark unstitched FOLDED HIDE FOOTWRAPS gathered round each foot and ankle with broad hide bands. Smooth folded hide underneath, NO rope-rim, NO woven outsole, NO pale sewn toe cap, NO separate modern shoe sole or contemporary boots. His simple folded coverings should contrast clearly with the traveller's pale constructed skin-and-bast footwear.\n\nBoth men have exactly two arms and legs and normal capable human hands supporting manageable bark parcels. They share the return carrying work, no symbolism of alliance or gift. Warm restrained late-autumn light. Keep the traveller's established wardrobe complete, keep the Neanderthal's differing face, body and footwraps distinct. No shelter, large skin gift, supplies pile or map.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original traveller identity and watercolour/ink style only",
+        "traveller's clothing only, NEVER the local adult's clothing"
+      ],
+      "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-a39e65f7-6f2c-4ac4-9abe-e4430460fe19.png",
+      "review": "The local adult has a low receding forehead, pronounced brow, forward midface and large broad nose, reduced chin prominence and compact robust proportions. He is upright with natural hands and an attentive expression. His dark folded hide footwraps have plain bands and no woven outsole, clearly distinct from the traveller's pale constructed covers and bast soles. Traveller's established identity, cap, wrap and enclosed footwear remain consistent; manageable bark parcels and return scene retained.",
+      "inputs": [
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+          "role": "original traveller identity and watercolour/ink style only",
+          "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+        },
+        {
+          "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+          "role": "traveller's clothing only, NEVER the local adult's clothing",
+          "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+        }
+      ],
+      "source_sha256": "6a6a91a739fd8cbb797a8e051f790161a32ca77a36332acf582be9060e1dceb3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "postprocessing": "none"
+    }
+  ],
+  "installed": true,
+  "selected_sha256": "6a6a91a739fd8cbb797a8e051f790161a32ca77a36332acf582be9060e1dceb3",
+  "selected_count": 1,
+  "rejected_image_count": 1,
+  "network_failures": 1,
+  "source_png_copied_unchanged": true,
+  "original_illustration_retained": "_Artwork/survival/day-78.png",
+  "original_illustration_sha256": "bae77cd038c26358a604e6926212cde037a9a1b0750cbca6500de42a8c4bdd1f",
+  "website_updated": false
+}

@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-14",
+  "method": "built-in image_gen",
+  "intent": "independent new narrative scenes, dated clothing reference and handbook/place plates",
+  "jobs": [
+    {
+      "id": "character-sheet",
+      "target": "_Artwork/character-sheets/moon-3-day-5/character-sheet.png",
+      "page": "09_Reference/Character Sheet - Moon 3 Day 5.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "scene": "Front, left-side and back views of the same protagonist with his newly fitted overlapping skin wrap, plain crown pad and original bast soles.",
+      "prompt": "Use case: illustration-story. Asset type: dated clothing reference sheet for Humanity Handbook, Moon 3 Day 5, continuous Day 63.\nCreate ONE coherent landscape character reference sheet on warm ivory paper, fine brown ink and watercolour. Match the original man's lean adult identity, dark wavy ear-length hair, short beard, nose/brow and natural smooth skin from Image 1. Image 1 is IDENTITY/STYLE only, not clothing state. Image 2 supplies ONLY the existing cap, footbeds and underlying waist garments; replace its grass torso outfit by the newly made skin wrap described below. Retain realistic ordinary anatomy, not a fantasy hero.\n\nLayout: three full-length views, FRONT, LEFT SIDE and BACK, plus one small closure detail. All views show the same one-piece garment and existing footwear. Readable restrained title exactly \"HUMANITY HANDBOOK\", smaller subtitle exactly \"Character reference — Moon 3 Day 5\". Labels \"FRONT\", \"LEFT SIDE\", \"BACK\", \"CHEST TIE\". No other text necessary.\n\nNEW main garment: ONE previously worked, worn deer-sized skin fitted as an overlapping shoulder/body WRAP. The brown short animal hair is INWARD against the body. The outward surface is dull warm TAN skin, softly irregular and worn, not a thick furry orange cape. It covers BOTH shoulders, back, chest and abdomen, with two front margins OVERLAPPING; an irregular hem ends just ABOVE THE KNEES. Upper edge turned slightly shows a narrow line of brown inner hair. No sleeves: arms emerge naturally at the side openings; no modern armholes or tailored jacket. A small repaired folded area is on anatomical LEFT shoulder (front viewer RIGHT). One short cord closes the overlap BELOW THE THROAT across upper chest, readily released, no tight neck loop or decorative buckle. The existing narrow waist fastening lightly gathers the wrap over the hips, without a wide manufactured belt.\nBeneath the closed wrap are old bark waist layers and small pale rabbit pelvic pad, mostly CONCEALED. The separate narrow rust fox strip is RETAINED under the anatomical LEFT shoulder, normally concealed; do not make a broad fox-fur collar. BOTH old grass torso screens are STORED elsewhere and NOT WORN: no dangling grass fringe below this wrap and no extra mats on this sheet.\n\nStill visible: the same LOW plain grey-brown rabbit-fur crown pad with folded margin and loose forehead/back band; human face and ears and much nape exposed, no rabbit head, muzzle, eyes, upright ears or tail. Both feet wear the same thin flat woven willow-bast soles, corded margins and low ties with open toes and exposed ankles. Both lower legs are bare. No new hood, trousers, leggings, leather shoes or second animal skin.\nShow natural hands and exactly two legs per view. Skin is smoothly washed without etched scars, tattoos, patterns or excessive hatching. Keep the tan wrap readable in front/back/side rather than an inventory display. All reference images are limited-role inputs; do not reproduce Image 1's shelter or Image 2's old grass clothing.",
+      "attempts": [
+        {
+          "id": "character-sheet",
+          "key": "opening-character-sheet",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c2312a71-5d47-4720-aa25-5650ab9ce5b2.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Asset type: dated clothing reference sheet for Humanity Handbook, Moon 3 Day 5, continuous Day 63.\nCreate ONE coherent landscape character reference sheet on warm ivory paper, fine brown ink and watercolour. Match the original man's lean adult identity, dark wavy ear-length hair, short beard, nose/brow and natural smooth skin from Image 1. Image 1 is IDENTITY/STYLE only, not clothing state. Image 2 supplies ONLY the existing cap, footbeds and underlying waist garments; replace its grass torso outfit by the newly made skin wrap described below. Retain realistic ordinary anatomy, not a fantasy hero.\n\nLayout: three full-length views, FRONT, LEFT SIDE and BACK, plus one small closure detail. All views show the same one-piece garment and existing footwear. Readable restrained title exactly \"HUMANITY HANDBOOK\", smaller subtitle exactly \"Character reference — Moon 3 Day 5\". Labels \"FRONT\", \"LEFT SIDE\", \"BACK\", \"CHEST TIE\". No other text necessary.\n\nNEW main garment: ONE previously worked, worn deer-sized skin fitted as an overlapping shoulder/body WRAP. The brown short animal hair is INWARD against the body. The outward surface is dull warm TAN skin, softly irregular and worn, not a thick furry orange cape. It covers BOTH shoulders, back, chest and abdomen, with two front margins OVERLAPPING; an irregular hem ends just ABOVE THE KNEES. Upper edge turned slightly shows a narrow line of brown inner hair. No sleeves: arms emerge naturally at the side openings; no modern armholes or tailored jacket. A small repaired folded area is on anatomical LEFT shoulder (front viewer RIGHT). One short cord closes the overlap BELOW THE THROAT across upper chest, readily released, no tight neck loop or decorative buckle. The existing narrow waist fastening lightly gathers the wrap over the hips, without a wide manufactured belt.\nBeneath the closed wrap are old bark waist layers and small pale rabbit pelvic pad, mostly CONCEALED. The separate narrow rust fox strip is RETAINED under the anatomical LEFT shoulder, normally concealed; do not make a broad fox-fur collar. BOTH old grass torso screens are STORED elsewhere and NOT WORN: no dangling grass fringe below this wrap and no extra mats on this sheet.\n\nStill visible: the same LOW plain grey-brown rabbit-fur crown pad with folded margin and loose forehead/back band; human face and ears and much nape exposed, no rabbit head, muzzle, eyes, upright ears or tail. Both feet wear the same thin flat woven willow-bast soles, corded margins and low ties with open toes and exposed ankles. Both lower legs are bare. No new hood, trousers, leggings, leather shoes or second animal skin.\nShow natural hands and exactly two legs per view. Skin is smoothly washed without etched scars, tattoos, patterns or excessive hatching. Keep the tan wrap readable in front/back/side rather than an inventory display. All reference images are limited-role inputs; do not reproduce Image 1's shelter or Image 2's old grass clothing.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "existing cap/footwear/underlayers only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "source_sha256": "7f0a1ae4526ef764fd290a3641a4c8c461ee0e845fa8dc1992a6bc4e73011952",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c2312a71-5d47-4720-aa25-5650ab9ce5b2.png",
+      "canonical_sha256": "7f0a1ae4526ef764fd290a3641a4c8c461ee0e845fa8dc1992a6bc4e73011952",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Same identity and visible wardrobe across front/side/back: tan hair-inward overlapping wrap, crown and bast soles, no grass torso screens. The fox strip and waist layers are retained underneath. Fold/seam marks are illustrative; this is appearance continuity, not a cutting pattern. No new hood, boots or trousers."
+    },
+    {
+      "id": "day-60",
+      "target": "_Artwork/survival/day-60.png",
+      "page": "01_Survival/Moon 3 Day 2 - Let the Rock Carry the Roof.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "scene": "Inspecting the dry central strip of the newly discovered overhang, before construction or the move.",
+      "prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 2 / Day 60: the traveller stands naturally near the edge of the open recess, almost frontal, looking at the drip line and dry leaves on the floor. Full body and both bast soles readable; LEFT fox strip viewer RIGHT. His hands rest, no touching or levering overhead rock. A plain integral wooden spear rests on accessible ground nearby if needed; avoid additional equipment.\nThe place is UNBUILT and UNINHABITED at this moment: NO screen, bed, rack, hearth, pots, stacks of supplies, new skin garment or other person. Compose man centre-right, low projecting roof upper-left and valley breathing space to the right. Quiet inspection, daylight, no visible moon.",
+      "attempts": [
+        {
+          "id": "day-60",
+          "key": "opening-day-60",
+          "status": "rejected",
+          "reason": "Unmade stone-hafted spear in discovery scene.",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-dad60d10-b7ca-4cdb-a55b-0754b5a5da44.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 2 / Day 60: the traveller stands naturally near the edge of the open recess, almost frontal, looking at the drip line and dry leaves on the floor. Full body and both bast soles readable; LEFT fox strip viewer RIGHT. His hands rest, no touching or levering overhead rock. A plain integral wooden spear rests on accessible ground nearby if needed; avoid additional equipment.\nThe place is UNBUILT and UNINHABITED at this moment: NO screen, bed, rack, hearth, pots, stacks of supplies, new skin garment or other person. Compose man centre-right, low projecting roof upper-left and valley breathing space to the right. Quiet inspection, daylight, no visible moon.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated pre-wrap clothing only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "source_sha256": "7b53fef6f2a4f634b3aec428061cee0dc266c39c18891a5290adf3c3f30ebb9e",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        },
+        {
+          "id": "day-60",
+          "key": "opening-day-60-retry",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-5cc757dd-6646-417c-b2f2-98fc048be237.png",
+          "prompt_record": "retry-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 2 / Day 60: the traveller stands naturally near the edge of the open recess, almost frontal, looking at the drip line and dry leaves on the floor. Full body and both bast soles readable; LEFT fox strip viewer RIGHT. His hands rest, no touching or levering overhead rock. NO spear, shaft, weapon, stone point, tool or other equipment appears anywhere. Only the clothed traveller and the natural site are shown.\nThe place is UNBUILT and UNINHABITED at this moment: NO screen, bed, rack, hearth, pots, stacks of supplies, new skin garment or other person. Compose man centre-right, low projecting roof upper-left and valley breathing space to the right. Quiet inspection, daylight, no visible moon.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated pre-wrap clothing only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "source_sha256": "8b5fdd640bf38cde6d1a37dc3be8d6f6d7c5c6bd62f966a80cb125e00b4b7ec5",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-5cc757dd-6646-417c-b2f2-98fc048be237.png",
+      "canonical_sha256": "8b5fdd640bf38cde6d1a37dc3be8d6f6d7c5c6bd62f966a80cb125e00b4b7ec5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Plain crown, left fox strip, both grass screens and both bast soles. New site unbuilt, with no weapon or premature possessions; natural upright anatomy."
+    },
+    {
+      "id": "day-61",
+      "target": "_Artwork/survival/day-61.png",
+      "page": "01_Survival/Moon 3 Day 3 - Make a Dry Place to Sleep.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png"
+      ],
+      "scene": "Checking the first low brush/bark screen and dry bed after construction and transfer, with the hearth outside the crop.",
+      "prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 3 / Day 61: AFTER basic construction and transfer, daytime. The man stands upright beside the newly built LOW windward brush/bark screen at the northwest edge of the overhang mouth, checking its outer support with one natural hand. Near-frontal torso and slight turn to viewer left keep his LEFT fox strip viewer RIGHT. Both grass screens worn and BOTH bast soles visible.\nThe screen uses light natural forks and ONE short cross-rail, with brush and overlapping bark retained below; the frame supports the screen, NOT the rock. The screen closes only one side of the mouth, with a broad clear offset entrance remaining. A modest thick dry-grass/leaf bed on small clean boughs is visible BACK-LEFT under the dry ledge. Minimal transferred bundles can be tucked beside the bed but no equipment spread. NO mud, door, complete front wall, new fur cloak, food rack, kiln or indoor fire. The ordinary hearth is OUTSIDE beyond the drip line and outside this crop. Do not show flame under the rock or beside grass clothing. The scene shows a first occupied shelter stage, not a finished hut.",
+      "attempts": [
+        {
+          "id": "day-61",
+          "key": "opening-day-61",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7fd19cfb-22ae-4d10-88cb-7f28033f457a.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 3 / Day 61: AFTER basic construction and transfer, daytime. The man stands upright beside the newly built LOW windward brush/bark screen at the northwest edge of the overhang mouth, checking its outer support with one natural hand. Near-frontal torso and slight turn to viewer left keep his LEFT fox strip viewer RIGHT. Both grass screens worn and BOTH bast soles visible.\nThe screen uses light natural forks and ONE short cross-rail, with brush and overlapping bark retained below; the frame supports the screen, NOT the rock. The screen closes only one side of the mouth, with a broad clear offset entrance remaining. A modest thick dry-grass/leaf bed on small clean boughs is visible BACK-LEFT under the dry ledge. Minimal transferred bundles can be tucked beside the bed but no equipment spread. NO mud, door, complete front wall, new fur cloak, food rack, kiln or indoor fire. The ordinary hearth is OUTSIDE beyond the drip line and outside this crop. Do not show flame under the rock or beside grass clothing. The scene shows a first occupied shelter stage, not a finished hut.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated pre-wrap clothing only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            }
+          ],
+          "source_sha256": "3bc0ecfe1b17786686cd2a6c4d894a980dfb8672b960318f3be4bb1f3e1c2e28",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-7fd19cfb-22ae-4d10-88cb-7f28033f457a.png",
+      "canonical_sha256": "3bc0ecfe1b17786686cd2a6c4d894a980dfb8672b960318f3be4bb1f3e1c2e28",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Pre-wrap clothing retained. First screen and dry bed only, open entrance and no indoor hearth, mud wall, rack or new pot. Timber belongs to the screen/foundation, not roof support. Cropped scene rather than a survey."
+    },
+    {
+      "id": "day-62",
+      "target": "_Artwork/survival/day-62.png",
+      "page": "01_Survival/Moon 3 Day 4 - Work Worth a Warm Skin.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-37.png"
+      ],
+      "scene": "A familiar adult sets a folded worked skin within reach after the accepted wood work; the skin is not worn yet.",
+      "prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nImage 3 supplies ONLY the established local adult's robust anatomy/casting and woodland setting; do not copy its throwing action, scene arrangement or the traveller's old bare torso.\nScene Moon 3 Day 4 / Day 62: at the OUTER edge of the neighbouring clearing, during the observed material transfer AFTER useful wood work. Exactly TWO adult people, standing normally several paces apart. The lean traveller almost frontal at viewer-left, both feet in bast soles, LEFT fox strip on his own left (viewer RIGHT of his torso). He keeps hands low.\nAt viewer-right the familiar LOCAL NEANDERTHAL adult is shorter and compactly robust, broad torso/shorter distal limbs, low forehead, pronounced brow, projecting midface/large nose, normal upright anatomy and competent natural hands, not an ape or caricature. His existing coarse brown skin covering differs from the traveller's grass panels; no metal or tailored modern clothes.\nThe local adult is setting ONE folded worn DEER-SIZED worked skin on a clean flat stone between them, releasing it for the traveller. Its dull tan skin side and brown hair underside are readable at the folded edge. It is a folded material sheet, NOT a whole carcass or animal head. A modest selected branchwood pile and TWO useful split pieces nearby explain accepted work, not a feast or abundant supplies. No handshake, bowing, gifts of food/weapons, third person, new garment already worn or attack. Keep forest and valley subdued, clear hands and the single folded skin central. No sprawling settlement invented behind them.",
+      "attempts": [
+        {
+          "id": "day-62",
+          "key": "opening-day-62",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-01216e79-82ef-4c26-9916-31bbab7434e3.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nFull current clothing BEFORE Day 63: low plain grey-brown rabbit-fur crown pad with folded margins and loose forehead/back band, face/ears exposed, NO animal head/eyes/muzzle/ears/tail. ONE narrow rust fox strip on anatomical LEFT shoulder (front viewer RIGHT), TWO separate hanging grass screens front/back with light retaining rows, open flanks, bark waist layers and pale pelvic pad beneath, and BOTH thin flat woven bast soles with low ties, open toes and exposed ankles. The grass is soft hanging bundles, not mat armour. Show the back screen edge naturally where the angle permits. No new skin wrap is worn.\nImage 3 supplies ONLY the established local adult's robust anatomy/casting and woodland setting; do not copy its throwing action, scene arrangement or the traveller's old bare torso.\nScene Moon 3 Day 4 / Day 62: at the OUTER edge of the neighbouring clearing, during the observed material transfer AFTER useful wood work. Exactly TWO adult people, standing normally several paces apart. The lean traveller almost frontal at viewer-left, both feet in bast soles, LEFT fox strip on his own left (viewer RIGHT of his torso). He keeps hands low.\nAt viewer-right the familiar LOCAL NEANDERTHAL adult is shorter and compactly robust, broad torso/shorter distal limbs, low forehead, pronounced brow, projecting midface/large nose, normal upright anatomy and competent natural hands, not an ape or caricature. His existing coarse brown skin covering differs from the traveller's grass panels; no metal or tailored modern clothes.\nThe local adult is setting ONE folded worn DEER-SIZED worked skin on a clean flat stone between them, releasing it for the traveller. Its dull tan skin side and brown hair underside are readable at the folded edge. It is a folded material sheet, NOT a whole carcass or animal head. A modest selected branchwood pile and TWO useful split pieces nearby explain accepted work, not a feast or abundant supplies. No handshake, bowing, gifts of food/weapons, third person, new garment already worn or attack. Keep forest and valley subdued, clear hands and the single folded skin central. No sprawling settlement invented behind them.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-2-day-23/character-sheet.png",
+              "role": "dated pre-wrap clothing only",
+              "sha256": "e85b8a89280c3e6f61b657794b28d9c2d5c12fab780bedf71fa6977929179d78"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-37.png",
+              "role": "local adult casting/anatomy only",
+              "sha256": "f330c10bd01ae927ed6239fa069fe44481dd28acbdbd26fc536c7d68c061e375"
+            }
+          ],
+          "source_sha256": "ce79a544f166b921d0b6774c53d22e292f1073470d34c07c5606e79b33f77395",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-01216e79-82ef-4c26-9916-31bbab7434e3.png",
+      "canonical_sha256": "ce79a544f166b921d0b6774c53d22e292f1073470d34c07c5606e79b33f77395",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Two ordinary figures with distinct lean/robust casting, readable hands and two legs each. Traveller retains pre-wrap clothing; one folded worked skin is released after wood work, with no food or weapon exchange implied."
+    },
+    {
+      "id": "day-63",
+      "target": "_Artwork/survival/day-63.png",
+      "page": "01_Survival/Moon 3 Day 5 - A Wrap That Covers the Body.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-5/character-sheet.png"
+      ],
+      "scene": "The short dry fit walk in the new overlapping tan skin wrap, with the old grass screens stored rather than worn.",
+      "prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nCurrent clothing AFTER fitting Day 63: the tan overlapping skin WRAP in Image 2, over both shoulders and around chest/back/abdomen, irregular hem above knees, short brown HAIR INWARD and dull TAN SKIN outward. Shallow turned upper edge with a narrow brown fur edge, small left-shoulder repair, chest cord tie BELOW throat and light waist fastening, arms emerging naturally through open sides. NO sleeves, tailored jacket, trousers or new hood. Both grass screens are now stored dry out of frame and are NOT WORN; no grass fringe. Bark waist layers and pelvic pad are beneath the wrap. The old narrow fox strip remains CONCEALED UNDER the anatomical left shoulder, not a broad visible collar. The same plain grey-brown fur crown pad stays on head and BOTH low flat woven bast soles stay on feet, with open toes, exposed ankles and bare lower legs. No animal head, ears or muzzle on cap.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 5 / Day 63 AFTER fitting: the traveller makes a short, ordinary dry walking/turning check near the overhang. Near-frontal full-body pose, one small relaxed step, head glancing at how the overlap sits. One forearm emerges from an OPEN SIDE, not a tailored sleeve; other hand rests naturally. The wrap stays closed through shoulders/core/thighs, both bast soles readable. Do not put the old grass mats beneath or outside the visible cloak.\nShow the existing first low brush/bark screen at the side of the mouth, an open entrance and subdued dry bed behind it. No finished mud wall, food rack, pot, hood, new footwear or other person. Sparse late-autumn vegetation, cool daylight, restrained warm tan clothing is the central improvement. Avoid heroic fashion posing, large fur cape, animal-head hood or leather armour.",
+      "attempts": [
+        {
+          "id": "day-63",
+          "key": "opening-day-63",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3fe84b76-9d08-4f90-acb3-2a3d2ac61641.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nCurrent clothing AFTER fitting Day 63: the tan overlapping skin WRAP in Image 2, over both shoulders and around chest/back/abdomen, irregular hem above knees, short brown HAIR INWARD and dull TAN SKIN outward. Shallow turned upper edge with a narrow brown fur edge, small left-shoulder repair, chest cord tie BELOW throat and light waist fastening, arms emerging naturally through open sides. NO sleeves, tailored jacket, trousers or new hood. Both grass screens are now stored dry out of frame and are NOT WORN; no grass fringe. Bark waist layers and pelvic pad are beneath the wrap. The old narrow fox strip remains CONCEALED UNDER the anatomical left shoulder, not a broad visible collar. The same plain grey-brown fur crown pad stays on head and BOTH low flat woven bast soles stay on feet, with open toes, exposed ankles and bare lower legs. No animal head, ears or muzzle on cap.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 5 / Day 63 AFTER fitting: the traveller makes a short, ordinary dry walking/turning check near the overhang. Near-frontal full-body pose, one small relaxed step, head glancing at how the overlap sits. One forearm emerges from an OPEN SIDE, not a tailored sleeve; other hand rests naturally. The wrap stays closed through shoulders/core/thighs, both bast soles readable. Do not put the old grass mats beneath or outside the visible cloak.\nShow the existing first low brush/bark screen at the side of the mouth, an open entrance and subdued dry bed behind it. No finished mud wall, food rack, pot, hood, new footwear or other person. Sparse late-autumn vegetation, cool daylight, restrained warm tan clothing is the central improvement. Avoid heroic fashion posing, large fur cape, animal-head hood or leather armour.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-5/character-sheet.png",
+              "role": "dated new wrap, crown and footwear appearance only",
+              "sha256": "7f0a1ae4526ef764fd290a3641a4c8c461ee0e845fa8dc1992a6bc4e73011952"
+            }
+          ],
+          "source_sha256": "7186fd25207e1b507da3a0c3f8430c39e80a7d08c7222a74ead35889ed861200",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-3fe84b76-9d08-4f90-acb3-2a3d2ac61641.png",
+      "canonical_sha256": "7186fd25207e1b507da3a0c3f8430c39e80a7d08c7222a74ead35889ed861200",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "New tan overlapping wrap with hair inward, plain crown and both bast soles. Grass screens absent from body, fox concealed beneath left shoulder. No new hood, leg garment, hide shoe or premature rack."
+    },
+    {
+      "id": "day-64",
+      "target": "_Artwork/survival/day-64.png",
+      "page": "01_Survival/Moon 3 Day 6 - Give the Harvest a Dry Place.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-5/character-sheet.png"
+      ],
+      "scene": "Spreading the modest own nut harvest on clean bark surfaces of the low food-only rack under the dry overhang.",
+      "prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nCurrent clothing AFTER fitting Day 63: the tan overlapping skin WRAP in Image 2, over both shoulders and around chest/back/abdomen, irregular hem above knees, short brown HAIR INWARD and dull TAN SKIN outward. Shallow turned upper edge with a narrow brown fur edge, small left-shoulder repair, chest cord tie BELOW throat and light waist fastening, arms emerging naturally through open sides. NO sleeves, tailored jacket, trousers or new hood. Both grass screens are now stored dry out of frame and are NOT WORN; no grass fringe. Bark waist layers and pelvic pad are beneath the wrap. The old narrow fox strip remains CONCEALED UNDER the anatomical left shoulder, not a broad visible collar. The same plain grey-brown fur crown pad stays on head and BOTH low flat woven bast soles stay on feet, with open toes, exposed ankles and bare lower legs. No animal head, ears or muzzle on cap.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 6 / Day 64: the traveller, seated naturally on a low rock or crouched with clearly ordinary TWO-leg anatomy, spreads a MODEST layer of hazelnuts and acorns on a clean flat bark sheet on a low wood STORAGE RACK. The shelf is a small slatted platform with two low fork-supported end assemblies, restrained rails and simple plant bindings; it is not a modern table, a sealed granary or a heavy timber bed. It stands in the dry rear-right under the rock, outside the wet corner. One EXISTING small open woven basket with a loose woven cover beside it; no invented large woven bins or handles. The damp-input patch is separate, no wet food piled in a deep container. Nuts include unprocessed acorns, not prepared meal.\nFull or three-quarter body with BOTH bast soles, knees and natural hands readable. The tan skin wrap is CLOSED over torso/thighs and hair faces INWARD; no dangling grass screen. Background quietly retains the first side screen and dry bed; no mud panel, completed front enclosure, pot, meat, indoor fire, fletching or bow. The wood rack supports only this small food load and does not brace the rock roof. It is storage work, not a flourishing winter pantry.",
+      "attempts": [
+        {
+          "id": "day-64",
+          "key": "opening-day-64",
+          "status": "rejected",
+          "reason": "Food rack read as exposed, with basket on the ground.",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-03236b2e-53df-4097-9f79-f0f5d4724e25.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nCurrent clothing AFTER fitting Day 63: the tan overlapping skin WRAP in Image 2, over both shoulders and around chest/back/abdomen, irregular hem above knees, short brown HAIR INWARD and dull TAN SKIN outward. Shallow turned upper edge with a narrow brown fur edge, small left-shoulder repair, chest cord tie BELOW throat and light waist fastening, arms emerging naturally through open sides. NO sleeves, tailored jacket, trousers or new hood. Both grass screens are now stored dry out of frame and are NOT WORN; no grass fringe. Bark waist layers and pelvic pad are beneath the wrap. The old narrow fox strip remains CONCEALED UNDER the anatomical left shoulder, not a broad visible collar. The same plain grey-brown fur crown pad stays on head and BOTH low flat woven bast soles stay on feet, with open toes, exposed ankles and bare lower legs. No animal head, ears or muzzle on cap.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 6 / Day 64: the traveller, seated naturally on a low rock or crouched with clearly ordinary TWO-leg anatomy, spreads a MODEST layer of hazelnuts and acorns on a clean flat bark sheet on a low wood STORAGE RACK. The shelf is a small slatted platform with two low fork-supported end assemblies, restrained rails and simple plant bindings; it is not a modern table, a sealed granary or a heavy timber bed. It stands in the dry rear-right under the rock, outside the wet corner. One EXISTING small open woven basket with a loose woven cover beside it; no invented large woven bins or handles. The damp-input patch is separate, no wet food piled in a deep container. Nuts include unprocessed acorns, not prepared meal.\nFull or three-quarter body with BOTH bast soles, knees and natural hands readable. The tan skin wrap is CLOSED over torso/thighs and hair faces INWARD; no dangling grass screen. Background quietly retains the first side screen and dry bed; no mud panel, completed front enclosure, pot, meat, indoor fire, fletching or bow. The wood rack supports only this small food load and does not brace the rock roof. It is storage work, not a flourishing winter pantry.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-5/character-sheet.png",
+              "role": "dated new wrap, crown and footwear appearance only",
+              "sha256": "7f0a1ae4526ef764fd290a3641a4c8c461ee0e845fa8dc1992a6bc4e73011952"
+            }
+          ],
+          "source_sha256": "aabdfe26226af7e8270161966d0b98e4fe844fafbf54368a52097547320b5f3a",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        },
+        {
+          "id": "day-64",
+          "key": "opening-day-64-retry",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cbdbec96-68c2-4dcf-854d-ceb0d690052e.png",
+          "prompt_record": "retry-prompts.json",
+          "full_prompt": "Use case: illustration-story. Create ONE wide 16:9 narrative illustration for Humanity Handbook, in fine brown ink and luminous restrained watercolour with soft warm-paper edges, matching Image 1.\nImage 1 is the original man's IDENTITY/STYLE only, not its early clothing state or exact pose. Image 2 is the dated CLOTHING reference only, no sheet labels/layout in this picture. Keep the same lean adult about thirty, dark wavy ear-length hair and short beard, natural smoothly washed skin with no scars/tattoos or etched patterns.\nOne ordinary figure has exactly two legs and two natural hands. No labelled diagrams, text, watermark, magical future equipment, modern objects or invented possessions.\nCurrent clothing AFTER fitting Day 63: the tan overlapping skin WRAP in Image 2, over both shoulders and around chest/back/abdomen, irregular hem above knees, short brown HAIR INWARD and dull TAN SKIN outward. Shallow turned upper edge with a narrow brown fur edge, small left-shoulder repair, chest cord tie BELOW throat and light waist fastening, arms emerging naturally through open sides. NO sleeves, tailored jacket, trousers or new hood. Both grass screens are now stored dry out of frame and are NOT WORN; no grass fringe. Bark waist layers and pelvic pad are beneath the wrap. The old narrow fox strip remains CONCEALED UNDER the anatomical left shoulder, not a broad visible collar. The same plain grey-brown fur crown pad stays on head and BOTH low flat woven bast soles stay on feet, with open toes, exposed ankles and bare lower legs. No animal head, ears or muzzle on cap.\nSite: shallow southeast-facing pale limestone overhang above the familiar northern Iberian valley, late autumn with sparse ochre leaves and cool slate distance. It is a projecting low ledge over a modest shallow recess, not a deep cavern, carved masonry wall, log cabin or tall cliff cathedral. One damp fissured corner is outside the occupied strip. The dry central rock roof takes most of the cover; no timber roof is built beneath it.\nScene Moon 3 Day 6 / Day 64: the traveller, seated naturally on a low rock or crouched with clearly ordinary TWO-leg anatomy, spreads a MODEST layer of hazelnuts and acorns on a clean flat bark sheet on a low wood STORAGE RACK. The shelf is a small slatted platform with two low fork-supported end assemblies, restrained rails and simple plant bindings; it is not a modern table, a sealed granary or a heavy timber bed. It stands in the dry rear-right under the rock, outside the wet corner. One EXISTING small open woven basket with a loose woven cover beside it; no invented large woven bins or handles. The damp-input patch is separate, no wet food piled in a deep container. Nuts include unprocessed acorns, not prepared meal.\nFull or three-quarter body with BOTH bast soles, knees and natural hands readable. The tan skin wrap is CLOSED over torso/thighs and hair faces INWARD; no dangling grass screen. Background quietly retains the first side screen and dry bed; no mud panel, completed front enclosure, pot, meat, indoor fire, fletching or bow. The wood rack supports only this small food load and does not brace the rock roof. It is storage work, not a flourishing winter pantry.\nComposition correction: place the ENTIRE rack and basket visibly DEEP INSIDE the DRY CENTRAL RECESS. The natural rock ROOF occupies the upper third of the frame and extends past BOTH ends of the rack, with its front drip edge clearly in FRONT of the food. View from the open mouth looking INTO the recess, small valley view only at far side. The basket is ON THE SHELF beside the flat bark spreading sheet, not on the ground beneath it. The rock-covered shelf and the man can be softly lit by daylight entering the mouth. Do not compose an outdoor food table on the cliff edge. Keep both feet and ordinary crouched anatomy readable. No extra food bins or invented roof.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-5/character-sheet.png",
+              "role": "dated new wrap, crown and footwear appearance only",
+              "sha256": "7f0a1ae4526ef764fd290a3641a4c8c461ee0e845fa8dc1992a6bc4e73011952"
+            }
+          ],
+          "source_sha256": "fe2427661362f76ad1978e913ec07260f2a57d6f40d0af29e0da4897d897bd63",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-cbdbec96-68c2-4dcf-854d-ceb0d690052e.png",
+      "canonical_sha256": "fe2427661362f76ad1978e913ec07260f2a57d6f40d0af29e0da4897d897bd63",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Two natural legs/hands; correct new wrap/crown/bast soles. Entire modest rack and basket visibly under rock cover, small shell-bearing nut layer, no pot, stored meat, bow or mud panel."
+    },
+    {
+      "id": "rock-enclosure",
+      "target": "_Artwork/structures/rock-shelter-enclosure.png",
+      "page": "06_Structures and Places/Structures/Shelters/Rock-Shelter Enclosure.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "scene": "General design study of a shallow overhang, low independent weather screen, separate dry bed and an open entrance.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"ROCK-SHELTER ENCLOSURE\". Main oblique cutaway shows a shallow natural limestone ledge carrying its OWN rock roof. Beneath its dry central part is a small bough foundation and thick clean grass/leaf sleeping layer, separated from damp rock. At one exposed mouth edge a LOW fork-supported short rail carries a brush/bark weather screen, leaving a clear offset entrance and ventilation. Timber NEVER props up or supports the heavy rock. No fitted door or mud panel in this first construction route.\nUse four sparse labels exactly \"NATURAL ROCK ROOF\", \"LOW WEATHER SCREEN\", \"DRY BED\", \"CLEAR ENTRANCE\". A small isolated outside-hearth symbol may lie on broad OPEN mineral ground beyond the drip edge and separate from the bed/screen, but omit it if clear separation cannot be drawn. NO fire beneath the rock/enclosed sleeping area, no people, stored food, completed masonry or log roof. This is a general design-family plate, not a dimensioned safety plan.",
+      "attempts": [
+        {
+          "id": "rock-enclosure",
+          "key": "opening-rock-enclosure",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e34e6881-e5ff-44b2-803f-e861c2554576.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"ROCK-SHELTER ENCLOSURE\". Main oblique cutaway shows a shallow natural limestone ledge carrying its OWN rock roof. Beneath its dry central part is a small bough foundation and thick clean grass/leaf sleeping layer, separated from damp rock. At one exposed mouth edge a LOW fork-supported short rail carries a brush/bark weather screen, leaving a clear offset entrance and ventilation. Timber NEVER props up or supports the heavy rock. No fitted door or mud panel in this first construction route.\nUse four sparse labels exactly \"NATURAL ROCK ROOF\", \"LOW WEATHER SCREEN\", \"DRY BED\", \"CLEAR ENTRANCE\". A small isolated outside-hearth symbol may lie on broad OPEN mineral ground beyond the drip edge and separate from the bed/screen, but omit it if clear separation cannot be drawn. NO fire beneath the rock/enclosed sleeping area, no people, stored food, completed masonry or log roof. This is a general design-family plate, not a dimensioned safety plan.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "handbook plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "728f847d7fb11f14fb87ddb4b04be6b1f9695e2b521a3965e9235062bc49724a",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-e34e6881-e5ff-44b2-803f-e861c2554576.png",
+      "canonical_sha256": "728f847d7fb11f14fb87ddb4b04be6b1f9695e2b521a3965e9235062bc49724a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Readable labels; natural roof independent of low screen, separate dry bed, clear entrance, outside cold hearth symbol only. General design study with no load rating."
+    },
+    {
+      "id": "storage-rack",
+      "target": "_Artwork/structures/raised-storage-rack.png",
+      "page": "06_Structures and Places/Structures/Working Frameworks/Raised Storage Rack.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "scene": "A low fork-supported food platform with restrained rails, clean bark spreading surface and visible air gaps.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"RAISED STORAGE RACK\". Show ONE small LOW wood platform in an oblique view: TWO low fork-supported end assemblies, simple seated rails and light cross-slats, broad stable feet/bearings and modest plant-fibre retention against rolling. Rack geometry must be self-contained and legible, not a floating table. No metal, nails, milled planks, hinges or modern carpentry.\nOne clean bark SHEET lies FLAT as a shallow spreading surface with a SMALL layer of intact hazelnuts/acorns; one modest simple open woven basket rests at the other end. Air gaps remain beneath and at sides, no sealed box or thatched granary. This platform goes under existing weather cover, NOT beside a fire or on a used dirty hide rack.\nLabels exactly \"STABLE SUPPORT\", \"RESTRAINED RAIL\", \"CLEAN SURFACE\", \"AIRFLOW\". Small inset if helpful shows a natural fork bearing, retaining tie and anti-roll contact. No invented fixed load rating or food shelf life. No human figure or knives.",
+      "attempts": [
+        {
+          "id": "storage-rack",
+          "key": "opening-storage-rack",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9db90e00-a49a-42f7-af47-e9003e703f06.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"RAISED STORAGE RACK\". Show ONE small LOW wood platform in an oblique view: TWO low fork-supported end assemblies, simple seated rails and light cross-slats, broad stable feet/bearings and modest plant-fibre retention against rolling. Rack geometry must be self-contained and legible, not a floating table. No metal, nails, milled planks, hinges or modern carpentry.\nOne clean bark SHEET lies FLAT as a shallow spreading surface with a SMALL layer of intact hazelnuts/acorns; one modest simple open woven basket rests at the other end. Air gaps remain beneath and at sides, no sealed box or thatched granary. This platform goes under existing weather cover, NOT beside a fire or on a used dirty hide rack.\nLabels exactly \"STABLE SUPPORT\", \"RESTRAINED RAIL\", \"CLEAN SURFACE\", \"AIRFLOW\". Small inset if helpful shows a natural fork bearing, retaining tie and anti-roll contact. No invented fixed load rating or food shelf life. No human figure or knives.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "handbook plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "1552d496a700f5662a5419306d7df87e78a8774993043ad1969dc32a320f5439",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9db90e00-a49a-42f7-af47-e9003e703f06.png",
+      "canonical_sha256": "1552d496a700f5662a5419306d7df87e78a8774993043ad1969dc32a320f5439",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Readable support/rail/surface/airflow labels and inset; low fork-supported shelf, bark surface and small basket, no metal or preservation promise. Illustrative family geometry, not a dimensioned plan."
+    },
+    {
+      "id": "nut-storage",
+      "target": "_Artwork/technologies/dry-nut-storage.png",
+      "page": "07_Technologies/Food Processing/Dry Nut Storage.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "scene": "Inspection, shallow spreading and separate storage of untreated acorns shown as a modest process arrangement.",
+      "prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"DRY NUT STORAGE\". Three simple left-to-right panels under that title, not a collage of equipment. Panel 1 \"INSPECT\": modest intact hazelnuts and acorns on a clean flat bark sheet, visibly damaged bits kept off to a small side patch. Panel 2 \"SPREAD\": thin modest layer on a clean bark surface atop a small LOW slatted shelf beneath overhead ROCK cover, arrows for air at sides; no deep packed wet heap. Panel 3 \"KEEP SEPARATE\": one modest open woven basket of shell-bearing acorns labelled exactly \"UNTREATED ACORNS\", with a loose woven cover set beside it. No bags of flour, cooked meal, meat, jars, modern sacks, pots, food-safety certification or fixed storage duration.\nKeep nut forms readable but generic; the plate is handling/arrangement, NOT a species-identification key. No water leaching recipe or universal test by tasting. Natural material palette and sparse navy arrows.",
+      "attempts": [
+        {
+          "id": "nut-storage",
+          "key": "opening-nut-storage",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c19e0c9a-0735-4e3f-a252-ad81a19dd082.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: scientific-educational. Asset type: Humanity Handbook reference plate. Create ONE landscape mid-century field-manual illustration with navy fine ink, restrained pastel/earth watercolour, warm ivory paper and spacious readable layout. Image 1 supplies STYLE ONLY from the established digging-stick plate; do not copy its stick, labels or exact composition. Make simple clear material geometry rather than a photoreal scene. No modern fasteners, machines, fantasy objects or decorative collage.\nTitle exactly \"DRY NUT STORAGE\". Three simple left-to-right panels under that title, not a collage of equipment. Panel 1 \"INSPECT\": modest intact hazelnuts and acorns on a clean flat bark sheet, visibly damaged bits kept off to a small side patch. Panel 2 \"SPREAD\": thin modest layer on a clean bark surface atop a small LOW slatted shelf beneath overhead ROCK cover, arrows for air at sides; no deep packed wet heap. Panel 3 \"KEEP SEPARATE\": one modest open woven basket of shell-bearing acorns labelled exactly \"UNTREATED ACORNS\", with a loose woven cover set beside it. No bags of flour, cooked meal, meat, jars, modern sacks, pots, food-safety certification or fixed storage duration.\nKeep nut forms readable but generic; the plate is handling/arrangement, NOT a species-identification key. No water leaching recipe or universal test by tasting. Natural material palette and sparse navy arrows.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "handbook plate style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "c6201a4ce2049102a88971075a41153200999e9ceb07545ca375ee2fb8f9221d",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c19e0c9a-0735-4e3f-a252-ad81a19dd082.png",
+      "canonical_sha256": "c6201a4ce2049102a88971075a41153200999e9ceb07545ca375ee2fb8f9221d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Three readable process panels distinguish inspection, thin spreading under cover and untreated acorns. No wet meal, meat, pot, taste test, universal shelf life or new species."
+    },
+    {
+      "id": "overhang-inset",
+      "target": "_Artwork/maps/western-overhang-day-64.png",
+      "page": "06_Structures and Places/Places/Western Overhang.md",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/2026-10-04/travellers-camp.png"
+      ],
+      "scene": "Not-to-scale camp inset of Western Overhang through Day 64, with first screen, bed, rack and separate outside work areas.",
+      "prompt": "Use case: scientific-educational. Asset type: dated camp atlas inset for Humanity Handbook. Create ONE wide landscape navy-ink and restrained watercolour drawing on ivory paper. Image 1 supplies atlas STYLE ONLY; replace its old wooden lean-to site with a SHALLOW natural limestone OVERHANG site. Do NOT copy its fallen limb, shelter, locations or stock piles.\nTitle exactly \"WESTERN OVERHANG\". NORTH is UP with a small \"N\" arrow. Bottom caption exactly \"ARRANGEMENT THROUGH DAY 64 — NOT TO SCALE\".\nShow an elevated schematic camp view: the shallow limestone ledge and recess occupy upper-left/central area, mouth faces SOUTHEAST (lower-right in north-up plan). Inside usable dry space: BACK-LEFT a modest dry bed on boughs, REAR-RIGHT a SMALL low slatted food rack and ONE small basket. A wet fissured corner is at far eastern/right end, visibly OUTSIDE that rack's dry strip. At NORTHWEST/LEFT edge of mouth a LOW brush/bark wind screen with a light fork/rail support, preserving a clear offset southeast entry. No mud, fitted door or finished full enclosure.\nFRONT-RIGHT just under usable cover is a clean craft stone. On broad open mineral ground southeast/downhill OUTSIDE the rock drip edge is an ordinary hearth, cold ash only. Farther southwest/downhill is a small bare animal-work patch, with waste farther beyond and OUTSIDE the cropped main home. Northeast of the hearth is a small unused firing-ground area with no black ash or pot. A small path arrow towards the known seep leads southeast and away; NO spring at the shelter and NO river invented directly beneath it.\nSparse labels exactly \"DRY BED\", \"FOOD RACK\", \"WIND SCREEN\", \"CRAFT\", \"OUTSIDE HEARTH\", \"PROCESSING\", \"FUTURE FIRING\". Keep site clear and modest, no inventory display, people, skins, weapons or winter stockpile. Rock carries the roof; no posts holding it up, log house, cavern, kiln, indoor fire, fence or new territory map. Label positions follow relationships rather than a decoration layout.",
+      "attempts": [
+        {
+          "id": "overhang-inset",
+          "key": "opening-overhang-inset",
+          "status": "selected",
+          "reason": null,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0c576d2c-4ac4-47a5-9956-19117411bebf.png",
+          "prompt_record": "generation-prompts.json",
+          "full_prompt": "Use case: scientific-educational. Asset type: dated camp atlas inset for Humanity Handbook. Create ONE wide landscape navy-ink and restrained watercolour drawing on ivory paper. Image 1 supplies atlas STYLE ONLY; replace its old wooden lean-to site with a SHALLOW natural limestone OVERHANG site. Do NOT copy its fallen limb, shelter, locations or stock piles.\nTitle exactly \"WESTERN OVERHANG\". NORTH is UP with a small \"N\" arrow. Bottom caption exactly \"ARRANGEMENT THROUGH DAY 64 — NOT TO SCALE\".\nShow an elevated schematic camp view: the shallow limestone ledge and recess occupy upper-left/central area, mouth faces SOUTHEAST (lower-right in north-up plan). Inside usable dry space: BACK-LEFT a modest dry bed on boughs, REAR-RIGHT a SMALL low slatted food rack and ONE small basket. A wet fissured corner is at far eastern/right end, visibly OUTSIDE that rack's dry strip. At NORTHWEST/LEFT edge of mouth a LOW brush/bark wind screen with a light fork/rail support, preserving a clear offset southeast entry. No mud, fitted door or finished full enclosure.\nFRONT-RIGHT just under usable cover is a clean craft stone. On broad open mineral ground southeast/downhill OUTSIDE the rock drip edge is an ordinary hearth, cold ash only. Farther southwest/downhill is a small bare animal-work patch, with waste farther beyond and OUTSIDE the cropped main home. Northeast of the hearth is a small unused firing-ground area with no black ash or pot. A small path arrow towards the known seep leads southeast and away; NO spring at the shelter and NO river invented directly beneath it.\nSparse labels exactly \"DRY BED\", \"FOOD RACK\", \"WIND SCREEN\", \"CRAFT\", \"OUTSIDE HEARTH\", \"PROCESSING\", \"FUTURE FIRING\". Keep site clear and modest, no inventory display, people, skins, weapons or winter stockpile. Rock carries the roof; no posts holding it up, log house, cavern, kiln, indoor fire, fence or new territory map. Label positions follow relationships rather than a decoration layout.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/2026-10-04/travellers-camp.png",
+              "role": "atlas graphic style only",
+              "sha256": "1c9fe0145730cab92c720aa5ba371fd40314ee72893bc81defb5df77dc7309eb"
+            }
+          ],
+          "source_sha256": "31b4705738eccc37348301348f863a0eb76afa8ecc95f0f3f983f8642709d210",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "edit_passes": 0
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-0c576d2c-4ac4-47a5-9956-19117411bebf.png",
+      "canonical_sha256": "31b4705738eccc37348301348f863a0eb76afa8ecc95f0f3f983f8642709d210",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-14",
+      "review": "Dated not-to-scale inset retains dry bed/rack, first screen, craft area, distinct outside hearth, downslope processing, unused future firing area and route to seep. Wet corner excluded. Icons indicate working areas, not a new catch or literal load placement; written place relationships govern."
+    }
+  ],
+  "selected_count": 10,
+  "rejected_count": 2,
+  "website_publish": false,
+  "png_postprocessing": "none; selected generated PNG bytes copied unchanged, source files retained"
+}

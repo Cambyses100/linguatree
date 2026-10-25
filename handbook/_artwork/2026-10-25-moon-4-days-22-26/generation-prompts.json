@@ -1,0 +1,407 @@
+{
+  "tool": "built-in image_gen",
+  "intent": "generate with references",
+  "date": "2026-10-25",
+  "jobs": [
+    {
+      "id": "day-110",
+      "target": "_Artwork/survival/day-110.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 22 - Give the Arrow a Tail.md"
+        },
+        {
+          "path": "04_Skills/Hunting/Fletching.md"
+        }
+      ],
+      "scene": "Bare-handed binding of two modest feather vanes to the one existing practice arrow, with both hand pockets set aside.",
+      "prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At the clean craft stone beneath a NATURAL LIMESTONE ROCK LIP, seated low. He winds a fine tan plant thread around the rear of ONE slender pale wooden practice arrow across his lap. Exactly TWO modest matching brown-grey feather vanes lie lengthways on opposing sides near its rear, one partly hidden by perspective, NOT a feather fan. Rear notch beyond the vanes and a rounded integral wooden nose at the front. No separate point, bow, shooting, quiver or spare arrow. The subject is quiet delicate binding work. Background simple rock only; no branch-built roof or building.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style independently, no setting or old clothing copied",
+        "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+      ],
+      "attempts": [
+        {
+          "id": "day-110",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-79bf892e-cdc6-4fc5-b769-d445333b0803.png",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At the clean craft stone beneath a NATURAL LIMESTONE ROCK LIP, seated low. He winds a fine tan plant thread around the rear of ONE slender pale wooden practice arrow across his lap. Exactly TWO modest matching brown-grey feather vanes lie lengthways on opposing sides near its rear, one partly hidden by perspective, NOT a feather fan. Rear notch beyond the vanes and a rounded integral wooden nose at the front. No separate point, bow, shooting, quiver or spare arrow. The subject is quiet delicate binding work. Background simple rock only; no branch-built roof or building.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "review": "Accepted: one existing arrow receives two modest opposing vane strips with fine binding, no bow or spare shaft. Bare hands, both warming pockets set together, complete prior outfit including both low foot layers, natural rock roof and winter terrain.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ],
+          "source_sha256": "861f785174a07b21c0bdf0745f99fc0e0a3a35630e5f044ac192b4041e727bda",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-79bf892e-cdc6-4fc5-b769-d445333b0803.png",
+      "canonical_sha256": "861f785174a07b21c0bdf0745f99fc0e0a3a35630e5f044ac192b4041e727bda",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted: one existing arrow receives two modest opposing vane strips with fine binding, no bow or spare shaft. Bare hands, both warming pockets set together, complete prior outfit including both low foot layers, natural rock roof and winter terrain."
+    },
+    {
+      "id": "day-111",
+      "target": "_Artwork/survival/day-111.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 23 - The Fishing Fork Earns Its Place.md"
+        }
+      ],
+      "scene": "Inspecting the existing four-pronged wooden fishing spear on stable dry bank ground before the short fishing opportunity.",
+      "prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. OPEN river-margin working spot AWAY FROM CAMP. He sits on a dry stable low bank, both enclosed feet on DRY ground well clear of water, inspecting the end of ONE long slender pale wooden fishing fork. Exactly FOUR modest integral split wooden prongs with a small plain binding BELOW the split; tips held away from his face. No metal, stone point, arrow, new spear, blood, fish catch or thrust. Slow clear shallow river visible beyond, sparse winter brush, natural bank. Both removed hand pockets together on clean bark beside him. No shelter or wading.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style independently, no setting or old clothing copied",
+        "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+      ],
+      "attempts": [
+        {
+          "id": "day-111",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c4924e0e-65e5-4784-b289-214485cbdcb0.png",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. OPEN river-margin working spot AWAY FROM CAMP. He sits on a dry stable low bank, both enclosed feet on DRY ground well clear of water, inspecting the end of ONE long slender pale wooden fishing fork. Exactly FOUR modest integral split wooden prongs with a small plain binding BELOW the split; tips held away from his face. No metal, stone point, arrow, new spear, blood, fish catch or thrust. Slow clear shallow river visible beyond, sparse winter brush, natural bank. Both removed hand pockets together on clean bark beside him. No shelter or wading.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "review": "Accepted: existing modest split wooden fishing fork inspected from dry stable ground before use; some prong overlap in perspective, no attached stone or metal point. Both feet enclosed, hands bare, both warming pockets set together; no graphic catch, wading or invented home.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ],
+          "source_sha256": "1810583b42a0579d496020a6f653f0d04ebe1cf1d86d1612e4834ee51b792148",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-c4924e0e-65e5-4784-b289-214485cbdcb0.png",
+      "canonical_sha256": "1810583b42a0579d496020a6f653f0d04ebe1cf1d86d1612e4834ee51b792148",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted: existing modest split wooden fishing fork inspected from dry stable ground before use; some prong overlap in perspective, no attached stone or metal point. Both feet enclosed, hands bare, both warming pockets set together; no graphic catch, wading or invented home."
+    },
+    {
+      "id": "day-112",
+      "target": "_Artwork/survival/day-112.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 24 - A Second Pot for a Second Job.md"
+        }
+      ],
+      "scene": "Pinch-forming one new unfired open pot, with a small same-body drying witness beside it.",
+      "prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At a protected craft-side stone under a NATURAL LIMESTONE ROCK LIP. Seated low with both closed low foot covers visible, bare hands carefully pinch and smooth ONE modest damp grey-brown clay open pot, even plain rim, gently rounded wall-to-base transition, no handles, spout, foot-ring, glaze or decoration. ONE small plain clay witness piece lies beside it on a clean board. This is wet unfinished greenware. No firing, flames, glowing object, water inside, finished second pot or extra vessels. The one older useful pot is outside the frame. Rock background only, no indoor hearth, lean-to or branch roof.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style independently, no setting or old clothing copied",
+        "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+      ],
+      "attempts": [
+        {
+          "id": "day-112",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-ad19117b-2135-4294-80a4-c981c5b10fb1.png",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At a protected craft-side stone under a NATURAL LIMESTONE ROCK LIP. Seated low with both closed low foot covers visible, bare hands carefully pinch and smooth ONE modest damp grey-brown clay open pot, even plain rim, gently rounded wall-to-base transition, no handles, spout, foot-ring, glaze or decoration. ONE small plain clay witness piece lies beside it on a clean board. This is wet unfinished greenware. No firing, flames, glowing object, water inside, finished second pot or extra vessels. The one older useful pot is outside the frame. Rock background only, no indoor hearth, lean-to or branch roof.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "review": "Accepted as a schematic narrative scene: one new plain damp clay vessel and one witness at the natural rock lip, no firing or second finished vessel. Witness geometry is not a scaled thickness comparison; caption explicitly defers actual readiness to text. Full outfit persists, both hand covers set aside.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ],
+          "source_sha256": "6b379efab297629be2dc3da7a4e26e5e29d8c830e220db8f6a19934d4b87380e",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-ad19117b-2135-4294-80a4-c981c5b10fb1.png",
+      "canonical_sha256": "6b379efab297629be2dc3da7a4e26e5e29d8c830e220db8f6a19934d4b87380e",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted as a schematic narrative scene: one new plain damp clay vessel and one witness at the natural rock lip, no firing or second finished vessel. Witness geometry is not a scaled thickness comparison; caption explicitly defers actual readiness to text. Full outfit persists, both hand covers set aside."
+    },
+    {
+      "id": "day-113",
+      "target": "_Artwork/survival/day-113.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 25 - A Spoon from a Piece of Willow.md"
+        }
+      ],
+      "scene": "Carving the shallow bowl of one small plain wooden spoon using a stone flake.",
+      "prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At the clean craft stone under a NATURAL LIMESTONE ROCK LIP. He sits low and supports ONE pale freshly worked wooden spoon blank on a small clean wooden rest, carving its shallow oval bowl with a modest bare stone flake. The bowl joins a simple straight unperforated handle with substantial neck. A few fine shavings nearby. Clearly one hand-held wooden spoon, NOT a deep ladle, metal knife or large bowl. Controlled small scraping motion, supporting hand clear of cutting path. Both removed hand pockets together nearby. No other new tool, pot firing or building.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style independently, no setting or old clothing copied",
+        "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+      ],
+      "attempts": [
+        {
+          "id": "day-113",
+          "status": "tool-error",
+          "error": "image generation failed: network error: error sending request",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At the clean craft stone under a NATURAL LIMESTONE ROCK LIP. He sits low and supports ONE pale freshly worked wooden spoon blank on a small clean wooden rest, carving its shallow oval bowl with a modest bare stone flake. The bowl joins a simple straight unperforated handle with substantial neck. A few fine shavings nearby. Clearly one hand-held wooden spoon, NOT a deep ladle, metal knife or large bowl. Controlled small scraping motion, supporting hand clear of cutting path. Both removed hand pockets together nearby. No other new tool, pot firing or building.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ]
+        },
+        {
+          "id": "day-113",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-5c081447-ae89-4b94-bf2e-47d11b9713b7.png",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. At the clean craft stone under a NATURAL LIMESTONE ROCK LIP. He sits low and supports ONE pale freshly worked wooden spoon blank on a small clean wooden rest, carving its shallow oval bowl with a modest bare stone flake. The bowl joins a simple straight unperforated handle with substantial neck. A few fine shavings nearby. Clearly one hand-held wooden spoon, NOT a deep ladle, metal knife or large bowl. Controlled small scraping motion, supporting hand clear of cutting path. Both removed hand pockets together nearby. No other new tool, pot firing or building.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "review": "Accepted retry: one shallow spoon is scraped with a stone flake on a modest support; hands bare with both covers set together on bark. Full cap, wrap and limb coverage remain; near low foot cover/bast sole visible, far foot occluded by the craft stone rather than bare. Natural rock roof, no added building, metal gouge, oil finish, extra pot or firing.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ],
+          "source_sha256": "e8fcbff036c53da57d942d281fb5ca578d17d1c25aa1dca21df58ba47a721a0c",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-5c081447-ae89-4b94-bf2e-47d11b9713b7.png",
+      "canonical_sha256": "e8fcbff036c53da57d942d281fb5ca578d17d1c25aa1dca21df58ba47a721a0c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted retry: one shallow spoon is scraped with a stone flake on a modest support; hands bare with both covers set together on bark. Full cap, wrap and limb coverage remain; near low foot cover/bast sole visible, far foot occluded by the craft stone rather than bare. Natural rock roof, no added building, metal gouge, oil finish, extra pot or firing."
+    },
+    {
+      "id": "day-114",
+      "target": "_Artwork/survival/day-114.png",
+      "pages": [
+        {
+          "path": "01_Survival/Moon 4 Day 26 - A Straighter Flight.md"
+        }
+      ],
+      "scene": "Inspecting the same two-vane practice arrow after short trials at the established earth-bank ground; both hand pockets remain together on bark.",
+      "prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. OPEN EARTH-BANK PRACTICE GROUND well AWAY FROM HOME. Full-body standing view, both enclosed low foot covers on dry firm ground. A broad soft earthen bank with loose dry plant cover and sparse bare brush behind. Both bare hands gently inspect ONE recovered slender pale wooden practice arrow held horizontally. Exactly TWO modest brown-grey feather vanes attached lengthways on opposing sides near rear; one partly hidden. Rear string notch clear beyond feathers, front nose rounded integral wood, no separate point. BOTH small smooth closed hand pockets together on ONE clean bark sheet beside his feet. Bow already unstrung and put away OUTSIDE frame; no bow or string shown. No hut, lean-to, branch roof, animal, hunting, spare arrow, target bullseye or modern gear.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+      ],
+      "input_roles": [
+        "original approved identity/style independently, no setting or old clothing copied",
+        "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+      ],
+      "attempts": [
+        {
+          "id": "day-114",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d6535dc1-46a4-4c72-9366-e1badb4eb7ce.png",
+          "full_prompt": "Use case: illustration-story. Humanity Handbook wide horizontal narrative illustration, fine brown ink and restrained luminous natural watercolour on warm paper with softly dissolved margins. Reference 1 supplies the original traveller FACE, IDENTITY and STYLE only, NOT its old shelter, season or clothing. Reference 2 supplies the ENTIRE present OUTFIT. Same lean modern man about thirty with dark ear-length wavy hair, short beard. Preserve full grey-brown fur cap crown over TOP of head, tan ear/nape sides; pale tan overlapping above-knee body wrap over BOTH shoulders with chest tie and waist keeper; darker grey-brown separate sleeves to wrists and side-overlapped leg panels covering knees/calves to ankles; BOTH low pale closed skin foot covers over visible exterior woven bast soles, no bare toes or tall boots. The two small smooth pale tan thumb-less hand pockets have hair INSIDE and are REMOVED for this fine task; BOTH rest together on one clean bark sheet nearby. Hands BARE, all other clothes stay ON. Both low foot layers visible. Sparse BARE winter brush, cold December light, no lush autumn canopy. No other person, new cloak, animal-head hat, modern tool, hut or lean-to. OPEN EARTH-BANK PRACTICE GROUND well AWAY FROM HOME. Full-body standing view, both enclosed low foot covers on dry firm ground. A broad soft earthen bank with loose dry plant cover and sparse bare brush behind. Both bare hands gently inspect ONE recovered slender pale wooden practice arrow held horizontally. Exactly TWO modest brown-grey feather vanes attached lengthways on opposing sides near rear; one partly hidden. Rear string notch clear beyond feathers, front nose rounded integral wood, no separate point. BOTH small smooth closed hand pockets together on ONE clean bark sheet beside his feet. Bow already unstrung and put away OUTSIDE frame; no bow or string shown. No hut, lean-to, branch roof, animal, hunting, spare arrow, target bullseye or modern gear.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+            "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png"
+          ],
+          "input_roles": [
+            "original approved identity/style independently, no setting or old clothing copied",
+            "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work"
+          ],
+          "review": "Accepted: one two-vane practice arrow is inspected at the open earthen bank after the session, no invented shelter or spare projectile. Both hands bare and both warming pockets together on bark; all other clothes and both low enclosed foot layers remain. No bow shown, consistent with unstrung storage outside the selected moment.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original approved identity/style independently, no setting or old clothing copied",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-4-day-20/character-sheet.png",
+              "role": "complete Day 108 wardrobe, both hand pockets explicitly removed together for fine work",
+              "sha256": "d7e599651ff67bf596726e7c370139556f2226e1e72043a533cc8befa478600f"
+            }
+          ],
+          "source_sha256": "f70ae0ed238e88e051917b87b99e1dabb29d18e1b9e8790d6d5775c758e5b2fa",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-d6535dc1-46a4-4c72-9366-e1badb4eb7ce.png",
+      "canonical_sha256": "f70ae0ed238e88e051917b87b99e1dabb29d18e1b9e8790d6d5775c758e5b2fa",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted: one two-vane practice arrow is inspected at the open earthen bank after the session, no invented shelter or spare projectile. Both hands bare and both warming pockets together on bark; all other clothes and both low enclosed foot layers remain. No bow shown, consistent with unstrung storage outside the selected moment."
+    },
+    {
+      "id": "spoon",
+      "target": "_Artwork/tools/wooden-spoon.png",
+      "pages": [
+        {
+          "path": "05_Tools and Equipment/Food Equipment/Wooden Spoon.md"
+        }
+      ],
+      "scene": "One plain one-piece wooden spoon with a shallow oval bowl and substantial smooth neck; no decorative finish or dimensions.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook field-manual object study, navy ink and restrained natural watercolour on warm ivory paper. Reference supplies STYLE ONLY. Title WOODEN SPOON. Exactly ONE plain pale natural wood spoon, complete three-quarter view on paper, shallow oval concave bowl, smooth rounded eating rim, substantial neck and simple straight solid unperforated handle. Modest hand utensil, no deep ladle, second view, extra spoon, oil, glaze, metal, decoration or numbered construction steps. Labels SHALLOW BOWL, SOUND NECK, SMOOTH RIM. No dimensions, human or food. Clean readable museum-style study.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "field-manual ink/watercolour style only"
+      ],
+      "attempts": [
+        {
+          "id": "spoon",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-32dfc369-ab69-459d-a057-9be1135926a0.png",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook field-manual object study, navy ink and restrained natural watercolour on warm ivory paper. Reference supplies STYLE ONLY. Title WOODEN SPOON. Exactly ONE plain pale natural wood spoon, complete three-quarter view on paper, shallow oval concave bowl, smooth rounded eating rim, substantial neck and simple straight solid unperforated handle. Modest hand utensil, no deep ladle, second view, extra spoon, oil, glaze, metal, decoration or numbered construction steps. Labels SHALLOW BOWL, SOUND NECK, SMOOTH RIM. No dimensions, human or food. Clean readable museum-style study.",
+          "refs": [
+            "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+          ],
+          "input_roles": [
+            "field-manual ink/watercolour style only"
+          ],
+          "review": "Accepted: one plain one-piece wooden spoon, shallow oval concavity, substantial neck, smooth rim and simple unperforated handle, clear labels and matching manual style. No extra spoon, oil coating, dimensional or rate claim.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "field-manual ink/watercolour style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "927ddc54da9396c2af65bea8a4ded685877a4d81a400077f22dbf502bb55f353",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-32dfc369-ab69-459d-a057-9be1135926a0.png",
+      "canonical_sha256": "927ddc54da9396c2af65bea8a4ded685877a4d81a400077f22dbf502bb55f353",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-25",
+      "review": "Accepted: one plain one-piece wooden spoon, shallow oval concavity, substantial neck, smooth rim and simple unperforated handle, clear labels and matching manual style. No extra spoon, oil coating, dimensional or rate claim."
+    }
+  ],
+  "selected_count": 6,
+  "page_image_links": 7,
+  "rejected_image_count": 0,
+  "tool_error_count": 1,
+  "tool_rejection_count": 0,
+  "completed_on": "2026-10-25",
+  "png_postprocessing": "none; selected PNGs copied unchanged and original outputs retained",
+  "website_updated": false
+}

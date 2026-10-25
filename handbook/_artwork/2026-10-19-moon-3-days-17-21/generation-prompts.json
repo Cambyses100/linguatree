@@ -1,0 +1,449 @@
+{
+  "batch": "Moon 3 Days 17–21 / continuous Days 75–79",
+  "created_on": "2026-10-19",
+  "method": "built-in image_gen, independent call per asset",
+  "website_publish": false,
+  "png_postprocessing": "none; selected source PNG bytes copied unchanged and originals retained",
+  "character_reference": "Existing Moon 3 Day 15 appearance retained; Day 75 heel keeper is a minor retention change, not a new wardrobe",
+  "jobs": [
+    {
+      "id": "dart-variant",
+      "page": "05_Tools and Equipment/Projectiles/Atlatl Dart.md",
+      "target": "_Artwork/tools/atlatl-dart-day-76.png",
+      "scene": "The same original dart in its completed Day 76 wooden-pointed, two-vane configuration.",
+      "prompt": "Use case: scientific-educational. A non-instructional archaeological object illustration for Humanity Handbook, on warm ivory paper in navy ink and restrained pastel watercolour. Reference Image 1 supplies ONLY established manual graphic style, not its digging-stick object.\nTitle exactly \"ATLATL DART — DAY 76\". ONE complete slender long plain hazel-wood atlatl dart shown horizontally/diagonally across a wide page. This is a thin flexible projectile rather than a thick hand spear or short bow arrow. At FRONT a SMALL GRADUAL INTEGRAL WOODEN POINT continuous with shaft; no stone, metal, barbs or separate foreshaft. At REAR exactly TWO modest opposing low brown-grey FEATHER VANES, with small simple dark binding indications at their ends, and a visible length of clear rear shaft ending in a shallow engagement cup. No bow-string nock or arrowhead, no glue or construction diagram. No launcher built into shaft, shaft joint, fletching jig, person, animal, target, instructions, dimensions or performance claims.\nSimple museum-style still life of the already completed artifact, not a manufacturing sequence. Include only the one object, no second historic dart, enlarged spare feather or extra ammunition. Keep enough white space to read both distinct ends.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "fixed handbook plate graphic style only"
+      ],
+      "secondary": true,
+      "attempts": [
+        {
+          "id": "dart-variant",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-1064d209-ed80-4a9e-a6a0-36ce368d2a0a.png",
+          "reason": "Rear is flared into a hollow cane-like funnel, inconsistent with retained solid hazel shaft and shallow existing seat. Fresh side-profile artifact view needed, no added collar or hollow tube.",
+          "full_prompt": "Use case: scientific-educational. A non-instructional archaeological object illustration for Humanity Handbook, on warm ivory paper in navy ink and restrained pastel watercolour. Reference Image 1 supplies ONLY established manual graphic style, not its digging-stick object.\nTitle exactly \"ATLATL DART — DAY 76\". ONE complete slender long plain hazel-wood atlatl dart shown horizontally/diagonally across a wide page. This is a thin flexible projectile rather than a thick hand spear or short bow arrow. At FRONT a SMALL GRADUAL INTEGRAL WOODEN POINT continuous with shaft; no stone, metal, barbs or separate foreshaft. At REAR exactly TWO modest opposing low brown-grey FEATHER VANES, with small simple dark binding indications at their ends, and a visible length of clear rear shaft ending in a shallow engagement cup. No bow-string nock or arrowhead, no glue or construction diagram. No launcher built into shaft, shaft joint, fletching jig, person, animal, target, instructions, dimensions or performance claims.\nSimple museum-style still life of the already completed artifact, not a manufacturing sequence. Include only the one object, no second historic dart, enlarged spare feather or extra ammunition. Keep enough white space to read both distinct ends.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "3b24b4038ceea69fac262c11ea8443bf7fa557f710c86b5418f54761332b8454",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "dart-variant",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 0,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-49d494b5-90ee-4bb3-b214-8df8d7784c38.png",
+          "review": "One solid wooden shaft, integral wooden point, two modest rear vanes and plain unflared rear profile. Seating dimple is not visible in side view. No second dart, stone insert, hollow cane or separate foreshaft. Object study is not dimensioned.",
+          "full_prompt": "Use case: scientific-educational. NON-INSTRUCTIONAL archaeological object study on ivory paper, navy ink and restrained watercolour. Reference image provides GRAPHIC STYLE ONLY, not its digging stick. Title exactly \"ATLATL DART — DAY 76\". One complete long slender SOLID HAZEL WOOD projectile shown in a clean STRICT SIDE PROFILE across a landscape page.\nFront (left): gradual small INTEGRAL WOOD POINT continuous with shaft, no stone/metal/barbs/foreshaft. Rear (right): exactly TWO narrow opposing brown-grey feather VANES with simple small binding indications. Leave a clear short length of plain rear wood beyond feathers. Critical rear silhouette: same shaft diameter all the way to a small simply ROUNDED SOLID END, with at most a tiny shallow seating dimple HIDDEN FROM THIS SIDE VIEW. Absolutely NO flared collar, bell end, funnel, hollow tube/cane, huge socket, bowl-shaped hole, added nock fitting or bow-string notch. No collar or enlarged end of any material. This is the same single solid hazel dart with modest vanes and wooden point, not bamboo or an arrow.\nNo enlarged detail, dimensions, cutting instructions, assembly steps, tools, launcher, target, human, spare feather, second dart or performance claim. Keep natural plain wood texture, slender line and small restrained rear vanes; enough whitespace to read the artifact.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook plate graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "cf651d3d6a9e5f89a1d0b094b16a6d6f78ba136772429cf73fc6655ca74341cb",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-49d494b5-90ee-4bb3-b214-8df8d7784c38.png",
+      "canonical_sha256": "cf651d3d6a9e5f89a1d0b094b16a6d6f78ba136772429cf73fc6655ca74341cb",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "One solid wooden shaft, integral wooden point, two modest rear vanes and plain unflared rear profile. Seating dimple is not visible in side view. No second dart, stone insert, hollow cane or separate foreshaft. Object study is not dimensioned.",
+      "preserved_primary_illustration": "_Artwork/technologies/dart-making.png",
+      "preserved_primary_sha256": "fb69cfc3b12245035b782fbc5690c9c2df6ee42d091e39f40dacedd2de55b960"
+    },
+    {
+      "id": "day-75",
+      "page": "01_Survival/Moon 3 Day 17 - Let the Sole Hold the Wrap.md",
+      "target": "_Artwork/survival/day-75.png",
+      "scene": "Checking the new heel keeper on the retained bast sole, with both low skin covers fitted.",
+      "prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nChosen moment AFTER layers are reunited, before the short outing. Man seated naturally on a low dry natural stone, one foot gently raised onto a lower stone and other foot planted, BOTH enclosed shoes clearly visible. Hands adjust a short plain plant-cord keeper at SIDE/REAR of bast sole on raised foot, not stitching a new skin or tying tightly round ankle. Old bast wearing layer remains outside pale-tan cover. Natural simple two-legged anatomy with clearly readable knees; no third limb. Background just softly washed limestone face and a few tree trunks on dry ground; no home, old lean-to or screen, no river water at feet. Cap/body wrap/low covers precisely Image 2. No weapon or pot. Focus load carried by existing sole and usable layers, not a new boot pattern.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/daily style only",
+        "dated Day 73 clothing and enclosed-foot layers only"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "day-75",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9801d8df-93d1-49f9-b320-5cf9e1f8b203.png",
+          "review": "Two natural legs and hands; both feet enclosed in low pale skin covers over bast soles. Hands adjust the heel keeper on the raised foot. Existing cap and sleeveless wrap remain consistent, with no additional hide clothing.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nChosen moment AFTER layers are reunited, before the short outing. Man seated naturally on a low dry natural stone, one foot gently raised onto a lower stone and other foot planted, BOTH enclosed shoes clearly visible. Hands adjust a short plain plant-cord keeper at SIDE/REAR of bast sole on raised foot, not stitching a new skin or tying tightly round ankle. Old bast wearing layer remains outside pale-tan cover. Natural simple two-legged anatomy with clearly readable knees; no third limb. Background just softly washed limestone face and a few tree trunks on dry ground; no home, old lean-to or screen, no river water at feet. Cap/body wrap/low covers precisely Image 2. No weapon or pot. Focus load carried by existing sole and usable layers, not a new boot pattern.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated Day 73 clothing and enclosed-foot layers only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            }
+          ],
+          "source_sha256": "2d929155daf43481d89ebbe89b44e7d358090ca6e7f257b260f246eb9577abe8",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-9801d8df-93d1-49f9-b320-5cf9e1f8b203.png",
+      "canonical_sha256": "2d929155daf43481d89ebbe89b44e7d358090ca6e7f257b260f246eb9577abe8",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Two natural legs and hands; both feet enclosed in low pale skin covers over bast soles. Hands adjust the heel keeper on the raised foot. Existing cap and sleeveless wrap remain consistent, with no additional hide clothing."
+    },
+    {
+      "id": "day-76",
+      "page": "01_Survival/Moon 3 Day 18 - Give the Dart a Working End.md",
+      "target": "_Artwork/survival/day-76.png",
+      "scene": "Inspecting the two bound rear vanes on the modified original dart at the separate craft stone.",
+      "prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 gives completed DART GEOMETRY ONLY. Chosen moment after vanes/wooden point are fitted, inspecting attachment with no launch or construction close-up. Man seated/standing simply beside low dry craft stone in a neutral natural clearing, holding ONE long slender hazel dart across his body AWAY from face. Exactly TWO small opposing brown-grey feather vanes near REAR with clear unfeathered rear end, not a tuft on head; front is integral WOODEN point, no stone/metal/barbs. Hands near rear bindings check completed artifact with relaxed fingers. No atlatl, thick hand spear or second dart visible. Both enclosed foot covers and original bast sole edges visible, full clothing reference retained. No finished pottery, spare skins, invented furniture or old lean-to. One actual equipment inspection moment in daylight, not a diagram of weapon manufacture.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl-dart-day-76.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/daily style only",
+        "dated unchanged clothing only",
+        "completed Day 76 dart geometry only"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "day-76",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-897b4e28-9f8e-4d97-8a30-a1fdc9be814d.png",
+          "review": "Single wooden dart inspected after fitting, with two small opposing rear vanes and a clear rear extension. No stone insert, atlatl or spare dart. Correct enclosed low foot covers, wrap and cap retained. Perspective is illustrative, not a measured shaft drawing.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 gives completed DART GEOMETRY ONLY. Chosen moment after vanes/wooden point are fitted, inspecting attachment with no launch or construction close-up. Man seated/standing simply beside low dry craft stone in a neutral natural clearing, holding ONE long slender hazel dart across his body AWAY from face. Exactly TWO small opposing brown-grey feather vanes near REAR with clear unfeathered rear end, not a tuft on head; front is integral WOODEN point, no stone/metal/barbs. Hands near rear bindings check completed artifact with relaxed fingers. No atlatl, thick hand spear or second dart visible. Both enclosed foot covers and original bast sole edges visible, full clothing reference retained. No finished pottery, spare skins, invented furniture or old lean-to. One actual equipment inspection moment in daylight, not a diagram of weapon manufacture.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl-dart-day-76.png",
+              "role": "completed Day 76 dart geometry only",
+              "sha256": "cf651d3d6a9e5f89a1d0b094b16a6d6f78ba136772429cf73fc6655ca74341cb"
+            }
+          ],
+          "source_sha256": "9e8cba4a8cfb4c7687778238f78aa131fd050233e87226be1e9510991be8a730",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-897b4e28-9f8e-4d97-8a30-a1fdc9be814d.png",
+      "canonical_sha256": "9e8cba4a8cfb4c7687778238f78aa131fd050233e87226be1e9510991be8a730",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Single wooden dart inspected after fitting, with two small opposing rear vanes and a clear rear extension. No stone insert, atlatl or spare dart. Correct enclosed low foot covers, wrap and cap retained. Perspective is illustrative, not a measured shaft drawing."
+    },
+    {
+      "id": "day-77",
+      "page": "01_Survival/Moon 3 Day 19 - Choose the Tool for the Ground.md",
+      "target": "_Artwork/survival/day-77.png",
+      "scene": "Checking the separate wooden thrower after the limited practice-ground trials, with both projectiles outside the crop.",
+      "prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 gives wooden integral-hook THROWER geometry only, Image 4 gives current DART geometry only. Scene AFTER limited casts, NOT mid-throw: man standing naturally on dry open ground in front of a broad natural EARTH BANK, no river or camp. He holds ONE slender wooden-pointed two-vane dart lowered diagonally in one hand for inspection, and the SEPARATE short wooden thrower low in the other hand. They are TWO distinct objects, never joined into a bow or fused handle. Long dart substantially longer than short thrower; thrower has one integral WOOD hook at its far end, no feather or stone tip. Dart two small rear feather vanes with clear end, integral WOOD front. No stone spear in this crop; it is set outside scene. Both low enclosed shoes visible, two natural legs, hands simple. Modest plant patch at bank can be hinted but no airborne projectile, target animal/person, extra ammunition, observers inside line or range labels. No shelter or old camp. This is a reflective practical check after the trial.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl-dart-day-76.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/daily style only",
+        "dated unchanged clothing only",
+        "short integral-hook launcher geometry only",
+        "completed Day 76 dart geometry only"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "day-77",
+          "status": "rejected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-61308de4-fccf-495c-b50d-101868979d5c.png",
+          "reason": "Dart has a separate-looking dark bound point and disproportionately short shaft. Replace with a simpler after-trial inspection of the separate thrower alone; dart outside crop.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 gives wooden integral-hook THROWER geometry only, Image 4 gives current DART geometry only. Scene AFTER limited casts, NOT mid-throw: man standing naturally on dry open ground in front of a broad natural EARTH BANK, no river or camp. He holds ONE slender wooden-pointed two-vane dart lowered diagonally in one hand for inspection, and the SEPARATE short wooden thrower low in the other hand. They are TWO distinct objects, never joined into a bow or fused handle. Long dart substantially longer than short thrower; thrower has one integral WOOD hook at its far end, no feather or stone tip. Dart two small rear feather vanes with clear end, integral WOOD front. No stone spear in this crop; it is set outside scene. Both low enclosed shoes visible, two natural legs, hands simple. Modest plant patch at bank can be hinted but no airborne projectile, target animal/person, extra ammunition, observers inside line or range labels. No shelter or old camp. This is a reflective practical check after the trial.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl.png",
+              "role": "short integral-hook launcher geometry only",
+              "sha256": "c457c398fde4cb63dc77effca8e03a74187f4f20e78aca5b13726522c614c3a7"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl-dart-day-76.png",
+              "role": "completed Day 76 dart geometry only",
+              "sha256": "cf651d3d6a9e5f89a1d0b094b16a6d6f78ba136772429cf73fc6655ca74341cb"
+            }
+          ],
+          "source_sha256": "b6599c05fc75b7312d0773b055cbc2443c126819d3a8f7650070e2cd0277dd52",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        },
+        {
+          "id": "day-77",
+          "status": "selected",
+          "retry": true,
+          "retry_index": 1,
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-24329b42-14a8-4c3e-be80-83698b395e7b.png",
+          "review": "After-trial inspection of one short wooden integral-hook thrower, with both projectiles outside crop. Natural anatomy, correct low enclosed footwear and unchanged cap/wrap; dry earth bank, no observers or airborne objects.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 supplies ONLY short integral-hook wooden THROWER geometry. One quiet moment AFTER the limited casts at the dry earth-bank practice ground. The man stands looking down at the SINGLE short wooden thrower held loosely between both hands at waist level. One plain short straight wooden rod, modest integral carved hook at far end, no metal, string, huge crook, arrowhead or feather. ONLY the thrower visible. The long dart and separate hand spear have been set safely OUTSIDE THE CROP and are NOT visible. No projectile in flight, no animal/person target, no spectators, no bow. Simple natural two hands and two arms, both enclosed shoes visible. Dry bare earth bank and modest target vegetation in background, no river, camp or lean-to. Reflective equipment inspection, not a weapon-construction diagram.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/atlatl.png",
+              "role": "short integral-hook launcher geometry only",
+              "sha256": "c457c398fde4cb63dc77effca8e03a74187f4f20e78aca5b13726522c614c3a7"
+            }
+          ],
+          "source_sha256": "d3641eda738373493d9b89c0e9125a1c0fd05a27b2d0e3885ae39289b3f62862",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-24329b42-14a8-4c3e-be80-83698b395e7b.png",
+      "canonical_sha256": "d3641eda738373493d9b89c0e9125a1c0fd05a27b2d0e3885ae39289b3f62862",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "After-trial inspection of one short wooden integral-hook thrower, with both projectiles outside crop. Natural anatomy, correct low enclosed footwear and unchanged cap/wrap; dry earth bank, no observers or airborne objects."
+    },
+    {
+      "id": "day-78",
+      "page": "01_Survival/Moon 3 Day 20 - The Work After the Hunt.md",
+      "target": "_Artwork/survival/day-78.png",
+      "scene": "Carrying a modest divided load with the familiar local adult after the hunt, without a depicted kill.",
+      "prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 supplies ONLY the FAMILIAR LOCAL ADULT'S distinct casting/anatomy, not the traveller's old bare clothes, weapon scene or background. Chosen moment on RETURN after accepted carrying work: TWO men on familiar dry woodland path, each carrying one modest folded clean bark parcel in arms. Parcels CLOSED, no visible meat, blood, flesh, bones, wounds, carcass or animal. Their hands and loads readable; no wrapped cloth or woven fine textile invented. Neither wears parcel as new clothing. Protagonist uses exact cap/tan wrap/low enclosed foot covers from Image 2, lean build; no new fur or shoulder fox strip.\nLocal adult is the compact robust man from Image 3: ordinary upright capable posture, relatively short lower limbs, broad strong body, low forehead/prominent brow and projecting midface/large nose consistent with the supplied casting. No ape caricature, hunched monster or threatening pose. His own existing plain worked-skin wrap and simple foot coverage remain distinct from traveller's dated outfit. He walks a little ahead, attending to the shared route; no kneeling worship, handshake, magical exchange, lecture, alliance symbolism or new coat gift. No weapons necessary in crop. Warm restrained late-autumn daylight. Complete bodies including both pairs of feet, exactly two arms/two legs each, manageable loads. No hut, invented village, bridge or mapped river crossing.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-37.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/daily style only",
+        "traveller current clothing only",
+        "familiar local adult casting/anatomy only"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "day-78",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-a79653a2-6168-4d42-b7be-398b7d4dd08e.png",
+          "review": "Traveller and distinct robust local adult carry modest bark-wrapped loads on a dry path. No carcass, kill or new clothing gift. Both figures have natural anatomy and readable covered feet; traveller retains dated cap, tan wrap and low enclosed skin covers.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 supplies ONLY the FAMILIAR LOCAL ADULT'S distinct casting/anatomy, not the traveller's old bare clothes, weapon scene or background. Chosen moment on RETURN after accepted carrying work: TWO men on familiar dry woodland path, each carrying one modest folded clean bark parcel in arms. Parcels CLOSED, no visible meat, blood, flesh, bones, wounds, carcass or animal. Their hands and loads readable; no wrapped cloth or woven fine textile invented. Neither wears parcel as new clothing. Protagonist uses exact cap/tan wrap/low enclosed foot covers from Image 2, lean build; no new fur or shoulder fox strip.\nLocal adult is the compact robust man from Image 3: ordinary upright capable posture, relatively short lower limbs, broad strong body, low forehead/prominent brow and projecting midface/large nose consistent with the supplied casting. No ape caricature, hunched monster or threatening pose. His own existing plain worked-skin wrap and simple foot coverage remain distinct from traveller's dated outfit. He walks a little ahead, attending to the shared route; no kneeling worship, handshake, magical exchange, lecture, alliance symbolism or new coat gift. No weapons necessary in crop. Warm restrained late-autumn daylight. Complete bodies including both pairs of feet, exactly two arms/two legs each, manageable loads. No hut, invented village, bridge or mapped river crossing.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "traveller current clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-37.png",
+              "role": "familiar local adult casting/anatomy only",
+              "sha256": "f330c10bd01ae927ed6239fa069fe44481dd28acbdbd26fc536c7d68c061e375"
+            }
+          ],
+          "source_sha256": "bae77cd038c26358a604e6926212cde037a9a1b0750cbca6500de42a8c4bdd1f",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-a79653a2-6168-4d42-b7be-398b7d4dd08e.png",
+      "canonical_sha256": "bae77cd038c26358a604e6926212cde037a9a1b0750cbca6500de42a8c4bdd1f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Traveller and distinct robust local adult carry modest bark-wrapped loads on a dry path. No carcass, kill or new clothing gift. Both figures have natural anatomy and readable covered feet; traveller retains dated cap, tan wrap and low enclosed skin covers."
+    },
+    {
+      "id": "day-79",
+      "page": "01_Survival/Moon 3 Day 21 - Four Points at the Water Margin.md",
+      "target": "_Artwork/survival/day-79.png",
+      "scene": "A controlled approach with the newly made compact four-pronged wooden fishing spear from dry bank footing.",
+      "prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 supplies MULTI-PRONGED FISHING SPEAR appearance ONLY. Day 79 chosen BEFORE the catch: full man with BOTH feet in low enclosed pelt covers on original bast soles, planted on a broad DRY level bank well back from edge. Clear shallow near-side slow-water pocket with visible pale bottom and just ONE small generic fish below surface. He holds ONE ordinary-length WOOD shaft with compact head split into exactly FOUR modestly spreading WOOD PRONGS, small simple lower binding. Four points share same shaft, no separate metal tines or stone/barbed inserts. Points lowered near water surface, not an impaled fish, no violent kill or pile of catches. No atlatl, stone spear, ordinary single-point spear or second tool in frame.\nNatural balanced controlled stance, no deep wading, lunging off bank or wet feet. Human face open under correct cap, tan hair-inward body wrap loose at shoulders, all toes enclosed. Background woodland and limestone is atmospheric, not a new watercourse map. No camp building. Make the four visible wooden points readable and small enough to remain useful rather than huge fantasy fork.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/multi-pronged-fishing-spear.png"
+      ],
+      "input_roles": [
+        "original protagonist identity/daily style only",
+        "dated unchanged clothing only",
+        "planned plate supplies four-prong wooden head appearance, now made in story"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "day-79",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-8caca0bf-6ad5-4c49-92aa-3a74815af3e9.png",
+          "review": "Four modest wooden prongs visible on a separate long fishing spear. Both covered feet remain on dry bank; fish alive in water before catch, no impalement. Existing wrap and cap, natural hands and two legs. No other spear repurposed or finished pottery.",
+          "full_prompt": "Use case: illustration-story. Landscape daily illustration for Humanity Handbook. Fine brown ink and richly natural watercolour on warm ivory paper, matching original Day 1 visual language. Late autumn in low-elevation northern Iberian wooded limestone valley.\nImage 1 gives ONLY original man's IDENTITY AND PAINT STYLE. NEVER copy its old lean-to, nakedness, tools or camp geometry. Image 2 gives ONLY DATED CLOTHING. Same lean ordinary adult around thirty, dark wavy ear-length hair, short beard, smooth human skin no tattoos/scars, natural hands and exactly two arms/two legs.\nCLOTHING MUST PERSIST: ONE worn dull TAN skin body wrap, brown hair inward, both shoulders, sleeveless, overlapping front, irregular hem above knees. Small repair at anatomical LEFT shoulder, upper chest tie below throat, light waist line/hip keeper. Same plain grey-brown rabbit crown with tan-brown hair-in side/ear/nape extension. HUMAN face/forehead open; no animal ears, muzzle, rabbit face, hood or fox shoulder strip. Old fox panel is ALL in cap. Both grass torso screens stored and absent. Underlying waist layers concealed.\nBOTH feet fully ENCLOSED in LOW pale-tan skin coverings, inward hair and modest grass lining, toes and heels CLOSED, tops just above ankles; original woven BAST SOLES remain BELOW/OUTSIDE, with visible woven margins and low ties. No exposed toes, tall boots, leather outsole or leggings. Lower legs and much arms bare. No new cloak, sleeves, armour, metal, bow, finished pot, extra skins or huge food store.\nNo labels, text, border or watermark. Chosen one actual moment, no multi-day collage. Cropped natural backgrounds do not survey new camp positions. If not expressly requested, NO home/shelter, lean-to, piled roof branches, cave furnishings, hearth or indoor fire.\nImage 3 supplies MULTI-PRONGED FISHING SPEAR appearance ONLY. Day 79 chosen BEFORE the catch: full man with BOTH feet in low enclosed pelt covers on original bast soles, planted on a broad DRY level bank well back from edge. Clear shallow near-side slow-water pocket with visible pale bottom and just ONE small generic fish below surface. He holds ONE ordinary-length WOOD shaft with compact head split into exactly FOUR modestly spreading WOOD PRONGS, small simple lower binding. Four points share same shaft, no separate metal tines or stone/barbed inserts. Points lowered near water surface, not an impaled fish, no violent kill or pile of catches. No atlatl, stone spear, ordinary single-point spear or second tool in frame.\nNatural balanced controlled stance, no deep wading, lunging off bank or wet feet. Human face open under correct cap, tan hair-inward body wrap loose at shoulders, all toes enclosed. Background woodland and limestone is atmospheric, not a new watercourse map. No camp building. Make the four visible wooden points readable and small enough to remain useful rather than huge fantasy fork.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/survival/day-01.png",
+              "role": "original protagonist identity/daily style only",
+              "sha256": "b958d7f7e93315c9dc1e4364427e3a1946eb6db4442b529e1fa09ab3e0a766b8"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/character-sheets/moon-3-day-15/character-sheet.png",
+              "role": "dated unchanged clothing only",
+              "sha256": "aac15551f75ae795f222c958c150dd2c7fb3c5117fc5da85d7831df850623c8d"
+            },
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/multi-pronged-fishing-spear.png",
+              "role": "planned plate supplies four-prong wooden head appearance, now made in story",
+              "sha256": "66e958b9b1cd7c9b112d9cfa9f2c9fb55a0f6fff5e88dfcf45f1ebc33b9bc132"
+            }
+          ],
+          "source_sha256": "ceee0f138f10f8a01128d99757b2a8a0a613b21cda0511b904130493ae5a7ca4",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-8caca0bf-6ad5-4c49-92aa-3a74815af3e9.png",
+      "canonical_sha256": "ceee0f138f10f8a01128d99757b2a8a0a613b21cda0511b904130493ae5a7ca4",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Four modest wooden prongs visible on a separate long fishing spear. Both covered feet remain on dry bank; fish alive in water before catch, no impalement. Existing wrap and cap, natural hands and two legs. No other spear repurposed or finished pottery."
+    },
+    {
+      "id": "game-process",
+      "page": "07_Technologies/Animal Processing/Large-Game Processing.md",
+      "target": "_Artwork/technologies/large-game-processing.png",
+      "scene": "A conceptual separation of clean food, dirty skin work and manageable carrying loads.",
+      "prompt": "Use case: scientific-educational. Humanity Handbook principle plate, navy ink and restrained pastel watercolour on warm ivory paper. Image 1 provides graphic style ONLY, not its digging-stick object. Title exactly \"LARGE-GAME PROCESSING\".\nThree simple separated conceptual work studies across wide page with whitespace, not a valley map or actual inventory. LEFT clean bark sheets with a few small CLOSED folded bark food parcels, lightly indicated open-air space around them, label \"CLEAN FOOD\". MIDDLE one modest grey-brown FUR-ON SKIN MARGIN lying on a separate low simple twig support, no blood or tissue, label \"SEPARATE SKIN WORK\". RIGHT one pair of generic clothed HANDS holding a modest closed bark parcel at comfortable height, label \"MANAGEABLE LOADS\"; no full human body or extra anatomy. Small bottom line exactly \"PROMPT HANDLING • COOLING • TRANSPORT\".\nNo animal carcass, slaughter, cutaway anatomy, red meat, entrails, knives in use, weights, preservation promise, refrigerator, vehicle, pots, cloth sacks, metal, buildings or large hide clothing. This diagram explains separation and work after a result, not a hunting technique or safe shelf-life recipe. No arrows merging dirty skin and clean food. It grants no full hide or food stock to story protagonist. Readable simple labels and restrained material amounts.",
+      "refs": [
+        "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png"
+      ],
+      "input_roles": [
+        "fixed handbook graphic style only"
+      ],
+      "secondary": false,
+      "attempts": [
+        {
+          "id": "game-process",
+          "status": "selected",
+          "source_path": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6725b114-9288-4e2b-ac77-50c815c67dfa.png",
+          "review": "Three separate conceptual studies of bark food parcels, separate skin work and manageable loads. No flesh, carcass or kill. Generic cropped carrier is not the protagonist; skin study is a principle diagram, not his actual hide allocation, dimensions or inventory.",
+          "full_prompt": "Use case: scientific-educational. Humanity Handbook principle plate, navy ink and restrained pastel watercolour on warm ivory paper. Image 1 provides graphic style ONLY, not its digging-stick object. Title exactly \"LARGE-GAME PROCESSING\".\nThree simple separated conceptual work studies across wide page with whitespace, not a valley map or actual inventory. LEFT clean bark sheets with a few small CLOSED folded bark food parcels, lightly indicated open-air space around them, label \"CLEAN FOOD\". MIDDLE one modest grey-brown FUR-ON SKIN MARGIN lying on a separate low simple twig support, no blood or tissue, label \"SEPARATE SKIN WORK\". RIGHT one pair of generic clothed HANDS holding a modest closed bark parcel at comfortable height, label \"MANAGEABLE LOADS\"; no full human body or extra anatomy. Small bottom line exactly \"PROMPT HANDLING • COOLING • TRANSPORT\".\nNo animal carcass, slaughter, cutaway anatomy, red meat, entrails, knives in use, weights, preservation promise, refrigerator, vehicle, pots, cloth sacks, metal, buildings or large hide clothing. This diagram explains separation and work after a result, not a hunting technique or safe shelf-life recipe. No arrows merging dirty skin and clean food. It grants no full hide or food stock to story protagonist. Readable simple labels and restrained material amounts.",
+          "inputs": [
+            {
+              "path": "C:/AI/Projects/Humanity Handbook/_Artwork/tools/digging-stick.png",
+              "role": "fixed handbook graphic style only",
+              "sha256": "2adf60c999d5a9471875a371406eadec7f26c2cf550e6728db4661eb2403a596"
+            }
+          ],
+          "source_sha256": "50b4502d65820714bb43b6f37202e7678379c0a3abfe8440a1d75860048d9490",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "postprocessing": "none"
+        }
+      ],
+      "selected_source": "C:\\Users\\Shafe\\.codex\\generated_images\\01a1010f-31a1-7d02-8628-aae9f01d8d47\\exec-6725b114-9288-4e2b-ac77-50c815c67dfa.png",
+      "canonical_sha256": "50b4502d65820714bb43b6f37202e7678379c0a3abfe8440a1d75860048d9490",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "reviewed_on": "2026-10-19",
+      "review": "Three separate conceptual studies of bark food parcels, separate skin work and manageable loads. No flesh, carcass or kill. Generic cropped carrier is not the protagonist; skin study is a principle diagram, not his actual hide allocation, dimensions or inventory."
+    }
+  ],
+  "selected_count": 7,
+  "rejected_image_count": 2,
+  "tool_rejection_count": 0,
+  "completed_on": "2026-10-19",
+  "website_updated": false
+}
